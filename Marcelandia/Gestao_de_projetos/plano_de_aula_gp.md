@@ -6,6 +6,7 @@ Plano de ensino de Gestão de Projeto
   - [1.3. Ementa:](#13-ementa)
   - [1.4. Metodologia:](#14-metodologia)
   - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
+  - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
 - [2. Sites utilizados:](#2-sites-utilizados)
 - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
@@ -56,7 +57,7 @@ Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é f
 
 A **prova final** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá escrita objetiva. O conteúdoserá todo o conteúdo ministrado ao longo do semestre.
 
-1.6. Horário de atendimento:
+### 1.6. Horário de atendimento:
 
 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 

@@ -56,7 +56,7 @@ Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é f
 
 A **prova final** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá escrita objetiva. O conteúdoserá todo o conteúdo ministrado ao longo do semestre.
 
-1.6. Horário de atendimento:
+### 1.6. Horário de atendimento:
 
 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
