@@ -1,7 +1,6 @@
 Planos de aula Modelagem e Projeto de Banco de Dados
 
-Plano de ensino de Modelagem e Projeto de Banco de Dados
-1. Turma: ENGENHARIA DE SOFTWARE
+1. Turma: Modelagem e Projeto de Banco de Dados
 1.1. Carga Horária Total: 60
 1.2. Horário: 19hs - 22hs
 1.3. Ementa:

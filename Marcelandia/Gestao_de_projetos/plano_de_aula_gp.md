@@ -1,7 +1,6 @@
 Plano de ensino de Gestão de Projeto
 
-Plano de ensino de Gestão de Projeto
-1. Turma: ENGENHARIA DE SOFTWARE
+1. Turma: Gestão de Projeto
 1.1. Carga Horária Total: 60
 1.2. Horário: 19hs - 22hs
 1.3. Ementa:
