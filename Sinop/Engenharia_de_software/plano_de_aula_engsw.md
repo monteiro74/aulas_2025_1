@@ -116,9 +116,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ### 4.1. Unidade de avaliação
 
-Avaliação 1: 25/03/2025
-Avaliação 2: 29/04/2025
-Avaliação 3: 03/06/2025
+* Avaliação 1: 25/03/2025
+* Avaliação 2: 29/04/2025
+* Avaliação 3: 03/06/2025
 
 ---
 ## 5. Conteúdo complementar
@@ -135,21 +135,42 @@ Avaliação 3: 03/06/2025
 |-----|--------------|-------------|
 | 1   |              |             |
 | 2   |              |             |
+| 3   |              |             |
+| 4   |              |             |
 
 
 ---
 ## 7. Links para download de ferramentas:
 
-* WhiteStar
-* Gaphor
-* Umbrello
-* Git
-* Github Desktop
-* Visual Studio Code + Extensões (MArkdown All in One, Markdown Preview Mermaid Support)
+| Ferramenta| URL |
+|-----------|-------------|
+| WhiteStar     |  https://sourceforge.net/projects/whitestaruml/           |
+| Gaphor    |  https://gaphor.org/it/download/           |
+| Umbrello | https://uml.sourceforge.io/ |
+| Git    | https://git-scm.com/downloads/win            |
+| GitHub Desktop   | https://desktop.github.com/download/            |
+| Visual Studio Code + Extensões (MArkdown All in One, Markdown Preview Mermaid Support)|  |
+
+
 
 
 ---
 ## 8. Artigos:
+
+* Definição de requisitos de software baseada numa arquitetura de modelagem de negócios.
+https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/
+
+* A aplicação da Linguagem de Modelagem Unificada (UML) para o suporte ao projeto de sistemas computacionais dentro de um modelo de referência.
+https://www.scielo.br/j/gp/a/RRQQ7mKTFztQXK9Sz7BKtWQ/
+
+* O impacto da transformação ágil na cultura organizacional: das práticas e valores organizacionais a gestão da mudança.
+https://www.scielo.br/j/pci/a/P7Bp6tdMHkw98mHFBZf9wXN/
+
+* Aplicando técnicas de elicitação de requisitos para a concepção de um sistema de informação: um relato de experiência.
+https://periodicos.set.edu.br/exatas/article/view/8809
+
+* Interdisciplinaridade na Engenharia de Software
+https://www.researchgate.net/publication/228849325_Interdisciplinaridade_na_Engenharia_de_Software
 
 ---
 ## 9. Referências:
