@@ -87,9 +87,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Sites utilizados|Url|
 |-----|-----|
-| |  |
-| |  |
-| |  |
+| Resumo de diagramas para Engenharia de Software | https://github.com/monteiro74/diagramas_resumo  |
+| Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
 ## 4. Datas de aulas e conteúdo:
@@ -97,21 +96,21 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Data | Carga horária| Conteúdo |
 |-----|--------------|----------|
-| Aula 1  | 3hs      |          |
-| Aula 2  | 3hs      |          |
-| Aula 3  | 3hs      |          |
-| Aula 4  | 3hs      |          |
-| Aula 5  | 3hs      | **Avaliação 1** |
-| Aula 6  | 3hs      |          |
-| Aula 7  | 3hs      |          |
-| Aula 8  | 3hs      |          |
-| Aula 9  | 3hs      |          |
-| Aula 10 | 3hs      | **Avaliação 2** |
-| Aula 11 | 3hs      |          |
-| Aula 12 | 3hs      |          |
-| Aula 13 | 3hs      |          |
-| Aula 14 | 3hs      |          |
-| Aula 15 | 3hs      | **Avaliação 3**, entrega de notas, revisão para PF. |
+| Aula 1 18/fev | 3hs      | Introdução. Referências bibliográficas. Conceitos de engenharia de software. Slides da aula1. Introdução e conceitos de engenharia de software. Análise de sistemas e analista de sistemas. Conceitos e características de sistemas. Crise de software. Processos de software (conceito de processo, time lime de processos). Cascata, Espiral, Prototipação, Reuso, Modelo V, RUP. Conceitos de interação e iteração.         |
+| Aula 2 25/fev | 3hs      | Introdução à processos de software, Scrum e Kanban. Intro UML. Processos de software, Análise de requisitos, Scrum, UML, parte 1. Processo de desenvolvimento ágil. O manifesto ágil (pilares e princípios). Processo AUP, OpenUP e Scrum ( definição, pilares, tipos de reunião, sprint, participantes, documentação, PO, Scrum Master, Devs, Product Backlog, Sprint Backlog, Débito Técnico, Kanban). Análise de requisitos (o que é, formas de levantamento, tipos, etapas, SDL, especificação, exemplos de especificação de requisitos, análise vs especificação, níveis de especificação e modularidade). UML (Introdução, origens, ferramentas, conceitos, principais diagramas, diagrama de classe, diagrama de objeto, diagrama de casos de uso).         |
+| Aula 3 11/mar | 3hs      | Revisão de UML. Projeto exemplo feito em WhiteStarUML --> Projeto_exemplo_aula3_v2.uml. UML, parte 2. Casos de uso. Slides da aula 3. UML (continuação: Diagramas de casos de uso, histórias de usuário, diagramas de sequência, diagramas de colaboração, diagramas de transição de estados, diagramas de atividades, diagramas de componentes, diagramas de implantação, diagrama de pacotes, textos). Exemplo de casos de uso para um ATM (caixa eletrônico). Conceitos (artefato, entregáveis, go/no-go, definição de pronto, modelo, sistema, pacotes, namespace, modelagem visual, processo customizado). Exercício, demonstração do Modelio e WhiteStarUML. Criação de página de projeto no github.         |
+| Aula 4 18/mar | 3hs      | Linguagens de programação e seu impacto na arquitetura do projeto, exemplo de implentação OO, exemplo de classe com C Sharp (com seus métodos e atributos), arquitetura de software, modelos de execução de código, desenvolvimento em camadas, IDE x CASE. Slides da aula 4.         |
+| Aula 5 25/mar  | 3hs      | **Avaliação 1** |
+| Aula 6 1/abr | 3hs      | Curso fundamental de Scriptcase e Documentação do Scriptcase. https://chooser-beta.creativecommons.org/ Elaboração do diagrama ER e diagrama de classes, comandos CREATE e INSERT elaborados com IA.         |
+| Aula 7 8/abr | 3hs      | Revisão do repositórios e suas etapas, desenvolvimento do diagrama de casos de uso e histórias de usuário. Desenvolvimento de projeto (pet shop) com ferramenta IDE RAD (telas, gráficos, menu). Curso fundamental de Scriptcase e Documentação do Scriptcase.         |
+| Aula 8 15/abr | 3hs      | Finalização de projeto com ferramenta IDE RAD (comentários sobre relatórios, consulta, form blank, dashboard, módulo de segurança, deploy no apache (laragon)). Publicação de aplicação. +info sobre publicação.         |
+| Aula 9 22/abr | 3hs      | Atualização do projeto no github: Diagrama de componentes, diagrama de implantação, diagrama de navegação de telas, pilha tecnológica. Comentários sobre: a) Requisitos do cliente (client side), b) Requisitos do servidor (server side), c) Considerações sobre segurança, d) Considerações sobre manutenção, instalação e novas funcionalidades, e) Considerações sobre treinamento (do usuário e do admin do sistema). Prompts.         |
+| Aula 10 29/abr | 3hs      | **Avaliação 2** |
+| Aula 11 6/mai | 3hs      | Pilha tecnológica, requisitos do cliente, requisitos do servidor, considerações sobre manutenção, considerações sobre treinamento, diagrama de implantação, diagrama de componentes, diagrama de navegação de telas: Slides de aula. Comentários sobre IDE RAD. Projeto de software com comentários em cada seção.          |
+| Aula 12 13/mai | 3hs      | Arquitetura ágil, quantidade de módulos, software monolítico, arquitetura centralizada, arquitetura de fluxo, arquitetura em camadas, arquitetura de componentes, conceito de componentes, MVC, MVVM, .NET Maui, arquitetura de uma webapp, projeto visual, projeto de navegação, experiência do usuário, wireframe, mockup, protótipo. Slides de aula (arquitetura de aplicações). Documentação (parte2). Prompts. Exemplo de MVC com PHP. Exemplo de MVC com Delphi. Exemplo de MVC com ASP. Exemplo de MVVM com Maui. Detalhes do MVVM.         |
+| Aula 13 20/mai | 3hs      | Certificações, padrões para documentação, UML x C4: Slides de aula: certificações, diagramas C4, padrões de documentação. Padrão de diagramas C4. Tipos de testes (unitários, integração, aceitação, autotestes), TDD (test drive development) e BDD (behavior driven development), ferramentas de QA, integração contínua: Testes. Exemplo de Macro com Excel. RPA. Clean code, SWBOK, ergonomia, RPA, SOLID, MPS.BR, Sourceforge, clean room, Selenium, acessiblidade, tipping point: Slides de aula. Livro SWBOK.        |
+| Aula 14 27/mai | 3hs      | Revisão para avaliação 3. Motivação de script de banco na fase de projeto, API para integração de sistemas, JM Model, método Warnier-Orr, método Jackson, disciplina de engenharia de software em faculdades americanas, comentários sobre os artigos.         |
+| Aula 15 3/jun | 3hs      | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
 ### 4.1. Unidade de avaliação
