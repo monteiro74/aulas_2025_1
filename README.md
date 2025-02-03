@@ -1,5 +1,5 @@
 # aulas_2025_1
-Disciplinas para 2025/2
+
 
 ---
 # 1. Disciplinas, ministradas em 2025/1.
@@ -28,6 +28,7 @@ https://docs.google.com/spreadsheets/d/1U4Naem9pWYuhsldxvcZpwIVLA7PNvkIZi5urKVEY
 # 4. Normatização acadêmica
 
 Resolução CONEPE Nº 038/2022-CONEPE.
+https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz3NvXE48T1LMV2uuD0M1FuxRsb7/Ppc-de-Sistemas-de-Informacao-Resolucao-no-0382022-Conepe.pdf
 
 ---
 # 5. Atenção
