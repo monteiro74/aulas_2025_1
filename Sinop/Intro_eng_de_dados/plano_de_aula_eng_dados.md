@@ -99,8 +99,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 4   | 19/mar | 3hs | Classificação. |
 | 5   | 26/mar | 3hs | **Avaliação 1** |
 | 6   | 02/abr | 3hs | Agrupamento. |
-| 7   | 09/abr | 3hs | Conjuntos frequentes |
-| 8   | 16/abr | 3hs | Regressão |
+| 7   | 09/abr | 3hs | Conjuntos frequentes. |
+| 8   | 16/abr | 3hs | Regressão. |
 | 9   | 23/abr | 3hs | Descoberta de tópicos em texto. |
 | 10  | 30/abr | 3hs | **Avaliação 2** |
 | 11  | 07/mai | 3hs | Ferramentas de chats local. |
