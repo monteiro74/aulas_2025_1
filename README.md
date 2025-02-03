@@ -1,7 +1,4 @@
-# aulas_2025_1
 
-
----
 # 1. Disciplinas, ministradas em 2025/1.
 
 * Engenharia de software - 4ª fase
