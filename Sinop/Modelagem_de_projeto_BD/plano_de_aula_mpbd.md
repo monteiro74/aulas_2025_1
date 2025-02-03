@@ -16,12 +16,11 @@ Planos de aula Modelagem e Projeto de Banco de Dados
 - [6. Exercício/trabalho](#6-exercíciotrabalho)
   - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
 - [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
-- [7. Artigos:](#7-artigos)
-- [8. Referências:](#8-referências)
-- [9. Lista de ferramentas:](#9-lista-de-ferramentas)
-- [10. Grupos no telegram](#10-grupos-no-telegram)
-- [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
-  - [12. Cursos sobre BI com Scriptcase](#12-cursos-sobre-bi-com-scriptcase)
+- [8. Artigos:](#8-artigos)
+- [9. Referências:](#9-referências)
+- [10. Cursos gratuítos](#10-cursos-gratuítos)
+- [11. Como estudar](#11-como-estudar)
+- [12. Grupos no telegram](#12-grupos-no-telegram)
 - [13. Videos recomendados](#13-videos-recomendados)
 
 
@@ -195,19 +194,6 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 * [Conectando e realizando consultas no SQL Server(Quickstart: Connect and query a SQL Server instance using SQL Server Management Studio (SSMS))](https://learn.microsoft.com/en-us/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver16)
 
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
-
-
-### 10.1. Cursos sobre BI com Scriptcase
-
-* Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
-* Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
-* Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
-* Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
-* Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
-* Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
-* Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
-* Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
-* Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
 
 
 ---

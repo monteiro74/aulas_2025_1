@@ -93,28 +93,28 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 20/fev | 3hs |        |
-| 2   |        | 3hs |        |    
-| 3   |        | 3hs |        |
-| 4   |        | 3hs |        |
-| 5   |        | 3hs | **Avaliação 1**       |
-| 6   |        | 3hs |        |
-| 7   |        | 3hs |        |
-| 8   |        | 3hs |        |
-| 9   |        | 3hs |        |
-| 10   |        | 3hs | **Avaliação 2**       |
-| 11   |        | 3hs |        |
-| 12   |        | 3hs |        |
-| 13   |        | 3hs |        |
-| 14   |        | 3hs |        |
-| 15   |        | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.       |
+| 1   | 19/fev | 3hs |        |
+| 2   | 26/fev | 3hs |        |    
+| 3   | 12/mar | 3hs |        |
+| 4   | 19/mar | 3hs |        |
+| 5   | 26/mar | 3hs | **Avaliação 1**       |
+| 6   | 02/abr | 3hs |        |
+| 7   | 09/abr | 3hs |        |
+| 8   | 16/abr | 3hs |        |
+| 9   | 23/abr | 3hs |        |
+| 10  | 30/abr | 3hs | **Avaliação 2**       |
+| 11  | 07/mai | 3hs |        |
+| 12  | 14/mai | 3hs |        |
+| 13  | 21/mai | 3hs |        |
+| 14  | 28/mai | 3hs |        |
+| 15  | 04/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.       |
 
 
 ### 4.1. Unidade de avaliação
 
-Avaliação 1: //2025
-Avaliação 2: //2025
-Avaliação 3: //2025
+* Avaliação 1: 26/03/2025
+* Avaliação 2: 30/04/2025
+* Avaliação 3: 04/06/2025
 
 ---
 ## 5. Conteúdo complementar
@@ -129,7 +129,6 @@ Avaliação 3: //2025
 | 1   |              |             |
 | 2   |              |             |
 | 3   |              |             |
-| 4   |              |             |
 
 
 ---
@@ -144,7 +143,6 @@ Avaliação 3: //2025
 7. [DBeaver Community](https://dbeaver.io/download/)
 8. [CouchDB](https://couchdb.apache.org/)
 9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
-
 
 
 ---
@@ -171,6 +169,7 @@ Avaliação 3: //2025
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
+
 
 ### 10.1. Cursos sobre BI com Scriptcase
 
