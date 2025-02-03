@@ -14,16 +14,13 @@ Planos de aula Modelagem e Projeto de Banco de Dados
   - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
 - [5. Conteúdo complementar](#5-conteúdo-complementar)
 - [6. Exercício/trabalho](#6-exercíciotrabalho)
-- [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
-- [8. Artigos:](#8-artigos)
-- [9. Referências:](#9-referências)
-- [10. Demais Disciplinas:](#10-demais-disciplinas)
-- [11. Lista de ferramentas:](#11-lista-de-ferramentas)
-- [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
-- [13. Cursos gratuítos:](#13-cursos-gratuítos)
-- [14. Como estudar](#14-como-estudar)
-- [15. Videos recomendados](#15-videos-recomendados)
-- [16. Eventos](#16-eventos)
+- [7. Artigos:](#7-artigos)
+- [8. Referências:](#8-referências)
+- [9. Lista de ferramentas:](#9-lista-de-ferramentas)
+- [10. Grupos no telegram](#10-grupos-no-telegram)
+- [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
+  - [12. Cursos sobre BI com Scriptcase](#12-cursos-sobre-bi-com-scriptcase)
+- [13. Videos recomendados](#13-videos-recomendados)
 
 
 ---
@@ -125,11 +122,9 @@ Avaliação 3: //2025
 ---
 ## 6. Exercício/trabalho
 
----
-## 7. Links para download de ferramentas:
 
 ---
-## 8. Artigos:
+## 7. Artigos:
 
 Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
 https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
@@ -144,7 +139,7 @@ Os desafios da administração pública na disponibilização de dados sensívei
 https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
 
 ---
-## 9. Referências:
+## 8. Referências:
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.
 
@@ -161,7 +156,7 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 
 
 ---
-## 10. Lista de ferramentas:
+## 9. Lista de ferramentas:
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -175,7 +170,7 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 
 
 ---
-## 11. Grupos no telegram
+## 10. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -194,7 +189,7 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 | SQL Server GO | https://t.me/SQLServerGO |
 
 ---
-## 12. Cursos **grátis** sobre SQL Server e MySQL:
+## 11. Cursos **grátis** sobre SQL Server e MySQL:
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
@@ -206,7 +201,6 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 
 * [Introdução a Bancos de Dados e Linguagem SQL](https://www.udemy.com/course/introducao-a-bancos-de-dados-e-linguagem-sql/)
 
-
 * [Como conectar com o SQL Server (Lesson 1: Connecting to the Database Engine)](https://learn.microsoft.com/en-us/sql/relational-databases/lesson-1-connecting-to-the-database-engine?view=sql-server-ver16)
 
 * [Conectando e realizando consultas no SQL Server(Quickstart: Connect and query a SQL Server instance using SQL Server Management Studio (SSMS))](https://learn.microsoft.com/en-us/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver16)
@@ -214,7 +208,7 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
 
-### 12.1. Cursos sobre BI com Scriptcase
+### 12. Cursos sobre BI com Scriptcase
 
 Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
 Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
@@ -227,7 +221,7 @@ Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.yout
 Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
 
 ---
-## 14. Videos recomendados
+## 13. Videos recomendados
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
@@ -238,5 +232,4 @@ Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/w
 4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
-
 

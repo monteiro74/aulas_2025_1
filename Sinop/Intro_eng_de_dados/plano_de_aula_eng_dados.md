@@ -36,31 +36,39 @@ Plano de ensino de Introdução a Engenharia de Dados
 
 ### 1.3. Ementa:
 
+* Data Warehouse: fundamentos, técnicas e ferramentas. 
+* Conceitos, técnicas e aplicações de Big data. 
+* Conceitos de coleta e técnicas de Mineração de dados.
+
 ### 1.4. Metodologia:
 
-Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos, comentários de casos de interesse correlatos, comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. Aulas complementares faltantes e/ou remotas/EaD, serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
+* Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
+* Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
+* Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
 ### 1.5. Procedimentos de avaliação de aprendizagem:
 
-**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
+**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
-**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
+**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
-A **carga horária EAD** será realizada via leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala), este material poderá estar na sua avaliação (e disponibilizado no site do professor e na página da disciplina no github).
+A **carga horária remota/EAD** será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
 
 A **1ª avaliação** terá o conteúdo das aulas de 1 a 5.
 
 A **2ª avaliação** terá o conteúdo das aulas 6 a 9.
 
-A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados. 
+A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
 
-Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final. 
+Temos 15 encontros presenciais, sequênciais, 1 vês por semana; nos encontros 5, 10 e 15, teremos as avaliações.
 
-A **prova final** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá escrita objetiva. O conteúdoserá todo o conteúdo ministrado ao longo do semestre.
+**Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 7,0. Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final. 
+
+**Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
 ### 1.6. Horário de atendimento:
 
-30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
+No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
 ---
 ## 2. Sites utilizados:
@@ -78,31 +86,32 @@ A **prova final** (PF) ou exame final será aplicado após a avaliação 3. A av
 
 |Sites utilizados|Url|
 |-----|-----|
-| |  |
-| |  |
-| |  |
+| Resumo de diagramas para Engenharia de Software | https://github.com/monteiro74/diagramas_resumo  |
+| Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
 ## 4. Datas de aulas e conteúdo:
 
 
-|Data | Carga horária| Conteúdo |
-|-----|--------------|----------|
-| Aula 1  | 3hs      |          |
-| Aula 2  | 3hs      |          |
-| Aula 3  | 3hs      |          |
-| Aula 4  | 3hs      |          |
-| Aula 5  | 3hs      | **Avaliação 1** |
-| Aula 6  | 3hs      |          |
-| Aula 7  | 3hs      |          |
-| Aula 8  | 3hs      |          |
-| Aula 9  | 3hs      |          |
-| Aula 10 | 3hs      | **Avaliação 2** |
-| Aula 11 | 3hs      |          |
-| Aula 12 | 3hs      |          |
-| Aula 13 | 3hs      |          |
-| Aula 14 | 3hs      |          |
-| Aula 15 | 3hs      | **Avaliação 3**, entrega de notas, revisão para PF. |
+|Aula | Data   | Carga horária| Conteúdo |
+|-----|--------|--------------|----------|
+| 1   | 20/fev | 3hs |        |
+| 2   |        | 3hs |        |    
+| 3   |        | 3hs |        |
+| 4   |        | 3hs |        |
+| 5   |        | 3hs | **Avaliação 1**       |
+| 6   |        | 3hs |        |
+| 7   |        | 3hs |        |
+| 8   |        | 3hs |        |
+| 9   |        | 3hs |        |
+| 10   |        | 3hs | **Avaliação 2**       |
+| 11   |        | 3hs |        |
+| 12   |        | 3hs |        |
+| 13   |        | 3hs |        |
+| 14   |        | 3hs |        |
+| 15   |        | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.       |
+
+
 
 
 ### 4.1. Unidade de avaliação
@@ -125,6 +134,13 @@ Avaliação 3: //2025
 
 ---
 ## 9. Referências:
+
+* Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
+* J., NUNES, D. Introdução a Abstração de Dados - V21 - UFRGS. Grupo A, 01/2012. 
+* Carolina, CARVALHO, André C. P. L. F. de; LORENA, A. Introdução à Computação - Hardware Software e Dados. Grupo GEN, 11/2016.
+* Holmes, Alex, Hadoop in Practice, Second Edition, Manning Publications. 2014
+* MEWAWALLA, C. Big Data. Global investment themes: telecoms, media and technology, 3-19. 2012.
+
 
 ---
 ## 10. Demais Disciplinas:
