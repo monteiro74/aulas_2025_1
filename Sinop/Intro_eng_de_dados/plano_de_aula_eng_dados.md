@@ -22,6 +22,7 @@ Plano de ensino de Introdução a Engenharia de Dados
 - [13. Cursos gratuítos:](#13-cursos-gratuítos)
 - [14. Como estudar](#14-como-estudar)
 - [15. Videos recomendados](#15-videos-recomendados)
+  - [12. Cursos sobre BI com Scriptcase](#12-cursos-sobre-bi-com-scriptcase)
 - [16. Eventos](#16-eventos)
 - [11. Grupos no telegram](#11-grupos-no-telegram)
 
@@ -166,6 +167,18 @@ Ferramentas diversas para uso no desenvolvimento de sistemas:
 
 ---
 ## 15. Videos recomendados
+
+### 12. Cursos sobre BI com Scriptcase
+
+Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
+Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
+Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
+Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
+Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
+Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
+Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
+Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
+Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
 
 ---
 ## 16. Eventos
