@@ -2,7 +2,7 @@
 Disciplinas para 2025/2
 
 ---
-# 1. Disciplinas, ministradas em 2024/2.
+# 1. Disciplinas, ministradas em 2025/1.
 
 
 ---
@@ -11,18 +11,19 @@ Disciplinas para 2025/2
 Mapa do curso
 
 
+
 ---
 # 3. Calendário
 
-Calendário de aulas (previstas no calendário) p/ 2024/2: Consulte o calendário oficial do curso e da universidade. No site ponto de ensino e no site da disciplina temos material adiconal ou info sobre o calendário com os dias de aula de cada disciplina.
+Calendário de aulas (previstas no calendário) p/ 2025/1: Consulte o calendário oficial do curso e da universidade. No site ponto de ensino e no site da disciplina temos material adiconal ou info sobre o calendário com os dias de aula de cada disciplina.
 
-Veja o calendário 2024/2 aqui
+Veja o calendário 2025/1 aqui
 
 
 ---
 # 4. Normatização acadêmica
 
-Resolução CONEPE.
+Resolução CONEPE Nº 038/2022-CONEPE.
 
 ---
 # 5. Atenção
