@@ -17,13 +17,12 @@ Plano de ensino de Engenharia de Software
 - [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
 - [8. Artigos:](#8-artigos)
 - [9. Referências:](#9-referências)
-- [10. Demais Disciplinas:](#10-demais-disciplinas)
-- [11. Lista de ferramentas:](#11-lista-de-ferramentas)
-- [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
-- [13. Cursos gratuítos:](#13-cursos-gratuítos)
-- [14. Como estudar](#14-como-estudar)
-- [15. Videos recomendados](#15-videos-recomendados)
-- [16. Eventos](#16-eventos)
+  - [9.1. Livro sobre .Net Maui](#91-livro-sobre-net-maui)
+  - [9.2. Tutorial sobre .Net Maui](#92-tutorial-sobre-net-maui)
+  - [9.3. Livros sobre Scrum (em PDF)](#93-livros-sobre-scrum-em-pdf)
+- [10. Lista de ferramentas:](#10-lista-de-ferramentas)
+- [11. Cursos gratuítos:](#11-cursos-gratuítos)
+- [12. Como estudar](#12-como-estudar)
 
 
 
@@ -175,30 +174,75 @@ https://www.researchgate.net/publication/228849325_Interdisciplinaridade_na_Enge
 ---
 ## 9. Referências:
 
----
-## 10. Demais Disciplinas:
+* PRESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011.
+Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41
+
+* SOMMERVILLE, Ian. Engenharia de Software. 9° Ed. São Paulo: Pearson, 2011.
+LARMAN, Craig. Utilizando UML e Padrões. 3ed. BOOKMAN. 2007.
+Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788577800476
+
+* PAULA FILHO, Wilson de Pádua. Engenharia de Software: fundamentos, métodos e padrões. Rio de Janeiro: LTC, 2019.
+Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788521636724/epubcfi/6/2%5B%3Bvnd.vst.idref%3Dcover%5D!/4/2/2%4050:90
+
+* SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418.
+Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0
+
+
+### 9.1. Livro sobre .Net Maui
+
+* Versão em PDF: Enterprise Application Patterns Using .NET MAUI (PDF)
+https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf
+
+* Versão em html: Enterprise Application Patterns Using .NET MAUI
+https://learn.microsoft.com/pt-br/dotnet/architecture/maui/
+
+### 9.2. Tutorial sobre .Net Maui
+
+* Parte 1: Criar seu primeiro aplicativo
+https://learn.microsoft.com/pt-br/dotnet/maui/get-started/first-app?view=net-maui-9.0&tabs=vswin&pivots=devices-android
+
+* Parte 2: Criar um aplicativo .NET MAUI
+https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-app/?view=net-maui-9.0
+
+* Parte 3: Atualizar seu aplicativo com conceitos de MVVM
+https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0
+
+### 9.3. Livros sobre Scrum (em PDF)
+
+https://www.infoq.com/scrum/minibooks/
+
+https://www.infoq.com/lean/minibooks/
+
+https://www.infoq.com/minibooks/emag-business-design-technology/
+
 
 ---
-## 11. Lista de ferramentas:
-
+## 10. Lista de ferramentas:
 
 Ferramentas diversas para uso no desenvolvimento de sistemas:
 
-[Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
+[Lista de ferramentas de desenvolvimento de software.](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-## 12. Curiosidade... onde adquirir livros baratos?
+## 11. Cursos gratuítos:
+
+* Receita para Levantar Requisitos de Software.
+https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/
+
+* Análise e Levantamento de Requisitos de Software
+https://www.udemy.com/course/analise-de-requisitos-de-software/
+
+* Noções básicas de DA (Disciplined Agile) - Portuguese LatAm
+https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197
 
 ---
-## 13. Cursos gratuítos:
+## 12. Como estudar
 
----
-## 14. Como estudar
+3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
+https://www.youtube.com/watch?v=posTc56basM
 
----
-## 15. Videos recomendados
+As formas mais eficientes de estudar para prova
+https://www.youtube.com/watch?v=1y0xBcGZJmk
 
----
-## 16. Eventos
 
