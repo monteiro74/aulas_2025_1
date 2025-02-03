@@ -13,6 +13,7 @@ Plano de ensino de Engenharia de Software
   - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
 - [5. Conteúdo complementar](#5-conteúdo-complementar)
 - [6. Exercício/trabalho](#6-exercíciotrabalho)
+  - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
 - [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
 - [8. Artigos:](#8-artigos)
 - [9. Referências:](#9-referências)
@@ -115,18 +116,37 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ### 4.1. Unidade de avaliação
 
-Avaliação 1: //2025
-Avaliação 2: //2025
-Avaliação 3: //2025
+Avaliação 1: 25/03/2025
+Avaliação 2: 29/04/2025
+Avaliação 3: 03/06/2025
 
 ---
 ## 5. Conteúdo complementar
 
+
+
 ---
 ## 6. Exercício/trabalho
 
+
+### 6.1. Repositório dos alunos
+
+|     | Aluno        | Repositório |
+|-----|--------------|-------------|
+| 1   |              |             |
+| 2   |              |             |
+
+
 ---
 ## 7. Links para download de ferramentas:
+
+* WhiteStar
+* Gaphor
+* Umbrello
+* Git
+* Github Desktop
+* Visual Studio Code + Extensões (MArkdown All in One, Markdown Preview Mermaid Support)
+
 
 ---
 ## 8. Artigos:
