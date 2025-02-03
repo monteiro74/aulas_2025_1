@@ -102,10 +102,10 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 4   | 13/mar | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. Slides da aula 4. Criação de tabelas e diagramas no SQL Server. Joins no SQL Server.          |
 | 5   | 20/mar | 3hs | **Avaliação 1**  Curso fundamental de Scriptcase e Documentação do Scriptcase. Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.|
 | 6   | 27/mar | 3hs | Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC.          |
-| 7   | 03/mar | 3hs | Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel.          |
-| 8   | 10/mar | 3hs | Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).         |
-| 9   | 17/mar | 3hs | Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL.         |
-| 10  | 24/mar | 3hs | **Avaliação 2** Slides sobre blockchain. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
+| 7   | 03/abr | 3hs | Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel.          |
+| 8   | 10/abr | 3hs | Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).         |
+| 9   | 17/abr | 3hs | Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL.         |
+| 10  | 24/abr | 3hs | **Avaliação 2** Slides sobre blockchain. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
 | 11  | 08/mai | 3hs | Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table.         |
 | 12  | 15/mai | 3hs | Blockchain, camada 2, sidechain, BSN.         |
 | 13  | 22/mai | 3hs | AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server slides de aula.         |
@@ -115,7 +115,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ### 4.1. Unidade de avaliação
 
-Avaliação 1: //2025
+Avaliação 1: 20/03/2025
 Avaliação 2: //2025
 Avaliação 3: //2025
 
@@ -131,34 +131,112 @@ Avaliação 3: //2025
 ---
 ## 8. Artigos:
 
+Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
+https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
+
+O uso da abordagem sistêmica na modelagem de banco de dados
+https://www.aedb.br/seget/arquivos/artigos12/65416864.pdf
+
+Uma proposta de aplicação de business intelligence no chão-de-fábrica
+https://www.scielo.br/j/gp/a/ydtVGxxBtD65zcx4VmJDJGw/?format=pdf
+
+Os desafios da administração pública na disponibilização de dados sensíveis
+https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
+
 ---
 ## 9. Referências:
 
----
-## 10. Demais Disciplinas:
+* ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.
+
+* SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco de dados. Trad. Daniel Vieira. 6ed. Rio de Janeiro: Elsevier, 2012.
+Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788595157552/epubcfi/6/2[%3Bvnd.vst.idref%3Dcover]!/4/2/2%4074:39
+
+* DATE, Christopher J. Introdução a sistemas de bancos de dados. Elsevier Brasil, 2004.
+Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788595154322/epubcfi/6/2[%3Bvnd.vst.idref%3Dcapa.xhtml]!/4/2/2/4%4074:84
+
+* MEDEIROS, Marcelo. Banco de dados para sistemas de informação. Visual Books. 2006.
+
+* SETZER, V. W., SILVA, F. S. C. Banco de dados: aprenda o que são, melhore seu conhecimento, construa os seus. São Paulo: Edgard Blücher, 2005.
+Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/#/books/9788521216520/recent
+
 
 ---
-## 11. Lista de ferramentas:
+## 10. Lista de ferramentas:
 
-
-
-Ferramentas diversas para uso no desenvolvimento de sistemas:
-
-[Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
+1. [Laragon](https://laragon.org/download/)
+2. [Heidi SQL](https://www.heidisql.com/download.php)
+3. [MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
+4. [MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+5. [Visual Studio Code](https://code.visualstudio.com/download)
+6. [Github Desktop](https://desktop.github.com/download/)
+7. [DBeaver Community](https://dbeaver.io/download/)
+8. [CouchDB](https://couchdb.apache.org/)
+9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
 
 
 ---
-## 12. Curiosidade... onde adquirir livros baratos?
+## 11. Grupos no telegram
+
+
+|Grupo | Link no Telegram |
+| --- | --- |
+| Vagas de TI para todos | https://t.me/vagastibr |
+| Flutterflow Brasil | https://t.me/flutterflowbrazil |
+| Bubble.ioBR | https://t.me/bubbleBR |
+| Grupo de usuários Oracle Cloud Brasil | https://t.me/GUOCB |
+| PHP Brasil | https://t.me/phpbrasil |
+| Lazarus & Delphi Brasil | https://t.me/LazBrasil |
+| Lazarus BR | https://t.me/LazarusBR | 
+| MySQL BR | https://t.me/mysqlbr | 
+| Python Brasil | https://linktr.ee/python.brasil | 
+| C# Brasil | https://t.me/csharpbrasiloficial |
+| Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
+| SQL Server GO | https://t.me/SQLServerGO |
 
 ---
-## 13. Cursos gratuítos:
+## 12. Cursos **grátis** sobre SQL Server e MySQL:
+
+* [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
+
+* [Série DBA SQL Server - Preparação, instalação e configuração](https://www.udemy.com/course/sqlserver-instalacao-e-configuracao/)
+
+* [Microsoft SQL for Beginners (SQL Server and T-SQL)](https://www.udemy.com/course/microsoft-sql-for-beginners-sql-server-and-t-sql/)
+
+* [Introdução a banco de dados com MySQL & PHPMyAdmin](https://www.udemy.com/course/mysql_phpmyadmin/)
+
+* [Introdução a Bancos de Dados e Linguagem SQL](https://www.udemy.com/course/introducao-a-bancos-de-dados-e-linguagem-sql/)
+
+
+* [Como conectar com o SQL Server (Lesson 1: Connecting to the Database Engine)](https://learn.microsoft.com/en-us/sql/relational-databases/lesson-1-connecting-to-the-database-engine?view=sql-server-ver16)
+
+* [Conectando e realizando consultas no SQL Server(Quickstart: Connect and query a SQL Server instance using SQL Server Management Studio (SSMS))](https://learn.microsoft.com/en-us/sql/ssms/quickstarts/ssms-connect-query-sql-server?view=sql-server-ver16)
+
+* [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
+
+
+### 12.1. Cursos sobre BI com Scriptcase
+
+Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
+Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
+Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
+Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
+Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
+Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
+Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
+Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
+Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
 
 ---
-## 14. Como estudar
+## 14. Videos recomendados
 
----
-## 15. Videos recomendados
+1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
----
-## 16. Eventos
+2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
+
+3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
+
+4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
+
+5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
+
 

@@ -246,3 +246,21 @@ As formas mais eficientes de estudar para prova
 https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
+---
+## 11. Grupos no telegram
+
+
+|Grupo | Link no Telegram |
+| --- | --- |
+| Vagas de TI para todos | https://t.me/vagastibr |
+| Flutterflow Brasil | https://t.me/flutterflowbrazil |
+| Bubble.ioBR | https://t.me/bubbleBR |
+| Grupo de usuários Oracle Cloud Brasil | https://t.me/GUOCB |
+| PHP Brasil | https://t.me/phpbrasil |
+| Lazarus & Delphi Brasil | https://t.me/LazBrasil |
+| Lazarus BR | https://t.me/LazarusBR | 
+| MySQL BR | https://t.me/mysqlbr | 
+| Python Brasil | https://linktr.ee/python.brasil | 
+| C# Brasil | https://t.me/csharpbrasiloficial |
+| Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
+| SQL Server GO | https://t.me/SQLServerGO |

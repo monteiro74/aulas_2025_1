@@ -6,6 +6,7 @@ Plano de ensino de Introdução a Engenharia de Dados
   - [1.3. Ementa:](#13-ementa)
   - [1.4. Metodologia:](#14-metodologia)
   - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
+  - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
 - [2. Sites utilizados:](#2-sites-utilizados)
 - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
@@ -22,6 +23,7 @@ Plano de ensino de Introdução a Engenharia de Dados
 - [14. Como estudar](#14-como-estudar)
 - [15. Videos recomendados](#15-videos-recomendados)
 - [16. Eventos](#16-eventos)
+- [11. Grupos no telegram](#11-grupos-no-telegram)
 
 
 
@@ -152,3 +154,21 @@ Ferramentas diversas para uso no desenvolvimento de sistemas:
 ---
 ## 16. Eventos
 
+---
+## 11. Grupos no telegram
+
+
+|Grupo | Link no Telegram |
+| --- | --- |
+| Vagas de TI para todos | https://t.me/vagastibr |
+| Flutterflow Brasil | https://t.me/flutterflowbrazil |
+| Bubble.ioBR | https://t.me/bubbleBR |
+| Grupo de usuários Oracle Cloud Brasil | https://t.me/GUOCB |
+| PHP Brasil | https://t.me/phpbrasil |
+| Lazarus & Delphi Brasil | https://t.me/LazBrasil |
+| Lazarus BR | https://t.me/LazarusBR | 
+| MySQL BR | https://t.me/mysqlbr | 
+| Python Brasil | https://linktr.ee/python.brasil | 
+| C# Brasil | https://t.me/csharpbrasiloficial |
+| Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
+| SQL Server GO | https://t.me/SQLServerGO |
