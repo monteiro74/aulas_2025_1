@@ -20,6 +20,7 @@ Plano de ensino de Gestão de Projeto
 - [11. Como estudar](#11-como-estudar)
 - [12. Grupos no telegram](#12-grupos-no-telegram)
 - [13. Videos recomendados](#13-videos-recomendados)
+- [14. Disciplinas do curso](#14-disciplinas-do-curso)
 
 
 ---
@@ -178,4 +179,11 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
+
+
+---
+## 14. Disciplinas do curso
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Marcelandia/Figuras/disciplinas.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Marcelandia/Figuras/disciplinas.png)
+
 
