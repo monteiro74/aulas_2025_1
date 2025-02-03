@@ -6,6 +6,7 @@ Plano de ensino de Engenharia de Software
   - [1.3. Ementa:](#13-ementa)
   - [1.4. Metodologia:](#14-metodologia)
   - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
+  - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
 - [2. Sites utilizados:](#2-sites-utilizados)
 - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
@@ -34,31 +35,41 @@ Plano de ensino de Engenharia de Software
 
 ### 1.3. Ementa:
 
+* Processos de software.
+* Métodos tradicionais de análise de sistemas.
+* Métodos ágeis de análise e desenvolvimento de software.
+* Introdução a UML.
+* Projeto de Software.
+
 ### 1.4. Metodologia:
 
-Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos, comentários de casos de interesse correlatos, comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. Aulas complementares faltantes e/ou remotas/EaD, serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
+* Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
+* Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
+* Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
 ### 1.5. Procedimentos de avaliação de aprendizagem:
 
-**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
+**Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
-**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade; a prova de 2ª chamada é discursiva, escrita (tipo canetão).
+**Provas de 2ª chamada** devem ser requisitas dentro do prazo e formalmente conforme regras da faculdade. A prova de 2ª chamada é discursiva, escrita (tipo canetão).
 
-A **carga horária EAD** será realizada via leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala), este material poderá estar na sua avaliação (e disponibilizado no site do professor e na página da disciplina no github).
+A **carga horária remota/EAD** será realizada via: a) leitura de artigos postados pelo professor (ou videos correlatos aos assuntos abordados em sala); b) exercícios disponíveis na plataforma EaD da instituição ou c) envio de trabalho, conforme o caso. Este material também poderá estar na sua avaliação presencial escrita. O material usado nas atividades EAD será disponibilizado no site do professor e na página da disciplina no SIGAA e no github.
 
 A **1ª avaliação** terá o conteúdo das aulas de 1 a 5.
 
 A **2ª avaliação** terá o conteúdo das aulas 6 a 9.
 
-A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados. 
+A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
 
-Cada uma das três avaliações vale 0 à 10,0.A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas.O aluno será considerado aprovado se atingir média igual ou superior a 7,0.Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final. 
+Temos 15 encontros presenciais, sequênciais, 1 vês por semana; nos encontros 5, 10 e 15, teremos as avaliações.
 
-A **prova final** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá escrita objetiva. O conteúdoserá todo o conteúdo ministrado ao longo do semestre.
+**Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 7,0. Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final. 
+
+**Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
 ### 1.6. Horário de atendimento:
 
-30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
+No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
 ---
 ## 2. Sites utilizados:
@@ -129,7 +140,6 @@ Avaliação 3: //2025
 
 ---
 ## 11. Lista de ferramentas:
-
 
 
 Ferramentas diversas para uso no desenvolvimento de sistemas:
