@@ -14,6 +14,8 @@ Planos de aula Modelagem e Projeto de Banco de Dados
   - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
 - [5. Conteúdo complementar](#5-conteúdo-complementar)
 - [6. Exercício/trabalho](#6-exercíciotrabalho)
+  - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
+- [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
 - [7. Artigos:](#7-artigos)
 - [8. Referências:](#8-referências)
 - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
@@ -122,8 +124,30 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ---
 ## 6. Exercício/trabalho
 
+### 6.1. Repositório dos alunos
+
+|     | Aluno        | Repositório |
+|-----|--------------|-------------|
+| 1   |              |             |
+| 2   |              |             |
+| 3   |              |             |
+| 4   |              |             |
+
 ---
-## 7. Artigos:
+## 7. Links para download de ferramentas:
+
+1. [Laragon](https://laragon.org/download/)
+2. [Heidi SQL](https://www.heidisql.com/download.php)
+3. [MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
+4. [MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+5. [Visual Studio Code](https://code.visualstudio.com/download)
+6. [Github Desktop](https://desktop.github.com/download/)
+7. [DBeaver Community](https://dbeaver.io/download/)
+8. [CouchDB](https://couchdb.apache.org/)
+9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
+
+---
+## 8. Artigos:
 
 Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
 https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
@@ -138,7 +162,7 @@ Os desafios da administração pública na disponibilização de dados sensívei
 https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
 
 ---
-## 8. Referências:
+## 9. Referências:
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.
 
@@ -153,42 +177,8 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 * SETZER, V. W., SILVA, F. S. C. Banco de dados: aprenda o que são, melhore seu conhecimento, construa os seus. São Paulo: Edgard Blücher, 2005.
 Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/#/books/9788521216520/recent
 
-
 ---
-## 9. Lista de ferramentas:
-
-1. [Laragon](https://laragon.org/download/)
-2. [Heidi SQL](https://www.heidisql.com/download.php)
-3. [MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
-4. [MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
-5. [Visual Studio Code](https://code.visualstudio.com/download)
-6. [Github Desktop](https://desktop.github.com/download/)
-7. [DBeaver Community](https://dbeaver.io/download/)
-8. [CouchDB](https://couchdb.apache.org/)
-9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
-
-
----
-## 10. Grupos no telegram
-
-
-|Grupo | Link no Telegram |
-| --- | --- |
-| Vagas de TI para todos | https://t.me/vagastibr |
-| Flutterflow Brasil | https://t.me/flutterflowbrazil |
-| Bubble.ioBR | https://t.me/bubbleBR |
-| Grupo de usuários Oracle Cloud Brasil | https://t.me/GUOCB |
-| PHP Brasil | https://t.me/phpbrasil |
-| Lazarus & Delphi Brasil | https://t.me/LazBrasil |
-| Lazarus BR | https://t.me/LazarusBR | 
-| MySQL BR | https://t.me/mysqlbr | 
-| Python Brasil | https://linktr.ee/python.brasil | 
-| C# Brasil | https://t.me/csharpbrasiloficial |
-| Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
-| SQL Server GO | https://t.me/SQLServerGO |
-
----
-## 11. Cursos **grátis** sobre SQL Server e MySQL:
+## 10. Cursos gratuítos
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
@@ -207,17 +197,49 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
 
-### 12. Cursos sobre BI com Scriptcase
+### 10.1. Cursos sobre BI com Scriptcase
 
-Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
-Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
-Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
-Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
-Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
-Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
-Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
-Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
-Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
+* Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
+* Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
+* Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
+* Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
+* Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
+* Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
+* Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
+* Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
+* Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
+
+
+---
+## 11. Como estudar
+
+3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
+https://www.youtube.com/watch?v=posTc56basM
+
+As formas mais eficientes de estudar para prova
+https://www.youtube.com/watch?v=1y0xBcGZJmk
+
+
+
+---
+## 12. Grupos no telegram
+
+
+|Grupo | Link no Telegram |
+| --- | --- |
+| Vagas de TI para todos | https://t.me/vagastibr |
+| Flutterflow Brasil | https://t.me/flutterflowbrazil |
+| Bubble.ioBR | https://t.me/bubbleBR |
+| Grupo de usuários Oracle Cloud Brasil | https://t.me/GUOCB |
+| PHP Brasil | https://t.me/phpbrasil |
+| Lazarus & Delphi Brasil | https://t.me/LazBrasil |
+| Lazarus BR | https://t.me/LazarusBR | 
+| MySQL BR | https://t.me/mysqlbr | 
+| Python Brasil | https://linktr.ee/python.brasil | 
+| C# Brasil | https://t.me/csharpbrasiloficial |
+| Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
+| SQL Server GO | https://t.me/SQLServerGO |
+
 
 ---
 ## 13. Videos recomendados

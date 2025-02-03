@@ -20,9 +20,10 @@ Plano de ensino de Engenharia de Software
   - [9.1. Livro sobre .Net Maui](#91-livro-sobre-net-maui)
   - [9.2. Tutorial sobre .Net Maui](#92-tutorial-sobre-net-maui)
   - [9.3. Livros sobre Scrum (em PDF)](#93-livros-sobre-scrum-em-pdf)
-- [10. Lista de ferramentas:](#10-lista-de-ferramentas)
-- [11. Cursos gratuítos:](#11-cursos-gratuítos)
-- [12. Como estudar](#12-como-estudar)
+- [10. Cursos gratuítos:](#10-cursos-gratuítos)
+- [11. Como estudar](#11-como-estudar)
+- [12. Grupos no telegram](#12-grupos-no-telegram)
+- [13. Videos recomendados](#13-videos-recomendados)
 
 
 
@@ -217,15 +218,7 @@ https://www.infoq.com/minibooks/emag-business-design-technology/
 
 
 ---
-## 10. Lista de ferramentas:
-
-Ferramentas diversas para uso no desenvolvimento de sistemas:
-
-[Lista de ferramentas de desenvolvimento de software.](https://github.com/monteiro74/lista_de_ferramentas)
-
-
----
-## 11. Cursos gratuítos:
+## 10. Cursos gratuítos:
 
 * Receita para Levantar Requisitos de Software.
 https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/
@@ -237,7 +230,7 @@ https://www.udemy.com/course/analise-de-requisitos-de-software/
 https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197
 
 ---
-## 12. Como estudar
+## 11. Como estudar
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -247,7 +240,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 11. Grupos no telegram
+## 12. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -264,3 +257,17 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 | C# Brasil | https://t.me/csharpbrasiloficial |
 | Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
 | SQL Server GO | https://t.me/SQLServerGO |
+
+---
+## 13. Videos recomendados
+
+1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
+
+2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
+
+3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
+
+4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
+
+5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
+

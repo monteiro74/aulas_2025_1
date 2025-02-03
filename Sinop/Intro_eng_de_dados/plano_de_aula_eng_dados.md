@@ -13,18 +13,15 @@ Plano de ensino de Introdução a Engenharia de Dados
   - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
 - [5. Conteúdo complementar](#5-conteúdo-complementar)
 - [6. Exercício/trabalho](#6-exercíciotrabalho)
+  - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
 - [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
 - [8. Artigos:](#8-artigos)
 - [9. Referências:](#9-referências)
-- [10. Demais Disciplinas:](#10-demais-disciplinas)
-- [11. Lista de ferramentas:](#11-lista-de-ferramentas)
-- [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
-- [13. Cursos gratuítos:](#13-cursos-gratuítos)
-- [14. Como estudar](#14-como-estudar)
-- [15. Videos recomendados](#15-videos-recomendados)
-  - [12. Cursos sobre BI com Scriptcase](#12-cursos-sobre-bi-com-scriptcase)
-- [16. Eventos](#16-eventos)
-- [11. Grupos no telegram](#11-grupos-no-telegram)
+- [10. Cursos gratuítos](#10-cursos-gratuítos)
+  - [10.1. Cursos sobre BI com Scriptcase](#101-cursos-sobre-bi-com-scriptcase)
+- [11. Como estudar](#11-como-estudar)
+- [12. Grupos no telegram](#12-grupos-no-telegram)
+- [13. Videos recomendados](#13-videos-recomendados)
 
 
 
@@ -113,8 +110,6 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 15   |        | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.       |
 
 
-
-
 ### 4.1. Unidade de avaliação
 
 Avaliação 1: //2025
@@ -127,64 +122,81 @@ Avaliação 3: //2025
 ---
 ## 6. Exercício/trabalho
 
+### 6.1. Repositório dos alunos
+
+|     | Aluno        | Repositório |
+|-----|--------------|-------------|
+| 1   |              |             |
+| 2   |              |             |
+| 3   |              |             |
+| 4   |              |             |
+
+
 ---
 ## 7. Links para download de ferramentas:
 
+1. [Laragon](https://laragon.org/download/)
+2. [Heidi SQL](https://www.heidisql.com/download.php)
+3. [MS Sql Server Express 2022](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
+4. [MS Sql Server Management Studio](https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+5. [Visual Studio Code](https://code.visualstudio.com/download)
+6. [Github Desktop](https://desktop.github.com/download/)
+7. [DBeaver Community](https://dbeaver.io/download/)
+8. [CouchDB](https://couchdb.apache.org/)
+9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
+
+
+
 ---
 ## 8. Artigos:
+
 
 ---
 ## 9. Referências:
 
 * Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
+
 * J., NUNES, D. Introdução a Abstração de Dados - V21 - UFRGS. Grupo A, 01/2012. 
-* Carolina, CARVALHO, André C. P. L. F. de; LORENA, A. Introdução à Computação - Hardware Software e Dados. Grupo GEN, 11/2016.
+
+* Carolina, CARVALHO, André C. P. L. F. de; LORENA, A. Introdução à Computação - Hardware  Software e Dados. Grupo GEN, 11/2016.
+
 * Holmes, Alex, Hadoop in Practice, Second Edition, Manning Publications. 2014
+
 * MEWAWALLA, C. Big Data. Global investment themes: telecoms, media and technology, 3-19. 2012.
 
 
 ---
-## 10. Demais Disciplinas:
+## 10. Cursos gratuítos
+
+* [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
+
+* [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
+
+### 10.1. Cursos sobre BI com Scriptcase
+
+* Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
+* Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
+* Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
+* Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
+* Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
+* Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
+* Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
+* Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
+* Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
+
 
 ---
-## 11. Lista de ferramentas:
+## 11. Como estudar
 
+3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
+https://www.youtube.com/watch?v=posTc56basM
 
-
-Ferramentas diversas para uso no desenvolvimento de sistemas:
-
-[Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
+As formas mais eficientes de estudar para prova
+https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Curiosidade... onde adquirir livros baratos?
-
----
-## 13. Cursos gratuítos:
-
----
-## 14. Como estudar
-
----
-## 15. Videos recomendados
-
-### 12. Cursos sobre BI com Scriptcase
-
-Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
-Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
-Scriptcase - Relatórios BI no Scriptcase (Quebras) 3/9 https://www.youtube.com/watch?v=MdMeDGmvynk
-Scriptcase - Relatórios BI no Scriptcase (Salvar) 4/9 https://www.youtube.com/watch?v=c7nxwbyBwUc
-Scriptcase - Relatórios BI no Scriptcase (Filtro Avançado) 5/9 https://www.youtube.com/watch?v=f6KrkRU8ZoU
-Scriptcase - Relatórios BI no Scriptcase (Filtro Dinâmico) 6/9 https://www.youtube.com/watch?v=hSlvp6sp7H4
-Scriptcase - Relatórios BI no Scriptcase (Quicksearch) 7/9 https://www.youtube.com/watch?v=suf8G-P2rdI
-Scriptcase - Relatórios BI no Scriptcase (Filtro Refinado) 8/9 https://www.youtube.com/watch?v=XIyrWXJx6OA
-Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/watch?v=pB4-jBZe0pQ
-
----
-## 16. Eventos
-
----
-## 11. Grupos no telegram
+## 12. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -201,3 +213,19 @@ Scriptcase - Relatórios BI no Scriptcase (Resumo) 9/9 https://www.youtube.com/w
 | C# Brasil | https://t.me/csharpbrasiloficial |
 | Microsoft C#.Net | https://t.me/CSharpDevelopersBrasil |
 | SQL Server GO | https://t.me/SQLServerGO |
+
+
+
+---
+## 13. Videos recomendados
+
+1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
+
+2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
+
+3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
+
+4. [De onde vem as boas ideias](https://www.youtube.com/watch?v=BtgnozUgc58)
+
+5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
+
