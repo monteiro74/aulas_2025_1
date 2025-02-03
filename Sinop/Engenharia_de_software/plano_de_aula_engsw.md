@@ -148,7 +148,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Umbrello | https://uml.sourceforge.io/ |
 | Git    | https://git-scm.com/downloads/win            |
 | GitHub Desktop   | https://desktop.github.com/download/            |
-| Visual Studio Code + Extensões (MArkdown All in One, Markdown Preview Mermaid Support)|  |
+| Visual Studio Code  Extensões (Markdown All in One, Markdown Preview Mermaid Support)| https://code.visualstudio.com/download |
 
 
 
