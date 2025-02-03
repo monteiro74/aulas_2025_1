@@ -4,12 +4,15 @@ Disciplinas para 2025/2
 ---
 # 1. Disciplinas, ministradas em 2025/1.
 
+* Engenharia de software - 4ª fase
+* Modelagem e projeto de banco de dados - 4ª fase
+* Introdução à engenharia de dados - 5ª fase
 
 ---
 # 2. Mapa do curso
 
 Mapa do curso
-
+https://github.com/monteiro74/aulas_2025_1/blob/main/Mapa%20do%20Curso%20-%20Sistemas.pdf
 
 
 ---
