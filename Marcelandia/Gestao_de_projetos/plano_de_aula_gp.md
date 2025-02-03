@@ -32,6 +32,14 @@ Plano de ensino de Gestão de Projeto
 
 ### 1.3. Ementa:
 
+* Elaboração e análise de projetos; custos de produção e preço de venda; princípios de matemática financeira; fluxo de caixa em projetos empresariais; análise de investimento. 
+* Fundamentos de Gerenciamento de Projetos. 
+* Projetos: Ambiente, Ciclo de Vida e Participantes. 
+* Elaboração de Regras e Gerenciamento de Riscos. 
+* Estrutura de Desmembramento de Trabalho. 
+* Prazos, Estimativa e Equilíbrio do Projeto. 
+* Controle: Comunicação e Desempenho. 
+* Planificação e Exercício do Método de Gerenciamento de Projeto.
 
 ### 1.4. Metodologia:
 
@@ -51,7 +59,7 @@ A **1ª avaliação** terá o conteúdo das aulas de 1 a 5.
 
 A **2ª avaliação** terá o conteúdo das aulas 6 a 9.
 
-A **3ª avaliação** trabalho executado em sala de aula, postado na plataforma Sigaa e no repositório do aluno no github.
+A **3ª avaliação** trabalho executado em sala de aula, postado na plataforma SIGAA e no repositório do aluno no github.
 
 Temos 12 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 6 e 11 teremos as avaliações.
 
