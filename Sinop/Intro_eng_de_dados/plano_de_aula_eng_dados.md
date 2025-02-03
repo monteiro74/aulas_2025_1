@@ -58,7 +58,7 @@ A **2ª avaliação** terá o conteúdo das aulas 6 a 9.
 
 A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos selecionados.
 
-Temos 15 encontros presenciais, sequênciais, 1 vês por semana; nos encontros 5, 10 e 15, teremos as avaliações.
+Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5, 10 e 15, teremos as avaliações.
 
 **Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 7,0. Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final. 
 
