@@ -113,8 +113,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ### 4.1. Unidade de avaliação
 
 Avaliação 1: 20/03/2025
-Avaliação 2: //2025
-Avaliação 3: //2025
+Avaliação 2: 24/04/2025
+Avaliação 3: 05/06/2025
 
 ---
 ## 5. Conteúdo complementar
