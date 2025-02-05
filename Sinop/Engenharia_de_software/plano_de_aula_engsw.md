@@ -263,20 +263,10 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
-[![Watch the video](https://www.youtube.com/watch?v=M-rlucvPG94)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M-rlucvPG94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M-rlucvPG94/0.jpg)](https://www.youtube.com/watch?v=M-rlucvPG94)
 
-https://www.youtube.com/watch?v=M-rlucvPG94
-https://youtu.be/M-rlucvPG94
 
-<video src='https://youtu.be/M-rlucvPG94' width=180/>
 
 2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
 
