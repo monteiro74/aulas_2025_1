@@ -271,6 +271,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 (https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
 (https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M-rlucvPG94/0.jpg)](https://www.youtube.com/watch?v=M-rlucvPG94)
 
 https://www.youtube.com/watch?v=M-rlucvPG94
 https://youtu.be/M-rlucvPG94
