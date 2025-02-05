@@ -263,6 +263,14 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
+[![Watch the video](https://www.youtube.com/watch?v=M-rlucvPG94)
+
+
+https://www.youtube.com/watch?v=M-rlucvPG94
+https://youtu.be/M-rlucvPG94
+
+<video src='https://youtu.be/M-rlucvPG94' width=180/>
+
 2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
 
 3. [TIOZÃO DA FEBRABAN TEM RAZÃO](https://www.youtube.com/watch?v=Qjmmug9S3rI)
