@@ -162,7 +162,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 * MEWAWALLA, C. Big Data. Global investment themes: telecoms, media and technology, 3-19. 2012.
 
-
+* MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
+* 
 ---
 ## 10. Cursos gratuítos
 

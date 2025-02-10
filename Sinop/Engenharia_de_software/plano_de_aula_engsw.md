@@ -188,6 +188,8 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012. https://integrada.minhabiblioteca.com.br/books/9788536519418.
 Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0
 
+* MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
+
 
 ### 9.1. Livro sobre .Net Maui
 
