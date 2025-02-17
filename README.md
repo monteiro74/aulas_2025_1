@@ -37,3 +37,7 @@ Estas páginas podem mudar sem aviso prévio.
 
 https://github.com/monteiro74?tab=repositories
 
+---
+# 7. Horários
+
+![https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true](https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true)
