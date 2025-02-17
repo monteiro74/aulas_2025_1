@@ -27,17 +27,13 @@ https://docs.google.com/spreadsheets/d/1U4Naem9pWYuhsldxvcZpwIVLA7PNvkIZi5urKVEY
 Resolução CONEPE Nº 038/2022-CONEPE.
 https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz3NvXE48T1LMV2uuD0M1FuxRsb7/Ppc-de-Sistemas-de-Informacao-Resolucao-no-0382022-Conepe.pdf
 
----
-# 5. Atenção
-
-Estas páginas podem mudar sem aviso prévio.
 
 ---
-# 6. Outros repositórios de apoio no github
+# 5. Outros repositórios de apoio no github
 
 https://github.com/monteiro74?tab=repositories
 
 ---
-# 7. Horários
+# 6. Horários
 
 ![https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true](https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true)
