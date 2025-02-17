@@ -11,17 +11,14 @@ Plano de ensino de Introdução a Engenharia de Dados
 - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
   - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
-- [5. Conteúdo complementar](#5-conteúdo-complementar)
-- [6. Exercício/trabalho](#6-exercíciotrabalho)
-  - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
-- [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
-- [8. Artigos:](#8-artigos)
-- [9. Referências:](#9-referências)
-- [10. Cursos gratuítos](#10-cursos-gratuítos)
-  - [10.1. Cursos sobre BI com Scriptcase](#101-cursos-sobre-bi-com-scriptcase)
-- [11. Como estudar](#11-como-estudar)
-- [12. Grupos no telegram](#12-grupos-no-telegram)
-- [13. Videos recomendados](#13-videos-recomendados)
+- [5. Links para download de ferramentas:](#5-links-para-download-de-ferramentas)
+- [6. Artigos:](#6-artigos)
+- [7. Referências:](#7-referências)
+- [8. Cursos gratuítos](#8-cursos-gratuítos)
+  - [8.1. Cursos sobre BI com Scriptcase](#81-cursos-sobre-bi-com-scriptcase)
+- [9. Como estudar](#9-como-estudar)
+- [10. Grupos no telegram](#10-grupos-no-telegram)
+- [11. Videos recomendados](#11-videos-recomendados)
 
 
 
@@ -60,7 +57,7 @@ A **3ª avaliação** terá o conteúdo das aulas 11 a 14 e os artigos seleciona
 
 Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5, 10 e 15, teremos as avaliações.
 
-**Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 7,0. Alunos com nota >= 5,0 e < 7,0 têm direito à nota de exame final. 
+**Notas:** Cada uma das três avaliações vale 0 à 10,0. A média final da disciplina é feita fazendo média aritmética simples entre as notas obtidas. O aluno será considerado aprovado se atingir média igual ou superior a 6,0. Alunos com nota >= 4,0 e < 6,0 têm direito à nota de exame final. 
 
 **Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
@@ -116,23 +113,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 * Avaliação 2: 30/04/2025
 * Avaliação 3: 04/06/2025
 
----
-## 5. Conteúdo complementar
 
 ---
-## 6. Exercício/trabalho
-
-### 6.1. Repositório dos alunos
-
-|     | Aluno        | Repositório |
-|-----|--------------|-------------|
-| 1   |              |             |
-| 2   |              |             |
-| 3   |              |             |
-
-
----
-## 7. Links para download de ferramentas:
+## 5. Links para download de ferramentas:
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -146,11 +129,21 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 8. Artigos:
+## 6. Artigos:
+
+Artigo 1: [Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado](https://sol.sbc.org.br/index.php/sbbd/article/view/25556).
+
+Artigo 2: [Engenharia de dados para extração de conhecimento na avaliação do aprendizado em equipes de desenvolvimento de software](https://www.researchgate.net/publication/336275133_Engenharia_de_dados_para_extracao_de_conhecimento_na_avaliacao_do_aprendizado_em_equipes_de_desenvolvimento_de_software).
+
+Artigo 3: [A Importância da Análise de Dados na Engenharia de Produção](https://www.abepro.org.br/biblioteca/TN_STO_359_1852_42030.pdf).
+
+Artigo 4: [Ciência da informação e ciência de dados: convergência interdisciplinares](https://www.scielo.br/j/eb/a/rLCJY3rCQsTHC9cnmtMGsmb/?format=pdf&lang=pt).
+
+Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplicações na engenharia.](https://lcv.fee.unicamp.br/images/BTSym-19/Papers/166.pdf).
 
 
 ---
-## 9. Referências:
+## 7. Referências:
 
 * Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
 
@@ -163,16 +156,16 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 * MEWAWALLA, C. Big Data. Global investment themes: telecoms, media and technology, 3-19. 2012.
 
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
-* 
+
 ---
-## 10. Cursos gratuítos
+## 8. Cursos gratuítos
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
 
-### 10.1. Cursos sobre BI com Scriptcase
+### 8.1. Cursos sobre BI com Scriptcase
 
 * Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
 * Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
@@ -186,7 +179,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 11. Como estudar
+## 9. Como estudar
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -196,7 +189,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Grupos no telegram
+## 10. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -215,9 +208,8 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 | SQL Server GO | https://t.me/SQLServerGO |
 
 
-
 ---
-## 13. Videos recomendados
+## 11. Videos recomendados
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
