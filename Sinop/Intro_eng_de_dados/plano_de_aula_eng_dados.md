@@ -90,21 +90,21 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-| 1   | 19/fev | 3hs | Apresentação da disciplina. Conceitos e ferramentas básicas.|
-| 2   | 26/fev | 3hs | Tratamento de dados. |    
-| 3   | 12/mar | 3hs | Estatística essencial. |
-| 4   | 19/mar | 3hs | Classificação. |
-| 5   | 26/mar | 3hs | **Avaliação 1** |
-| 6   | 02/abr | 3hs | Agrupamento. |
-| 7   | 09/abr | 3hs | Conjuntos frequentes. |
-| 8   | 16/abr | 3hs | Regressão. |
-| 9   | 23/abr | 3hs | Descoberta de tópicos em texto. |
-| 10  | 30/abr | 3hs | **Avaliação 2** |
-| 11  | 07/mai | 3hs | Ferramentas de chats local. |
-| 12  | 14/mai | 3hs | Data Warehouse. |
-| 13  | 21/mai | 3hs | Big Data x Data Lake. |
-| 14  | 28/mai | 3hs | Virtualização de dados. |
-| 15  | 04/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
+|    | 19/fev |  | [**Aula reprogramada**] Apresentação da disciplina. Conceitos e ferramentas básicas.|
+|    | 26/fev |  | [**Aula reprogramada**] Tratamento de dados. |    
+| 1   | 12/mar | 3hs | Estatística essencial. |
+| 2   | 19/mar | 3hs | Classificação. |
+| 3   | 26/mar | 3hs | **Avaliação 1** |
+| 4   | 02/abr | 3hs | Agrupamento. |
+| 5   | 09/abr | 3hs | Conjuntos frequentes. |
+| 6   | 16/abr | 3hs | Regressão. |
+| 7   | 23/abr | 3hs | Descoberta de tópicos em texto. |
+| 8  | 30/abr | 3hs | **Avaliação 2** |
+| 9  | 07/mai | 3hs | Ferramentas de chats local. |
+| 10  | 14/mai | 3hs | Data Warehouse. |
+| 11  | 21/mai | 3hs | Big Data x Data Lake. |
+| 12  | 28/mai | 3hs | Virtualização de dados. |
+| 13  | 04/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
 
 
 ### 4.1. Unidade de avaliação
