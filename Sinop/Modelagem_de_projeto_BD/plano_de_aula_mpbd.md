@@ -94,21 +94,21 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|    |  | 3hs | [**Aula reprogramada**] Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. Slides aula 1. Refs Biblio.         |
-|    |  | 3hs | [**Aula reprogramada**] Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Link para download do SQL Server Express 2022 (instalador). Favor baixar o instalador primeiro e depois baixar o SQL Server, a instalação vamos fazer em sala de aula!! Slides da Aula 2. Ranking de bancos de dados. Instalação do SQL Server 2022 Express.         |
-| 1  | 6/mar  | 3hs | Processamento e controle de transação, concorrência e bloqueio. Conhecendo o SSMS. 1. Introdução ao SQL Server 2022. 2. Instalação do SQL Server 2022. 3. Conhecendo o SSMS. 4. Detalhes do SQL Server 2022. Slides da aula 3.         |
-| 2   | 13/mar | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. Slides da aula 4. Criação de tabelas e diagramas no SQL Server. Joins no SQL Server.          |
-| 3   | 20/mar | 3hs | **Avaliação 1**  Curso fundamental de Scriptcase e Documentação do Scriptcase. Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.|
-| 4   | 27/mar | 3hs | Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC.          |
-| 5   | 03/abr | 3hs | Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel.          |
-| 6   | 10/abr | 3hs | Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).         |
-| 7   | 17/abr | 3hs | Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL.         |
-| 8  | 24/abr | 3hs | **Avaliação 2** Slides sobre blockchain. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
-| 9  | 08/mai | 3hs | Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table.         |
-| 10  | 15/mai | 3hs | Blockchain, camada 2, sidechain, BSN.         |
-| 11  | 22/mai | 3hs | AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server slides de aula.         |
-| 12  | 29/mai | 3hs | Banco vetorial, SQL Server Profiler Slides de aula         |
-| 13  | 05/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
+| 1   | 06/mar | 3hs | Apresentação da disciplina, conceitos básicos sobre bancos de dados, referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1k2S8-ciWdA36AHM13OM1-yuJUCzB5jlZlgVFjLHHRNY/view)e [referências bibliográficas](https://docs.google.com/presentation/d/1StFHjTjcc9mpTTDoWmMHJibmx2n17o8FLwxMhHskXZo/view), [Ranking de bancos de dados](https://docs.google.com/presentation/d/1d9IFPUf_Pc4PV1Q8Vrq46xc_5BxJyFlbQdepoCTIcZg/view).   |
+|  2  | 13/mar | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Link para download do SQL Server Express 2022 (instalador). Favor baixar o instalador primeiro e depois baixar o SQL Server, a instalação vamos fazer em sala de aula!! Slides da Aula 2. Ranking de bancos de dados. Instalação do SQL Server 2022 Express.         |
+| 3  | 6/mar  | 3hs | Processamento e controle de transação, concorrência e bloqueio. Conhecendo o SSMS. 1. Introdução ao SQL Server 2022. 2. Instalação do SQL Server 2022. 3. Conhecendo o SSMS. 4. Detalhes do SQL Server 2022. Slides da aula 3.         |
+| 4   | 13/mar | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server. Slides da aula 4. Criação de tabelas e diagramas no SQL Server. Joins no SQL Server.          |
+| 5   | 20/mar | 3hs | **Avaliação 1**  Curso fundamental de Scriptcase e Documentação do Scriptcase. Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.|
+| 6   | 27/mar | 3hs | Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC.          |
+| 7   | 03/abr | 3hs | Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel.          |
+| 8   | 10/abr | 3hs | Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).         |
+| 9   | 17/abr | 3hs | Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL.         |
+| 10  | 24/abr | 3hs | **Avaliação 2** Slides sobre blockchain. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
+| 11  | 08/mai | 3hs | Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table.         |
+| 12  | 15/mai | 3hs | Blockchain, camada 2, sidechain, BSN.         |
+| 13  | 22/mai | 3hs | AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server slides de aula.         |
+| 14  | 29/mai | 3hs | Banco vetorial, SQL Server Profiler Slides de aula         |
+| 15  | 05/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
 ### 4.1. Unidade de avaliação
@@ -177,6 +177,9 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/#/books/9788521216520/recent
 
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
+
+Referências na biblioteca virtual:
+[referências bibliográficas](https://docs.google.com/presentation/d/1StFHjTjcc9mpTTDoWmMHJibmx2n17o8FLwxMhHskXZo/view).
 
 ---
 ## 10. Cursos gratuítos
