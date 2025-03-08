@@ -90,27 +90,27 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|    | 19/fev |  | [**Aula reprogramada**] Apresentação da disciplina. Conceitos e ferramentas básicas.|
-|    | 26/fev |  | [**Aula reprogramada**] Tratamento de dados. |    
-| 1   | 12/mar | 3hs | Estatística essencial. |
-| 2   | 19/mar | 3hs | Classificação. |
-| 3   | 26/mar | 3hs | **Avaliação 1** |
-| 4   | 02/abr | 3hs | Agrupamento. |
-| 5   | 09/abr | 3hs | Conjuntos frequentes. |
-| 6   | 16/abr | 3hs | Regressão. |
-| 7   | 23/abr | 3hs | Descoberta de tópicos em texto. |
-| 8  | 30/abr | 3hs | **Avaliação 2** |
-| 9  | 07/mai | 3hs | Ferramentas de chats local. |
-| 10  | 14/mai | 3hs | Data Warehouse. |
-| 11  | 21/mai | 3hs | Big Data x Data Lake. |
-| 12  | 28/mai | 3hs | Virtualização de dados. |
-| 13  | 04/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
+|  1  | 19/fev | 3h  | Apresentação da disciplina. Conceitos e ferramentas básicas. [Slides da aula 1](https://docs.google.com/presentation/d/1RAJ3lzeAr2zlvto1eosXf0PQuO-T5OvjLM1J24b1n8Q/view) e [referências comentadas](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view) |
+|    | 26/fev |  | [**Aula reprogramada**]  |    
+| 2   | 12/mar | 3hs | Estatística essencial. |
+| 3   | 19/mar | 3hs | Classificação. |
+| 4   | 26/mar | 3hs | Agrupamento. |
+| 5   | 02/abr | 3hs | **Avaliação 1** |
+| 6   | 09/abr | 3hs | Conjuntos frequentes. |
+| 7   | 16/abr | 3hs | Regressão. |
+| 8   | 23/abr | 3hs | Descoberta de tópicos em texto. |
+| 9  | 30/abr | 3hs | Ferramentas de chats local.x |
+| 10  | 07/mai | 3hs | **Avaliação 2** |
+| 11  | 14/mai | 3hs | Data Warehouse. |
+| 12  | 21/mai | 3hs | Big Data x Data Lake. |
+| 13  | 28/mai | 3hs | Virtualização de dados. |
+| 14  | 04/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
 
 
 ### 4.1. Unidade de avaliação
 
-* Avaliação 1: 26/03/2025
-* Avaliação 2: 30/04/2025
+* Avaliação 1: 02/04/2025
+* Avaliação 2: 07/05/2025
 * Avaliação 3: 04/06/2025
 
 
