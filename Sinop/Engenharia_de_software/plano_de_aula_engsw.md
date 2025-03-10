@@ -132,11 +132,21 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ### 6.1. Repositório dos alunos
 
 |     | Aluno        | Repositório |
-|-----|--------------|-------------|
-| 1   |              |             |
-| 2   |              |             |
-| 3   |              |             |
-| 4   |              |             |
+|-----|--------------------------------------|-------------|
+| 1   | ANDRE FERREIRA HASHIMOTO             |             |
+| 2   | DENIS MATEUS BRITOS LOPES            |             |
+| 3   | DYENIFER SILVA CUNHA                 |             |
+| 4   | IZABELA AMARAL DE SOUZA	             |             |
+| 5   | JOÃO LUIZ RODIGHERO TELÓ             | |
+| 6   | JOSE FERNANDO BOSSOI MOREIRA COSTA   | |
+| 7   | LUCAS BUTASKOSKI                     | |
+| 8   | LUCAS DA ROSA                        | |
+| 9   | MARCIO CORREIA                       | |
+| 10  | NEILSON FERREIRA SEVERINO            |  |	
+| 11  | PAULO CÉSAR MOGGI DE SOUZA	         |  |
+| 12  | PIRAKTA TAWA IKPENG                  | |
+| 13  | RYLLER BRITO PEREIRA                 | |
+| 14  | VINÍCIUS FREITAS                     | |
 
 
 ---
