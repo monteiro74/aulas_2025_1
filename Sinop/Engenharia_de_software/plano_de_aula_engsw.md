@@ -131,23 +131,24 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ### 6.1. Repositório dos alunos
 
-|     | Aluno        | Repositório |
+|     | Aluno                                | Repositório |
 |-----|--------------------------------------|-------------|
-| 1   | ANDRE FERREIRA HASHIMOTO             |             |
-| 2   | DENIS MATEUS BRITOS LOPES            |             |
-| 3   | DYENIFER SILVA CUNHA                 |             |
-| 4   | IZABELA AMARAL DE SOUZA	             |             |
-| 5   | JOÃO LUIZ RODIGHERO TELÓ             | |
-| 6   | JOSE FERNANDO BOSSOI MOREIRA COSTA   | |
-| 7   | LUCAS BUTASKOSKI                     | |
-| 8   | LUCAS DA ROSA                        | |
-| 9   | MARCIO CORREIA                       | |
-| 10  | NEILSON FERREIRA SEVERINO            |  |	
-| 11  | PAULO CÉSAR MOGGI DE SOUZA	         |  |
-| 12  | PIRAKTA TAWA IKPENG                  | |
-| 13  | RYLLER BRITO PEREIRA                 | |
-| 14  | VINÍCIUS FREITAS                     | |
+| 1   | ANDRE FERREIRA HASHIMOTO             | https://github.com/AndreFerreiraHashimoto/Engenharia-de-Software  |
+| 2   | DENIS MATEUS BRITOS LOPES            | https://github.com/Denis447mt/Denis  |
+| 3   | DYENIFER SILVA CUNHA                 | https://github.com/Dyeni9/ENGENHARIA-DE-SOFTWARE-DYENIFER-SILVA |
+| 4   | IZABELA AMARAL DE SOUZA	             | https://github.com/Izabelaamaral/IZABELA_AMARAL_DE_SOUZA_Eng._de_Software  |
+| 5   | JOÃO LUIZ RODIGHERO TELÓ             |             |
+| 6   | JOSE FERNANDO BOSSOI MOREIRA COSTA   |             |
+| 7   | LUCAS BUTASKOSKI                     |             |
+| 8   | LUCAS DA ROSA                        |             |
+| 9   | MARCIO CORREIA                       |             |
+| 10  | NEILSON FERREIRA SEVERINO            |             |	
+| 11  | PAULO CÉSAR MOGGI DE SOUZA	         |             |
+| 12  | PIRAKTA TAWA IKPENG                  |             |
+| 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software |
+| 14  | VINÍCIUS FREITAS                     |             |
 
+Não consegui identificar o nome do proprietário destes repositórios: https://github.com/lucasrveni/Eng-Software e https://github.com/Shotzuno/Rep-aulas 
 
 ---
 ## 7. Links para download de ferramentas:
