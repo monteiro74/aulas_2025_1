@@ -144,7 +144,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 9   | MARCIO CORREIA                       |             |
 | 10  | NEILSON FERREIRA SEVERINO            | https://github.com/Neilson-hub/Aula-ENGENHARIA-DE-SOFTWARE            |	
 | 11  | PAULO CÉSAR MOGGI DE SOUZA	         |             |
-| 12  | PIRAKTA TAWA IKPENG                  |             |
+| 12  | PIRAKTA TAWA IKPENG                  | https://github.com/pirakta/Engenharia_de_Dados            |
 | 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software |
 | 14  | VINÍCIUS FREITAS                     |             |
 
