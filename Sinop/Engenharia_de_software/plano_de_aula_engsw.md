@@ -138,7 +138,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 3   | DYENIFER SILVA CUNHA                 | https://github.com/Dyeni9/ENGENHARIA-DE-SOFTWARE-DYENIFER-SILVA |
 | 4   | IZABELA AMARAL DE SOUZA	             | https://github.com/Izabelaamaral/IZABELA_AMARAL_DE_SOUZA_Eng._de_Software  |
 | 5   | JOÃO LUIZ RODIGHERO TELÓ             |             |
-| 6   | JOSE FERNANDO BOSSOI MOREIRA COSTA   |             |
+| 6   | JOSE FERNANDO BOSSOI MOREIRA COSTA   | https://github.com/JoseBossoi/SoftEng2025-Unemat-            |
 | 7   | LUCAS BUTASKOSKI                     |             |
 | 8   | LUCAS DA ROSA                        |             |
 | 9   | MARCIO CORREIA                       |             |
