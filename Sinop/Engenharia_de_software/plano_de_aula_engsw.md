@@ -139,16 +139,16 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 4   | IZABELA AMARAL DE SOUZA	             | https://github.com/Izabelaamaral/IZABELA_AMARAL_DE_SOUZA_Eng._de_Software  |
 | 5   | JOÃO LUIZ RODIGHERO TELÓ             |             |
 | 6   | JOSE FERNANDO BOSSOI MOREIRA COSTA   | https://github.com/JoseBossoi/SoftEng2025-Unemat-            |
-| 7   | LUCAS BUTASKOSKI                     |             |
-| 8   | LUCAS DA ROSA                        |             |
+| 7   | LUCAS BUTASKOSKI                     | https://github.com/Shotzuno/Rep-aulas            |
+| 8   | LUCAS DA ROSA                        |  https://github.com/lucasrveni/Eng-Software           |
 | 9   | MARCIO CORREIA                       |             |
-| 10  | NEILSON FERREIRA SEVERINO            |             |	
+| 10  | NEILSON FERREIRA SEVERINO            | https://github.com/Neilson-hub/Aula-ENGENHARIA-DE-SOFTWARE            |	
 | 11  | PAULO CÉSAR MOGGI DE SOUZA	         |             |
 | 12  | PIRAKTA TAWA IKPENG                  |             |
 | 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software |
 | 14  | VINÍCIUS FREITAS                     |             |
 
-Não consegui identificar o nome do proprietário destes repositórios: https://github.com/lucasrveni/Eng-Software e https://github.com/Shotzuno/Rep-aulas 
+Não consegui identificar o nome do proprietário destes repositórios:  e  
 
 ---
 ## 7. Links para download de ferramentas:
