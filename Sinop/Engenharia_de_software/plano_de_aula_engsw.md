@@ -146,7 +146,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 11  | PAULO CÉSAR MOGGI DE SOUZA	         |             |
 | 12  | PIRAKTA TAWA IKPENG                  | https://github.com/pirakta/Engenharia_de_Dados            |
 | 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software |
-| 14  | VINÍCIUS FREITAS                     |             |
+| 14  | VINÍCIUS FREITAS                     | https://github.com/VincFreitas/Vinicius-Freitas   |
 
 Não consegui identificar o nome do proprietário destes repositórios:  e  
 
