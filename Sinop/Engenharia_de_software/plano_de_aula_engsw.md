@@ -161,6 +161,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Git    | https://git-scm.com/downloads/win            |
 | GitHub Desktop   | https://desktop.github.com/download/            |
 | Visual Studio Code  Extensões (Markdown All in One, Markdown Preview Mermaid Support)| https://code.visualstudio.com/download |
+| MinIO | https://min.io/docs/minio/windows/index.html |
 
 
 
