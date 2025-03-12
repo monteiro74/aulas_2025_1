@@ -127,6 +127,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 8. [CouchDB](https://couchdb.apache.org/)
 9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
 10. [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe)
+11. [MinIO](https://min.io/docs/minio/windows/index.html)
 
 ---
 ## 6. Artigos:
