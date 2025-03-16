@@ -90,7 +90,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 19/fev | 3h  | Apresentação da disciplina. Conceitos e ferramentas básicas. [Slides da aula 1](https://docs.google.com/presentation/d/1RAJ3lzeAr2zlvto1eosXf0PQuO-T5OvjLM1J24b1n8Q/view) e [referências comentadas](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view). [Dados abertos comentados em sala](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj). |
+|  1  | 19/fev | 3h  | Apresentação da disciplina. Conceitos de engenharia de dados, conceitos de big data, comparações (engenharia de dados x analise de dados x ciência de dados), atribuições dos profissionais, papel do engenheiro de dados, ETL x ELT, comparações (DW e DB), comparações (BD, DW, DM x DL), referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1RAJ3lzeAr2zlvto1eosXf0PQuO-T5OvjLM1J24b1n8Q/view) e [referências comentadas](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view). [Dados abertos comentados em sala](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj). |
 |    | 26/fev |  | [**Aula reprogramada**]  |    
 | 2   | 12/mar | 3hs | Estatística essencial. |
 | 3   | 19/mar | 3hs | Classificação. |
