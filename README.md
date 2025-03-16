@@ -5,6 +5,8 @@
 * Modelagem e projeto de banco de dados - 4ª fase
 * Introdução à engenharia de dados - 5ª fase
 
+
+
 ---
 # 2. Mapa do curso
 
@@ -50,4 +52,11 @@ https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz
 # 6. Outros repositórios de apoio no github
 
 https://github.com/monteiro74?tab=repositories
+
+
+---
+# 7. Localização das disciplinas estão no quadro geral do curso
+
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png)
 
