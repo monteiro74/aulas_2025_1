@@ -55,7 +55,7 @@ https://github.com/monteiro74?tab=repositories
 
 
 ---
-# 7. Localização das disciplinas estão no quadro geral do curso
+# 7. Localização das disciplinas no quadro geral do curso
 
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png)
