@@ -10,7 +10,7 @@ Disciplinas de 2025.
 - [7. Localização das disciplinas no quadro geral do curso](#7-localização-das-disciplinas-no-quadro-geral-do-curso)
 
 
-
+---
 # 1. Disciplinas, ministradas em 2025/1.
 
 * Engenharia de software - 4ª fase
