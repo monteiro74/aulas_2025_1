@@ -19,8 +19,10 @@ Terças e quartas: presencial.
 2. 15/03 On-line.
 3. 18/03 Presencial.
 
-# 3. Referências
+# 3. Referências de normas
 
+| Código | Descrição |
+|----------------| --- |
 | ABNT NBR 10520 | Citações em documentos |
 | ABNT NBR 14724 | Trabalhos acadêmicos   | 
 | ABNT NBR 6022  | Requisitos para a apresentação de artigos em publicações periódicas científicas impressas | 
