@@ -90,21 +90,21 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
-|  1  | 19/fev | 3h  | Apresentação da disciplina. Conceitos de engenharia de dados, conceitos de big data, comparações (engenharia de dados x analise de dados x ciência de dados), atribuições dos profissionais, papel do engenheiro de dados, ETL x ELT, comparações (DW e DB), comparações (BD, DW, DM x DL), referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1RAJ3lzeAr2zlvto1eosXf0PQuO-T5OvjLM1J24b1n8Q/view) e [referências comentadas](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view). [Dados abertos comentados em sala](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj). |
-|    | 26/fev |  | [**Aula reprogramada**]  |    
-| 2   | 12/mar | 3hs | Estatística essencial. |
-| 3   | 19/mar | 3hs | Classificação. |
-| 4   | 26/mar | 3hs | Agrupamento. |
-| 5   | 02/abr | 3hs | **Avaliação 1** |
-| 6   | 09/abr | 3hs | Conjuntos frequentes. |
-| 7   | 16/abr | 3hs | Regressão. |
-| 8   | 23/abr | 3hs | Descoberta de tópicos em texto. |
-| 9  | 30/abr | 3hs | Ferramentas de chats local.x |
-| 10  | 07/mai | 3hs | **Avaliação 2** |
-| 11  | 14/mai | 3hs | Data Warehouse. |
-| 12  | 21/mai | 3hs | Big Data x Data Lake. |
-| 13  | 28/mai | 3hs | Virtualização de dados. |
-| 14  | 04/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
+|  1  | 05/mar | 3h  | Apresentação da disciplina. Conceitos de engenharia de dados, conceitos de big data, comparações (engenharia de dados x analise de dados x ciência de dados), atribuições dos profissionais, papel do engenheiro de dados, ETL x ELT, comparações (DW e DB), comparações (BD, DW, DM x DL), referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1RAJ3lzeAr2zlvto1eosXf0PQuO-T5OvjLM1J24b1n8Q/view) e [referências comentadas](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view). [Dados abertos comentados em sala](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj). |
+| 2   | 12/mar |  | Processo KDD (knowledge Discovery in Database), padrão, Processo CRISP DM, dados estruturados x dados não estruturados, ferramentas de ETL, Data Lake, AWS S3, MinIO bucket, Haddop + HDFS.  |    
+| 3   | 19/mar | 3hs | Estatística essencial. |
+| 4   | 26/mar | 3hs | Classificação. |
+| 5   | 02/abr | 3hs | Agrupamento. |
+| 6   | 09/abr | 3hs | **Avaliação 1** |
+| 7   | 16/abr | 3hs | Conjuntos frequentes. |
+| 8   | 23/abr | 3hs | Regressão. |
+| 9   | 30/abr | 3hs | Descoberta de tópicos em texto. |
+| 10  | 07/mai | 3hs | Ferramentas de chats local.x |
+| 11  | 14/mai | 3hs | **Avaliação 2** |
+| 12  | 21/mai | 3hs | Data Warehouse. |
+| 13  | 28/mai | 3hs | Big Data x Data Lake. |
+| 14  | 04/jun | 3hs | Virtualização de dados. |
+| 15  | 11/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
 
 
 ### 4.1. Unidade de avaliação
