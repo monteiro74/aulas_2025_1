@@ -5,7 +5,7 @@ CREATE DATABASE cafe
 -- queremos especificar o banco de trabalho atual
 USE cafe
 
--- O comando GO informa o SQL Server que deve interpretar as instru��es a seguir
+-- O comando GO informa o SQL Server que deve interpretar as instrucoes a seguir
 GO
 
 -- Criar a tabela alunos
@@ -23,7 +23,7 @@ CREATE TABLE tblAlunos
 -- ALTER TABLE tblAlunos ADD IdAluno INT IDENTITY(1,1)
 -- o comando DROP deleta a tabela
 -- DROP TABLE tblAlunos
--- IDENTITY(1,1) (a cl�usula identity � usada para criar um campo autoincrement
+-- IDENTITY(1,1) (a clausula identity e usada para criar um campo autoincrement
 -- Identity increment = 1
 -- Identity seed = 1
 
@@ -106,14 +106,14 @@ CREATE TABLE tblTurmas
 -- DROP TABLE tblTurmas
 
 -- Inserir dados na tabela Turmas
-INSERT INTO tblTurmas VALUES (1, 1, 'C++ DE F�RIAS', 1250.50, '20231025', '20231029');
-INSERT INTO tblTurmas VALUES (1, 2, 'C++ DE F�RIAS', 1250.50, '20231025', '20231029');
-INSERT INTO tblTurmas VALUES (1, 3, 'C++ DE F�RIAS', 0, '20231025', '20231029');
+INSERT INTO tblTurmas VALUES (1, 1, 'C++ DE FeRIAS', 1250.50, '20231025', '20231029');
+INSERT INTO tblTurmas VALUES (1, 2, 'C++ DE FeRIAS', 1250.50, '20231025', '20231029');
+INSERT INTO tblTurmas VALUES (1, 3, 'C++ DE FeRIAS', 0, '20231025', '20231029');
 
 -- Selecionar todos os registros da tabela Turmas
 SELECT * FROM tblTurmas
 
--- Criar a tabela Presen�as
+-- Criar a tabela Presencas
 CREATE TABLE tblPresencas
 (
  IdTurma int NOt NULL,
@@ -162,10 +162,10 @@ ALTER TABLE tblPresencas
 -- Count realiza a contagem de registros
 SELECT COUNT(IdTurma) as qtdeTurma FROM tblTurmas;
 
--- Realizar a soma de valores (em um campo num�rico)
+-- Realizar a soma de valores (em um campo numerico)
 SELECT SUM(PrecoTurma) AS somaPreco FROM tblTurmas;
 
--- Mostrar a m�dia de valores da coluna
+-- Mostrar a media de valores da coluna
 SELECT AVG(Salario) AS mediaSalario FROM tblAlunos;
 
 -- Mostrar o maior valor da coluna
@@ -174,7 +174,7 @@ SELECT MAX(Salario) AS maxSalario FROM tblAlunos;
 -- Mostrar o menor valor da coluna
 SELECT MIN(Salario) AS minSalario FROM tblAlunos;
 
--- Select com e sem distinc, distinct apresent um registro n�o repetido
+-- Select com e sem distinc, distinct apresent um registro nao repetido
 SELECT DescricaoTurma FROM tblTurmas;
 SELECT DISTINCT(DescricaoTurma) FROM tblTurmas;
 
@@ -197,7 +197,7 @@ INSERT INTO tblPets ([Apelido],[Raca],[IdAluno],[Valor]) VALUES('DOG1', 'CACHORR
 -- Deletar todos os registros da tabela pets
 DELETE FROM tblPets;
 
--- Confirmar que houve dele��o de todos os registros da tabela pets
+-- Confirmar que houve delecao de todos os registros da tabela pets
 SELECT * FROM tblPets;
 
 -- Apagar a tabela pets
@@ -222,7 +222,7 @@ INSERT INTO tblPets ([Apelido],[Raca],[IdAluno],[Valor]) VALUES('CAT3', 'SIAMES'
 INSERT INTO tblPets ([Apelido],[Raca],[Valor]) VALUES('CAT4', 'SIAMES',1000.00);
 INSERT INTO tblPets ([Apelido],[Raca],[Valor]) VALUES('DOG4', 'FILA',2000.00);
 
--- Select com C�lculo, o campo valor tem 10% de desconto na compra a vista
+-- Select com Calculo, o campo valor tem 10% de desconto na compra a vista
 SELECT  Apelido, Raca, IdAluno AS Dono, Valor, (Valor*0.90) AS valorVend_a_Vista FROM tblPets;
 
 -- Select juntando 2 tabelas 
@@ -357,7 +357,6 @@ WHERE Raca NOT LIKE 'SIA%';
 -- Select com TOP
 SELECT TOP 3 *
 FROM tblPets;
-
 
 -- Select com MAX
 SELECT MAX(Valor)
