@@ -131,6 +131,11 @@ Tarefa 1:
 2. Copiar as imagens para o seu repositório.
 3. Referênciar as imagens dentro do markdown usando 1[descricao](url)
 4. Atualizar o repositório.
+5. 5. Aumentar a descrição do sistema, adicionar pelo menos mais uns 15 itens!
+
+Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictícios para ilustrar situações de uso destes, em um arquivo de projeto feito no White Star UML. Disponível neste [link](https://drive.google.com/file/d/1rpnKEaQzLqUy8t6dnmKeSUf9FZowZsPO/view?usp=sharing). O projeto é apresentado na figura abaixo:
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Engenharia_de_software/projeto_modelo_whitestar_v1.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Engenharia_de_software/projeto_modelo_whitestar_v1.png)
 
 
 ---
