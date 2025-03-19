@@ -14,6 +14,7 @@
 # Uso: Coloque o dataset1.csv na mesma pasta que este programa
 # ==============================================================================
 
+
 import pandas as pd
 import numpy as np
 import statistics as stats
@@ -25,6 +26,10 @@ print(f"Início do processamento: {tempo_inicio.strftime('%H:%M:%S')}")
 
 # Leitura do arquivo CSV
 df = pd.read_csv('dataset1.csv', sep=';', dtype={'Nome': str, 'Idade': float, 'Sexo': str})
+
+# Contagem de registros no dataset
+registro_count = len(df)
+print(f"Total de registros: {registro_count}")
 
 # Remover linhas onde a idade está faltando
 df_limpo = df.dropna(subset=['Idade'])
@@ -39,6 +44,10 @@ moda = stats.mode(idades)
 variancia = np.var(idades, ddof=1)  # ddof=1 para amostra
 desvio_padrao = np.std(idades, ddof=1)
 
+# Idade máxima e mínima
+idade_maxima = max(idades)
+idade_minima = min(idades)
+
 # Definir se o desvio padrão é alto ou baixo
 limite = media * 0.2  # Considerando 20% da média como referência
 if desvio_padrao > limite:
@@ -52,6 +61,12 @@ print(f"Mediana: {mediana}")
 print(f"Moda: {moda}")
 print(f"Variância: {variancia:.2f}")
 print(f"Desvio Padrão: {desvio_padrao:.2f} ({classificacao_dp})")
+print(f"Idade Máxima: {idade_maxima}")
+print(f"Idade Mínima: {idade_minima}")
+
+# Exibir campos e tipos de dados
+print("\nCampos e Tipos de Dados:")
+print(df.dtypes)
 
 # Fim do processamento
 tempo_fim = datetime.now()
