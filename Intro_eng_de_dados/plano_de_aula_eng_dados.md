@@ -21,7 +21,6 @@ Plano de ensino de Introdução a Engenharia de Dados
 - [11. Videos recomendados](#11-videos-recomendados)
 
 
-
 ---
 ## 1. Turma: Introdução a Engenharia de Dados
 
