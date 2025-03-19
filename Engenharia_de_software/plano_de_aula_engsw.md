@@ -12,6 +12,7 @@ Plano de ensino de Engenharia de Software
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
   - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
 - [5. Conteúdo complementar](#5-conteúdo-complementar)
+  - [5.1. Tarefa 1:](#51-tarefa-1)
 - [6. Exercício/trabalho](#6-exercíciotrabalho)
   - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
 - [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
@@ -123,6 +124,13 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ---
 ## 5. Conteúdo complementar
 
+### 5.1. Tarefa 1:
+
+Tarefa 1:
+1. Gerar as um imagem de cada diagrama feito no WhiteStart.
+2. Copiar as imagens para o seu repositório.
+3. Referênciar as imagens dentro do markdown usando 1[descricao](url)
+4. Atualizar o repositório
 
 
 ---
