@@ -98,8 +98,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 7   | 16/abr | 3hs | Conjuntos frequentes. |
 | 8   | 23/abr | 3hs | Regressão. |
 | 9   | 30/abr | 3hs | Descoberta de tópicos em texto. |
-| 10  | 07/mai | 3hs | Ferramentas de chats local.x |
-| 11  | 14/mai | 3hs | **Avaliação 2** |
+| 10  | 07/mai | 3hs | **Avaliação 2** |
+| 11  | 14/mai | 3hs | Ferramentas de chats local. |
 | 12  | 21/mai | 3hs | Data Warehouse. |
 | 13  | 28/mai | 3hs | Big Data x Data Lake. |
 | 14  | 04/jun | 3hs | Virtualização de dados. |
@@ -109,7 +109,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ### 4.1. Unidade de avaliação
 
 * Avaliação 1: 02/04/2025
-* Avaliação 2: 14/05/2025
+* Avaliação 2: 07/05/2025
 * Avaliação 3: 11/06/2025
 
 
