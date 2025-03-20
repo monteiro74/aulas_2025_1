@@ -93,8 +93,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 2   | 12/mar |  | Processo KDD (knowledge Discovery in Database), padrão, Processo CRISP DM, dados estruturados x dados não estruturados, ferramentas de ETL, Data Lake, AWS S3, MinIO bucket, Haddop + HDFS. [Slides da aula 2](https://docs.google.com/presentation/d/1V02SQx7QYmeiPNw3Us-7vMsdQMcgEl32m9uor1A9n3M/view), [Dataset1](https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/dataset1.csv), [Dataset2](https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/dataset2.csv), [Programas exemplos](https://github.com/monteiro74/aulas_2025_1/tree/main/Intro_eng_de_dados). |    
 | 3   | 19/mar | 3hs | Estatística essencial. |
 | 4   | 26/mar | 3hs | Classificação. |
-| 5   | 02/abr | 3hs | Agrupamento. |
-| 6   | 09/abr | 3hs | **Avaliação 1** |
+| 5   | 02/abr | 3hs | **Avaliação 1** |
+| 6   | 09/abr | 3hs | Agrupamento. |
 | 7   | 16/abr | 3hs | Conjuntos frequentes. |
 | 8   | 23/abr | 3hs | Regressão. |
 | 9   | 30/abr | 3hs | Descoberta de tópicos em texto. |
@@ -108,7 +108,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 ### 4.1. Unidade de avaliação
 
-* Avaliação 1: 09/04/2025
+* Avaliação 1: 02/04/2025
 * Avaliação 2: 14/05/2025
 * Avaliação 3: 11/06/2025
 
