@@ -98,13 +98,13 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  2  | 13/mar | 3hs | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Métodos de acesso. Processamento de software. Conceitos de BD e SGBD, Comparações com SO e arquivos. Estrutura interna. [Slides da aula 2](https://docs.google.com/presentation/d/1Q8MyeK5AGzpnQ2yHfWyzstUnkgXiQeJxDYm6Up1Nzr0/view). [Scripts SQL p/ MySQL e SQL Server](https://github.com/monteiro74/aulas_2025_1/tree/main/Modelagem_de_projeto_BD). |
 | 3  | 20/mar  | 3hs | Processamento e controle de transação, concorrência e bloqueio. Conhecendo o SSMS. 1. Introdução ao SQL Server 2022. 2. Instalação do SQL Server 2022. 3. Conhecendo o SSMS. 4. Detalhes do SQL Server 2022.  |
 | 4   | 27/mar | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server.  Criação de tabelas e diagramas no SQL Server. Joins no SQL Server. |
-| 5   | 03/abr | 3hs | **Avaliação 1**  Curso fundamental de Scriptcase e Documentação do Scriptcase. Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.|
-| 6   | 10/abr | 3hs | Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC. |
+| 5   | 03/abr | 3hs | **Avaliação 1**.  |
+| 6   | 10/abr | 3hs | Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.. Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC. |
 | 7   | 17/abr | 3hs | Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel.  |
 | 8   | 24/abr | 3hs | Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).         |
 | 9   | 01/mai | 3hs | Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. |
-| 10  | 08/mai | 3hs | **Avaliação 2** Slides sobre blockchain. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
-| 11  | 15/mai | 3hs | Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table.  |
+| 10  | 08/mai | 3hs | **Avaliação 2**  |
+| 11  | 15/mai | 3hs | Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
 | 12  | 22/mai | 3hs | Blockchain, camada 2, sidechain, BSN. |
 | 13  | 29/mai | 3hs | AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server. |
 | 14  | 05/jun | 3hs | Banco vetorial, SQL Server Profiler. |
