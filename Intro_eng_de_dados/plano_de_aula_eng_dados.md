@@ -129,6 +129,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 11. [MinIO](https://min.io/docs/minio/windows/index.html)
 12. Organge Data Mining (já esta contido dentro do Anaconda).
 13. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/)
+14. [Knime](https://www.knime.com/downloads)
 
 ---
 ## 6. Artigos:
