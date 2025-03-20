@@ -10,8 +10,11 @@
 #
 # Dependências:
 # - pandas: Para manipulação de dados e leitura do arquivo CSV.
+# - numpy biblioteca científica.
+# - statistics biblioteca estatística.
+# - biblioteca para manipular datas e hora.
 #
-# Uso: Coloque o dataset1.csv na mesma pasta que este programa
+# Uso: Coloque o dataset1.csv na mesma pasta que este programa.
 #
 # Dados apresentados:
 # - Média: soma de todos os valores dividida pelo número de elementos.
