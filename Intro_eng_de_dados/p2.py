@@ -11,6 +11,7 @@
 #
 # Dependências:
 # - pandas: Para manipulação de dados e leitura do arquivo CSV.
+# - numpy biblioteca científica.
 #
 # Uso: Coloque o dataset na mesma pasta que este programa
 # ==============================================================================
