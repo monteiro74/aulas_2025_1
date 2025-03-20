@@ -12,6 +12,18 @@
 # - pandas: Para manipulação de dados e leitura do arquivo CSV.
 #
 # Uso: Coloque o dataset1.csv na mesma pasta que este programa
+#
+# Dados apresentados:
+# - Média: soma de todos os valores dividida pelo número de elementos.
+# - Mediana: valor central de um conjunto ordenado de dados.
+# - Moda: valor que mais se repete em um conjunto de dados.
+# - Variância: medida da dispersão dos dados em relação à média.
+# - Amplitude: diferença entre o maior e o menor valor do conjunto.
+# - Desvio padrão: Indicando a dispersão dos dados. O desvio padrão mede o quanto os 
+#   valores de um conjunto de dados estão espalhados em relação à média. Desvio padrão 
+#   baixo: os valores estão próximos da média. Desvio padrão alto: os valores estão 
+#   mais dispersos, ou seja, há maior variação.
+#
 # ==============================================================================
 
 
