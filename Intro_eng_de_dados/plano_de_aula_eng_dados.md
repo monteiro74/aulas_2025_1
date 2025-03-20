@@ -127,6 +127,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
 10. [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe)
 11. [MinIO](https://min.io/docs/minio/windows/index.html)
+12. Organge Data Mining (já esta contido dentro do Anaconda).
+13. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/)
 
 ---
 ## 6. Artigos:
