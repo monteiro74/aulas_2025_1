@@ -10,11 +10,10 @@ Plano de ensino de Engenharia de Software
 - [2. Sites utilizados:](#2-sites-utilizados)
 - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-  - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
-- [5. Conteúdo complementar](#5-conteúdo-complementar)
-  - [5.1. Tarefa 1:](#51-tarefa-1)
-- [6. Exercício/trabalho](#6-exercíciotrabalho)
-  - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
+- [5. Datas de avaliações](#5-datas-de-avaliações)
+- [6. Exercícios](#6-exercícios)
+  - [6.1. Tarefa 1:](#61-tarefa-1)
+  - [6.2. Repositório dos alunos](#62-repositório-dos-alunos)
 - [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
 - [8. Artigos:](#8-artigos)
 - [9. Referências:](#9-referências)
@@ -95,7 +94,6 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ---
 ## 4. Datas de aulas e conteúdo:
 
-
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
 | 1   | 18/fev | 3hs | Apresentação da disciplina. Introdução. Referências bibliográficas. Conceitos de engenharia de software. Introdução e conceitos de engenharia de software. Análise de sistemas e analista de sistemas. Conceitos e características de sistemas. Crise de software. Processos de software (conceito de processo, time lime de processos). Cascata, Espiral, Prototipação, Reuso, Modelo V, RUP. Conceitos de interação e iteração. [Slides da aula1](https://docs.google.com/presentation/d/1tIuagJwEzinInLuPx4IMmtbrp2857sFWZrt73csWhvo/view) e [referências comentadas](https://docs.google.com/presentation/d/1fPCiTa1Hv8-hBUTcj-lHyh2qgsLtupA22h2J90KhRGQ/view). |
@@ -115,16 +113,16 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 15 | | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
-### 4.1. Unidade de avaliação
+## 5. Datas de avaliações
 
 * Avaliação 1: 01/04/2025
 * Avaliação 2: 06/05/2025
 * Avaliação 3: 10/06/2025
 
 ---
-## 5. Conteúdo complementar
+## 6. Exercícios
 
-### 5.1. Tarefa 1:
+### 6.1. Tarefa 1:
 
 Tarefa 1:
 1. Gerar uma imagem de cada diagrama feito no WhiteStart.
@@ -138,11 +136,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 ![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Engenharia_de_software/projeto_modelo_whitestar_v1.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Engenharia_de_software/projeto_modelo_whitestar_v1.png)
 
 
----
-## 6. Exercício/trabalho
-
-
-### 6.1. Repositório dos alunos
+### 6.2. Repositório dos alunos
 
 |     | Aluno                                | Repositório |
 |-----|--------------------------------------|-------------|
@@ -174,9 +168,6 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 | Git    | https://git-scm.com/downloads/win            |
 | GitHub Desktop   | https://desktop.github.com/download/            |
 | Visual Studio Code  Extensões (Markdown All in One, Markdown Preview Mermaid Support)| https://code.visualstudio.com/download |
-
-
-
 
 
 ---
@@ -290,10 +281,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M-rlucvPG94/0.jpg)](https://www.youtube.com/watch?v=M-rlucvPG94)
-
-
 
 2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
 

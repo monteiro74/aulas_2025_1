@@ -10,15 +10,15 @@ Plano de ensino de Introdução a Engenharia de Dados
 - [2. Sites utilizados:](#2-sites-utilizados)
 - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-  - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
-- [5. Links para download de ferramentas:](#5-links-para-download-de-ferramentas)
-- [6. Artigos:](#6-artigos)
-- [7. Referências:](#7-referências)
-- [8. Cursos gratuítos](#8-cursos-gratuítos)
-  - [8.1. Cursos sobre BI com Scriptcase](#81-cursos-sobre-bi-com-scriptcase)
-- [9. Como estudar](#9-como-estudar)
-- [10. Grupos no telegram](#10-grupos-no-telegram)
-- [11. Videos recomendados](#11-videos-recomendados)
+- [5. Datas de avaliações](#5-datas-de-avaliações)
+- [6. Links para download de ferramentas:](#6-links-para-download-de-ferramentas)
+- [7. Artigos:](#7-artigos)
+- [8. Referências:](#8-referências)
+- [9. Cursos gratuítos](#9-cursos-gratuítos)
+  - [9.1. Cursos sobre BI com Scriptcase](#91-cursos-sobre-bi-com-scriptcase)
+- [10. Como estudar](#10-como-estudar)
+- [11. Grupos no telegram](#11-grupos-no-telegram)
+- [12. Videos recomendados](#12-videos-recomendados)
 
 
 ---
@@ -106,7 +106,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 15  |  | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
 
 
-### 4.1. Unidade de avaliação
+## 5. Datas de avaliações
 
 * Avaliação 1: 02/04/2025
 * Avaliação 2: 07/05/2025
@@ -114,7 +114,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 5. Links para download de ferramentas:
+## 6. Links para download de ferramentas:
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -133,7 +133,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 15. [Knime](https://www.knime.com/downloads)
 
 ---
-## 6. Artigos:
+## 7. Artigos:
 
 Artigo 1: [Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado](https://sol.sbc.org.br/index.php/sbbd/article/view/25556).
 
@@ -147,7 +147,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 
 ---
-## 7. Referências:
+## 8. Referências:
 
 * Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
 
@@ -164,14 +164,14 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 [Referências bibliográficas nas bibliotecas virtuais](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view).
 
 ---
-## 8. Cursos gratuítos
+## 9. Cursos gratuítos
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
 
-### 8.1. Cursos sobre BI com Scriptcase
+### 9.1. Cursos sobre BI com Scriptcase
 
 * Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
 * Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
@@ -185,7 +185,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 
 ---
-## 9. Como estudar
+## 10. Como estudar
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -195,7 +195,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 10. Grupos no telegram
+## 11. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -215,7 +215,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 11. Videos recomendados
+## 12. Videos recomendados
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 

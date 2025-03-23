@@ -11,17 +11,14 @@ Planos de aula Modelagem e Projeto de Banco de Dados
 - [2. Sites utilizados:](#2-sites-utilizados)
 - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
-  - [4.1. Unidade de avaliação](#41-unidade-de-avaliação)
-- [5. Conteúdo complementar](#5-conteúdo-complementar)
-- [6. Exercício/trabalho](#6-exercíciotrabalho)
-  - [6.1. Repositório dos alunos](#61-repositório-dos-alunos)
-- [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
-- [8. Artigos:](#8-artigos)
-- [9. Referências:](#9-referências)
-- [10. Cursos gratuítos](#10-cursos-gratuítos)
-- [11. Como estudar](#11-como-estudar)
-- [12. Grupos no telegram](#12-grupos-no-telegram)
-- [13. Videos recomendados](#13-videos-recomendados)
+- [5. Unidades de avaliações](#5-unidades-de-avaliações)
+- [6. Links para download de ferramentas:](#6-links-para-download-de-ferramentas)
+- [7. Artigos:](#7-artigos)
+- [8. Referências:](#8-referências)
+- [9. Cursos gratuítos](#9-cursos-gratuítos)
+- [10. Como estudar](#10-como-estudar)
+- [11. Grupos no telegram](#11-grupos-no-telegram)
+- [12. Videos recomendados](#12-videos-recomendados)
 
 
 ---
@@ -111,30 +108,16 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 15  | 12/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
-### 4.1. Unidade de avaliação
+## 5. Unidades de avaliações
 
 * Avaliação 1: 03/04/2025
 * Avaliação 2: 08/05/2025
 * Avaliação 3: 12/06/2025
 
----
-## 5. Conteúdo complementar
 
 
 ---
-## 6. Exercício/trabalho
-
-### 6.1. Repositório dos alunos
-
-|     | Aluno        | Repositório |
-|-----|--------------|-------------|
-| 1   |              |             |
-| 2   |              |             |
-| 3   |              |             |
-| 4   |              |             |
-
----
-## 7. Links para download de ferramentas:
+## 6. Links para download de ferramentas:
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -147,7 +130,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
 
 ---
-## 8. Artigos:
+## 7. Artigos:
 
 Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
 https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
@@ -162,7 +145,7 @@ Os desafios da administração pública na disponibilização de dados sensívei
 https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
 
 ---
-## 9. Referências:
+## 8. Referências:
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.
 
@@ -183,7 +166,7 @@ Referências na biblioteca virtual:
 [referências bibliográficas](https://docs.google.com/presentation/d/1StFHjTjcc9mpTTDoWmMHJibmx2n17o8FLwxMhHskXZo/view).
 
 ---
-## 10. Cursos gratuítos
+## 9. Cursos gratuítos
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
@@ -203,7 +186,7 @@ Referências na biblioteca virtual:
 
 
 ---
-## 11. Como estudar
+## 10. Como estudar
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -214,7 +197,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Grupos no telegram
+## 11. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -234,7 +217,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 13. Videos recomendados
+## 12. Videos recomendados
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
