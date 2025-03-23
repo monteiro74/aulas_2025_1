@@ -34,7 +34,7 @@ Plano de ensino de Engenharia de Software
 
 ### 1.2. Horário: 19hs - 22hs
 
-### 1.3. Ementa:
+### 1.3. Ementa
 
 * Processos de software.
 * Métodos tradicionais de análise de sistemas.
@@ -42,13 +42,13 @@ Plano de ensino de Engenharia de Software
 * Introdução a UML.
 * Projeto de Software.
 
-### 1.4. Metodologia:
+### 1.4. Metodologia
 
 * Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
 * Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
 * Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
-### 1.5. Procedimentos de avaliação de aprendizagem:
+### 1.5. Procedimentos de avaliação de aprendizagem
 
 **Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
@@ -68,12 +68,12 @@ Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5,
 
 **Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
-### 1.6. Horário de atendimento:
+### 1.6. Horário de atendimento
 
 No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
 ---
-## 2. Sites utilizados:
+## 2. Sites utilizados
 
 
 |Sites utilizados|Url|
@@ -84,7 +84,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do|
 
 ---
-## 3. Repositórios de apoio:
+## 3. Repositórios de apoio
 
 |Sites utilizados|Url|
 |-----|-----|
@@ -92,7 +92,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
-## 4. Datas de aulas e conteúdo:
+## 4. Datas de aulas e conteúdo
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
@@ -122,7 +122,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ---
 ## 6. Exercícios
 
-### 6.1. Tarefa 1:
+### 6.1. Tarefa 1
 
 Tarefa 1:
 1. Gerar uma imagem de cada diagrama feito no WhiteStart.
@@ -158,7 +158,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 
 
 ---
-## 7. Links para download de ferramentas:
+## 7. Links para download de ferramentas
 
 | Ferramenta| URL |
 |-----------|-------------|
@@ -189,7 +189,7 @@ https://periodicos.set.edu.br/exatas/article/view/8809
 https://www.researchgate.net/publication/228849325_Interdisciplinaridade_na_Engenharia_de_Software
 
 ---
-## 9. Referências:
+## 9. Livros
 
 * PRESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011.
 Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41
@@ -236,7 +236,7 @@ https://www.infoq.com/minibooks/emag-business-design-technology/
 
 
 ---
-## 10. Cursos gratuítos:
+## 10. Cursos gratuítos
 
 * Receita para Levantar Requisitos de Software.
 https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/

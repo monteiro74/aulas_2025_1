@@ -3,17 +3,18 @@ Plano de ensino de Introdução a Engenharia de Dados
 - [1. Turma: Introdução a Engenharia de Dados](#1-turma-introdução-a-engenharia-de-dados)
   - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
   - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
-  - [1.3. Ementa:](#13-ementa)
-  - [1.4. Metodologia:](#14-metodologia)
-  - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
-  - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
-- [2. Sites utilizados:](#2-sites-utilizados)
-- [3. Repositórios de apoio:](#3-repositórios-de-apoio)
-- [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
+  - [1.3. Ementa](#13-ementa)
+  - [1.4. Metodologia](#14-metodologia)
+  - [1.5. Procedimentos de avaliação de aprendizagem](#15-procedimentos-de-avaliação-de-aprendizagem)
+  - [1.6. Horário de atendimento](#16-horário-de-atendimento)
+- [2. Sites utilizados](#2-sites-utilizados)
+- [3. Repositórios de apoio](#3-repositórios-de-apoio)
+- [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
 - [5. Datas de avaliações](#5-datas-de-avaliações)
-- [6. Links para download de ferramentas:](#6-links-para-download-de-ferramentas)
+- [6. Links para download de ferramentas](#6-links-para-download-de-ferramentas)
 - [7. Artigos:](#7-artigos)
-- [8. Referências:](#8-referências)
+- [8. Livros (básicos)](#8-livros-básicos)
+  - [8.1. Outras referências complementares](#81-outras-referências-complementares)
 - [9. Cursos gratuítos](#9-cursos-gratuítos)
   - [9.1. Cursos sobre BI com Scriptcase](#91-cursos-sobre-bi-com-scriptcase)
 - [10. Como estudar](#10-como-estudar)
@@ -28,19 +29,19 @@ Plano de ensino de Introdução a Engenharia de Dados
 
 ### 1.2. Horário: 19hs - 22hs
 
-### 1.3. Ementa:
+### 1.3. Ementa
 
 * Data Warehouse: fundamentos, técnicas e ferramentas. 
 * Conceitos, técnicas e aplicações de Big data. 
 * Conceitos de coleta e técnicas de Mineração de dados.
 
-### 1.4. Metodologia:
+### 1.4. Metodologia
 
 * Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
 * Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
 * Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
-### 1.5. Procedimentos de avaliação de aprendizagem:
+### 1.5. Procedimentos de avaliação de aprendizagem
 
 **Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
@@ -60,12 +61,12 @@ Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5,
 
 **Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
-### 1.6. Horário de atendimento:
+### 1.6. Horário de atendimento
 
 No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
 ---
-## 2. Sites utilizados:
+## 2. Sites utilizados
 
 
 |Sites utilizados|Url|
@@ -76,7 +77,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do|
 
 ---
-## 3. Repositórios de apoio:
+## 3. Repositórios de apoio
 
 |Sites utilizados|Url|
 |-----|-----|
@@ -84,7 +85,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
-## 4. Datas de aulas e conteúdo:
+## 4. Datas de aulas e conteúdo
 
 
 |Aula | Data   | Carga horária| Conteúdo |
@@ -114,7 +115,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 6. Links para download de ferramentas:
+## 6. Links para download de ferramentas
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -147,7 +148,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 
 ---
-## 8. Referências:
+## 8. Livros (básicos)
 
 * Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
 
@@ -162,6 +163,30 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
 
 [Referências bibliográficas nas bibliotecas virtuais](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view).
+
+
+---
+### 8.1. Outras referências complementares
+
+* CAMILO, C.O.; SILVA, J.C. da. Mineração de dados: conceitos, tarefas, métodos e ferramentas. 2009. 29 f. Relatório técnico. Universidade Federal de Goiás, Instituto de Informática, Goiânia. Disponível em: <http://www.portal.inf.ufg.br/sites/default/files/uploads/relatorios-tecnicos/RT-INF_001-09.pdf>. Acesso em: 22 jun. 2018.
+
+* CARDOSO, R. Uma visão geral sobre a limpeza dos dados. IBPAD - Instituto Brasileiro de Pesquisa e Análise de Dados, 2018. Disponível em: <https://www.ibpad.com.br/blog/comunicacao-digital/uma-visao-geral-sobre-a-limpeza-dos-dados/>. Acesso em: 28 jun. 2018.
+
+* CASTRO, L.N.; FERRARI, D.G. Limpeza dos dados. In: Introdução à mineração de dados. São Paulo: Saraiva, 2016. Disponível em: <https://books.google.com.br/books?id=SSlrDwAAQBAJ&lpg=PT62&ots=_zghbdKOeE&dq=Dados%20ausentes%2C%20discrepantes%20e%20derivados&hl=pt-BR&pg=PP1#v=onepage&q=Dados%20ausentes,%20discrepantes%20e%20derivados&f=false>. Acesso em: 06 nov. 2018.
+
+* CLESIO, F. 7 técnicas para redução da dimensionalidade. Data Mining / Machine Learning / Data Analysis, 2015. Disponível em: <https://mineracaodedados.wordpress.com/2015/06/13/7-tecnicas-para-reducao-da-dimensionalidade/>. Acesso em: 28 jun. 2018.
+
+* DATAIKU Collaborative Data Science Platform. Disponível em: <http://dataiku.com/>. Acesso em: 22 jun. 2018.
+
+* DATA mining. Wikipedia, 2018. Disponível em: <https://en.wikipedia.org/wiki/Data_mining>. Acesso em: 22 jun. 2018.
+
+* KAGGLE, 2018. Disponível em: <https://www.kaggle.com/>. Acesso em: 28 jun. 2018.
+
+* KNIME, 2018. Disponível em: <https://www.knime.com/>. Acesso em: 09 out. 2018.
+
+* PAPPA, G.L. Introdução a algoritmos de computação natural para mineração de dados. Belo Horizonte: DCC/UFMG, 2015. 77 slides. Disponível em: <https://homepages.dcc.ufmg.br/~glpappa/slides/Curso-Parte1.pdf>. Acesso em: 05 nov. 2018.
+
+* ZAKI, J.M.; MEIRA JR, W. Data mining and analysis: fundamental concepts and algorithms. England: Cambridge University Press, 2014. Disponível em: <https://dataminingbook.info/book_html/>. Acesso em: 02 out. 2020.
 
 ---
 ## 9. Cursos gratuítos

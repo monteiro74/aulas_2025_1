@@ -28,7 +28,7 @@ Planos de aula Modelagem e Projeto de Banco de Dados
 
 ### 1.2. Horário: 19hs - 22hs
 
-### 1.3. Ementa:
+### 1.3. Ementa
 
 * Conceitos sistemas de gerenciamento de banco de dados;
 * Níveis de arquiteturas de banco de dados; 
@@ -36,13 +36,13 @@ Planos de aula Modelagem e Projeto de Banco de Dados
 * Restrições e Normalização; 
 * Modelos de banco de dados não-relacional.
 
-### 1.4. Metodologia:
+### 1.4. Metodologia
 
 * Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
 * Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
 * Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
-### 1.5. Procedimentos de avaliação de aprendizagem:
+### 1.5. Procedimentos de avaliação de aprendizagem
 
 **Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
@@ -62,12 +62,12 @@ Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5,
 
 **Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
-### 1.6. Horário de atendimento:
+### 1.6. Horário de atendimento
 
 No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
 ---
-## 2. Sites utilizados:
+## 2. Sites utilizados
 
 
 |Sites utilizados|Url|
@@ -78,7 +78,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do|
 
 ---
-## 3. Repositórios de apoio:
+## 3. Repositórios de apoio
 
 |Sites utilizados|Url|
 |-----|-----|
@@ -86,7 +86,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
-## 4. Datas de aulas e conteúdo:
+## 4. Datas de aulas e conteúdo
 
 
 |Aula | Data   | Carga horária| Conteúdo |
@@ -117,7 +117,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 6. Links para download de ferramentas:
+## 6. Links para download de ferramentas
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -130,7 +130,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
 
 ---
-## 7. Artigos:
+## 7. Artigos
 
 Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
 https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
@@ -145,7 +145,7 @@ Os desafios da administração pública na disponibilização de dados sensívei
 https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
 
 ---
-## 8. Referências:
+## 8. Livros
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.
 
