@@ -5,6 +5,7 @@
 # Descrição: Este script gera uma tabela com um campo novo chamado classe prevista
 #            e a saída é gravada em um arquivo csv, ele implementa a classificação
 #            usando k-nn.
+#            Gera ao final o dataset: clientes_classificados.csv
 #
 # Autor: Nome do aluno
 # Data de Criação: 

@@ -5,6 +5,7 @@
 # Descrição: Este script gera uma tabela com um campo novo chamado classe prevista
 #            e a saída é gravada em um arquivo csv e um gráfico de árvore de decisão 
 #            ele implementa a classificação usando arvore de decisão.
+#            Gera ao final o dataset: clientes_classificados3.csv
 #
 # Autor: Nome do aluno
 # Data de Criação: 
