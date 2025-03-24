@@ -4,17 +4,17 @@ Planos de aula Modelagem e Projeto de Banco de Dados
 - [1. Turma: Modelagem e Projeto de Banco de Dados](#1-turma-modelagem-e-projeto-de-banco-de-dados)
   - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
   - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
-  - [1.3. Ementa:](#13-ementa)
-  - [1.4. Metodologia:](#14-metodologia)
-  - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
-  - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
-- [2. Sites utilizados:](#2-sites-utilizados)
-- [3. Repositórios de apoio:](#3-repositórios-de-apoio)
-- [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
+  - [1.3. Ementa](#13-ementa)
+  - [1.4. Metodologia](#14-metodologia)
+  - [1.5. Procedimentos de avaliação de aprendizagem](#15-procedimentos-de-avaliação-de-aprendizagem)
+  - [1.6. Horário de atendimento](#16-horário-de-atendimento)
+- [2. Sites utilizados](#2-sites-utilizados)
+- [3. Repositórios de apoio](#3-repositórios-de-apoio)
+- [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
 - [5. Unidades de avaliações](#5-unidades-de-avaliações)
-- [6. Links para download de ferramentas:](#6-links-para-download-de-ferramentas)
-- [7. Artigos:](#7-artigos)
-- [8. Referências:](#8-referências)
+- [6. Links para download de ferramentas](#6-links-para-download-de-ferramentas)
+- [7. Artigos](#7-artigos)
+- [8. Livros](#8-livros)
 - [9. Cursos gratuítos](#9-cursos-gratuítos)
 - [10. Como estudar](#10-como-estudar)
 - [11. Grupos no telegram](#11-grupos-no-telegram)
@@ -100,7 +100,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 7   | 17/abr | 3hs | Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel.  |
 | 8   | 24/abr | 3hs | Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).         |
 | 9   | 01/mai | 3hs | Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. |
-| 10  | 08/mai | 3hs | **Avaliação 2**  |
+| 10  | 08/mai | 3hs | **Avaliação 2**.  |
 | 11  | 15/mai | 3hs | Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
 | 12  | 22/mai | 3hs | Blockchain, camada 2, sidechain, BSN. |
 | 13  | 29/mai | 3hs | AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server. |
