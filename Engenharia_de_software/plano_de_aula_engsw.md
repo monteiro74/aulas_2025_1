@@ -3,24 +3,24 @@ Plano de ensino de Engenharia de Software
 - [1. Turma: Engenharia de Software](#1-turma-engenharia-de-software)
   - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
   - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
-  - [1.3. Ementa:](#13-ementa)
-  - [1.4. Metodologia:](#14-metodologia)
-  - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
-  - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
-- [2. Sites utilizados:](#2-sites-utilizados)
-- [3. Repositórios de apoio:](#3-repositórios-de-apoio)
-- [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
+  - [1.3. Ementa](#13-ementa)
+  - [1.4. Metodologia](#14-metodologia)
+  - [1.5. Procedimentos de avaliação de aprendizagem](#15-procedimentos-de-avaliação-de-aprendizagem)
+  - [1.6. Horário de atendimento](#16-horário-de-atendimento)
+- [2. Sites utilizados](#2-sites-utilizados)
+- [3. Repositórios de apoio](#3-repositórios-de-apoio)
+- [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
 - [5. Datas de avaliações](#5-datas-de-avaliações)
 - [6. Exercícios](#6-exercícios)
-  - [6.1. Tarefa 1:](#61-tarefa-1)
+  - [6.1. Tarefa 1](#61-tarefa-1)
   - [6.2. Repositório dos alunos](#62-repositório-dos-alunos)
-- [7. Links para download de ferramentas:](#7-links-para-download-de-ferramentas)
+- [7. Links para download de ferramentas](#7-links-para-download-de-ferramentas)
 - [8. Artigos:](#8-artigos)
-- [9. Referências:](#9-referências)
+- [9. Livros](#9-livros)
   - [9.1. Livro sobre .Net Maui](#91-livro-sobre-net-maui)
   - [9.2. Tutorial sobre .Net Maui](#92-tutorial-sobre-net-maui)
   - [9.3. Livros sobre Scrum (em PDF)](#93-livros-sobre-scrum-em-pdf)
-- [10. Cursos gratuítos:](#10-cursos-gratuítos)
+- [10. Cursos gratuítos](#10-cursos-gratuítos)
 - [11. Como estudar](#11-como-estudar)
 - [12. Grupos no telegram](#12-grupos-no-telegram)
 - [13. Videos recomendados](#13-videos-recomendados)
@@ -152,7 +152,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 | 10  | NEILSON FERREIRA SEVERINO            | https://github.com/Neilson-hub/Aula-ENGENHARIA-DE-SOFTWARE            |	
 | 11  | PAULO CÉSAR MOGGI DE SOUZA	         |             |
 | 12  | PIRAKTA TAWA IKPENG                  | https://github.com/pirakta/Engenharia_de_Dados            |
-| 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software |
+| 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software e https://github.com/Ryller99/Engenharia_de_Software |
 | 14  | VINÍCIUS FREITAS                     | https://github.com/VincFreitas/Vinicius-Freitas   |
 
 
