@@ -150,7 +150,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 | 8   | LUCAS DA ROSA                        |  https://github.com/lucasrveni/Eng-Software           |
 | 9   | MARCIO CORREIA                       |             |
 | 10  | NEILSON FERREIRA SEVERINO            | https://github.com/Neilson-hub/Aula-ENGENHARIA-DE-SOFTWARE            |	
-| 11  | PAULO CÉSAR MOGGI DE SOUZA	         |             |
+| 11  | PAULO CÉSAR MOGGI DE SOUZA	         | https://github.com/pmoggii/eng-sotware            |
 | 12  | PIRAKTA TAWA IKPENG                  | https://github.com/pirakta/Engenharia_de_Dados            |
 | 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software -> https://github.com/Ryller99/Engenharia_de_Software |
 | 14  | VINÍCIUS FREITAS                     | https://github.com/VincFreitas/Vinicius-Freitas   |
