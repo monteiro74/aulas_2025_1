@@ -140,7 +140,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 
 |     | Aluno                                | Repositório |
 |-----|--------------------------------------|-------------|
-| 1   | ANDRE FERREIRA HASHIMOTO             | https://github.com/AndreFerreiraHashimoto/Engenharia-de-Software  |
+| 1   | ANDRE FERREIRA HASHIMOTO             | https://github.com/AndreFerreiraHashimoto/Engenharia-de-Software ->https://github.com/AndreFerreiraHashimoto/Engenharia-de-Software |
 | 2   | DENIS MATEUS BRITOS LOPES            | https://github.com/Denis447mt/Denis  |
 | 3   | DYENIFER SILVA CUNHA                 | https://github.com/Dyeni9/ENGENHARIA-DE-SOFTWARE-DYENIFER-SILVA -> https://github.com/Dyeni9/Engenharia-de-Softwares-Dyenifer|
 | 4   | IZABELA AMARAL DE SOUZA	             | https://github.com/Izabelaamaral/IZABELA_AMARAL_DE_SOUZA_Eng._de_Software  |
@@ -152,7 +152,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 | 10  | NEILSON FERREIRA SEVERINO            | https://github.com/Neilson-hub/Aula-ENGENHARIA-DE-SOFTWARE            |	
 | 11  | PAULO CÉSAR MOGGI DE SOUZA	         |             |
 | 12  | PIRAKTA TAWA IKPENG                  | https://github.com/pirakta/Engenharia_de_Dados            |
-| 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software e https://github.com/Ryller99/Engenharia_de_Software |
+| 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software -> https://github.com/Ryller99/Engenharia_de_Software |
 | 14  | VINÍCIUS FREITAS                     | https://github.com/VincFreitas/Vinicius-Freitas   |
 
 
