@@ -142,7 +142,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 |-----|--------------------------------------|-------------|
 | 1   | ANDRE FERREIRA HASHIMOTO             | https://github.com/AndreFerreiraHashimoto/Engenharia-de-Software  |
 | 2   | DENIS MATEUS BRITOS LOPES            | https://github.com/Denis447mt/Denis  |
-| 3   | DYENIFER SILVA CUNHA                 | https://github.com/Dyeni9/ENGENHARIA-DE-SOFTWARE-DYENIFER-SILVA |
+| 3   | DYENIFER SILVA CUNHA                 | https://github.com/Dyeni9/ENGENHARIA-DE-SOFTWARE-DYENIFER-SILVA -> https://github.com/Dyeni9/Engenharia-de-Softwares-Dyenifer|
 | 4   | IZABELA AMARAL DE SOUZA	             | https://github.com/Izabelaamaral/IZABELA_AMARAL_DE_SOUZA_Eng._de_Software  |
 | 5   | JOÃO LUIZ RODIGHERO TELÓ             | https://github.com/JoaoLuizRTelo/JoaoLuizTelo            |
 | 6   | JOSE FERNANDO BOSSOI MOREIRA COSTA   | https://github.com/JoseBossoi/SoftEng2025-Unemat-            |
