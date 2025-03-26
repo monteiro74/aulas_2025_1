@@ -65,7 +65,11 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 
 MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
 
+[Trabalho de conclusão de curso: Guia de elaboração passo a passo](https://www.amazon.com.br/Trabalho-conclus%C3%A3o-curso-elabora%C3%A7%C3%A3o-passo/dp/8522108005)
 
+
+
+[TCC PARA LEIGOS: UMA ABORDAGEM CLARA E SIMPLES PARA A ELABORAÇÃO DO SEU TRABALHO DE CONCLUSÃO DE CURSO](https://www.amazon.com.br/TCC-PARA-LEIGOS-ABORDAGEM-ELABORA%C3%87%C3%83O-ebook/dp/B08LSSNFH4/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1VEF0ZZDIKGBT&dib=eyJ2IjoiMSJ9.eiWQCHbHnRiT4Tt-FbFzX3iiKtHt0P8DBAAStm8Qhh3uof9zW7aJHZzZDowmoZ2GnUAXy2wumohaW1tAUUEZ3GBlPUjTzR4L7FvJUiExlzWqBNLKjdtooB4XTTjlDkv3VoZNrdpbFObceDurT2oby5m4SwICvkqvzuT4-Sv1Y6mZMkwKWZegYPGqiVl5ry_xtmAD9MQ4D8ZCfql8WBQKFT7xOGlImvQFLCL7lPtVtIU.qYOjNQ1xZWPXG5EhLdJs6X8FyJ6jnFL3RbOcrxYytv0&dib_tag=se&keywords=tcc&qid=1742959133&rnid=6740748011&s=books&sprefix=tcc%2Cstripbooks%2C320&sr=1-2)
 
 --- 
 # 6. Dicas para a escrita do TCC
@@ -74,3 +78,4 @@ Na introdução descreva...
 1. Justificativa ou motivação (porque é necessário esse desenvolvimento)
 2. Problema: O que esta acontecende de errado porque o problema esta ativo e ainda não tem solução.
 3. Objetivo geral: Onde vc quer chegar com essa solução que esta proponto.
+
