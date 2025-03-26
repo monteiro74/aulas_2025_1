@@ -6,10 +6,10 @@ Plano de ensino de Introdução a Engenharia de Dados
 
 ## 1.1. Datas
 
-Terças e quartas: preferencialmente presencial.
+Terças e quartas: preferencialmente presencial.<br>
 Sábado, às 15hs, on-line (conforme previamente acordado).
 
-## 1.2. Ementa
+## 1.2. Conteúdo desta página
 
 * Elaboração do pré-projeto de TCC1.
 * Elaboração de artigo para o TCC2.
@@ -25,16 +25,16 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 |18/03| Presencial | Definição de temas para Leonardi. |
 |14/03/2025| Online | Sobre datas, como elaborar, tema, convite de colegas etc. |
 |18/03/2025| Online|  Orientação p/ Matheus, assinatura de documento. |
-|25/03/2025|  Presencial | Orientação p/ Leonardi: <br> 1) Imprimir diagrama. <br> 2) Não colocar nome de produto no diagrama.<br> 3) Iniciar escrita do capítulo 1 (Introdução). <br> 4) Compartilhar o documento do TCC1. <br> Orientação p/ Matheus:<br> 1) Imprimir diagrama. <br> 2) Iniciar escrita do capítulo 1 (Introdução). 3) Colocar o código do processo no ChatGPT e pedir para o chat gerar um fluxograma explicando cada etapa do processo. <br> 4) Compartilhar documento do TCC1. |
+|25/03/2025|  Presencial | Orientação p/ <b>Leonardi</b>: <br> 1) Imprimir diagrama. <br> 2) Não colocar nome de produto no diagrama.<br> 3) Iniciar escrita do capítulo 1 (Introdução). <br> 4) Compartilhar o documento do TCC1. <br> Orientação p/ <b>Matheus</b>:<br> 1) Imprimir diagrama. <br> 2) Iniciar escrita do capítulo 1 (Introdução). 3) Colocar o código do processo no ChatGPT e pedir para o chat gerar um fluxograma explicando cada etapa do processo. <br> 4) Compartilhar documento do TCC1. |
 | 01/04/2025 | Presencial |  |
 | 08/04/2025 | Presencial | Iniciar capítulo de fundamentação teórica. |
 | 15/04/2025 | Presencial | Terminar capítulo de fundamentação teórica e iniciar capítulo de metodologia. |
 | 22/04/2025 | Presencial | Escrita de metodologia. |
 | 29/04/2025 | Presencial | Rever referências e formatação, preparar apresentação. |
 | 06/05/2025 | Presencial | Rever referências e formatação, preparar apresentação. |
-| 13/05/2025 | Presencial | Provável versão final, encaminhar para banca. |
-| 20/05/2025 | Presencial | Provável defesa. |
-| 27/05/2025 | Presencial | Provável defesa. |
+| 13/05/2025 | Presencial | Provável versão final, provável encaminhar para banca. |
+| 20/05/2025 | Presencial | Provável defesa (provável). |
+| 27/05/2025 | Presencial | Provável defesa (provável). |
 | 03/06/2025 | Presencial | Correções e entrega versão final. |
 | 10/06/2025 | Presencial |  |
 
@@ -60,9 +60,15 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 [MANUAL ABNT: REGRAS GERAIS DE ESTILO E FORMATAÇÃO DE TRABALHOS ACADÊMICOS](https://www.fecap.br/wp-content/uploads/2021/04/Manual-ABNT-2021-1.pdf)
 
 
+---
+# 5. Referências bibliográficas
+
+MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
+
+
 
 --- 
-# 5. Dicas para a escrita do TCC
+# 6. Dicas para a escrita do TCC
 
 Na introdução descreva...
 1. Justificativa ou motivação (porque é necessário esse desenvolvimento)
