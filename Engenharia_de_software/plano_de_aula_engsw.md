@@ -138,6 +138,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 ![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Engenharia_de_software/projeto_modelo_whitestar_v1.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Engenharia_de_software/projeto_modelo_whitestar_v1.png)
 
 
+
 ### 6.2. Repositório dos alunos
 
 |     | Aluno                                | Repositório |
