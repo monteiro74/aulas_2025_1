@@ -161,9 +161,47 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 
 ### 6.3. Exemplos de prompts
 
+> [!TIP]
+> Faça uma tabela usando Markdown, com duas colunas, uma coluna indicando o requisito e a outra coluna indicando o tipo de requisito (como "Funcional" ou "Não funcional"), para esta tarefa use a lista abaixo:
+
+> [!TIP]
+> Faça uma tabela usando Markdown, com duas colunas, uma coluna indicando o requisito e a outra coluna indicando o tipo de requisito (como "Funcional" ou "Não funcional"), para esta tarefa use a lista abaixo:
+
+> [!TIP]
+> Faça um diagrama de classe usando Markdown e Mermaid, para os requisitos abaixo:
+
+> [!TIP]
+> Faça um diagrama de Entidade Relacionamento usando Markdown e Mermaid, para os requisitos abaixo:
+
+> [!TIP]
+> Faça um Script SQL para MySQL, para o diagrama Mermaid acima:
+
+> [!TIP]
+> Faça um Script SQL para MySQL, usando os comandos Create table anteriores, para popular as tabelas do banco com pelo menos 5 registros ficticios
+
+
 
 ### 6.4. Exemplo de índice (TOC)
 
+- [1. Introdução](#1-introdução)
+- [2. Descrição](#2-descrição)
+  - [2.1. Requisitos.](#21-requisitos)
+  - [2.2. Funcionais e não-funcionais](#22-funcionais-e-não-funcionais)
+- [3. Diagramas](#3-diagramas)
+  - [3.1. Diagrama de classe](#31-diagrama-de-classe)
+    - [digrama feito no white star (versão 1)](#digrama-feito-no-white-star-versão-1)
+    - [3.1.1. Descrição do Diagrama de classe:](#311-descrição-do-diagrama-de-classe)
+  - [3.2. Diagrama ER](#32-diagrama-er)
+  - [3.3. Diagrama de casos de uso](#33-diagrama-de-casos-de-uso)
+  - [3.3. Diagrama de atividade](#33-diagrama-de-atividade)
+  - [3.4. Diagrama de componentes](#34-diagrama-de-componentes)
+  - [3.5. Diagrama de implantação](#35-diagrama-de-implantação)
+  - [4. Histórias de usuário](#4-histórias-de-usuário)
+  - [5. Protótipo de telas](#5-protótipo-de-telas)
+  - [6. Diagrama de navegação de tela](#6-diagrama-de-navegação-de-tela)
+  - [Anexos](#anexos)
+    - [A.1. Script SQL](#a1-script-sql)
+    - [A.2. Dados artificiais para testes de banco](#a2-dados-artificiais-para-testes-de-banco)
 
 ---
 ## 7. Links para download de ferramentas
