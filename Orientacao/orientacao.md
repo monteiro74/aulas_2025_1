@@ -24,7 +24,7 @@ Terças e quartas: presencial.
 |18/03| Presencial | Definição de temas para Leonardi. |
 |14/03/2025| Online | Sobre datas, como elaborar, tema, convite de colegas etc. |
 |18/03/2025| Online|  Orientação p/ Matheus, assinatura de documento. |
-|25/03/2025|  Presencial | Orientação p/ Leonardi: imprimir diagrama, não colocar nome de produto, iniciar escrita do capítulo1,  compartilhar o documento do TCC1. Orientação p/ Matheus: imprimir diagrama, não colocar nome de produto, iniciar escrita do capítulo1, colocar o código do processo no chatgpt e pedir para ele gerar um fluxograma explicando cada etapa do processo compartilhar documento do TCC1. |
+|25/03/2025|  Presencial | Orientação p/ Leonardi: <br> 1) Imprimir diagrama. <br> 2) Não colocar nome de produto no diagrama.<br> 3) Iniciar escrita do capítulo 1 (Introdução). <br> 4) Compartilhar o documento do TCC1. <br> Orientação p/ Matheus:<br> 1) Imprimir diagrama. <br> 2) Iniciar escrita do capítulo 1 (Introdução). 3) Colocar o código do processo no ChatGPT e pedir para o chat gerar um fluxograma explicando cada etapa do processo. <br> 4) Compartilhar documento do TCC1. |
 
 
 ---
