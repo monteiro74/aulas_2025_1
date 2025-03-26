@@ -18,6 +18,9 @@ Terças e quartas: presencial.
 1. 12/03 Presencial.
 2. 15/03 On-line.
 3. 18/03 Presencial.
+4. 14/03/2025: Sobre datas, como elaborar, tema, convite de colegas, etc.
+5. 18/03/2025: Orientação p/ Matheus, assinatura de documento.
+6. 25/03/2025: Orientação p/ Leonardi:
 
 # 3. Referências de normas
 
