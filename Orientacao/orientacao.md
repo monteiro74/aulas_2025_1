@@ -59,3 +59,12 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 
 [MANUAL ABNT: REGRAS GERAIS DE ESTILO E FORMATAÇÃO DE TRABALHOS ACADÊMICOS](https://www.fecap.br/wp-content/uploads/2021/04/Manual-ABNT-2021-1.pdf)
 
+
+
+--- 
+# 5. Dicas para a escrita do TCC
+
+Na introdução descreva...
+1. Justificativa ou motivação (porque é necessário esse desenvolvimento)
+2. Problema: O que esta acontecende de errado porque o problema esta ativo e ainda não tem solução.
+3. Objetivo geral: Onde vc quer chegar com essa solução que esta proponto.
