@@ -15,12 +15,15 @@ Terças e quartas: presencial.
 
 # 2. Datas de reunião
 
-1. 12/03 Presencial.
+1. 12/03 Presencial: explicações sobre dif. entre o TCC1 e TCC2.
 2. 15/03 On-line.
-3. 18/03 Presencial.
-4. 14/03/2025: Sobre datas, como elaborar, tema, convite de colegas, etc.
-5. 18/03/2025: Orientação p/ Matheus, assinatura de documento.
-6. 25/03/2025: Orientação p/ Leonardi:
+3. 18/03 Presencial: Definição de temas para Leonardi.
+4. 14/03/2025: Online, Sobre datas, como elaborar, tema, convite de colegas, etc.
+5. 18/03/2025: Online, Orientação p/ Matheus, assinatura de documento.
+6. 25/03/2025:  Presencial. Orientação p/ Leonardi: imprimir diagrama, não colocar nome de produto, 
+                iniciar escrita do capítulo1,  compartilhar o documento do TCC1.
+                Orientação p/ Matheus: imprimir diagrama, não colocar nome de produto, iniciar escrita do capítulo1, colocar o código do processo no chatgpt e pedir para ele gerar um fluxograma explicando cada etapa do processo, 
+                compartilhar documento do TCC1.
 
 # 3. Referências de normas
 
