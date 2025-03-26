@@ -14,6 +14,8 @@ Plano de ensino de Engenharia de Software
 - [6. Exercícios](#6-exercícios)
   - [6.1. Tarefa 1](#61-tarefa-1)
   - [6.2. Repositório dos alunos](#62-repositório-dos-alunos)
+  - [6.3. Exemplos de prompts](#63-exemplos-de-prompts)
+  - [6.4. Exemplo de índice (TOC)](#64-exemplo-de-índice-toc)
 - [7. Links para download de ferramentas](#7-links-para-download-de-ferramentas)
 - [8. Artigos:](#8-artigos)
 - [9. Livros](#9-livros)
@@ -155,6 +157,11 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 | 13  | RYLLER BRITO PEREIRA                 | https://github.com/Ryller99/Eng_Software -> https://github.com/Ryller99/Engenharia_de_Software |
 | 14  | VINÍCIUS FREITAS                     | https://github.com/VincFreitas/Vinicius-Freitas   |
 
+
+### 6.3. Exemplos de prompts
+
+
+### 6.4. Exemplo de índice (TOC)
 
 
 ---
