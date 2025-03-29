@@ -1,5 +1,4 @@
-Plano de ensino de Introdução a Engenharia de Dados
-
+Orientações em andamento
 
 ---
 # 1. Turma: Orientação
@@ -16,7 +15,9 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 
 
 ---
-# 2. Datas de reunião e conteúdo
+# 2. Datas de reunião e conteúdo para orientação 
+
+## 2.1. Para o TCC1
 
 | Data | Tipo | Observação |
 |---|---|---|
@@ -37,6 +38,15 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 | 27/05/2025 | Presencial | Provável defesa (provável). |
 | 03/06/2025 | Presencial | Correções e entrega versão final. |
 | 10/06/2025 | Presencial |  |
+
+## 2.2. Para Mestrado (Marcos)
+
+
+| Data | Tipo | Observação |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 
 ---
@@ -78,4 +88,10 @@ Na introdução descreva...
 1. Justificativa ou motivação (porque é necessário esse desenvolvimento)
 2. Problema: O que esta acontecende de errado porque o problema esta ativo e ainda não tem solução.
 3. Objetivo geral: Onde vc quer chegar com essa solução que esta proponto.
+
+
+---
+# 7. Ferramentas
+
+Ferramenta de IA para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
