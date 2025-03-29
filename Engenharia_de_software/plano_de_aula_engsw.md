@@ -221,6 +221,9 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 | Visual Studio Code  Extensões (Markdown All in One, Markdown Preview Mermaid Support)| https://code.visualstudio.com/download |
 
 
+* Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
+
+
 ---
 ## 8. Artigos:
 

@@ -131,6 +131,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 8. [CouchDB](https://couchdb.apache.org/)
 9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
 
+
+* Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
+
 ---
 ## 7. Artigos
 

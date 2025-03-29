@@ -135,6 +135,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 14. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/)
 15. [Knime](https://www.knime.com/downloads)
 
+
+* Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
+
 ---
 ## 7. Artigos:
 
