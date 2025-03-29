@@ -72,15 +72,3 @@ https://github.com/monteiro74?tab=repositories
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/disciplinas.png)
 
-
-exemplo de tabela
-
-| Aluno | Nota |
-|-------|------|
-| aluno1| 9 |
-| aluno 2 | 10 |
-| aluno 3 | 2 |
-
-
-
-
