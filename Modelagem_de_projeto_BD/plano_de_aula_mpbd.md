@@ -76,6 +76,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |Site das disciplinas | https://sites.google.com/unemat.br/professoremiliano |
 |Sites das disciplinas no github | https://github.com/monteiro74/aulas_2025_1 |
 |Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do|
+| Link Tree do curso | https://linktr.ee/si.unemat |
+| Página do curso | https://sinop.unemat.br/faculdades/facet/graduacao/sistemas-de-informacao-bacharelado-graduacao-presencial-noturno-sinop |
 
 ---
 ## 3. Repositórios de apoio
