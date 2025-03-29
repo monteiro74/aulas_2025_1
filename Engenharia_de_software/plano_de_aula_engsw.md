@@ -1,5 +1,7 @@
 Plano de ensino de Engenharia de Software
 
+FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
+
 - [1. Turma: Engenharia de Software](#1-turma-engenharia-de-software)
   - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
   - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
