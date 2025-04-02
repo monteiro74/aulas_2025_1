@@ -44,14 +44,13 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 | 16/06/2025 | Presencial | Morgan --> Ata da Banca (postada no Sigaa ??) |
 | 23/06/2025 |            | Morgan --> **Avaliação 2**, TCC final com Ata de defesa. | 
 
+
 O que é a atividade "questão a ser respondida com sua pesquisa" 19/05 ?????
+Xonhecem professore ou corretores de português ?
+O cronograma deve ser de 1 ano (incluindo o TCC1 e TCC2)
 
-conhecem professore ou corretores de português ?
 
-vocês tem que colocar obs. específico ?
-
-o cronograma deve ser de 1 ano (incluindo o TCC1 e TCC2)
-
+A metodologia tem que descrever:
 Entrada --> Processamento --> Saída
 
 
