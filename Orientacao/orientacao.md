@@ -47,13 +47,12 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 
 O que é a atividade "questão a ser respondida com sua pesquisa" 19/05 ?????
 
-Xonhecem professore ou corretores de português ?
+Perguntar para o morgam o que é e como vai ser a "AVALIAÇÃO 1 Termo de autorização para banca" ?
 
 O cronograma deve ser de 1 ano (incluindo o TCC1 e TCC2)
 
+As bancas devem ser antes do dia 16/06 ??
 
-A metodologia tem que descrever:
-Entrada --> Processamento --> Saída
 
 
 ## 2.2. Para Mestrado (Marcos)
