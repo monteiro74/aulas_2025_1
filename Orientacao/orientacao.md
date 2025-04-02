@@ -34,10 +34,14 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 | 29/04/2025 | Presencial | Rever referências e formatação, preparar apresentação. |
 | 06/05/2025 | Presencial | Rever referências e formatação, preparar apresentação. |
 | 13/05/2025 | Presencial | Provável versão final, provável encaminhar para banca. |
-| 20/05/2025 | Presencial | Provável defesa (provável). |
-| 27/05/2025 | Presencial | Provável defesa (provável). |
-| 03/06/2025 | Presencial | Correções e entrega versão final. |
-| 10/06/2025 | Presencial |  |
+| 20/05/2025 | Presencial | Provável versão final, provável encaminhar para banca. |
+| 26/05/2025 |            | Morgan --> Termo de autorização para banca |
+| 27/05/2025 | Presencial |  |
+| 02/06/2025 |            | Morgan --> Auxílio na formatação |
+| 03/06/2025 | Presencial |  |
+| 09/06/2025 |            | Morgan -->  Orientações para bancas |
+| ??/06/2025 | Presencial | Morgan --> Ata da Banca (postada no Sigaa ??) |
+| ??/06/2025 |            |  | 
 
 ## 2.2. Para Mestrado (Marcos)
 
