@@ -34,14 +34,26 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 | 29/04/2025 | Presencial | Rever referências e formatação, preparar apresentação. |
 | 06/05/2025 | Presencial | Rever referências e formatação, preparar apresentação. |
 | 13/05/2025 | Presencial | Provável versão final, provável encaminhar para banca. |
+| 19/05/2025 |            | Morgan --> que atividade é esta ?? |
 | 20/05/2025 | Presencial | Provável versão final, provável encaminhar para banca. |
-| 26/05/2025 |            | Morgan --> Termo de autorização para banca |
+| 26/05/2025 |            | Morgan --> **AVALIAÇÃO 1** Termo de autorização para banca |
 | 27/05/2025 | Presencial |  |
 | 02/06/2025 |            | Morgan --> Auxílio na formatação |
 | 03/06/2025 | Presencial |  |
 | 09/06/2025 |            | Morgan -->  Orientações para bancas |
-| ??/06/2025 | Presencial | Morgan --> Ata da Banca (postada no Sigaa ??) |
-| ??/06/2025 |            |  | 
+| 16/06/2025 | Presencial | Morgan --> Ata da Banca (postada no Sigaa ??) |
+| 23/06/2025 |            | Morgan --> **Avaliação 2**, TCC final com Ata de defesa. | 
+
+O que é a atividade "questão a ser respondida com sua pesquisa" 19/05 ?????
+
+conhecem professore ou corretores de português ?
+
+vocês tem que colocar obs. específico ?
+
+o cronograma deve ser de 1 ano (incluindo o TCC1 e TCC2)
+
+Entrada --> Processamento --> Saída
+
 
 ## 2.2. Para Mestrado (Marcos)
 
