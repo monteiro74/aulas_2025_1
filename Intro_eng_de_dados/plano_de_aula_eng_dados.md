@@ -257,3 +257,35 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
+
+```mermaid
+
+flowchart TB
+
+    %% Projeto: Apache Spark
+    subgraph S[Apache Spark]
+        SP1[Processamento distribuído]
+        SP2[Lote e streaming]
+        SP3[Scala / Java / Python]
+        SP4[Analytics e ML]
+    end
+
+    %% Projeto: Apache Airflow
+    subgraph A[Apache Airflow]
+        AF1[Orquestração de workflows]
+        AF2[Execução em lote]
+        AF3[Python]
+        AF4[ETL e pipelines]
+    end
+
+    %% Projeto: Apache NiFi
+    subgraph N[Apache NiFi]
+        NF1[Automação de fluxo de dados]
+        NF2[Streaming com UI]
+        NF3[Java]
+        NF4[Ingestão e roteamento]
+    end
+
+
+```
+
