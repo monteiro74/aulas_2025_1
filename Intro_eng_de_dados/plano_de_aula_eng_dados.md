@@ -97,15 +97,15 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 3   | 19/mar | 3hs | Limpeza de dados, campos vazios, estatísticas descritiva, movimentação de dados de bancos de produção para dw (data warehouse), [Slides de aula](https://docs.google.com/presentation/d/1nHXNiA37Na_cN0fRIHhEqcLinUNVr6UYrdtdYYRjFaQ/view). [Orange Data Mining](https://docs.google.com/presentation/d/1MaoTrBFGWsO1jvnuSUBOUaP7aK3F3NZRU3PKd9PG3yY/edit?usp=sharing). Os arquivos usado no Orange são o xls de população e o arquivo mini exemplo em .ows (formato do Orange). Scripts em python relacionado ao conteúdo. |
 | 4   | 26/mar | 3hs | [Agrupamento e classificação](https://docs.google.com/presentation/d/1fLb781agd-dv1cQVeWkD5djwKN1K4hywAgz3tYqeHX4/view). [Exemplo de agrupamento e classificação no Orange Data Ming](https://docs.google.com/presentation/d/12BHt5qQTXVsiiCQjAiWEcymjtYMc77ninRLZhCL2_LI/view). [Dados abertos](https://docs.google.com/presentation/d/1IaV2lL4EPUe9ZjjOBaoroFV4KKdCU7ba3nvv2Nas2kg/view). [Apache Hadoop](https://docs.google.com/presentation/d/1abNXJAD5LmwaSbNMn6eEooUzWzDgSVuKFvaBThwEKe8/view). Scripts em python relacionado ao conteúdo. |
 | 5   | 02/abr | 3hs | **Avaliação 1**. |
-| 6   | 09/abr | 3hs | Agrupamento. |
-| 7   | 16/abr | 3hs | Conjuntos frequentes. |
-| 8   | 23/abr | 3hs | Regressão. |
-| 9   | 30/abr | 3hs | Descoberta de tópicos em texto. |
+| 6   | 09/abr | 3hs | Normalização (1,2, e 3 forma normal), Modelo Floco de Neve, desnormalização, formatos de troca de dados. Formatos abertos, Os 5 V do big data, Pentaho PDI. |
+| 7   | 16/abr | 3hs | <!-- Agrupamentos (parte 2), conjuntos frequentes. --> |
+| 8   | 23/abr | 3hs | <!-- Regressão. --> |
+| 9   | 30/abr | 3hs | <!-- Descoberta de tópicos em texto. --> |
 | 10  | 07/mai | 3hs | **Avaliação 2**. |
-| 11  | 14/mai | 3hs | Ferramentas de chats local. |
-| 12  | 21/mai | 3hs | Data Warehouse. |
-| 13  | 28/mai | 3hs | Big Data x Data Lake. |
-| 14  | 04/jun | 3hs | Virtualização de dados. |
+| 11  | 14/mai | 3hs | <!-- Ferramentas de chats local. --> |
+| 12  | 21/mai | 3hs | <!-- Data Warehouse. --> |
+| 13  | 28/mai | 3hs | <!-- Big Data x Data Lake. --> |
+| 14  | 04/jun | 3hs | <!-- Virtualização de dados.-->  |
 | 15  |  | 3hs | **Avaliação 3**, entrega de notas, revisão para PF.|
 
 

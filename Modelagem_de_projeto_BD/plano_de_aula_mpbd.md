@@ -98,15 +98,15 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 3  | 20/mar  | 3hs | Conceito de transação. ACID. Concorrência. Logs. Trilhas de auditoria. Bloqueio e impasse. Intro. Modelo ER. [Detalhes do SQL Server](https://docs.google.com/presentation/d/1uHECTMhqvmWZwq8FGt-_9UGawGFrTfSnWb28YGy8Of8/view). [Conhecendo o SSMS](https://docs.google.com/presentation/d/1TnanbvGRm8B0Kn_b9BB3GSLUgq65gkmlEskGpJk7QP0/view). [Monitorando o SQL Server e propriedades do servidor](https://docs.google.com/presentation/d/1cwH2mM63vV5QxTIipVqGLdmWvwDal8SLZwG7hAuv5nY/view). [Slides da aula 3](https://docs.google.com/presentation/d/1TdDhVu5FDH-svhK1HecBWRPBAnkfGgp6DKsxhiaFemQ/view). [Segurança de aplicações](https://docs.google.com/presentation/d/1oW90UpNWErX7yvV3oBtBBgHvMPJuYnXWZMHvzkl09To/view). [Threads](https://docs.google.com/presentation/d/1zXQdDfjkuTqLSq8I1RmeEkz_H3RDJIBNZabzfW6vZGg/view). |
 | 4   | 27/mar | 3hs | Modelo ER, criação de tabelas e diagramas no SSMS, Join no SQL Server.  Criação de tabelas e diagramas no SQL Server. Joins no SQL Server. [SQL Server, criação de tabelas](https://docs.google.com/presentation/d/1WUcHWo3uwYIhLZAfp_-I0LiEPOwCKlLhf18IHdh8I8I/view), [Modelo de dados relacional](https://docs.google.com/presentation/d/1PAWy0t3O0Un5vwTfP_Zex4ZblXRLg4weeor8NDeYm6c/view), [SQL Joins no SQL Server](https://docs.google.com/presentation/d/1mwNJbEtrn_JaRL7ujMjtijDwjzh5E7Ljmi9PClNyrGI/view). |
 | 5   | 03/abr | 3hs | **Avaliação 1**.  |
-| 6   | 10/abr | 3hs | Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.. Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC. |
-| 7   | 17/abr | 3hs | Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel.  |
-| 8   | 24/abr | 3hs | Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).         |
-| 9   | 01/mai | 3hs | Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. |
+| 6   | 10/abr | 3hs | <!-- Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.. Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC. --> |
+| 7   | 17/abr | 3hs | <!-- Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel. --> |
+| 8   | 24/abr | 3hs | <!-- Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table). --> |
+| 9   | 01/mai | 3hs | <!-- Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. --> |
 | 10  | 08/mai | 3hs | **Avaliação 2**.  |
-| 11  | 15/mai | 3hs | Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. |
-| 12  | 22/mai | 3hs | Blockchain, camada 2, sidechain, BSN. |
-| 13  | 29/mai | 3hs | AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server. |
-| 14  | 05/jun | 3hs | Banco vetorial, SQL Server Profiler. |
+| 11  | 15/mai | 3hs | <!-- Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. --> |
+| 12  | 22/mai | 3hs | <!-- Blockchain, camada 2, sidechain, BSN.  --> |
+| 13  | 29/mai | 3hs | <!-- AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server. --> |
+| 14  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler. --> |
 | 15  | 12/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
