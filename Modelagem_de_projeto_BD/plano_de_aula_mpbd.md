@@ -19,6 +19,7 @@ Planos de aula Modelagem e Projeto de Banco de Dados
 - [10. Como estudar](#10-como-estudar)
 - [11. Grupos no telegram](#11-grupos-no-telegram)
 - [12. Videos recomendados](#12-videos-recomendados)
+- [Outros assuntos](#outros-assuntos)
 
 
 ---
@@ -234,3 +235,83 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
+
+---
+## Outros assuntos
+
+Exemplo de gráfo
+
+```mermaid
+
+graph TD
+    %% Nós (entidades principais)
+    Alice["👩 Alice"]
+    Bob["🧑 Bob"]
+    Carol["👩‍🦰 Carol"]
+    Post1["📝 Postagem 1"]
+    Post2["📝 Postagem 2"]
+
+    %% Relacionamentos (arestas)
+    Alice -->|amigo de| Bob
+    Bob -->|amigo de| Carol
+    Alice -->|segue| Carol
+    Carol -->|curtiu| Post1
+    Bob -->|curtiu| Post2
+    Alice -->|curtiu| Post1
+
+
+```
+
+Exemplo de modelo estrela
+
+```mermaid
+erDiagram
+    FATO_VENDAS ||--o{ DIM_TEMPO : "tem_id"
+    FATO_VENDAS ||--o{ DIM_PRODUTO : "prod_id"
+    FATO_VENDAS ||--o{ DIM_LOJA : "loja_id"
+    FATO_VENDAS ||--o{ DIM_CLIENTE : "cli_id"
+
+    FATO_VENDAS {
+        int venda_id
+        int tem_id
+        int prod_id
+        int loja_id
+        int cli_id
+        float quantidade
+        float valor_total
+    }
+
+    DIM_TEMPO {
+        int tem_id PK
+        date data
+        int dia
+        int mes
+        int ano
+        string dia_semana
+    }
+
+    DIM_PRODUTO {
+        int prod_id PK
+        string nome_produto
+        string categoria
+        string marca
+    }
+
+    DIM_LOJA {
+        int loja_id PK
+        string nome_loja
+        string cidade
+        string estado
+        string pais
+    }
+
+    DIM_CLIENTE {
+        int cli_id PK
+        string nome_cliente
+        string genero
+        int idade
+        string faixa_etaria
+    }
+
+
+```
