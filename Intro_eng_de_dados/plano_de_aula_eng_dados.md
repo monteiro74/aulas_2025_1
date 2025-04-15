@@ -99,13 +99,13 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 5   | 02/abr | 3hs | **Avaliação 1**. |
 | 6   | 09/abr | 3hs | [Normalização (1,2, e 3 forma normal), Modelo Floco de Neve, desnormalização, formatos de troca de dados. Formatos abertos, Os 5 V do big data, Pentaho PDI](https://docs.google.com/presentation/d/1lbPvObsJrVUVaR700LXyLtk_EjSFvLmJGLu1wehkxjo/view). [Fluxo de exportação no Pentaho](https://drive.google.com/file/d/1TUBKLwNtlNoeVJdFzX_sM4Dv4C8OnqZk/view?usp=sharing). [Fluxo de importação no Pentaho](https://drive.google.com/file/d/15PHyw-xb24rjtXZSJ2gv-l1w6Mt41uVY/view). [Script SQL Snow Flake](https://drive.google.com/file/d/1OeAiLNudVTyDzDEdriUN8pJNIqai0Qxm/view).|
 | 7   | 16/abr | 3hs | <!-- Agrupamentos (parte 2), conjuntos frequentes. --> |
-| 8   | 23/abr | 4hs | <!-- Regressão. --> |
-| 9   | 30/abr | 4hs | <!-- Descoberta de tópicos em texto. --> |
+| 8   | 23/abr | **4hs** | <!-- Regressão. --> |
+| 9   | 30/abr | **4hs** | <!-- Descoberta de tópicos em texto. --> |
 | 10  | 07/mai | 3hs | **Avaliação 2**. |
-| 11  | 14/mai | 4hs | <!-- Ferramentas de chats local. --> |
+| 11  | 14/mai | **4hs** | <!-- Ferramentas de chats local. --> |
 | 12  | 21/mai | 3hs | <!-- Data Warehouse. --> |
 | 13  | 28/mai | 3hs | <!-- Big Data x Data Lake. --> |
-| 14  | 04/jun | 3hs | <!-- Virtualização de dados.--> **Provavelmene não teremos aula, à confirmar.** |
+| 14  | 04/jun |  | <!-- Virtualização de dados.--> **Provavelmene não teremos aula, à confirmar.** |
 | 15  | 11/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
