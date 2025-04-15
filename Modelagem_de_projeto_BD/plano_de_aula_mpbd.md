@@ -102,10 +102,10 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 6   | 10/abr | 3hs | <!-- Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.. Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC. --> Normalização. Revisão de modelo ER. Conceitos de ODBC. Conexão ODBC com Power BI e Excel. [ODBC](https://docs.google.com/presentation/d/1fRHFyps9MnBF_eIAlIEKk73S-bTrAPlImunOi68BAkE/view). [DW, BI](https://docs.google.com/presentation/d/1gvXrmCMsLwHKwgSqhFKVFs4niW3XlRg6cK1ebdLtqZE/view). [Importação de dados do Excel p/ SQL Server](https://docs.google.com/presentation/d/1OhPqv-H0wK5WUS2gcWWVrlc4jrs4R0HfnvvmBnWMle4/view). [Objetos do banco SQL Server](https://docs.google.com/presentation/d/1OhPqv-H0wK5WUS2gcWWVrlc4jrs4R0HfnvvmBnWMle4/view).|
 | 7   | 17/abr | 3hs | <!-- Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel. --> |
 | 8   | 24/abr | 4hs | <!-- Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table). --> |
-| 10  | 08/mai | 3hs | **Avaliação 2**.  |
-| 11  | 15/mai | 4hs | <!-- Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. --><!-- Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. --> |
+| 10  | 08/mai | 3hs | <!-- **Avaliação 2** -->.  |
+| 11  | 15/mai | 3hs | **Avaliação 2**. <!-- Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. --><!-- Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. --> |
 | 12  | 22/mai | 4hs | <!-- Blockchain, camada 2, sidechain, BSN.  --> |
-| 13  | 29/mai | 3hs | <!-- AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server. --> |
+| 13  | 29/mai | 4hs | <!-- AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server. --> |
 | 14  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler. --> |
 | 15  | 12/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
@@ -113,7 +113,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ## 5. Unidades de avaliações
 
 * Avaliação 1: 03/04/2025
-* Avaliação 2: 08/05/2025
+* Avaliação 2: 15/05/2025
 * Avaliação 3: 12/06/2025
 
 
