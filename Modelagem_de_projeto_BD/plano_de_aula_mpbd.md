@@ -9,10 +9,10 @@
   - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
   - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
 - [:globe\_with\_meridians: 2. Sites utilizados](#globe_with_meridians-2-sites-utilizados)
-- [3. Repositórios de apoio](#3-repositórios-de-apoio)
-- [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
-- [5. Unidades de avaliações](#5-unidades-de-avaliações)
-- [6. Links para download de ferramentas](#6-links-para-download-de-ferramentas)
+- [:abacus: 3. Repositórios de apoio](#abacus-3-repositórios-de-apoio)
+- [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
+- [:date: 5. Unidades de avaliações](#date-5-unidades-de-avaliações)
+- [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
 - [7. Artigos](#7-artigos)
 - [8. Livros](#8-livros)
 - [9. Cursos gratuítos (opcionais)](#9-cursos-gratuítos-opcionais)
@@ -88,7 +88,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Página do curso | https://sinop.unemat.br/faculdades/facet/graduacao/sistemas-de-informacao-bacharelado-graduacao-presencial-noturno-sinop |
 
 ---
-## 3. Repositórios de apoio
+## :abacus: 3. Repositórios de apoio
 
 |Sites utilizados|Url|
 |-----|-----|
@@ -96,7 +96,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
-## 4. Datas de aulas e conteúdo
+## :date: 4. Datas de aulas e conteúdo
 
 
 |Aula | Data   | Carga horária| Conteúdo |
@@ -117,7 +117,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 15  | 12/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
-## 5. Unidades de avaliações
+## :date: 5. Unidades de avaliações
 
 * Avaliação 1: 03/04/2025
 * Avaliação 2: 15/05/2025
@@ -126,7 +126,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 6. Links para download de ferramentas
+## :hammer_and_wrench: 6. Links para download de ferramentas
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
