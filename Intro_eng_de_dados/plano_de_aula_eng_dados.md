@@ -32,6 +32,7 @@ Plano de ensino de Introdução a Engenharia de Dados
   - [🧪 Pipelines de Dados](#-pipelines-de-dados)
   - [🔐 Governança de Dados](#-governança-de-dados)
   - [📊 Big Data](#-big-data)
+  - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
 
 
 ---
@@ -369,4 +370,26 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 16. [Big Data Full Course 2022 | Simplilearn (2h00min)](https://www.youtube.com/watch?v=KCEPoPJ8sWw)
 
 
-**⏱️ Tempo Total Aproximado:** **14h 01min**
+**⏱️ Tempo Total Aproximado:** 14h 01min
+
+
+
+### 📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados
+
+| #  | Tópico                 | Título do Artigo                               | URL                                             |
+|----|------------------------|------------------------------------------------|-------------------------------------------------|
+| 1  | Engenharia de Dados    | My Top Data Engineering Articl                 | [Link](https://mshakhomirov.medium.com/my-top-data-engineering-articles-07f495c273f4) |
+| 2  | Modelagem de Dados     | Critical data modeling and the basic representation model  | [Link](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24745)  |
+| 3  | ETL                    | An efficient hybrid optimization of ETL process in data warehouse of cloud-based architecture  | [Link](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-023-00571-y) |
+| 4  | ETL                    | Dataverse: Open-Source ETL Pipeline for Large Language Models |  [Link](https://arxiv.org/abs/2403.19340)   |
+| 5  | Data Warehouse         | A Primer on Data Warehouses                                   | [Link](https://www.generativevalue.com/p/a-primer-on-data-warehouses)  |
+| 6  | Data Lake              | SciSciNet: A large-scale open data lake for the science of science research  | [Link](https://www.nature.com/articles/s41597-023-02198-9) |
+| 7  | Data Lake              | Data Lakes: A Survey of Concepts and Architectures     | [Link](https://www.mdpi.com/2073-431X/13/7/183)  |
+| 8  | Pipeline de Dados      | Building Big Data Pipelines with Open Source Stack   |[Link](https://medium.com/@dushaevsirojiddin/building-big-data-pipelines-with-open-source-stack-5e05149bb0ac) |
+| 9  | Governança de Dados    | Open Data Governance at the Canadian Open Neuroscience Platform  | [Link](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad114/7528994) |
+| 10 | Governança de Dados    | The Global Landscape of Data Governance      | [Link](https://www.cigionline.org/articles/the-global-landscape-of-data-governance/) |
+| 11 | Big Data               | Journal of Big Data: Home page          | [Link](https://journalofbigdata.springeropen.com/)   |
+| 12 | Big Data               | Big Data & Society - Sage Journals      | [Link](https://journals.sagepub.com/home/BDS)   |
+
+**⏱️ Tempo Total de leitura aproximado:** 15hs
+
