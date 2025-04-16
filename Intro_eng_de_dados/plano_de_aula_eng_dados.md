@@ -1,11 +1,11 @@
 **Plano de ensino de Introdução a Engenharia de Dados**
 
 - [:game\_die: 1. Turma: Introdução a Engenharia de Dados](#game_die-1-turma-introdução-a-engenharia-de-dados)
-  - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
-  - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
-  - [1.3. Ementa](#13-ementa)
-  - [1.4. Metodologia](#14-metodologia)
-  - [1.5. Procedimentos de avaliação de aprendizagem](#15-procedimentos-de-avaliação-de-aprendizagem)
+  - [:watch: 1.1. Carga Horária Total: 60](#watch-11-carga-horária-total-60)
+  - [:hourglass\_flowing\_sand: 1.2. Horário: 19hs - 22hs](#hourglass_flowing_sand-12-horário-19hs---22hs)
+  - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
+  - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
+  - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
   - [1.6. Horário de atendimento](#16-horário-de-atendimento)
 - [2. Sites utilizados](#2-sites-utilizados)
 - [3. Repositórios de apoio](#3-repositórios-de-apoio)
@@ -38,23 +38,23 @@
 ---
 ## :game_die: 1. Turma: Introdução a Engenharia de Dados
 
-### 1.1. Carga Horária Total: 60
+### :watch: 1.1. Carga Horária Total: 60
 
-### 1.2. Horário: 19hs - 22hs
+### :hourglass_flowing_sand: 1.2. Horário: 19hs - 22hs
 
-### 1.3. Ementa
+### :page_with_curl: 1.3. Ementa
 
 * Data Warehouse: fundamentos, técnicas e ferramentas. 
 * Conceitos, técnicas e aplicações de Big data. 
 * Conceitos de coleta e técnicas de Mineração de dados.
 
-### 1.4. Metodologia
+### :page_with_curl: 1.4. Metodologia
 
 * Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
 * Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
 * Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
-### 1.5. Procedimentos de avaliação de aprendizagem
+### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 
 **Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
