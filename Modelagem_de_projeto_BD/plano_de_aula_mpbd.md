@@ -13,16 +13,16 @@
 - [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
 - [:date: 5. Unidades de avaliações](#date-5-unidades-de-avaliações)
 - [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
-- [7. Artigos](#7-artigos)
-- [8. Livros](#8-livros)
-- [9. Cursos gratuítos (opcionais)](#9-cursos-gratuítos-opcionais)
-- [10. Como estudar (dicas)](#10-como-estudar-dicas)
-- [11. Grupos no telegram](#11-grupos-no-telegram)
-- [12. Videos recomendados (material opcional)](#12-videos-recomendados-material-opcional)
-- [13. Exemplos de modelos](#13-exemplos-de-modelos)
-  - [13.1. Exemplo de gráfo](#131-exemplo-de-gráfo)
-  - [13.2. Exemplo de modelo estrela](#132-exemplo-de-modelo-estrela)
-- [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
+- [:newspaper: 7. Artigos](#newspaper-7-artigos)
+- [:books: 8. Livros](#books-8-livros)
+- [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
+- [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
+- [:family\_man\_woman\_girl\_boy: 11. Grupos no telegram](#family_man_woman_girl_boy-11-grupos-no-telegram)
+- [:tv: 12. Videos recomendados (material opcional)](#tv-12-videos-recomendados-material-opcional)
+- [:green\_book: 13. Exemplos de modelos](#green_book-13-exemplos-de-modelos)
+  - [:green\_book: 13.1. Exemplo de gráfo](#green_book-131-exemplo-de-gráfo)
+  - [:green\_book: 13.2. Exemplo de modelo estrela](#green_book-132-exemplo-de-modelo-estrela)
+- [:alarm\_clock: 14. Carga horária de 15hs adicionais (remota/online)](#alarm_clock-14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Banco de Dados (15h)](#-141-playlist-de-banco-de-dados-15h)
   - [📄 14.2. Artigos Científicos Open Access sobre Banco de Dados](#-142-artigos-científicos-open-access-sobre-banco-de-dados)
 
@@ -142,7 +142,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
 ---
-## 7. Artigos
+## :newspaper: 7. Artigos
 
 Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
 https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
@@ -157,7 +157,7 @@ Os desafios da administração pública na disponibilização de dados sensívei
 https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
 
 ---
-## 8. Livros
+## :books: 8. Livros
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.
 
@@ -178,7 +178,7 @@ Referências na biblioteca virtual:
 [referências bibliográficas](https://docs.google.com/presentation/d/1StFHjTjcc9mpTTDoWmMHJibmx2n17o8FLwxMhHskXZo/view).
 
 ---
-## 9. Cursos gratuítos (opcionais)
+## :notebook: 9. Cursos gratuítos (opcionais)
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
@@ -198,7 +198,7 @@ Referências na biblioteca virtual:
 
 
 ---
-## 10. Como estudar (dicas)
+## :green_book: 10. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -209,7 +209,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 11. Grupos no telegram
+## :family_man_woman_girl_boy: 11. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -229,7 +229,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Videos recomendados (material opcional)
+## :tv: 12. Videos recomendados (material opcional)
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
@@ -243,9 +243,9 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 13. Exemplos de modelos
+## :green_book: 13. Exemplos de modelos
 
-### 13.1. Exemplo de gráfo
+### :green_book: 13.1. Exemplo de gráfo
 
 ```mermaid
 
@@ -268,7 +268,7 @@ graph TD
 
 ```
 
-### 13.2. Exemplo de modelo estrela
+### :green_book: 13.2. Exemplo de modelo estrela
 
 ```mermaid
 erDiagram
@@ -324,7 +324,7 @@ erDiagram
 
 
 ---
-## 14. Carga horária de 15hs adicionais (remota/online)
+## :alarm_clock: 14. Carga horária de 15hs adicionais (remota/online)
 
 Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
