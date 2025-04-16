@@ -9,25 +9,25 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
   - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
   - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
   - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
-- [2. Sites utilizados](#2-sites-utilizados)
-- [3. Repositórios de apoio](#3-repositórios-de-apoio)
-- [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
-- [5. Datas de avaliações](#5-datas-de-avaliações)
-- [6. Exercícios](#6-exercícios)
+- [:globe\_with\_meridians: 2. Sites utilizados](#globe_with_meridians-2-sites-utilizados)
+- [:abacus: 3. Repositórios de apoio](#abacus-3-repositórios-de-apoio)
+- [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
+- [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
+- [:clipboard: 6. Exercícios](#clipboard-6-exercícios)
   - [6.1. Tarefa 1](#61-tarefa-1)
   - [6.2. Repositório dos alunos](#62-repositório-dos-alunos)
   - [6.3. Exemplos de prompts](#63-exemplos-de-prompts)
   - [6.4. Exemplo de índice (TOC)](#64-exemplo-de-índice-toc)
-- [7. Links para download de ferramentas](#7-links-para-download-de-ferramentas)
-- [8. Artigos (referências bibliográficas complementares)](#8-artigos-referências-bibliográficas-complementares)
-- [9. Livros (referências bibliográficas básicas)](#9-livros-referências-bibliográficas-básicas)
+- [:hammer\_and\_wrench: 7. Links para download de ferramentas](#hammer_and_wrench-7-links-para-download-de-ferramentas)
+- [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
+- [:books: 9. Livros (referências bibliográficas básicas)](#books-9-livros-referências-bibliográficas-básicas)
   - [9.1. Livro sobre .Net Maui (referências bibliográficas complementares)](#91-livro-sobre-net-maui-referências-bibliográficas-complementares)
   - [9.2. Tutorial sobre .Net Maui (referências complementares)](#92-tutorial-sobre-net-maui-referências-complementares)
   - [9.3. Livros sobre Scrum (em PDF) (referências bibliográficas complementares)](#93-livros-sobre-scrum-em-pdf-referências-bibliográficas-complementares)
-- [10. Cursos gratuítos (opcionais)](#10-cursos-gratuítos-opcionais)
-- [11. Como estudar (dicas)](#11-como-estudar-dicas)
-- [12. Grupos no telegram com foco em desenvolvimento (dicas)](#12-grupos-no-telegram-com-foco-em-desenvolvimento-dicas)
-- [13. Videos recomendados (material opcional)](#13-videos-recomendados-material-opcional)
+- [:notebook: 10. Cursos gratuítos (opcionais)](#notebook-10-cursos-gratuítos-opcionais)
+- [:green\_book: 11. Como estudar (dicas)](#green_book-11-como-estudar-dicas)
+- [:family\_man\_woman\_girl\_boy: 12. Grupos no telegram com foco em desenvolvimento (dicas)](#family_man_woman_girl_boy-12-grupos-no-telegram-com-foco-em-desenvolvimento-dicas)
+- [:tv: 13. Videos recomendados (material opcional)](#tv-13-videos-recomendados-material-opcional)
   - [🎲 14. Jogos Didáticos para Ensino de Engenharia de Software](#-14-jogos-didáticos-para-ensino-de-engenharia-de-software)
 - [15. Carga horária de 15hs adicionais (remota/online)](#15-carga-horária-de-15hs-adicionais-remotaonline)
   - [📚 15.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-151-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
@@ -80,7 +80,7 @@ Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5,
 No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
 ---
-## 2. Sites utilizados
+## :globe_with_meridians: 2. Sites utilizados
 
 
 |Sites utilizados|Url|
@@ -94,7 +94,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 3. Repositórios de apoio
+## :abacus: 3. Repositórios de apoio
 
 |Sites utilizados|Url|
 |-----|-----|
@@ -102,7 +102,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
-## 4. Datas de aulas e conteúdo
+## :date: 4. Datas de aulas e conteúdo
 
 |Aula | Data   | Carga horária| Conteúdo |
 |-----|--------|--------------|----------|
@@ -124,14 +124,14 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 
-## 5. Datas de avaliações
+## :date: 5. Datas de avaliações
 
 * Avaliação 1: 01/04/2025
 * Avaliação 2: 06/05/2025
 * Avaliação 3: 10/06/2025
 
 ---
-## 6. Exercícios
+## :clipboard: 6. Exercícios
 
 ### 6.1. Tarefa 1
 
@@ -234,7 +234,7 @@ Estrutura do trabalho e situação do que já foi feito até o momento:
 
 
 ---
-## 7. Links para download de ferramentas
+## :hammer_and_wrench: 7. Links para download de ferramentas
 
 | Ferramenta| URL |
 |-----------|-------------|
@@ -250,7 +250,7 @@ Estrutura do trabalho e situação do que já foi feito até o momento:
 
 
 ---
-## 8. Artigos (referências bibliográficas complementares)
+## :newspaper: 8. Artigos (referências bibliográficas complementares)
 
 * Definição de requisitos de software baseada numa arquitetura de modelagem de negócios.
 https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/
@@ -268,7 +268,7 @@ https://periodicos.set.edu.br/exatas/article/view/8809
 https://www.researchgate.net/publication/228849325_Interdisciplinaridade_na_Engenharia_de_Software
 
 ---
-## 9. Livros (referências bibliográficas básicas)
+## :books: 9. Livros (referências bibliográficas básicas)
 
 * PRESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011.
 Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41
@@ -315,7 +315,7 @@ https://www.infoq.com/minibooks/emag-business-design-technology/
 
 
 ---
-## 10. Cursos gratuítos (opcionais)
+## :notebook: 10. Cursos gratuítos (opcionais)
 
 * Receita para Levantar Requisitos de Software.
 https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/
@@ -327,7 +327,7 @@ https://www.udemy.com/course/analise-de-requisitos-de-software/
 https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197
 
 ---
-## 11. Como estudar (dicas)
+## :green_book: 11. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -337,7 +337,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Grupos no telegram com foco em desenvolvimento (dicas)
+## :family_man_woman_girl_boy: 12. Grupos no telegram com foco em desenvolvimento (dicas)
 
 |Grupo | Link no Telegram |
 | --- | --- |
@@ -355,7 +355,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 | SQL Server GO | https://t.me/SQLServerGO |
 
 ---
-## 13. Videos recomendados (material opcional)
+## :tv: 13. Videos recomendados (material opcional)
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
