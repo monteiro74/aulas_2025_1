@@ -28,7 +28,7 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [11. Como estudar](#11-como-estudar)
 - [12. Grupos no telegram](#12-grupos-no-telegram)
 - [13. Videos recomendados](#13-videos-recomendados)
-- [14. Carga horária de 15 (remota/online)](#14-carga-horária-de-15-remotaonline)
+- [14. Carga horária de 15hs (remota/online)](#14-carga-horária-de-15hs-remotaonline)
   - [📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-141-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
   - [📄 14.2. Artigos Científicos Open Access sobre Engenharia de Software](#-142-artigos-científicos-open-access-sobre-engenharia-de-software)
 
@@ -370,7 +370,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
 ---
-## 14. Carga horária de 15 (remota/online)
+## 14. Carga horária de 15hs (remota/online)
 
 ### 📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)
 
