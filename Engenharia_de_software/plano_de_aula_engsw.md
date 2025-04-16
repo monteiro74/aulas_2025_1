@@ -198,6 +198,7 @@ Markdown All in One: Create Table of Contents
 Markdown All in One: Update Table of Contents
 ```
 
+Estrutura do trabalho e situação do que já foi feito até o momento:
 
 - [x] 1. Introdução.
 - [x] 2. Descrição.
