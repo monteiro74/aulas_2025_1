@@ -39,6 +39,9 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 
 ### :watch: 1.1. Carga Horária Total: 60
 
+
+⌚
+
 ### 1.2. Horário: 19hs - 22hs
 
 ### 1.3. Ementa
