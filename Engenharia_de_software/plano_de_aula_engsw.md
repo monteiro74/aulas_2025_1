@@ -188,25 +188,41 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 
 ### 6.4. Exemplo de índice (TOC)
 
-- [1. Introdução](#1-introdução)
-- [2. Descrição](#2-descrição)
-  - [2.1. Requisitos.](#21-requisitos)
-  - [2.2. Funcionais e não-funcionais](#22-funcionais-e-não-funcionais)
-- [3. Diagramas](#3-diagramas)
-  - [3.1. Diagrama de classe](#31-diagrama-de-classe)
-    - [digrama feito no white star (versão 1)](#digrama-feito-no-white-star-versão-1)
-    - [3.1.1. Descrição do Diagrama de classe:](#311-descrição-do-diagrama-de-classe)
-  - [3.2. Diagrama ER](#32-diagrama-er)
-  - [3.3. Diagrama de casos de uso](#33-diagrama-de-casos-de-uso)
-  - [3.3. Diagrama de atividade](#33-diagrama-de-atividade)
-  - [3.4. Diagrama de componentes](#34-diagrama-de-componentes)
-  - [3.5. Diagrama de implantação](#35-diagrama-de-implantação)
-  - [4. Histórias de usuário](#4-histórias-de-usuário)
-  - [5. Protótipo de telas](#5-protótipo-de-telas)
-  - [6. Diagrama de navegação de tela](#6-diagrama-de-navegação-de-tela)
-  - [Anexos](#anexos)
-    - [A.1. Script SQL](#a1-script-sql)
-    - [A.2. Dados artificiais para testes de banco](#a2-dados-artificiais-para-testes-de-banco)
+
+```
+Para gerar o indice use:
+CTRL+SHIFT+P
+
+quando aparecer um menu suspenso no VS Code escolha a primeira opções:
+Markdown All in One: Create Table of Contents 
+Markdown All in One: Update Table of Contents
+```
+
+1. Introdução
+2. Descrição
+2.1. Requisitos.
+2.2. Funcionais e não-funcionais
+3. Diagramas
+3.1. Diagrama de classe
+digrama feito no white star (versão 1)
+3.1.1. Descrição do Diagrama de classe:
+3.2. Diagrama ER
+3.3. Diagrama de casos de uso
+3.3. Diagrama de atividade
+3.4. Diagrama de componentes
+3.5. Diagrama de implantação
+3.6. Diagramas C4
+3.6.1. Diagrama C4 de contexto.
+3.6.2. Diagrama C4 de contêiner
+3.6.3. Diagrama C4 de componente
+3.6.4. Diagrama C4 de código
+4. Histórias de usuário
+5. Protótipo de telas
+6. Diagrama de navegação de tela
+7. Pilha tecnológica
+Anexos
+A.1. Script SQL
+A.2. Dados artificiais para testes de banco
 
 ---
 ## 7. Links para download de ferramentas
