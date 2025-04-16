@@ -28,6 +28,8 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [11. Como estudar](#11-como-estudar)
 - [12. Grupos no telegram](#12-grupos-no-telegram)
 - [13. Videos recomendados](#13-videos-recomendados)
+- [14. Carga horária de 15 (remota/online)](#14-carga-horária-de-15-remotaonline)
+  - [📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-141-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
 
 
 ---
@@ -366,3 +368,25 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
+---
+## 14. Carga horária de 15 (remota/online)
+
+### 📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)
+
+| #  | Tópico Principal         | Título do Vídeo                                                                 | Duração   | URL                                                                                     |
+|----|--------------------------|----------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------|
+| 1  | Engenharia de Software   | Introdução à Engenharia de Software – UNIVESP                                   | 1h 10min  | [Link](https://www.youtube.com/watch?v=AJmCNoi9NTI)                                     |
+| 2  | Engenharia de Software   | AULA 01. Introdução à Engenharia de Software – UFPB                             | 1h 05min  | [Link](https://www.youtube.com/watch?v=WNICUFe4K1g)                                     |
+| 3  | Engenharia de Software   | Introdução à Engenharia de Software Moderna – Marco Tulio Valente               | 1h 00min  | [Link](https://www.youtube.com/watch?v=8qSvDepujTo)                                     |
+| 4  | Processos de Desenvolvimento | Processo de Desenvolvimento de Software – Memo                             | 1h 00min  | [Link](https://www.youtube.com/watch?v=E6hNhSvg8Bs)                                     |
+| 5  | Processos de Desenvolvimento | Modelos de Processo de Software – Wilson de Pádua                         | 1h 00min  | [Link](https://www.youtube.com/watch?v=WYmWKUcBjyk)                                     |
+| 6  | Processos de Desenvolvimento | Processos de Desenvolvimento – Marco Tulio Valente                        | 1h 00min  | [Link](https://www.youtube.com/watch?v=kZImAXvRjH8)                                     |
+| 7  | Deploy de Software       | Software Build and Deployment Process: A Step-by-Step Guide                    | 1h 00min  | [Link](https://www.youtube.com/watch?v=Dgqsp57LmHc)                                     |
+| 8  | Deploy de Software       | How to Deploy Software Like a Ninja – NinjaOne                                 | 1h 00min  | [Link](https://www.youtube.com/watch?v=q7bLcmfD544)                                     |
+| 9  | Deploy de Software       | Deploying Software Using Azure Deployment Environments                         | 1h 00min  | [Link](https://www.youtube.com/watch?v=oJKBO10y3Zg)                                     |
+| 10 | Qualidade de Software    | O QUE É QUALIDADE DE SOFTWARE? – Descomplicando                                | 1h 00min  | [Link](https://www.youtube.com/watch?v=LTFXrY59fvY)                                     |
+| 11 | Qualidade de Software    | Introdução à Qualidade de Software – Aula                                      | 1h 00min  | [Link](https://www.youtube.com/watch?v=aIDLX0s2q4c)                                     |
+| 12 | Qualidade de Software    | Qualidade e Testes de Software – Aula 1                                        | 1h 00min  | [Link](https://www.youtube.com/watch?v=MZExJJLhqz4)                                     |
+| 13 | Qualidade de Software    | QA do Zero: Como Iniciar sua Jornada na Qualidade de Software                  | 1h 00min  | [Link](https://www.youtube.com/watch?v=C6UV7SIILt4)                                     |
+
+**⏱️ Total aproximado:** 13h 15min
