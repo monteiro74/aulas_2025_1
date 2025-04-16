@@ -1,0 +1,1001 @@
+Id;CODIGO;DESCRICAO
+1;0111301;Cultivo de arroz
+2;0111302;Cultivo de milho
+3;0111303;Cultivo de trigo
+4;0111399;Cultivo de outros cereais não especificados anteriormente
+5;0112101;Cultivo de algodão herbáceo
+6;0112102;Cultivo de juta
+7;0112199;Cultivo de outras fibras de lavoura temporária não especificadas anteriormente
+8;0113000;Cultivo de cana-de-açúcar
+9;0114800;Cultivo de fumo
+10;0115600;Cultivo de soja
+11;0116401;Cultivo de amendoim
+12;0116402;Cultivo de girassol
+13;0116403;Cultivo de mamona
+14;0116499;Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente
+15;0119901;Cultivo de abacaxi
+16;0119902;Cultivo de alho
+17;0119903;Cultivo de batata-inglesa
+18;0119904;Cultivo de cebola
+19;0119905;Cultivo de feijão
+20;0119906;Cultivo de mandioca
+21;0119907;Cultivo de melão
+22;0119908;Cultivo de melancia
+23;0119909;Cultivo de tomate rasteiro
+24;0119999;Cultivo de outras plantas de lavoura temporária não especificadas anteriormente
+25;0121101;Horticultura, exceto morango
+26;0121102;Cultivo de morango
+27;0122900;Cultivo de flores e plantas ornamentais
+28;0131800;Cultivo de laranja
+29;0132600;Cultivo de uva
+30;0133401;Cultivo de açaí
+31;0133402;Cultivo de banana
+32;0133403;Cultivo de caju
+33;0133404;Cultivo de cítricos, exceto laranja
+34;0133405;Cultivo de coco-da-baía
+35;0133406;Cultivo de guaraná
+36;0133407;Cultivo de maçã
+37;0133408;Cultivo de mamão
+38;0133409;Cultivo de maracujá
+39;0133410;Cultivo de manga
+40;0133411;Cultivo de pêssego
+41;0133499;Cultivo de frutas de lavoura permanente não especificadas anteriormente
+42;0134200;Cultivo de café
+43;0135100;Cultivo de cacau
+44;0139301;Cultivo de chá-da-índia
+45;0139302;Cultivo de erva-mate
+46;0139303;Cultivo de pimenta-do-reino
+47;0139304;Cultivo de plantas para condimento, exceto pimenta-do-reino
+48;0139305;Cultivo de dendê
+49;0139306;Cultivo de seringueira
+50;0139399;Cultivo de outras plantas de lavoura permanente não especificadas anteriormente
+51;0141501;Produção de sementes certificadas, exceto de forrageiras para pasto
+52;0141502;Produção de sementes certificadas de forrageiras para formação de pasto
+53;0142300;Produção de mudas e outras formas de propagação vegetal, certificadas
+54;0151201;Criação de bovinos para corte
+55;0151202;Criação de bovinos para leite
+56;0151203;Criação de bovinos, exceto para corte e leite
+57;0152101;Criação de bufalinos
+58;0152102;Criação de eqüinos
+59;0152103;Criação de asininos e muares
+60;0153901;Criação de caprinos
+61;0153902;Criação de ovinos, inclusive para produção de lã
+62;0154700;Criação de suínos
+63;0155501;Criação de frangos para corte
+64;0155502;Produção de pintos de um dia
+65;0155503;Criação de outros galináceos, exceto para corte
+66;0155504;Criação de aves, exceto galináceos
+67;0155505;Produção de ovos
+68;0159801;Apicultura
+69;0159802;Criação de animais de estimação
+70;0159803;Criação de escargô
+71;0159804;Criação de bicho-da-seda
+72;0159899;Criação de outros animais não especificados anteriormente
+73;0161001;Serviço de pulverização e controle de pragas agrícolas
+74;0161002;Serviço de poda de árvores para lavouras
+75;0161003;Serviço de preparação de terreno, cultivo e colheita
+76;0161099;Atividades de apoio à agricultura não especificadas anteriormente
+77;0162801;Serviço de inseminação artificial em animais
+78;0162802;Serviço de tosquiamento de ovinos
+79;0162803;Serviço de manejo de animais
+80;0162899;Atividades de apoio à pecuária não especificadas anteriormente
+81;0163600;Atividades de pós-colheita
+82;0170900;Caça e serviços relacionados
+83;0210101;Cultivo de eucalipto
+84;0210102;Cultivo de acácia-negra
+85;0210103;Cultivo de pinus
+86;0210104;Cultivo de teca
+87;0210105;Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca
+88;0210106;Cultivo de mudas em viveiros florestais
+89;0210107;Extração de madeira em florestas plantadas
+90;0210108;Produção de carvão vegetal - florestas plantadas
+91;0210109;Produção de casca de acácia-negra - florestas plantadas
+92;0210199;Produção de produtos não-madeireiros não especificados anteriormente em florestas plantadas
+93;0220901;Extração de madeira em florestas nativas
+94;0220902;Produção de carvão vegetal - florestas nativas
+95;0220903;Coleta de castanha-do-pará em florestas nativas
+96;0220904;Coleta de látex em florestas nativas
+97;0220905;Coleta de palmito em florestas nativas
+98;0220906;Conservação de florestas nativas
+99;0220999;Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas
+100;0230600;Atividades de apoio à produção florestal
+101;0311601;Pesca de peixes em água salgada
+102;0311602;Pesca de crustáceos e moluscos em água salgada
+103;0311603;Coleta de outros produtos marinhos
+104;0311604;Atividades de apoio à pesca em água salgada
+105;0312401;Pesca de peixes em água doce
+106;0312402;Pesca de crustáceos e moluscos em água doce
+107;0312403;Coleta de outros produtos aquáticos de água doce
+108;0312404;Atividades de apoio à pesca em água doce
+109;0321301;Criação de peixes em água salgada e salobra
+110;0321302;Criação de camarões em água salgada e salobra
+111;0321303;Criação de ostras e mexilhões em água salgada e salobra
+112;0321304;Criação de peixes ornamentais em água salgada e salobra
+113;0321305;Atividades de apoio à aqüicultura em água salgada e salobra
+114;0321399;Cultivos e semicultivos da aqüicultura em água salgada e salobra não especificados anteriormente
+115;0322101;Criação de peixes em água doce
+116;0322102;Criação de camarões em água doce
+117;0322103;Criação de ostras e mexilhões em água doce
+118;0322104;Criação de peixes ornamentais em água doce
+119;0322105;Ranicultura
+120;0322106;Criação de jacaré
+121;0322107;Atividades de apoio à aqüicultura em água doce
+122;0322199;Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente
+123;0500301;Extração de carvão mineral
+124;0500302;Beneficiamento de carvão mineral
+125;0600001;Extração de petróleo e gás natural
+126;0600002;Extração e beneficiamento de xisto
+127;0600003;Extração e beneficiamento de areias betuminosas
+128;0710301;Extração de minério de ferro
+129;0710302;Pelotização, sinterização e outros beneficiamentos de minério de ferro
+130;0721901;Extração de minério de alumínio
+131;0721902;Beneficiamento de minério de alumínio
+132;0722701;Extração de minério de estanho
+133;0722702;Beneficiamento de minério de estanho
+134;0723501;Extração de minério de manganês
+135;0723502;Beneficiamento de minério de manganês
+136;0724301;Extração de minério de metais preciosos
+137;0724302;Beneficiamento de minério de metais preciosos
+138;0725100;Extração de minerais radioativos
+139;0729401;Extração de minérios de nióbio e titânio
+140;0729402;Extração de minério de tungstênio
+141;0729403;Extração de minério de níquel
+142;0729404;Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente
+143;0729405;Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente
+144;0810001;Extração de ardósia e beneficiamento associado
+145;0810002;Extração de granito e beneficiamento associado
+146;0810003;Extração de mármore e beneficiamento associado
+147;0810004;Extração de calcário e dolomita e beneficiamento associado
+148;0810005;Extração de gesso e caulim
+149;0810006;Extração de areia, cascalho ou pedregulho e beneficiamento associado
+150;0810007;Extração de argila e beneficiamento associado
+151;0810008;Extração de saibro e beneficiamento associado
+152;0810009;Extração de basalto e beneficiamento associado
+153;0810010;Beneficiamento de gesso e caulim associado à extração
+154;0810099;Extração e britamento de pedras e outros materiais para construção e beneficiamento associado
+155;0891600;Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos
+156;0892401;Extração de sal marinho
+157;0892402;Extração de sal-gema
+158;0892403;Refino e outros tratamentos do sal
+159;0893200;Extração de gemas (pedras preciosas e semipreciosas)
+160;0899101;Extração de grafita
+161;0899102;Extração de quartzo
+162;0899103;Extração de amianto
+163;0899199;Extração de outros minerais não-metálicos não especificados anteriormente
+164;0910600;Atividades de apoio à extração de petróleo e gás natural
+165;0990401;Atividades de apoio à extração de minério de ferro
+166;0990402;Atividades de apoio à extração de minerais metálicos não-ferrosos
+167;0990403;Atividades de apoio à extração de minerais não-metálicos
+168;1011201;Frigorífico - abate de bovinos
+169;1011202;Frigorífico - abate de eqüinos
+170;1011203;Frigorífico - abate de ovinos e caprinos
+171;1011204;Frigorífico - abate de bufalinos
+172;1011205;Matadouro - abate de reses sob contrato - exceto abate de suínos
+173;1012101;Abate de aves
+174;1012102;Abate de pequenos animais
+175;1012103;Frigorífico - abate de suínos
+176;1012104;Matadouro - abate de suínos sob contrato
+177;1013901;Fabricação de produtos de carne
+178;1013902;Preparação de subprodutos do abate
+179;1020101;Preservação de peixes, crustáceos e moluscos
+180;1020102;Fabricação de conservas de peixes, crustáceos e moluscos
+181;1031700;Fabricação de conservas de frutas
+182;1032501;Fabricação de conservas de palmito
+183;1032599;Fabricação de conservas de legumes e outros vegetais, exceto palmito
+184;1033301;Fabricação de sucos concentrados de frutas, hortaliças e legumes
+185;1033302;Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados
+186;1041400;Fabricação de óleos vegetais em bruto, exceto óleo de milho
+187;1042200;Fabricação de óleos vegetais refinados, exceto óleo de milho
+188;1043100;Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais
+189;1051100;Preparação do leite
+190;1052000;Fabricação de laticínios
+191;1053800;Fabricação de sorvetes e outros gelados comestíveis
+192;1061901;Beneficiamento de arroz
+193;1061902;Fabricação de produtos do arroz
+194;1062700;Moagem de trigo e fabricação de derivados
+195;1063500;Fabricação de farinha de mandioca e derivados
+196;1064300;Fabricação de farinha de milho e derivados, exceto óleos de milho
+197;1065101;Fabricação de amidos e féculas de vegetais
+198;1065102;Fabricação de óleo de milho em bruto
+199;1065103;Fabricação de óleo de milho refinado
+200;1066000;Fabricação de alimentos para animais
+201;1069400;Moagem e fabricação de produtos de origem vegetal não especificados anteriormente
+202;1071600;Fabricação de açúcar em bruto
+203;1072401;Fabricação de açúcar de cana refinado
+204;1072402;Fabricação de açúcar de cereais (dextrose) e de beterraba
+205;1081301;Beneficiamento de café
+206;1081302;Torrefação e moagem de café
+207;1082100;Fabricação de produtos à base de café
+208;1091100;Fabricação de produtos de panificação
+209;1091101;Fabricação de produtos de panificação industrial
+210;1091102;Fabricação de produtos de padaria e confeitaria com predominância de produção própria
+211;1092900;Fabricação de biscoitos e bolachas
+212;1093701;Fabricação de produtos derivados do cacau e de chocolates
+213;1093702;Fabricação de frutas cristalizadas, balas e semelhantes
+214;1094500;Fabricação de massas alimentícias
+215;1095300;Fabricação de especiarias, molhos, temperos e condimentos
+216;1096100;Fabricação de alimentos e pratos prontos
+217;1099601;Fabricação de vinagres
+218;1099602;Fabricação de pós alimentícios
+219;1099603;Fabricação de fermentos e leveduras
+220;1099604;Fabricação de gelo comum
+221;1099605;Fabricação de produtos para infusão (chá, mate, etc.)
+222;1099606;Fabricação de adoçantes naturais e artificiais
+223;1099607;Fabricação de alimentos dietéticos e complementos alimentares
+224;1099699;Fabricação de outros produtos alimentícios não especificados anteriormente
+225;1111901;Fabricação de aguardente de cana-de-açúcar
+226;1111902;Fabricação de outras aguardentes e bebidas destiladas
+227;1112700;Fabricação de vinho
+228;1113501;Fabricação de malte, inclusive malte uísque
+229;1113502;Fabricação de cervejas e chopes
+230;1121600;Fabricação de águas envasadas
+231;1122401;Fabricação de refrigerantes
+232;1122402;Fabricação de chá mate e outros chás prontos para consumo
+233;1122403;Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas
+234;1122404;Fabricação de bebidas isotônicas
+235;1122499;Fabricação de outras bebidas não-alcoólicas não especificadas anteriormente
+236;1210700;Processamento industrial do fumo
+237;1220401;Fabricação de cigarros
+238;1220402;Fabricação de cigarrilhas e charutos
+239;1220403;Fabricação de filtros para cigarros
+240;1220499;Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos
+241;1311100;Preparação e fiação de fibras de algodão
+242;1312000;Preparação e fiação de fibras têxteis naturais, exceto algodão
+243;1313800;Fiação de fibras artificiais e sintéticas
+244;1314600;Fabricação de linhas para costurar e bordar
+245;1321900;Tecelagem de fios de algodão
+246;1322700;Tecelagem de fios de fibras têxteis naturais, exceto algodão
+247;1323500;Tecelagem de fios de fibras artificiais e sintéticas
+248;1330800;Fabricação de tecidos de malha
+249;1340501;Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário
+250;1340502;Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário
+251;1340599;Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário
+252;1351100;Fabricação de artefatos têxteis para uso doméstico
+253;1352900;Fabricação de artefatos de tapeçaria
+254;1353700;Fabricação de artefatos de cordoaria
+255;1354500;Fabricação de tecidos especiais, inclusive artefatos
+256;1359600;Fabricação de outros produtos têxteis não especificados anteriormente
+257;1411801;Confecção de roupas íntimas
+258;1411802;Facção de roupas íntimas
+259;1412601;Confecção de peças de vestuário, exceto roupas íntimas e as confeccionadas sob medida
+260;1412602;Confecção, sob medida, de peças do vestuário, exceto roupas íntimas
+261;1412603;Facção de peças do vestuário, exceto roupas íntimas
+262;1413401;Confecção de roupas profissionais, exceto sob medida
+263;1413402;Confecção, sob medida, de roupas profissionais
+264;1413403;Facção de roupas profissionais
+265;1414200;Fabricação de acessórios do vestuário, exceto para segurança e proteção
+266;1421500;Fabricação de meias
+267;1422300;Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias
+268;1510600;Curtimento e outras preparações de couro
+269;1521100;Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material
+270;1529700;Fabricação de artefatos de couro não especificados anteriormente
+271;1531901;Fabricação de calçados de couro
+272;1531902;Acabamento de calçados de couro sob contrato
+273;1532700;Fabricação de tênis de qualquer material
+274;1533500;Fabricação de calçados de material sintético
+275;1539400;Fabricação de calçados de materiais não especificados anteriormente
+276;1540800;Fabricação de partes para calçados, de qualquer material
+277;1610201;Serrarias com desdobramento de madeira
+278;1610202;Serrarias sem desdobramento de madeira
+279;1610203;Serrarias com desdobramento de madeira em bruto
+280;1610204;Serrarias sem desdobramento de madeira em bruto  -Resserragem
+281;1610205;Serviço de tratamento de madeira realizado sob contrato
+282;1621800;Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada
+283;1622601;Fabricação de casas de madeira pré-fabricadas
+284;1622602;Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais
+285;1622699;Fabricação de outros artigos de carpintaria para construção
+286;1623400;Fabricação de artefatos de tanoaria e de embalagens de madeira
+287;1629301;Fabricação de artefatos diversos de madeira, exceto móveis
+288;1629302;Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis
+289;1710900;Fabricação de celulose e outras pastas para a fabricação de papel
+290;1721400;Fabricação de papel
+291;1722200;Fabricação de cartolina e papel-cartão
+292;1731100;Fabricação de embalagens de papel
+293;1732000;Fabricação de embalagens de cartolina e papel-cartão
+294;1733800;Fabricação de chapas e de embalagens de papelão ondulado
+295;1741901;Fabricação de formulários contínuos
+296;1741902;Fabricação de produtos de papel, cartolina, papel cartão e papelão ondulado para uso comercial e de escritório, exceto formulário contínuo
+297;1742701;Fabricação de fraldas descartáveis
+298;1742702;Fabricação de absorventes higiênicos
+299;1742799;Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente
+300;1749400;Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente
+301;1811301;Impressão de jornais
+302;1811302;Impressão de livros, revistas e outras publicações periódicas
+303;1812100;Impressão de material de segurança
+304;1813001;Impressão de material para uso publicitário
+305;1813099;Impressão de material para outros usos
+306;1821100;Serviços de pré-impressão
+307;1822900;Serviços de acabamentos gráficos
+308;1822901;Serviços de encadernação e plastificação
+309;1822999;Serviços de acabamentos gráficos, exceto encadernação e plastificação
+310;1830001;Reprodução de som em qualquer suporte
+311;1830002;Reprodução de vídeo em qualquer suporte
+312;1830003;Reprodução de software em qualquer suporte
+313;1910100;Coquerias
+314;1921700;Fabricação de produtos do refino de petróleo
+315;1922501;Formulação de combustíveis
+316;1922502;Rerrefino de óleos lubrificantes
+317;1922599;Fabricação de outros produtos derivados do petróleo, exceto produtos do refino
+318;1931400;Fabricação de álcool
+319;1932200;Fabricação de biocombustíveis, exceto álcool
+320;2011800;Fabricação de cloro e álcalis
+321;2012600;Fabricação de intermediários para fertilizantes
+322;2013400;Fabricação de adubos e fertilizantes
+323;2013401;Fabricação de adubos e fertilizantes organo-minerais
+324;2013402;Fabricação de adubos e fertilizantes, exceto organo-minerais
+325;2014200;Fabricação de gases industriais
+326;2019301;Elaboração de combustíveis nucleares
+327;2019399;Fabricação de outros produtos químicos inorgânicos não especificados anteriormente
+328;2021500;Fabricação de produtos petroquímicos básicos
+329;2022300;Fabricação de intermediários para plastificantes, resinas e fibras
+330;2029100;Fabricação de produtos químicos orgânicos não especificados anteriormente
+331;2031200;Fabricação de resinas termoplásticas
+332;2032100;Fabricação de resinas termofixas
+333;2033900;Fabricação de elastômeros
+334;2040100;Fabricação de fibras artificiais e sintéticas
+335;2051700;Fabricação de defensivos agrícolas
+336;2052500;Fabricação de desinfestantes domissanitários
+337;2061400;Fabricação de sabões e detergentes sintéticos
+338;2062200;Fabricação de produtos de limpeza e polimento
+339;2063100;Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal
+340;2071100;Fabricação de tintas, vernizes, esmaltes e lacas
+341;2072000;Fabricação de tintas de impressão
+342;2073800;Fabricação de impermeabilizantes, solventes e produtos afins
+343;2091600;Fabricação de adesivos e selantes
+344;2092401;Fabricação de pólvoras, explosivos e detonantes
+345;2092402;Fabricação de artigos pirotécnicos
+346;2092403;Fabricação de fósforos de segurança
+347;2093200;Fabricação de aditivos de uso industrial
+348;2094100;Fabricação de catalisadores
+349;2099101;Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia
+350;2099199;Fabricação de outros produtos químicos não especificados anteriormente
+351;2110600;Fabricação de produtos farmoquímicos
+352;2121101;Fabricação de medicamentos alopáticos para uso humano
+353;2121102;Fabricação de medicamentos homeopáticos para uso humano
+354;2121103;Fabricação de medicamentos fitoterápicos para uso humano
+355;2122000;Fabricação de medicamentos para uso veterinário
+356;2123800;Fabricação de preparações farmacêuticas
+357;2211100;Fabricação de pneumáticos e de câmaras-de-ar
+358;2212900;Reforma de pneumáticos usados
+359;2219600;Fabricação de artefatos de borracha não especificados anteriormente
+360;2221800;Fabricação de laminados planos e tubulares de material plástico
+361;2222600;Fabricação de embalagens de material plástico
+362;2223400;Fabricação de tubos e acessórios de material plástico para uso na construção
+363;2229301;Fabricação de artefatos de material plástico para uso pessoal e doméstico
+364;2229302;Fabricação de artefatos de material plástico para usos industriais
+365;2229303;Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios
+366;2229399;Fabricação de artefatos de material plástico para outros usos não especificados anteriormente
+367;2311700;Fabricação de vidro plano e de segurança
+368;2312500;Fabricação de embalagens de vidro
+369;2319200;Fabricação de artigos de vidro
+370;2320600;Fabricação de cimento
+371;2330301;Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda
+372;2330302;Fabricação de artefatos de cimento para uso na construção
+373;2330303;Fabricação de artefatos de fibrocimento para uso na construção
+374;2330304;Fabricação de casas pré-moldadas de concreto
+375;2330305;Preparação de massa de concreto e argamassa para construção
+376;2330399;Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes
+377;2341900;Fabricação de produtos cerâmicos refratários
+378;2342701;Fabricação de azulejos e pisos
+379;2342702;Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos
+380;2349401;Fabricação de material sanitário de cerâmica
+381;2349499;Fabricação de produtos cerâmicos não-refratários não especificados anteriormente
+382;2391501;Britamento de pedras, exceto associado à extração
+383;2391502;Aparelhamento de pedras para construção, exceto associado à extração
+384;2391503;Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras
+385;2392300;Fabricação de cal e gesso
+386;2399101;Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal
+387;2399102;Fabricação de abrasivos
+388;2399199;Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente
+389;2411300;Produção de ferro-gusa
+390;2412100;Produção de ferroligas
+391;2421100;Produção de semi-acabados de aço
+392;2422901;Produção de laminados planos de aço ao carbono, revestidos ou não
+393;2422902;Produção de laminados planos de aços especiais
+394;2423701;Produção de tubos de aço sem costura
+395;2423702;Produção de laminados longos de aço, exceto tubos
+396;2424501;Produção de arames de aço
+397;2424502;Produção de relaminados, trefilados e perfilados de aço, exceto arames
+398;2431800;Produção de tubos de aço com costura
+399;2439300;Produção de outros tubos de ferro e aço
+400;2441501;Produção de alumínio e suas ligas em formas primárias
+401;2441502;Produção de laminados de alumínio
+402;2442300;Metalurgia dos metais preciosos
+403;2443100;Metalurgia do cobre
+404;2449101;Produção de zinco em formas primárias
+405;2449102;Produção de laminados de zinco
+406;2449103;Fabricação de ânodos para galvanoplastia
+407;2449199;Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente
+408;2451200;Fundição de ferro e aço
+409;2452100;Fundição de metais não-ferrosos e suas ligas
+410;2511000;Fabricação de estruturas metálicas
+411;2512800;Fabricação de esquadrias de metal
+412;2513600;Fabricação de obras de caldeiraria pesada
+413;2521700;Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central
+414;2522500;Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos
+415;2531401;Produção de forjados de aço
+416;2531402;Produção de forjados de metais não-ferrosos e suas ligas
+417;2532201;Produção de artefatos estampados de metal
+418;2532202;Metalurgia do pó
+419;2539000;Serviços de usinagem, solda, tratamento e revestimento em metais
+420;2539001;Serviços de usinagem, tornearia e solda
+421;2539002;Serviços de tratamento e revestimento em metais
+422;2541100;Fabricação de artigos de cutelaria
+423;2542000;Fabricação de artigos de serralheria, exceto esquadrias
+424;2543800;Fabricação de ferramentas
+425;2550101;Fabricação de equipamento bélico pesado, exceto veículos militares de combate
+426;2550102;Fabricação de armas de fogo, outras armas e munições
+427;2591800;Fabricação de embalagens metálicas
+428;2592601;Fabricação de produtos de trefilados de metal padronizados
+429;2592602;Fabricação de produtos de trefilados de metal, exceto padronizados
+430;2593400;Fabricação de artigos de metal para uso doméstico e pessoal
+431;2599301;Serviços de confecção de armações metálicas para a construção
+432;2599302;Serviço de corte e dobra de metais
+433;2599399;Fabricação de outros produtos de metal não especificados anteriormente
+434;2610800;Fabricação de componentes eletrônicos
+435;2621300;Fabricação de equipamentos de informática
+436;2622100;Fabricação de periféricos para equipamentos de informática
+437;2631100;Fabricação de equipamentos transmissores de comunicação, peças e acessórios
+438;2632900;Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios
+439;2640000;Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo
+440;2651500;Fabricação de aparelhos e equipamentos de medida, teste e controle
+441;2652300;Fabricação de cronômetros e relógios
+442;2660400;Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação
+443;2670101;Fabricação de equipamentos e instrumentos ópticos, peças e acessórios
+444;2670102;Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios
+445;2680900;Fabricação de mídias virgens, magnéticas e ópticas
+446;2710401;Fabricação de geradores de corrente contínua e alternada, peças e acessórios
+447;2710402;Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios
+448;2710403;Fabricação de motores elétricos, peças e acessórios
+449;2721000;Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores
+450;2722801;Fabricação de baterias e acumuladores para veículos automotores
+451;2722802;Recondicionamento de baterias e acumuladores para veículos automotores
+452;2731700;Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica
+453;2732500;Fabricação de material elétrico para instalações em circuito de consumo
+454;2733300;Fabricação de fios, cabos e condutores elétricos isolados
+455;2740601;Fabricação de lâmpadas
+456;2740602;Fabricação de luminárias e outros equipamentos de iluminação
+457;2751100;Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios
+458;2759701;Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios
+459;2759799;Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios
+460;2790201;Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores
+461;2790202;Fabricação de equipamentos para sinalização e alarme
+462;2790299;Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente
+463;2811900;Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários
+464;2812700;Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas
+465;2813500;Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios
+466;2814301;Fabricação de compressores para uso industrial, peças e acessórios
+467;2814302;Fabricação de compressores para uso não industrial, peças e acessórios
+468;2815101;Fabricação de rolamentos para fins industriais
+469;2815102;Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos
+470;2821601;Fabricação de fornos industriais, aparelhos e equipamentos não-elétricos para instalações térmicas, peças e acessórios
+471;2821602;Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios
+472;2822401;Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios
+473;2822402;Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios
+474;2823200;Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios
+475;2824101;Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial
+476;2824102;Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial
+477;2825900;Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios
+478;2829101;Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, peças e acessórios
+479;2829199;Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios
+480;2831300;Fabricação de tratores agrícolas, peças e acessórios
+481;2832100;Fabricação de equipamentos para irrigação agrícola, peças e acessórios
+482;2833000;Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação
+483;2840200;Fabricação de máquinas-ferramenta, peças e acessórios
+484;2851800;Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios
+485;2852600;Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo
+486;2853400;Fabricação de tratores, peças e acessórios, exceto agrícolas
+487;2854200;Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores
+488;2861500;Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta
+489;2862300;Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios
+490;2863100;Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios
+491;2864000;Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios
+492;2865800;Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios
+493;2866600;Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios
+494;2869100;Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios
+495;2910701;Fabricação de automóveis, camionetas e utilitários
+496;2910702;Fabricação de chassis com motor para automóveis, camionetas e utilitários
+497;2910703;Fabricação de motores para automóveis, camionetas e utilitários
+498;2920401;Fabricação de caminhões e ônibus
+499;2920402;Fabricação de motores para caminhões e ônibus
+500;2930101;Fabricação de cabines, carrocerias e reboques para caminhões
+501;2930102;Fabricação de carrocerias para ônibus
+502;2930103;Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus
+503;2941700;Fabricação de peças e acessórios para o sistema motor de veículos automotores
+504;2942500;Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores
+505;2943300;Fabricação de peças e acessórios para o sistema de freios de veículos automotores
+506;2944100;Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores
+507;2945000;Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias
+508;2949201;Fabricação de bancos e estofados para veículos automotores
+509;2949299;Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente
+510;2950600;Recondicionamento e recuperação de motores para veículos automotores
+511;3011301;Construção de embarcações de grande porte
+512;3011302;Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte
+513;3012100;Construção de embarcações para esporte e lazer
+514;3031800;Fabricação de locomotivas, vagões e outros materiais rodantes
+515;3032600;Fabricação de peças e acessórios para veículos ferroviários
+516;3041500;Fabricação de aeronaves
+517;3042300;Fabricação de turbinas, motores e outros componentes e peças para aeronaves
+518;3050400;Fabricação de veículos militares de combate
+519;3091100;Fabricação de motocicletas, peças e acessórios
+520;3091101;Fabricação de motocicletas
+521;3091102;Fabricação de peças e acessórios para motocicletas
+522;3092000;Fabricação de bicicletas e triciclos não-motorizados, peças e acessórios
+523;3099700;Fabricação de equipamentos de transporte não especificados anteriormente
+524;3101200;Fabricação de móveis com predominância de madeira
+525;3102100;Fabricação de móveis com predominância de metal
+526;3103900;Fabricação de móveis de outros materiais, exceto madeira e metal
+527;3104700;Fabricação de colchões
+528;3211601;Lapidação de gemas
+529;3211602;Fabricação de artefatos de joalheria e ourivesaria
+530;3211603;Cunhagem de moedas e medalhas
+531;3212400;Fabricação de bijuterias e artefatos semelhantes
+532;3220500;Fabricação de instrumentos musicais, peças e acessórios
+533;3230200;Fabricação de artefatos para pesca e esporte
+534;3240001;Fabricação de jogos eletrônicos
+535;3240002;Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação
+536;3240003;Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação
+537;3240099;Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente
+538;3250701;Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório
+539;3250702;Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório
+540;3250703;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda
+541;3250704;Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda
+542;3250705;Fabricação de materiais para medicina e odontologia
+543;3250706;Serviços de prótese dentária
+544;3250707;Fabricação de artigos ópticos
+545;3250708;Fabricação de artefatos de tecido não tecido para uso odonto-médico-hospitalar
+546;3250709;Serviço de laboratório óptico
+547;3291400;Fabricação de escovas, pincéis e vassouras
+548;3292201;Fabricação de roupas de proteção e segurança e resistentes a fogo
+549;3292202;Fabricação de equipamentos e acessórios para segurança pessoal e profissional
+550;3299001;Fabricação de guarda-chuvas e similares
+551;3299002;Fabricação de canetas, lápis e outros artigos para escritório
+552;3299003;Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos
+553;3299004;Fabricação de painéis e letreiros luminosos
+554;3299005;Fabricação de aviamentos para costura
+555;3299006;Fabricação de velas, inclusive decorativas
+556;3299099;Fabricação de produtos diversos não especificados anteriormente
+557;3311200;Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos
+558;3312101;Manutenção e reparação de equipamentos transmissores de comunicação
+559;3312102;Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle
+560;3312103;Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação
+561;3312104;Manutenção e reparação de equipamentos e instrumentos ópticos
+562;3313901;Manutenção e reparação de geradores, transformadores e motores elétricos
+563;3313902;Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos
+564;3313999;Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente
+565;3314701;Manutenção e reparação de máquinas motrizes não-elétricas
+566;3314702;Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas
+567;3314703;Manutenção e reparação de válvulas industriais
+568;3314704;Manutenção e reparação de compressores
+569;3314705;Manutenção e reparação de equipamentos de transmissão para fins industriais
+570;3314706;Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas
+571;3314707;Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial
+572;3314708;Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas
+573;3314709;Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não-eletrônicos para escritório
+574;3314710;Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente
+575;3314711;Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária
+576;3314712;Manutenção e reparação de tratores agrícolas
+577;3314713;Manutenção e reparação de máquinas-ferramenta
+578;3314714;Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo
+579;3314715;Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo
+580;3314716;Manutenção e reparação de tratores, exceto agrícolas
+581;3314717;Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores
+582;3314718;Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta
+583;3314719;Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo
+584;3314720;Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados
+585;3314721;Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos
+586;3314722;Manutenção e reparação de máquinas e aparelhos para a indústria do plástico
+587;3314799;Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente
+588;3315500;Manutenção e reparação de veículos ferroviários
+589;3316301;Manutenção e reparação de aeronaves, exceto a manutenção na pista
+590;3316302;Manutenção de aeronaves na pista
+591;3317101;Manutenção e reparação de embarcações e estruturas flutuantes
+592;3317102;Manutenção e reparação de embarcações para esporte e lazer
+593;3319800;Manutenção e reparação de equipamentos e produtos não especificados anteriormente
+594;3321000;Instalação de máquinas e equipamentos industriais
+595;3329501;Serviços de montagem de móveis de qualquer material
+596;3329599;Instalação de outros equipamentos não especificados anteriormente
+597;3511500;Geração de energia elétrica
+598;3511501;Geração de energia elétrica
+599;3511502;Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica
+600;3512300;Transmissão de energia elétrica
+601;3513100;Comércio atacadista de energia elétrica
+602;3514000;Distribuição de energia elétrica
+603;3520401;"Produção de gás; processamento de gás natural"
+604;3520402;Distribuição de combustíveis gasosos por redes urbanas
+605;3530100;Produção e distribuição de vapor, água quente e ar condicionado
+606;3600601;Captação, tratamento e distribuição de água
+607;3600602;Distribuição de água por caminhões
+608;3701100;Gestão de redes de esgoto
+609;3702900;Atividades relacionadas a esgoto, exceto a gestão de redes
+610;3811400;Coleta de resíduos não-perigosos
+611;3812200;Coleta de resíduos perigosos
+612;3821100;Tratamento e disposição de resíduos não-perigosos
+613;3822000;Tratamento e disposição de resíduos perigosos
+614;3831901;Recuperação de sucatas de alumínio
+615;3831999;Recuperação de materiais metálicos, exceto alumínio
+616;3832700;Recuperação de materiais plásticos
+617;3839401;Usinas de compostagem
+618;3839499;Recuperação de materiais não especificados anteriormente
+619;3900500;Descontaminação e outros serviços de gestão de resíduos
+620;4110700;Incorporação de empreendimentos imobiliários
+621;4120400;Construção de edifícios
+622;4211101;Construção de rodovias e ferrovias
+623;4211102;Pintura para sinalização em pistas rodoviárias e aeroportos
+624;4212000;Construção de obras de arte especiais
+625;4213800;Obras de urbanização - ruas, praças e calçadas
+626;4221901;Construção de barragens e represas para geração de energia elétrica
+627;4221902;Construção de estações e redes de distribuição de energia elétrica
+628;4221903;Manutenção de redes de distribuição de energia elétrica
+629;4221904;Construção de estações e redes de telecomunicações
+630;4221905;Manutenção de estações e redes de telecomunicações
+631;4222701;Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação
+632;4222702;Obras de irrigação
+633;4223500;Construção de redes de transportes por dutos, exceto para água e esgoto
+634;4291000;Obras portuárias, marítimas e fluviais
+635;4292801;Montagem de estruturas metálicas
+636;4292802;Obras de montagem industrial
+637;4299501;Construção de instalações esportivas e recreativas
+638;4299599;Outras obras de engenharia civil não especificadas anteriormente
+639;4311801;Demolição de edifícios e outras estruturas
+640;4311802;Preparação de canteiro e limpeza de terreno
+641;4312600;Perfurações e sondagens
+642;4313400;Obras de terraplenagem
+643;4319300;Serviços de preparação do terreno não especificados anteriormente
+644;4321500;Instalação e manutenção elétrica
+645;4322301;Instalações hidráulicas, sanitárias e de gás
+646;4322302;Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração
+647;4322303;Instalações de sistema de prevenção contra incêndio
+648;4329101;Instalação de painéis publicitários
+649;4329102;Instalação de equipamentos para orientação à navegação marítima fluvial e lacustre
+650;4329103;Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes
+651;4329104;Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos
+652;4329105;Tratamentos térmicos, acústicos ou de vibração
+653;4329199;Outras obras de instalações em construções não especificadas anteriormente
+654;4330401;Impermeabilização em obras de engenharia civil
+655;4330402;Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material
+656;4330403;Obras de acabamento em gesso e estuque
+657;4330404;Serviços de pintura de edifícios em geral
+658;4330405;Aplicação de revestimentos e de resinas em interiores e exteriores
+659;4330499;Outras obras de acabamento da construção
+660;4391600;Obras de fundações
+661;4399101;Administração de obras
+662;4399102;Montagem e desmontagem de andaimes e outras estruturas temporárias
+663;4399103;Obras de alvenaria
+664;4399104;Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras
+665;4399105;Perfuração e construção de poços de água
+666;4399199;Serviços especializados para construção não especificados anteriormente
+667;4511101;Comércio a varejo de automóveis, camionetas e utilitários novos
+668;4511102;Comércio a varejo de automóveis, camionetas e utilitários usados
+669;4511103;Comércio por atacado de automóveis, camionetas e utilitários novos e usados
+670;4511104;Comércio por atacado de caminhões novos e usados
+671;4511105;Comércio por atacado de reboques e semi-reboques novos e usados
+672;4511106;Comércio por atacado de ônibus e microônibus novos e usados
+673;4512901;Representantes comerciais e agentes do comércio de veículos automotores
+674;4512902;Comércio sob consignação de veículos automotores
+675;4520001;Serviços de manutenção e reparação mecânica de veículos automotores
+676;4520002;Serviços de lanternagem ou funilaria e pintura de veículos automotores
+677;4520003;Serviços de manutenção e reparação elétrica de veículos automotores
+678;4520004;Serviços de alinhamento e balanceamento de veículos automotores
+679;4520005;Serviços de lavagem, lubrificação e polimento de veículos automotores
+680;4520006;Serviços de borracharia para veículos automotores
+681;4520007;Serviços de instalação, manutenção e reparação de acessórios para veículos automotores
+682;4520008;Serviços de capotaria
+683;4530701;Comércio por atacado de peças e acessórios novos para veículos automotores
+684;4530702;Comércio por atacado de pneumáticos e câmaras-de-ar
+685;4530703;Comércio a varejo de peças e acessórios novos para veículos automotores
+686;4530704;Comércio a varejo de peças e acessórios usados para veículos automotores
+687;4530705;Comércio a varejo de pneumáticos e câmaras-de-ar
+688;4530706;Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores
+689;4541201;Comércio por atacado de motocicletas e motonetas
+690;4541202;Comércio por atacado de peças e acessórios para motocicletas e motonetas
+691;4541203;Comércio a varejo de motocicletas e motonetas novas
+692;4541204;Comércio a varejo de motocicletas e motonetas usadas
+693;4541205;Comércio a varejo de peças e acessórios para motocicletas e motonetas
+694;4541206;Comércio a varejo de peças e acessórios novos para  motocicletas e motonetas
+695;4541207;Comércio a varejo de peças e acessórios usados para motocicletas e motonetas
+696;4542101;Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios
+697;4542102;Comércio sob consignação de motocicletas e motonetas
+698;4543900;Manutenção e reparação de motocicletas e motonetas
+699;4611700;Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos
+700;4612500;Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos
+701;4613300;Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens
+702;4614100;Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves
+703;4615000;Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico
+704;4616800;Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem
+705;4617600;Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo
+706;4618401;Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria
+707;4618402;Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares
+708;4618403;Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações
+709;4618499;Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente
+710;4619200;Representantes comerciais e agentes do comércio de mercadorias em geral não especializado
+711;4621400;Comércio atacadista de café em grão
+712;4622200;Comércio atacadista de soja
+713;4623101;Comércio atacadista de animais vivos
+714;4623102;Comércio atacadista de couros, lãs, peles e outros subprodutos não-comestíveis de origem animal
+715;4623103;Comércio atacadista de algodão
+716;4623104;Comércio atacadista de fumo em folha não beneficiado
+717;4623105;Comércio atacadista de cacau
+718;4623106;Comércio atacadista de sementes, flores, plantas e gramas
+719;4623107;Comércio atacadista de sisal
+720;4623108;Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada
+721;4623109;Comércio atacadista de alimentos para animais
+722;4623199;Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente
+723;4631100;Comércio atacadista de leite e laticínios
+724;4632001;Comércio atacadista de cereais e leguminosas beneficiados
+725;4632002;Comércio atacadista de farinhas, amidos e féculas
+726;4632003;Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada
+727;4633801;Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos
+728;4633802;Comércio atacadista de aves vivas e ovos
+729;4633803;Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação
+730;4634601;Comércio atacadista de carnes bovinas e suínas e derivados
+731;4634602;Comércio atacadista de aves abatidas e derivados
+732;4634603;Comércio atacadista de pescados e frutos do mar
+733;4634699;Comércio atacadista de carnes e derivados de outros animais
+734;4635401;Comércio atacadista de água mineral
+735;4635402;Comércio atacadista de cerveja, chope e refrigerante
+736;4635403;Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada
+737;4635499;Comércio atacadista de bebidas não especificadas anteriormente
+738;4636201;Comércio atacadista de fumo beneficiado
+739;4636202;Comércio atacadista de cigarros, cigarrilhas e charutos
+740;4637101;Comércio atacadista de café torrado, moído e solúvel
+741;4637102;Comércio atacadista de açúcar
+742;4637103;Comércio atacadista de óleos e gorduras
+743;4637104;Comércio atacadista de pães, bolos, biscoitos e similares
+744;4637105;Comércio atacadista de massas alimentícias
+745;4637106;Comércio atacadista de sorvetes
+746;4637107;Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes
+747;4637199;Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente
+748;4639701;Comércio atacadista de produtos alimentícios em geral
+749;4639702;Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada
+750;4641901;Comércio atacadista de tecidos
+751;4641902;Comércio atacadista de artigos de cama, mesa e banho
+752;4641903;Comércio atacadista de artigos de armarinho
+753;4642701;Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança
+754;4642702;Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho
+755;4643501;Comércio atacadista de calçados
+756;4643502;Comércio atacadista de bolsas, malas e artigos de viagem
+757;4644301;Comércio atacadista de medicamentos e drogas de uso humano
+758;4644302;Comércio atacadista de medicamentos e drogas de uso veterinário
+759;4645101;Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios
+760;4645102;Comércio atacadista de próteses e artigos de ortopedia
+761;4645103;Comércio atacadista de produtos odontológicos
+762;4646001;Comércio atacadista de cosméticos e produtos de perfumaria
+763;4646002;Comércio atacadista de produtos de higiene pessoal
+764;4647801;Comércio atacadista de artigos de escritório e de papelaria
+765;4647802;Comércio atacadista de livros, jornais e outras publicações
+766;4649401;Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico
+767;4649402;Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico
+768;4649403;Comércio atacadista de bicicletas, triciclos e outros veículos recreativos
+769;4649404;Comércio atacadista de móveis e artigos de colchoaria
+770;4649405;"Comércio atacadista de artigos de tapeçaria; persianas e cortinas"
+771;4649406;Comércio atacadista de lustres, luminárias e abajures
+772;4649407;Comércio atacadista de filmes, CDs, DVDs, fitas e discos
+773;4649408;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar
+774;4649409;Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada
+775;4649410;Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas
+776;4649499;Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente
+777;4651601;Comércio atacadista de equipamentos de informática
+778;4651602;Comércio atacadista de suprimentos para informática
+779;4652400;Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação
+780;4661300;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças"
+781;4662100;"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças"
+782;4663000;"Comércio atacadista de Máquinas e equipamentos para uso industrial; partes e peças"
+783;4664800;"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças"
+784;4665600;"Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças"
+785;4669901;"Comércio atacadista de bombas e compressores; partes e peças"
+786;4669999;"Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças"
+787;4671100;Comércio atacadista de madeira e produtos derivados
+788;4672900;Comércio atacadista de ferragens e ferramentas
+789;4673700;Comércio atacadista de material elétrico
+790;4674500;Comércio atacadista de cimento
+791;4679601;Comércio atacadista de tintas, vernizes e similares
+792;4679602;Comércio atacadista de mármores e granitos
+793;4679603;Comércio atacadista de vidros, espelhos, vitrais e molduras
+794;4679604;Comércio atacadista especializado de materiais de construção não especificados anteriormente
+795;4679699;Comércio atacadista de materiais de construção em geral
+796;4681801;Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador re
+797;4681802;Comércio atacadista de combustíveis realizado por transportador retalhista (T.R.R.)
+798;4681803;Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante
+799;4681804;Comércio atacadista de combustíveis de origem mineral em bruto
+800;4681805;Comércio atacadista de lubrificantes
+801;4682600;Comércio atacadista de gás liqüefeito de petróleo (GLP)
+802;4683400;Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo
+803;4684201;Comércio atacadista de resinas e elastômeros
+804;4684202;Comércio atacadista de solventes
+805;4684299;Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente
+806;4685100;Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção
+807;4686901;Comércio atacadista de papel e papelão em bruto
+808;4686902;Comércio atacadista de embalagens
+809;4687701;Comércio atacadista de resíduos de papel e papelão
+810;4687702;Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão
+811;4687703;Comércio atacadista de resíduos e sucatas metálicos
+812;4689301;Comércio atacadista de produtos da extração mineral, exceto combustíveis
+813;4689302;Comércio atacadista de fios e fibras beneficiados
+814;4689399;Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente
+815;4691500;Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios
+816;4692300;Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários
+817;4693100;Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários
+818;4711301;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados
+819;4711302;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados
+820;4712100;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns
+821;4713001;Lojas de departamentos ou magazines
+822;4713002;Lojas de variedades, exceto lojas de departamentos ou magazines
+823;4713003;Lojas duty free de aeroportos internacionais
+824;4713004;Lojas de departamentos ou magazines, exceto lojas francas (Duty free)
+825;4713005;Lojas francas (Duty free) de aeroportos, portos e em fronteiras terrestres
+826;4721101;Padaria e confeitaria com predominância de produção própria
+827;4721102;Padaria e confeitaria com predominância de revenda
+828;4721103;Comércio varejista de laticínios e frios
+829;4721104;Comércio varejista de doces, balas, bombons e semelhantes
+830;4722901;Comércio varejista de carnes - açougues
+831;4722902;Peixaria
+832;4723700;Comércio varejista de bebidas
+833;4724500;Comércio varejista de hortifrutigranjeiros
+834;4729601;Tabacaria
+835;4729602;Comércio varejista de mercadorias em lojas de conveniência
+836;4729699;Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente
+837;4731800;Comércio varejista de combustíveis para veículos automotores
+838;4732600;Comércio varejista de lubrificantes
+839;4741500;Comércio varejista de tintas e materiais para pintura
+840;4742300;Comércio varejista de material elétrico
+841;4743100;Comércio varejista de vidros
+842;4744001;Comércio varejista de ferragens e ferramentas
+843;4744002;Comércio varejista de madeira e artefatos
+844;4744003;Comércio varejista de materiais hidráulicos
+845;4744004;Comércio varejista de cal, areia, pedra britada, tijolos e telhas
+846;4744005;Comércio varejista de materiais de construção não especificados anteriormente
+847;4744006;Comércio varejista de pedras para revestimento
+848;4744099;Comércio varejista de materiais de construção em geral
+849;4751200;Comércio varejista especializado de equipamentos e suprimentos de informática
+850;4751201;Comércio varejista especializado de equipamentos e suprimentos de informática
+851;4751202;Recarga de cartuchos para equipamentos de informática
+852;4752100;Comércio varejista especializado de equipamentos de telefonia e comunicação
+853;4753900;Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo
+854;4754701;Comércio varejista de móveis
+855;4754702;Comércio varejista de artigos de colchoaria
+856;4754703;Comércio varejista de artigos de iluminação
+857;4755501;Comércio varejista de tecidos
+858;4755502;Comercio varejista de artigos de armarinho
+859;4755503;Comercio varejista de artigos de cama, mesa e banho
+860;4756300;Comércio varejista especializado de instrumentos musicais e acessórios
+861;4757100;Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação
+862;4759801;Comércio varejista de artigos de tapeçaria, cortinas e persianas
+863;4759899;Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente
+864;4761001;Comércio varejista de livros
+865;4761002;Comércio varejista de jornais e revistas
+866;4761003;Comércio varejista de artigos de papelaria
+867;4762800;Comércio varejista de discos, CDs, DVDs e fitas
+868;4763601;Comércio varejista de brinquedos e artigos recreativos
+869;4763602;Comércio varejista de artigos esportivos
+870;4763603;"Comércio varejista de bicicletas e triciclos; peças e acessórios"
+871;4763604;Comércio varejista de artigos de caça, pesca e camping
+872;4763605;"Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios"
+873;4771701;Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas
+874;4771702;Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas
+875;4771703;Comércio varejista de produtos farmacêuticos homeopáticos
+876;4771704;Comércio varejista de medicamentos veterinários
+877;4772500;Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal
+878;4773300;Comércio varejista de artigos médicos e ortopédicos
+879;4774100;Comércio varejista de artigos de óptica
+880;4781400;Comércio varejista de artigos do vestuário e acessórios
+881;4782201;Comércio varejista de calçados
+882;4782202;Comércio varejista de artigos de viagem
+883;4783101;Comércio varejista de artigos de joalheria
+884;4783102;Comércio varejista de artigos de relojoaria
+885;4784900;Comércio varejista de gás liqüefeito de petróleo (GLP)
+886;4785701;Comércio varejista de antigüidades
+887;4785799;Comércio varejista de outros artigos usados
+888;4789001;Comércio varejista de suvenires, bijuterias e artesanatos
+889;4789002;Comércio varejista de plantas e flores naturais
+890;4789003;Comércio varejista de objetos de arte
+891;4789004;Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação
+892;4789005;Comércio varejista de produtos saneantes domissanitários
+893;4789006;Comércio varejista de fogos de artifício e artigos pirotécnicos
+894;4789007;Comércio varejista de equipamentos para escritório
+895;4789008;Comércio varejista de artigos fotográficos e para filmagem
+896;4789009;Comércio varejista de armas e munições
+897;4789099;Comércio varejista de outros produtos não especificados anteriormente
+898;4911600;Transporte ferroviário de carga
+899;4912401;Transporte ferroviário de passageiros intermunicipal e interestadual
+900;4912402;Transporte ferroviário de passageiros municipal e em região metropolitana
+901;4912403;Transporte metroviário
+902;4921301;Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal
+903;4921302;Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana
+904;4922101;Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana
+905;4922102;Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual
+906;4922103;Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional
+907;4923001;Serviço de táxi
+908;4923002;Serviço de transporte de passageiros - locação de automóveis com motorista
+909;4924800;Transporte escolar
+910;4929901;Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal
+911;4929902;Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional
+912;4929903;Organização de excursões em veículos rodoviários próprios, municipal
+913;4929904;Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional
+914;4929999;Outros transportes rodoviários de passageiros não especificados anteriormente
+915;4930201;Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal.
+916;4930202;Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional
+917;4930203;Transporte rodoviário de produtos perigosos
+918;4930204;Transporte rodoviário de mudanças
+919;4940000;Transporte dutoviário
+920;4950700;Trens turísticos, teleféricos e similares
+921;5011401;Transporte marítimo de cabotagem - Carga
+922;5011402;Transporte marítimo de cabotagem - passageiros
+923;5012201;Transporte marítimo de longo curso - Carga
+924;5012202;Transporte marítimo de longo curso - Passageiros
+925;5021101;Transporte por navegação interior de carga, municipal, exceto travessia
+926;5021102;Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia
+927;5022001;Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia
+928;5022002;Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia
+929;5030101;Navegação de apoio marítimo
+930;5030102;Navegação de apoio portuário
+931;5030103;Serviço de rebocadores e empurradores
+932;5091201;Transporte por navegação de travessia, municipal
+933;5091202;Transporte por navegação de travessia intermunicipal, interestadual e internacional
+934;5099801;Transporte aquaviário para passeios turísticos
+935;5099899;Outros transportes aquaviários não especificados anteriormente
+936;5111100;Transporte aéreo de passageiros regular
+937;5112901;Serviço de táxi aéreo e locação de aeronaves com tripulação
+938;5112999;Outros serviços de transporte aéreo de passageiros não-regular
+939;5120000;Transporte aéreo de carga
+940;5130700;Transporte espacial
+941;5211701;Armazéns gerais - emissão de warrant
+942;5211702;Guarda-móveis
+943;5211799;Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis
+944;5212500;Carga e descarga
+945;5221400;Concessionárias de rodovias, pontes, túneis e serviços relacionados
+946;5222200;Terminais rodoviários e ferroviários
+947;5223100;Estacionamento de veículos
+948;5229001;Serviços de apoio ao transporte por táxi, inclusive centrais de chamada
+949;5229002;Serviços de reboque de veículos
+950;5229099;Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente
+951;5231101;Administração da infra-estrutura portuária
+952;5231102;Atividades do Operador Portuário
+953;5231103;Gestão de terminais aquaviários
+954;5232000;Atividades de agenciamento marítimo
+955;5239700;Atividades auxiliares dos transportes aquaviários não especificadas anteriormente
+956;5239701;Serviços de praticagem
+957;5239799;Atividades auxiliares dos transportes aquaviários não especificadas anteriormente
+958;5240101;Operação dos aeroportos e campos de aterrissagem
+959;5240199;Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem
+960;5250801;Comissaria de despachos
+961;5250802;Atividades de despachantes aduaneiros
+962;5250803;Agenciamento de cargas, exceto para o transporte marítimo
+963;5250804;Organização logística do transporte de carga
+964;5250805;Operador de transporte multimodal - OTM
+965;5310501;Atividades do Correio Nacional
+966;5310502;Atividades de franqueadas do Correio Nacional
+967;5320201;Serviços de malote não realizados pelo Correio Nacional
+968;5320202;Serviços de entrega rápida
+969;5510801;Hotéis
+970;5510802;Apart-hotéis
+971;5510803;Motéis
+972;5590601;Albergues, exceto assistenciais
+973;5590602;Campings
+974;5590603;Pensões (alojamento)
+975;5590699;Outros alojamentos não especificados anteriormente
+976;5611201;Restaurantes e similares
+977;5611202;Bares e outros estabelecimentos especializados em servir bebidas
+978;5611203;Lanchonetes, casas de chá, de sucos e similares
+979;5611204;Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento
+980;5611205;Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento
+981;5612100;Serviços ambulantes de alimentação
+982;5620101;Fornecimento de alimentos preparados preponderantemente para empresas
+983;5620102;Serviços de alimentação para eventos e recepções - bufê
+984;5620103;Cantinas - serviços de alimentação privativos
+985;5620104;Fornecimento de alimentos preparados preponderantemente para consumo domiciliar
+986;5811500;Edição de livros
+987;5812300;Edição de jornais
+988;5812301;Edição de jornais diários
+989;5812302;Edição de jornais não diários
+990;5813100;Edição de revistas
+991;5819100;Edição de cadastros, listas e de outros produtos gráficos
+992;5821200;Edição integrada à impressão de livros
+993;5822100;Edição integrada à impressão de jornais
+994;5822101;Edição integrada à impressão de jornais diários
+995;5822102;Edição integrada à impressão de jornais não diários
+996;5823900;Edição integrada à impressão de revistas
+997;5829800;Edição integrada à impressão de cadastros, listas e de outros produtos gráficos
+998;5911101;Estúdios cinematográficos
+999;5911102;Produção de filmes para publicidade
+1000;5911199;Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente
