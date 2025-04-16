@@ -4,11 +4,11 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 
 - [1. Turma: Engenharia de Software](#1-turma-engenharia-de-software)
   - [:watch: 1.1. Carga Horária Total: 60](#watch-11-carga-horária-total-60)
-  - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
+  - [:hourglass\_flowing\_sand: 1.2. Horário: 19hs - 22hs](#hourglass_flowing_sand-12-horário-19hs---22hs)
   - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
-  - [1.4. Metodologia](#14-metodologia)
-  - [1.5. Procedimentos de avaliação de aprendizagem](#15-procedimentos-de-avaliação-de-aprendizagem)
-  - [1.6. Horário de atendimento](#16-horário-de-atendimento)
+  - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
+  - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
+  - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
 - [2. Sites utilizados](#2-sites-utilizados)
 - [3. Repositórios de apoio](#3-repositórios-de-apoio)
 - [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
@@ -39,7 +39,7 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 
 ### :watch: 1.1. Carga Horária Total: 60
 
-### 1.2. Horário: 19hs - 22hs
+### :hourglass_flowing_sand: 1.2. Horário: 19hs - 22hs
 
 ### :page_with_curl: 1.3. Ementa
 
@@ -49,13 +49,13 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 * Introdução a UML.
 * Projeto de Software.
 
-### 1.4. Metodologia
+### :page_with_curl: 1.4. Metodologia
 
 * Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
 * Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
 * Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
-### 1.5. Procedimentos de avaliação de aprendizagem
+### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 
 **Prova presencial** escrita objetiva de múltipla escolha. Cálculo de notas por soma de pontos simples. Cada avaliação vale 10 pontos. São 3 avaliações. Resultado final via média simples entre avaliações. Excepcionalmente poderão ocorrer avaliações online. Poderão ocorrer atividades online objetivando fixação de conceitos (valendo pontos ou não).
 
@@ -75,7 +75,7 @@ Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5,
 
 **Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
-### 1.6. Horário de atendimento
+### :hourglass_flowing_sand: 1.6. Horário de atendimento
 
 No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
