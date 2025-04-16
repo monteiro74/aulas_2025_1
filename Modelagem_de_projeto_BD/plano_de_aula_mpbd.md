@@ -24,7 +24,6 @@
   - [13.2. Exemplo de modelo estrela](#132-exemplo-de-modelo-estrela)
 - [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Banco de Dados (15h)](#-141-playlist-de-banco-de-dados-15h)
-    - [🧱 Modelagem de Dados](#-modelagem-de-dados)
 
 
 
@@ -328,11 +327,8 @@ erDiagram
 
 Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
-
-
 ### 🎓 14.1. Playlist de Banco de Dados (15h)
 
-#### 🧱 Modelagem de Dados
 
 | Título                                                      | Assunto            | Duração Estimada | URL   |
 |-------------------------------------------------------------|--------------------|------------------|-------|
@@ -347,7 +343,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 | Indexação em Banco de Dados                                 | Índices            | 0h 15min         | [Link](https://www.youtube.com/watch?v=Ujl67TEXRKs) |
 | OLAP vs OLTP                                                | DW, OLTP, OLAP     | 0h 10min         | [Link](https://www.youtube.com/watch?v=iw-5kFzIdgY) |
 | Data Warehouse Tutorial For Beginners                       | DW, OLTP, OLAP     | 1h 00min         | [Link](https://www.youtube.com/watch?v=J326LIUrZM8) |
-| What is ETL | What is Data Warehouse | OLTP vs OLAP         | DW, OLTP, OLAP     | 0h 10min         | [Link](https://www.youtube.com/watch?v=oF_2uDb7DvQ) |
+| What is ETL  What is Data Warehouse  OLTP vs OLAP           | DW, OLTP, OLAP     | 0h 10min         | [Link](https://www.youtube.com/watch?v=oF_2uDb7DvQ) |
 | Processamento de Transações / ACID - Bancos de Dados 2020.2 | Processamento, ACID, Concorrência  | 0h 40min | [Link](https://www.youtube.com/watch?v=EF4JoNoDnJw) |
 | Entenda ACID, Concorrência e Como Garantir Consistência!    | Processamento, ACID, Concorrência  | 0h 20min | [Link](https://www.youtube.com/watch?v=txw4WrO7Azo) |
 | Introdução ao Controle de Concorrência de Transações        | Processamento, ACID, Concorrência  | 0h 30min | [Link](https://www.youtube.com/watch?v=kycoQMqc0mc) |
