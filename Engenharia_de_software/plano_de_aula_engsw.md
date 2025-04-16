@@ -30,6 +30,7 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [13. Videos recomendados](#13-videos-recomendados)
 - [14. Carga horária de 15 (remota/online)](#14-carga-horária-de-15-remotaonline)
   - [📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-141-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
+  - [📄 14.2. Artigos Científicos Open Access sobre Engenharia de Software](#-142-artigos-científicos-open-access-sobre-engenharia-de-software)
 
 
 ---
@@ -373,7 +374,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 ### 📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)
 
-| #  | Tópico Principal         | Título do Vídeo                                                                 | Duração   | URL                                                                                     |
+| #  | Tópico Principal         | Título do Vídeo                                                                 | Duração aproximada   | URL                                                                                     |
 |----|--------------------------|----------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------|
 | 1  | Engenharia de Software   | Introdução à Engenharia de Software – UNIVESP                                   | 1h 10min  | [Link](https://www.youtube.com/watch?v=AJmCNoi9NTI)                                     |
 | 2  | Engenharia de Software   | AULA 01. Introdução à Engenharia de Software – UFPB                             | 1h 05min  | [Link](https://www.youtube.com/watch?v=WNICUFe4K1g)                                     |
@@ -390,3 +391,21 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 | 13 | Qualidade de Software    | QA do Zero: Como Iniciar sua Jornada na Qualidade de Software                  | 1h 00min  | [Link](https://www.youtube.com/watch?v=C6UV7SIILt4)                                     |
 
 **⏱️ Total aproximado:** 13h 15min
+
+### 📄 14.2. Artigos Científicos Open Access sobre Engenharia de Software
+
+| #  | Tópico Principal             | Título do Artigo                                                                                                   | URL                                                                                                   |
+|----|------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| 1  | Engenharia de Software       | Software—A New Open Access Journal on Software Engineering                                                         | [Link](https://www.mdpi.com/2674-113X/1/1/1)                                                           |
+| 2  | Engenharia de Software       | Software Engineering Commons™                                                                                      | [Link](https://network.bepress.com/physical-sciences-and-mathematics/computer-sciences/software-engineering/) |
+| 3  | Engenharia de Software       | The Journal of Object Technology                                                                                   | [Link](https://www.jot.fm/)                                                                           |
+| 4  | Processos de Desenvolvimento | Understanding Free/Open Source Software Development Processes                                                      | [Link](https://www.researchgate.net/publication/220542459_Understanding_FreeOpen_Source_Software_Development_Processes) |
+| 5  | Processos de Desenvolvimento | Open Source Software Development Process: A Systematic Review                                                      | [Link](https://arxiv.org/abs/2008.05015)                                                              |
+| 6  | Processos de Desenvolvimento | Open Source Software Primer: The Development Process                                                               | [Link](https://developer.ansys.com/knowledge-center/guide/open-source-software-primer-development-process) |
+| 7  | Deploy de Software           | Global Security Mandates for Open Source Software Deployment                                                       | [Link](https://www.spiceworks.com/it-security/security-general/guest-article/deploying-open-source-software-in-an-age-of-global-security-mandates/) |
+| 8  | Deploy de Software           | Open source software deployment in the public sector - ResearchGate                                                | [Link](https://www.researchgate.net/publication/220364214_Open_source_software_deployment_in_the_public_sector_A_review_of_Botswana_and_South_Africa) |
+| 9  | Deploy de Software           | Best Practices For Deploying Open Source Software In The Enterprise                                                | [Link](https://www.linkedin.com/pulse/best-practices-deploying-open-source-software-enterprise-craig-risi) |
+| 10 | Qualidade de Software        | Software Quality: How Much Does It Matter?                                                                         | [Link](https://www.mdpi.com/2079-9292/11/16/2485)                                                     |
+| 11 | Qualidade de Software        | State-Of-The-Practice in Quality Assurance in Java-Based Open Source Software Development                          | [Link](https://arxiv.org/abs/2306.09665)                                                              |
+| 12 | Qualidade de Software        | Longitudinal Evaluation of Open-Source Software Maintainability                                                    | [Link](https://arxiv.org/abs/2003.00447)                                                              |
+| 13 | Qualidade de Software        | Improving software vulnerability severity prediction model performance with HDLN & FWFS: a two-stage feature selection approach | [Link](https://link.springer.com/article/10.1007/s11219-025-09612-3)                                  |
