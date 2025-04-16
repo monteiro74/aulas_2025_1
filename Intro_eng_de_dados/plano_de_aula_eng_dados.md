@@ -6,20 +6,20 @@
   - [:page\_with\_curl: 1.3. Ementa](#page_with_curl-13-ementa)
   - [:page\_with\_curl: 1.4. Metodologia](#page_with_curl-14-metodologia)
   - [:page\_with\_curl: 1.5. Procedimentos de avaliação de aprendizagem](#page_with_curl-15-procedimentos-de-avaliação-de-aprendizagem)
-  - [1.6. Horário de atendimento](#16-horário-de-atendimento)
-- [2. Sites utilizados](#2-sites-utilizados)
-- [3. Repositórios de apoio](#3-repositórios-de-apoio)
-- [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
-- [5. Datas de avaliações](#5-datas-de-avaliações)
-- [6. Links para download de ferramentas](#6-links-para-download-de-ferramentas)
-- [7. Artigos (referências bibliográficas complementares)](#7-artigos-referências-bibliográficas-complementares)
-- [8. Livros (básicos)](#8-livros-básicos)
-  - [8.1. Outras referências complementares](#81-outras-referências-complementares)
-- [9. Cursos gratuítos (opcionais)](#9-cursos-gratuítos-opcionais)
-  - [9.1. Cursos sobre BI com Scriptcase](#91-cursos-sobre-bi-com-scriptcase)
-- [10. Como estudar (dicas)](#10-como-estudar-dicas)
-- [11. Grupos no telegram](#11-grupos-no-telegram)
-- [12. Videos recomendados (material opcional)](#12-videos-recomendados-material-opcional)
+  - [:hourglass\_flowing\_sand: 1.6. Horário de atendimento](#hourglass_flowing_sand-16-horário-de-atendimento)
+- [:globe\_with\_meridians: 2. Sites utilizados](#globe_with_meridians-2-sites-utilizados)
+- [:abacus: 3. Repositórios de apoio](#abacus-3-repositórios-de-apoio)
+- [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
+- [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
+- [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
+- [:newspaper: 7. Artigos (referências bibliográficas complementares)](#newspaper-7-artigos-referências-bibliográficas-complementares)
+- [:books: 8. Livros (básicos)](#books-8-livros-básicos)
+  - [:books: 8.1. Outras referências complementares](#books-81-outras-referências-complementares)
+- [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
+  - [:green\_book: 9.1. Cursos sobre BI com Scriptcase](#green_book-91-cursos-sobre-bi-com-scriptcase)
+- [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
+- [:family\_man\_woman\_girl\_boy:  11. Grupos no telegram](#family_man_woman_girl_boy--11-grupos-no-telegram)
+- [:tv: 12. Videos recomendados (material opcional)](#tv-12-videos-recomendados-material-opcional)
   - [13. Projetos da fundação Apache e suas características](#13-projetos-da-fundação-apache-e-suas-características)
 - [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)](#-141-playlist-de-introdução-à-engenharia-de-dados-até-15h)
@@ -74,12 +74,12 @@ Temos 15 encontros presenciais, sequênciais, 1 ves por semana; nos encontros 5,
 
 **Prova final:** (PF) ou exame final será aplicado após a avaliação 3. A avaliação poderá **escrita** objetiva (tipo canetão). O conteúdo será... **TODO** o conteúdo ministrado ao longo do semestre. A prova final deve ser requisitada na Secretaria Acadêmica.
 
-### 1.6. Horário de atendimento
+### :hourglass_flowing_sand: 1.6. Horário de atendimento
 
 No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio pelo sistema SIGAA).
 
 ---
-## 2. Sites utilizados
+## :globe_with_meridians: 2. Sites utilizados
 
 
 |Sites utilizados|Url|
@@ -92,7 +92,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Página do curso | https://sinop.unemat.br/faculdades/facet/graduacao/sistemas-de-informacao-bacharelado-graduacao-presencial-noturno-sinop |
 
 ---
-## 3. Repositórios de apoio
+## :abacus: 3. Repositórios de apoio
 
 |Sites utilizados|Url|
 |-----|-----|
@@ -100,7 +100,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
 
 ---
-## 4. Datas de aulas e conteúdo
+## :date: 4. Datas de aulas e conteúdo
 
 
 |Aula | Data   | Carga horária| Conteúdo |
@@ -122,9 +122,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 15  | 11/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
 
 
-
-
-## 5. Datas de avaliações
+## :date: 5. Datas de avaliações
 
 * Avaliação 1: 02/04/2025
 * Avaliação 2: 07/05/2025
@@ -132,7 +130,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 
 ---
-## 6. Links para download de ferramentas
+## :hammer_and_wrench: 6. Links para download de ferramentas
 
 1. [Laragon](https://laragon.org/download/)
 2. [Heidi SQL](https://www.heidisql.com/download.php)
@@ -154,7 +152,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
 ---
-## 7. Artigos (referências bibliográficas complementares)
+## :newspaper: 7. Artigos (referências bibliográficas complementares)
 
 Artigo 1: [Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado](https://sol.sbc.org.br/index.php/sbbd/article/view/25556).
 
@@ -168,7 +166,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 
 ---
-## 8. Livros (básicos)
+## :books: 8. Livros (básicos)
 
 * Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
 
@@ -186,7 +184,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 
 ---
-### 8.1. Outras referências complementares
+### :books: 8.1. Outras referências complementares
 
 * CAMILO, C.O.; SILVA, J.C. da. Mineração de dados: conceitos, tarefas, métodos e ferramentas. 2009. 29 f. Relatório técnico. Universidade Federal de Goiás, Instituto de Informática, Goiânia. Disponível em: <http://www.portal.inf.ufg.br/sites/default/files/uploads/relatorios-tecnicos/RT-INF_001-09.pdf>. Acesso em: 22 jun. 2018.
 
@@ -209,14 +207,14 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 * ZAKI, J.M.; MEIRA JR, W. Data mining and analysis: fundamental concepts and algorithms. England: Cambridge University Press, 2014. Disponível em: <https://dataminingbook.info/book_html/>. Acesso em: 02 out. 2020.
 
 --- 
-## 9. Cursos gratuítos (opcionais)
+## :notebook: 9. Cursos gratuítos (opcionais)
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
 
-### 9.1. Cursos sobre BI com Scriptcase
+### :green_book: 9.1. Cursos sobre BI com Scriptcase
 
 * Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
 * Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
@@ -230,7 +228,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 
 ---
-## 10. Como estudar (dicas)
+## :green_book: 10. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -240,7 +238,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 11. Grupos no telegram
+## :family_man_woman_girl_boy:  11. Grupos no telegram
 
 
 |Grupo | Link no Telegram |
@@ -260,7 +258,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Videos recomendados (material opcional)
+## :tv: 12. Videos recomendados (material opcional)
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
