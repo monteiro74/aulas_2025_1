@@ -331,7 +331,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 ### 🎓 14.1. Playlist de Banco de Dados (15h)
 
 
-| Título                                                      | Assunto            | Duração Estimada | URL   |
+| Título                                                      | Tópico Principal            | Duração Estimada | URL   |
 |-------------------------------------------------------------|--------------------|------------------|-------|
 | Curso de Modelagem de Dados (Playlist)                      | Modelagem de dados | 3h 00min         | [Link](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD) |
 | Introdução à Modelagem de Dados                             | Modelagem de dados | 0h 20min         | [Link](https://www.youtube.com/watch?v=W49AO7f93Jk) |
@@ -355,7 +355,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 ### 📄 14.2. Artigos Científicos Open Access sobre Banco de Dados
 
 
-| Título                | Assunto | Estimativa de Leitura | URL               |
+| Título                | Tópico Principal | Estimativa de Leitura | URL               |
 |-----------------------|---------|-----------------------|-------------------|
 | Critical data modeling and the basic representation model | Modelagem de dados | 1h 30min | [Link](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24745) |
 | Data Modeling and Data Analytics: A Survey from a Big Data Perspective   | Modelagem de dados | 1h 30min | [Link](https://www.researchgate.net/publication/288872507_Data_Modeling_and_Data_Analytics_A_Survey_from_a_Big_Data_Perspective) |
