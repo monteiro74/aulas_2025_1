@@ -19,16 +19,16 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
   - [6.3. Exemplos de prompts](#63-exemplos-de-prompts)
   - [6.4. Exemplo de índice (TOC)](#64-exemplo-de-índice-toc)
 - [7. Links para download de ferramentas](#7-links-para-download-de-ferramentas)
-- [8. Artigos:](#8-artigos)
-- [9. Livros](#9-livros)
-  - [9.1. Livro sobre .Net Maui](#91-livro-sobre-net-maui)
-  - [9.2. Tutorial sobre .Net Maui](#92-tutorial-sobre-net-maui)
-  - [9.3. Livros sobre Scrum (em PDF)](#93-livros-sobre-scrum-em-pdf)
-- [10. Cursos gratuítos](#10-cursos-gratuítos)
-- [11. Como estudar](#11-como-estudar)
-- [12. Grupos no telegram](#12-grupos-no-telegram)
-- [13. Videos recomendados](#13-videos-recomendados)
-- [14. Carga horária de 15hs (remota/online)](#14-carga-horária-de-15hs-remotaonline)
+- [8. Artigos (referências bibliográficas complementares)](#8-artigos-referências-bibliográficas-complementares)
+- [9. Livros (referências bibliográficas básicas)](#9-livros-referências-bibliográficas-básicas)
+  - [9.1. Livro sobre .Net Maui (referências bibliográficas complementares)](#91-livro-sobre-net-maui-referências-bibliográficas-complementares)
+  - [9.2. Tutorial sobre .Net Maui (referências complementares)](#92-tutorial-sobre-net-maui-referências-complementares)
+  - [9.3. Livros sobre Scrum (em PDF) (referências bibliográficas complementares)](#93-livros-sobre-scrum-em-pdf-referências-bibliográficas-complementares)
+- [10. Cursos gratuítos (opcionais)](#10-cursos-gratuítos-opcionais)
+- [11. Como estudar (dicas)](#11-como-estudar-dicas)
+- [12. Grupos no telegram com foco em desenvolvimento (dicas)](#12-grupos-no-telegram-com-foco-em-desenvolvimento-dicas)
+- [13. Videos recomendados (material opcional)](#13-videos-recomendados-material-opcional)
+- [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
   - [📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-141-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
   - [📄 14.2. Artigos Científicos Open Access sobre Engenharia de Software](#-142-artigos-científicos-open-access-sobre-engenharia-de-software)
 
@@ -249,7 +249,7 @@ Estrutura do trabalho e situação do que já foi feito até o momento:
 
 
 ---
-## 8. Artigos:
+## 8. Artigos (referências bibliográficas complementares)
 
 * Definição de requisitos de software baseada numa arquitetura de modelagem de negócios.
 https://www.scielo.br/j/prod/a/4fyvdWfsVyDQRfhqTCRJ8vL/
@@ -267,7 +267,7 @@ https://periodicos.set.edu.br/exatas/article/view/8809
 https://www.researchgate.net/publication/228849325_Interdisciplinaridade_na_Engenharia_de_Software
 
 ---
-## 9. Livros
+## 9. Livros (referências bibliográficas básicas)
 
 * PRESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011.
 Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41
@@ -285,7 +285,7 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
 
 
-### 9.1. Livro sobre .Net Maui
+### 9.1. Livro sobre .Net Maui (referências bibliográficas complementares)
 
 * Versão em PDF: Enterprise Application Patterns Using .NET MAUI (PDF)
 https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf
@@ -293,7 +293,7 @@ https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf
 * Versão em html: Enterprise Application Patterns Using .NET MAUI
 https://learn.microsoft.com/pt-br/dotnet/architecture/maui/
 
-### 9.2. Tutorial sobre .Net Maui
+### 9.2. Tutorial sobre .Net Maui (referências complementares)
 
 * Parte 1: Criar seu primeiro aplicativo
 https://learn.microsoft.com/pt-br/dotnet/maui/get-started/first-app?view=net-maui-9.0&tabs=vswin&pivots=devices-android
@@ -304,7 +304,7 @@ https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-app/?view=net-maui
 * Parte 3: Atualizar seu aplicativo com conceitos de MVVM
 https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0
 
-### 9.3. Livros sobre Scrum (em PDF)
+### 9.3. Livros sobre Scrum (em PDF) (referências bibliográficas complementares)
 
 https://www.infoq.com/scrum/minibooks/
 
@@ -314,7 +314,7 @@ https://www.infoq.com/minibooks/emag-business-design-technology/
 
 
 ---
-## 10. Cursos gratuítos
+## 10. Cursos gratuítos (opcionais)
 
 * Receita para Levantar Requisitos de Software.
 https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/
@@ -326,7 +326,7 @@ https://www.udemy.com/course/analise-de-requisitos-de-software/
 https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197
 
 ---
-## 11. Como estudar
+## 11. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -336,8 +336,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Grupos no telegram
-
+## 12. Grupos no telegram com foco em desenvolvimento (dicas)
 
 |Grupo | Link no Telegram |
 | --- | --- |
@@ -355,11 +354,9 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 | SQL Server GO | https://t.me/SQLServerGO |
 
 ---
-## 13. Videos recomendados
+## 13. Videos recomendados (material opcional)
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M-rlucvPG94/0.jpg)](https://www.youtube.com/watch?v=M-rlucvPG94)
 
 2. [Scrum Master é um Inútil (não é só sobre isso)](https://www.youtube.com/watch?v=1eGSPUN0sj4)
 
@@ -370,7 +367,10 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
 ---
-## 14. Carga horária de 15hs (remota/online)
+## 14. Carga horária de 15hs adicionais (remota/online)
+
+Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
+
 
 ### 📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)
 
@@ -390,7 +390,9 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 | 12 | Qualidade de Software    | Qualidade e Testes de Software – Aula 1                                        | 1h 00min  | [Link](https://www.youtube.com/watch?v=MZExJJLhqz4)                                     |
 | 13 | Qualidade de Software    | QA do Zero: Como Iniciar sua Jornada na Qualidade de Software                  | 1h 00min  | [Link](https://www.youtube.com/watch?v=C6UV7SIILt4)                                     |
 
-**⏱️ Total aproximado:** 13h 15min
+**⏱️ Total aproximado de videos:** 15hs
+
+
 
 ### 📄 14.2. Artigos Científicos Open Access sobre Engenharia de Software
 
@@ -408,4 +410,6 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 | 10 | Qualidade de Software        | Software Quality: How Much Does It Matter?                                                                         | [Link](https://www.mdpi.com/2079-9292/11/16/2485)                                                     |
 | 11 | Qualidade de Software        | State-Of-The-Practice in Quality Assurance in Java-Based Open Source Software Development                          | [Link](https://arxiv.org/abs/2306.09665)                                                              |
 | 12 | Qualidade de Software        | Longitudinal Evaluation of Open-Source Software Maintainability                                                    | [Link](https://arxiv.org/abs/2003.00447)                                                              |
-| 13 | Qualidade de Software        | Improving software vulnerability severity prediction model performance with HDLN & FWFS: a two-stage feature selection approach | [Link](https://link.springer.com/article/10.1007/s11219-025-09612-3)                                  |
+| 13 | Qualidade de Software        | State-Of-The-Practice in Quality Assurance in Java-Based Open Source Software Development | [Link](https://arxiv.org/abs/2306.09665)                                  |
+
+**⏱️ Total aproximado para leitura:** 15hs
