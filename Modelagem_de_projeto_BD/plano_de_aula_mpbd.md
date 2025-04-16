@@ -25,7 +25,6 @@
 - [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Banco de Dados (15h)](#-141-playlist-de-banco-de-dados-15h)
   - [📄 14.2. Artigos Científicos Open Access sobre Banco de Dados](#-142-artigos-científicos-open-access-sobre-banco-de-dados)
-- [🧱 Modelagem de Dados](#-modelagem-de-dados)
 
 
 
@@ -355,7 +354,6 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 ### 📄 14.2. Artigos Científicos Open Access sobre Banco de Dados
 
-## 🧱 Modelagem de Dados
 
 | Título                | Assunto | Estimativa de Leitura | URL               |
 |-----------------------|---------|-----------------------|-------------------|
