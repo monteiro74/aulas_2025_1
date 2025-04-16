@@ -28,9 +28,10 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [11. Como estudar (dicas)](#11-como-estudar-dicas)
 - [12. Grupos no telegram com foco em desenvolvimento (dicas)](#12-grupos-no-telegram-com-foco-em-desenvolvimento-dicas)
 - [13. Videos recomendados (material opcional)](#13-videos-recomendados-material-opcional)
-- [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
-  - [📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-141-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
-  - [📄 14.2. Artigos Científicos Open Access sobre Engenharia de Software](#-142-artigos-científicos-open-access-sobre-engenharia-de-software)
+  - [🎲 14. Jogos Didáticos para Ensino de Engenharia de Software](#-14-jogos-didáticos-para-ensino-de-engenharia-de-software)
+- [15. Carga horária de 15hs adicionais (remota/online)](#15-carga-horária-de-15hs-adicionais-remotaonline)
+  - [📚 15.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-151-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
+  - [📄 15.2. Artigos Científicos Open Access sobre Engenharia de Software](#-152-artigos-científicos-open-access-sobre-engenharia-de-software)
 
 
 ---
@@ -366,13 +367,34 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 5. [IA na Programação é um Caminho SEM VOLTA!](https://www.youtube.com/watch?v=d8cQn15P5TY)
 
+
+
+### 🎲 14. Jogos Didáticos para Ensino de Engenharia de Software
+
+| Nome do Jogo             | Tipo        | Tópico Principal                          | Descrição                                                                                             | Fonte                                                                 |
+|--------------------------|-------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 2TScrum                  | Não digital | Metodologia Ágil (Scrum)                  | Simula o uso do framework Scrum no desenvolvimento de um sistema web para uma biblioteca.             | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| SoftGame                 | Não digital | Fundamentos de Engenharia de Software     | Jogo de tabuleiro com perguntas e respostas sobre diversos conceitos da Engenharia de Software.       | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| Agility Scrum            | Não digital | Metodologia Ágil (Scrum)                  | Simula o uso diário do Scrum em um ambiente de aprendizado, com papéis como Scrum Master e Product Owner. | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| Risk Planning            | Não digital | Gerenciamento de Riscos                   | Auxilia na identificação e gestão de riscos em projetos de software.                                  | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| SimulES                  | Não digital | Processos de Desenvolvimento de Software  | Jogo de cartas que simula o processo de desenvolvimento de software, permitindo enfrentar desafios realistas. | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| ProcSof                  | Não digital | Processos de Software (ISO/IEC 29110)     | Jogo de tabuleiro para auxiliar na criação de processos de software alinhados com a norma ISO/IEC 29110. | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| GreaTest                 | Não digital | Testes de Software                        | Jogo de cartas que motiva o aprendizado sobre testes de software.                                     | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| XP Enigma                | Não digital | Métodos Ágeis                             | Jogo educacional para apoio ao ensino de métodos ágeis, com foco em Extreme Programming (XP).         | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| Challenge of Classes     | Não digital | Diagramas UML                             | Jogo não digital para o ensino de diagramas de classes em Engenharia de Software.                     | [Link](https://sol.sbc.org.br/index.php/wei/article/view/29662)       |
+| GameES                   | Digital     | Fundamentos de Engenharia de Software     | Jogo digital que aborda conceitos fundamentais da Engenharia de Software.                             | [Link](https://www.researchgate.net/publication/259146418_GameES_Um_Jogo_para_a_Aprendizagem_de_Engenharia_de_Software) |
+| Software Inc.            | Digital     | Simulação de Desenvolvimento de Software  | Simulador que permite aos jogadores gerenciar uma empresa de desenvolvimento de software.             | [Link](https://arxiv.org/abs/2012.01127)                              |
+| FormalZ                 | Digital     | Especificações Formais                    | Jogo que ensina os fundamentos de especificações formais de software de maneira lúdica.               | [Link](https://arxiv.org/abs/1903.00334)                              |
+| Gamifying the Escape     | Não digital | Teoria Essence                            | Jogo de tabuleiro inovador para ensinar a Teoria Essence a futuros gerentes de projetos e engenheiros de software. | [Link](https://arxiv.org/abs/1809.08656)                              |
+
+
 ---
-## 14. Carga horária de 15hs adicionais (remota/online)
+## 15. Carga horária de 15hs adicionais (remota/online)
 
 Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 
-### 📚 14.1. Lista de Vídeos sobre Engenharia de Software (até 15h)
+### 📚 15.1. Lista de Vídeos sobre Engenharia de Software (até 15h)
 
 | #  | Tópico Principal         | Título do Vídeo                                                                 | Duração aproximada   | URL                                                                                     |
 |----|--------------------------|----------------------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------------|
@@ -394,7 +416,7 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 
 
-### 📄 14.2. Artigos Científicos Open Access sobre Engenharia de Software
+### 📄 15.2. Artigos Científicos Open Access sobre Engenharia de Software
 
 | #  | Tópico Principal             | Título do Artigo                                                                                                   | URL                                                                                                   |
 |----|------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
