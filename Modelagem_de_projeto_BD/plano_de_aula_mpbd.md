@@ -24,6 +24,8 @@
   - [13.2. Exemplo de modelo estrela](#132-exemplo-de-modelo-estrela)
 - [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Banco de Dados (15h)](#-141-playlist-de-banco-de-dados-15h)
+  - [📄 14.2. Artigos Científicos Open Access sobre Banco de Dados](#-142-artigos-científicos-open-access-sobre-banco-de-dados)
+- [🧱 Modelagem de Dados](#-modelagem-de-dados)
 
 
 
@@ -349,4 +351,25 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 | Introdução ao Controle de Concorrência de Transações        | Processamento, ACID, Concorrência  | 0h 30min | [Link](https://www.youtube.com/watch?v=kycoQMqc0mc) |
 
 **⏱️ Duração Total Estimada:** 14h 20min
+
+
+### 📄 14.2. Artigos Científicos Open Access sobre Banco de Dados
+
+## 🧱 Modelagem de Dados
+
+| Título                | Assunto | Estimativa de Leitura | URL               |
+|-----------------------|---------|-----------------------|-------------------|
+| Critical data modeling and the basic representation model | Modelagem de dados | 1h 30min | [Link](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24745) |
+| Data Modeling and Data Analytics: A Survey from a Big Data Perspective   | Modelagem de dados | 1h 30min | [Link](https://www.researchgate.net/publication/288872507_Data_Modeling_and_Data_Analytics_A_Survey_from_a_Big_Data_Perspective) |
+| The Database Normalization Theory and the Theory of Normalized Systems: Finding a Common Ground  | Normalização | 1h 30min  | [Link](https://www.researchgate.net/publication/297731569_The_Database_Normalization_Theory_and_the_Theory_of_Normalized_Systems_Finding_a_Common_Ground) |
+| Mastering database normalization: A comprehensive exploration of normal forms  | Normalização  | 1h 00min  | [Link](https://www.researchgate.net/publication/374509386_Mastering_database_normalization_A_comprehensive_exploration_of_normal_forms) |
+| Guide to academic journal indexing: Where, when, and how to get indexed  | Índices | 1h 00min  | [Link](https://blog.scholasticahq.com/post/index-types-for-academic-journal/)  |
+| Data warehousing, data mining, OLAP and OLTP technologies are essential elements to support decision-making process in industries | DW, OLTP e OLAP | 1h 30min  | [Link](https://www.researchgate.net/publication/50235148_DATA_WAREHOUSING_DATA_MINING_OLAP_AND_OLTP_TECHNOLOGIES_ARE_ESSENTIAL_ELEMENTS_TO_SUPPORT_DECISION-MAKING_PROCESS_IN_INDUSTRIES) |
+| An Overview of Data Warehousing and OLAP Technology | DW, OLTP e OLAP | 1h 00min  | [Link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigrecord.pdf) |
+| High-Performance ACID via Modular Concurrency Control  | Processamento de Transações, ACID e Concorrência  | 1h 30min   | [Link](https://www.cs.cornell.edu/lorenzo/papers/Chao15Callas.pdf) |
+| Concurrency control methods in distributed database: A review and comparison | Processamento de Transações, ACID e Concorrência | 1h 30min  | [Link](https://www.researchgate.net/publication/319367720_Concurrency_control_methods_in_distributed_database_A_review_and_comparison) |
+| A Survey on Transactional Stream Processing | Processamento de Transações, ACID e Concorrência  | 1h 30min  | [Link](https://arxiv.org/pdf/2208.09827) |
+
+**⏱️ Duração Total Estimada de Leitura:** 15h 00min
+
 
