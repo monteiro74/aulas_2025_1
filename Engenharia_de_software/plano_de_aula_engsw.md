@@ -14,10 +14,10 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
 - [:clipboard: 6. Exercícios](#clipboard-6-exercícios)
-  - [6.1. Tarefa 1](#61-tarefa-1)
-  - [6.2. Repositório dos alunos](#62-repositório-dos-alunos)
-  - [6.3. Exemplos de prompts](#63-exemplos-de-prompts)
-  - [6.4. Exemplo de índice (TOC)](#64-exemplo-de-índice-toc)
+  - [:clipboard: 6.1. Tarefa 1](#clipboard-61-tarefa-1)
+  - [:clipboard: 6.2. Repositório dos alunos](#clipboard-62-repositório-dos-alunos)
+  - [:clipboard: 6.3. Exemplos de prompts](#clipboard-63-exemplos-de-prompts)
+  - [:clipboard: 6.4. Exemplo de índice (TOC)](#clipboard-64-exemplo-de-índice-toc)
 - [:hammer\_and\_wrench: 7. Links para download de ferramentas](#hammer_and_wrench-7-links-para-download-de-ferramentas)
 - [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
 - [:books: 9. Livros (referências bibliográficas básicas)](#books-9-livros-referências-bibliográficas-básicas)
@@ -133,7 +133,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 ---
 ## :clipboard: 6. Exercícios
 
-### 6.1. Tarefa 1
+### :clipboard: 6.1. Tarefa 1
 
 Tarefa 1:
 1. Gerar uma imagem de cada diagrama feito no WhiteStart.
@@ -148,7 +148,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 
 
 
-### 6.2. Repositório dos alunos
+### :clipboard: 6.2. Repositório dos alunos
 
 |     | Aluno                                | Repositório |
 |-----|--------------------------------------|-------------|
@@ -168,7 +168,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 | 14  | VINÍCIUS FREITAS                     | https://github.com/VincFreitas/Vinicius-Freitas   |
 
 
-### 6.3. Exemplos de prompts
+### :clipboard: 6.3. Exemplos de prompts
 
 > [!TIP]
 > Faça uma tabela usando Markdown, com duas colunas, uma coluna indicando o requisito e a outra coluna indicando o tipo de requisito (como "Funcional" ou "Não funcional"), para esta tarefa use a lista abaixo:
@@ -190,7 +190,7 @@ Esta disponível como exemplo um projeto "modelo" com todos os diagramas fictíc
 
 
 
-### 6.4. Exemplo de índice (TOC)
+### :clipboard: 6.4. Exemplo de índice (TOC)
 
 
 ```
