@@ -29,7 +29,7 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [:family\_man\_woman\_girl\_boy: 12. Grupos no telegram com foco em desenvolvimento (dicas)](#family_man_woman_girl_boy-12-grupos-no-telegram-com-foco-em-desenvolvimento-dicas)
 - [:tv: 13. Videos recomendados (material opcional)](#tv-13-videos-recomendados-material-opcional)
   - [🎲 14. Jogos Didáticos para Ensino de Engenharia de Software](#-14-jogos-didáticos-para-ensino-de-engenharia-de-software)
-- [15. Carga horária de 15hs adicionais (remota/online)](#15-carga-horária-de-15hs-adicionais-remotaonline)
+- [:alarm\_clock: 15. Carga horária de 15hs adicionais (remota/online)](#alarm_clock-15-carga-horária-de-15hs-adicionais-remotaonline)
   - [📚 15.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-151-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
   - [📄 15.2. Artigos Científicos Open Access sobre Engenharia de Software](#-152-artigos-científicos-open-access-sobre-engenharia-de-software)
 
@@ -390,7 +390,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 15. Carga horária de 15hs adicionais (remota/online)
+## :alarm_clock: 15. Carga horária de 15hs adicionais (remota/online)
 
 Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
