@@ -198,38 +198,33 @@ Markdown All in One: Create Table of Contents
 Markdown All in One: Update Table of Contents
 ```
 
-| Parte do trabalho                         | Situacao |
-|-------------------------------------------|----------|
 
-
-1. Introdução.  ------------------------------ Feito <br>
-2. Descrição.   ------------------------------ Feito <br>
-2.1. Requisitos. ----------------------------- Feito <br>
-
-
-
-|2.2. Funcionais e não-funcionais.<br>
-|3. Diagramas.<br>
-|3.1. Diagrama de classe.<br>
-|3.0. Digrama feito no white star (versão 1).
-|3.1.1. Descrição do Diagrama de classe:<br>
-|3.2. Diagrama ER.<br>
-|3.3. Diagrama de casos de uso.<br>
-|3.3. Diagrama de atividade.<br>
-|3.4. Diagrama de componentes.<br>
-|3.5. Diagrama de implantação.<br>
-|3.6. Diagramas C4.<br>
-|3.6.1. Diagrama C4 de contexto.<br>
-|3.6.2. Diagrama C4 de contêiner.<br>
-|3.6.3. Diagrama C4 de componente.<br>
-|3.6.4. Diagrama C4 de código.<br>
-|4. Histórias de usuário.<br>
-|5. Protótipo de telas.<br>
-|6. Diagrama de navegação de tela.<br>
-|7. Pilha tecnológica.<br>
-|Anexos<br>
-|A.1. Script SQL.<br>
-|A.2. Dados artificiais para testes de banco.<br>
+- [x] 1. Introdução.
+- [x] 2. Descrição.
+- [x] 2.1. Requisitos. 
+- [x] 2.2. Funcionais e não-funcionais. 
+- [x] 3. Diagramas. 
+- [x] 3.1. Diagrama de classe. 
+- [x] 3.1.1. Digrama de classe versão 1 (feito com WhiteStar).
+- [X] 3.1.2. Diagrama de classe versão 2 (feito com Mermaid).
+- [x] 3.1.2.1. Descrição do Diagrama de classe. 
+- [x] 3.2. Diagrama ER. 
+- [X] 3.3. Diagrama de casos de uso. 
+- [ ] 3.3. Diagrama de atividade. 
+- [ ] 3.4. Diagrama de componentes. 
+- [ ] 3.5. Diagrama de implantação. 
+- [ ] 3.6. Diagramas C4. 
+- [ ] 3.6.1. Diagrama C4 de contexto. 
+- [ ] 3.6.2. Diagrama C4 de contêiner. 
+- [ ] 3.6.3. Diagrama C4 de componente. 
+- [ ] 3.6.4. Diagrama C4 de código. 
+- [ ] 4. Histórias de usuário. 
+- [x]  5. Protótipo de telas. 
+- [ ] 6. Diagrama de navegação de tela. 
+- [ ] 7. Pilha tecnológica.
+- [ ] 8. Anexos
+- [ ] A.1. Script SQL.
+- [ ] A.2. Dados artificiais para testes de banco.
 
 
 
