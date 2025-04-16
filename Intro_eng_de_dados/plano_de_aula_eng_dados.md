@@ -16,7 +16,7 @@
 - [:books: 8. Livros (básicos)](#books-8-livros-básicos)
   - [:books: 8.1. Outras referências complementares](#books-81-outras-referências-complementares)
 - [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
-  - [:green\_book: 9.1. Cursos sobre BI com Scriptcase](#green_book-91-cursos-sobre-bi-com-scriptcase)
+  - [:notebook:  9.1. Cursos sobre BI com Scriptcase](#notebook--91-cursos-sobre-bi-com-scriptcase)
 - [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
 - [:family\_man\_woman\_girl\_boy:  11. Grupos no telegram](#family_man_woman_girl_boy--11-grupos-no-telegram)
 - [:tv: 12. Videos recomendados (material opcional)](#tv-12-videos-recomendados-material-opcional)
@@ -214,7 +214,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 * [Introdução à análise de dados da Microsoft](https://learn.microsoft.com/pt-br/training/powerplatform/power-bi).
 
 
-### :green_book: 9.1. Cursos sobre BI com Scriptcase
+### :notebook:  9.1. Cursos sobre BI com Scriptcase
 
 * Scriptcase - Relatórios BI no Scriptcase (Introdução) 1/9 https://www.youtube.com/watch?v=MMagFK_yr34
 * Scriptcase - Relatórios BI no Scriptcase (Exportação) 2/9 https://www.youtube.com/watch?v=Fz9OBDLFUQI
