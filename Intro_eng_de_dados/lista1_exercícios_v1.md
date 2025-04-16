@@ -110,3 +110,20 @@ Após a importação dos dados abertos da Receite Federal (no exercício E1):
 * Use o driver ODBC para conectar o PowerBI no MySQL. 
 * Exemplo: https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/exercicio_powerbi1.png
 
+---
+## Exercício E8:
+
+* Use o dataset opiniao.csv.
+* Abra o Orange Data Mining
+* Clique no menu "Options" --> "Add-ons..."
+* No campo Filter escreva "Text"
+* Marque o checkbox esquerdo ao lado de "Text"
+* Clique em "Ok" para instalar
+  
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/text_addon.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/text_addon.png)
+
+Elabore o seguinte pipeline:
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/sentiment_analysis_pipeline.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/sentiment_analysis_pipeline.png)
+
+
