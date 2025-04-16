@@ -15,10 +15,10 @@
 - [6. Links para download de ferramentas](#6-links-para-download-de-ferramentas)
 - [7. Artigos](#7-artigos)
 - [8. Livros](#8-livros)
-- [9. Cursos gratuítos](#9-cursos-gratuítos)
-- [10. Como estudar](#10-como-estudar)
+- [9. Cursos gratuítos (opcionais)](#9-cursos-gratuítos-opcionais)
+- [10. Como estudar (dicas)](#10-como-estudar-dicas)
 - [11. Grupos no telegram](#11-grupos-no-telegram)
-- [12. Videos recomendados](#12-videos-recomendados)
+- [12. Videos recomendados (material opcional)](#12-videos-recomendados-material-opcional)
 - [13. Exemplos de modelos](#13-exemplos-de-modelos)
   - [13.1. Exemplo de gráfo](#131-exemplo-de-gráfo)
   - [13.2. Exemplo de modelo estrela](#132-exemplo-de-modelo-estrela)
@@ -178,7 +178,7 @@ Referências na biblioteca virtual:
 [referências bibliográficas](https://docs.google.com/presentation/d/1StFHjTjcc9mpTTDoWmMHJibmx2n17o8FLwxMhHskXZo/view).
 
 ---
-## 9. Cursos gratuítos
+## 9. Cursos gratuítos (opcionais)
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
@@ -198,7 +198,7 @@ Referências na biblioteca virtual:
 
 
 ---
-## 10. Como estudar
+## 10. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -229,7 +229,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Videos recomendados
+## 12. Videos recomendados (material opcional)
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 

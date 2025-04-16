@@ -12,14 +12,14 @@
 - [4. Datas de aulas e conteúdo](#4-datas-de-aulas-e-conteúdo)
 - [5. Datas de avaliações](#5-datas-de-avaliações)
 - [6. Links para download de ferramentas](#6-links-para-download-de-ferramentas)
-- [7. Artigos:](#7-artigos)
+- [7. Artigos (referências bibliográficas complementares)](#7-artigos-referências-bibliográficas-complementares)
 - [8. Livros (básicos)](#8-livros-básicos)
   - [8.1. Outras referências complementares](#81-outras-referências-complementares)
-- [9. Cursos gratuítos](#9-cursos-gratuítos)
+- [9. Cursos gratuítos (opcionais)](#9-cursos-gratuítos-opcionais)
   - [9.1. Cursos sobre BI com Scriptcase](#91-cursos-sobre-bi-com-scriptcase)
-- [10. Como estudar](#10-como-estudar)
+- [10. Como estudar (dicas)](#10-como-estudar-dicas)
 - [11. Grupos no telegram](#11-grupos-no-telegram)
-- [12. Videos recomendados](#12-videos-recomendados)
+- [12. Videos recomendados (material opcional)](#12-videos-recomendados-material-opcional)
   - [13. Projetos da fundação Apache e suas características](#13-projetos-da-fundação-apache-e-suas-características)
 - [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)](#-141-playlist-de-introdução-à-engenharia-de-dados-até-15h)
@@ -154,7 +154,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
 ---
-## 7. Artigos:
+## 7. Artigos (referências bibliográficas complementares)
 
 Artigo 1: [Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado](https://sol.sbc.org.br/index.php/sbbd/article/view/25556).
 
@@ -208,8 +208,8 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 * ZAKI, J.M.; MEIRA JR, W. Data mining and analysis: fundamental concepts and algorithms. England: Cambridge University Press, 2014. Disponível em: <https://dataminingbook.info/book_html/>. Acesso em: 02 out. 2020.
 
----
-## 9. Cursos gratuítos
+--- 
+## 9. Cursos gratuítos (opcionais)
 
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
@@ -230,7 +230,7 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 
 ---
-## 10. Como estudar
+## 10. Como estudar (dicas)
 
 3 técnicas indicadas por cientistas para qualquer pessoa melhorar nos estudos
 https://www.youtube.com/watch?v=posTc56basM
@@ -260,7 +260,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 12. Videos recomendados
+## 12. Videos recomendados (material opcional)
 
 1. ["NÃO PRECISAMOS MAIS DA TI" | FEBRABAN TECH 2024](https://www.youtube.com/watch?v=M-rlucvPG94)
 
