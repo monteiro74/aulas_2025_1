@@ -73,4 +73,5 @@ use o streamlit
 
 ------------------------------------------
 
-E7. Após a importação dos dados abertos da Receite Federal, crie representações gráficas no Power BI com as tabelas importadas, use o driver ODBC para conectar o PowerBI no MySQL.
+E7. Após a importação dos dados abertos da Receite Federal, crie representações gráficas no Power BI com as tabelas importadas, use o driver ODBC para conectar o PowerBI no MySQL. 
+Exemplo: https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/exercicio_powerbi1.png
