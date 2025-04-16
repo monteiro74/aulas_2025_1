@@ -21,9 +21,9 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [:hammer\_and\_wrench: 7. Links para download de ferramentas](#hammer_and_wrench-7-links-para-download-de-ferramentas)
 - [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
 - [:books: 9. Livros (referências bibliográficas básicas)](#books-9-livros-referências-bibliográficas-básicas)
-  - [9.1. Livro sobre .Net Maui (referências bibliográficas complementares)](#91-livro-sobre-net-maui-referências-bibliográficas-complementares)
-  - [9.2. Tutorial sobre .Net Maui (referências complementares)](#92-tutorial-sobre-net-maui-referências-complementares)
-  - [9.3. Livros sobre Scrum (em PDF) (referências bibliográficas complementares)](#93-livros-sobre-scrum-em-pdf-referências-bibliográficas-complementares)
+  - [:books: 9.1. Livro sobre .Net Maui (referências bibliográficas complementares)](#books-91-livro-sobre-net-maui-referências-bibliográficas-complementares)
+  - [:books: 9.2. Tutorial sobre .Net Maui (referências complementares)](#books-92-tutorial-sobre-net-maui-referências-complementares)
+  - [:books: 9.3. Livros sobre Scrum (em PDF) (referências bibliográficas complementares)](#books-93-livros-sobre-scrum-em-pdf-referências-bibliográficas-complementares)
 - [:notebook: 10. Cursos gratuítos (opcionais)](#notebook-10-cursos-gratuítos-opcionais)
 - [:green\_book: 11. Como estudar (dicas)](#green_book-11-como-estudar-dicas)
 - [:family\_man\_woman\_girl\_boy: 12. Grupos no telegram com foco em desenvolvimento (dicas)](#family_man_woman_girl_boy-12-grupos-no-telegram-com-foco-em-desenvolvimento-dicas)
@@ -286,7 +286,7 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
 
 
-### 9.1. Livro sobre .Net Maui (referências bibliográficas complementares)
+### :books: 9.1. Livro sobre .Net Maui (referências bibliográficas complementares)
 
 * Versão em PDF: Enterprise Application Patterns Using .NET MAUI (PDF)
 https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf
@@ -294,7 +294,7 @@ https://dotnet.microsoft.com/pt-br/download/e-book/maui/pdf
 * Versão em html: Enterprise Application Patterns Using .NET MAUI
 https://learn.microsoft.com/pt-br/dotnet/architecture/maui/
 
-### 9.2. Tutorial sobre .Net Maui (referências complementares)
+### :books: 9.2. Tutorial sobre .Net Maui (referências complementares)
 
 * Parte 1: Criar seu primeiro aplicativo
 https://learn.microsoft.com/pt-br/dotnet/maui/get-started/first-app?view=net-maui-9.0&tabs=vswin&pivots=devices-android
@@ -305,7 +305,7 @@ https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-app/?view=net-maui
 * Parte 3: Atualizar seu aplicativo com conceitos de MVVM
 https://learn.microsoft.com/pt-br/dotnet/maui/tutorials/notes-mvvm/?view=net-maui-9.0
 
-### 9.3. Livros sobre Scrum (em PDF) (referências bibliográficas complementares)
+### :books: 9.3. Livros sobre Scrum (em PDF) (referências bibliográficas complementares)
 
 https://www.infoq.com/scrum/minibooks/
 
