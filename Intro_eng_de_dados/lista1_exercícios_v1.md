@@ -2,7 +2,7 @@
 
 
 ---
-Exercíco E1:
+## Exercíco E1:
 
 * Crie um banco de dados com MySQL (ou MariaDB)
 * Importe os dados de: https://github.com/monteiro74/aulas_2025_1/tree/main/Intro_eng_de_dados/dados_receita_federal
@@ -18,7 +18,7 @@ E1.3. Como importar as demais tabelas do conjunto de dados abertos da Receita Fe
 E1.4. Para a tabela estabelecimentos_export.csv, corrija os nomes dos campos usando o dicionário de dados
 
 ---
-Exercício E2:
+## Exercício E2:
 
 Utilize os **dataset1.csv** e **dataset2.csv** e a IDE Spyder (**contindo no Anaconda**)
 
@@ -55,7 +55,7 @@ E2.13.2. Informar a hora com minutos e segundos de fim de processamento, na tela
 E2.13.3. Informar a hora com minutos e segundos com o tempo total de processamento, na tela.
 
 ---
-Exercício E3:
+## Exercício E3:
 
 Use o mesmo banco de dados utilizado em E1.
 
@@ -73,7 +73,7 @@ Observação:
 * Se necessário faça download do driver ODBC para MySQL: https://dev.mysql.com/get/Downloads/Connector-ODBC/9.3/mysql-connector-odbc-9.3.0-winx64.msi
 
 ---
-Exercício E4: 
+## Exercício E4: 
 
 Utilize o Orange Data Mining (**contindo no Anaconda**)
 
@@ -84,7 +84,7 @@ E4.2. Execute o pipeline knn_tree_barplot.ows 		(https://github.com/monteiro74/a
 E4.3. Execute o pipeline agrupamento_clusterizacao.ows 	(https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/agrupamento_clusterizacao.ows)
 
 ---
-Exercício E5:
+## Exercício E5:
 
 E5.1. Crie um banco de dados preparado para receber dados do transacional
 
@@ -93,7 +93,7 @@ E5.2. Execute o script script_sql_snowflake.sql
 E5.3. Faça o diagrama ER do novo banco (use o MySQL Wordkbench, DBeaver ou phpMyAdmin)
 
 ---
-Exercício E6:
+## Exercício E6:
 
 Crie um prompt com o chatgpt para fazer o seguinte: 
 * Escrever um programa em python
@@ -102,7 +102,7 @@ Crie um prompt com o chatgpt para fazer o seguinte:
 * Use o streamlit.
 
 ---
-Exercício E7: 
+## Exercício E7: 
 
 Após a importação dos dados abertos da Receite Federal (no exercício E1):
 
