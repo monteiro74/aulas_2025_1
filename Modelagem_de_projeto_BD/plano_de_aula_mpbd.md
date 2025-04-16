@@ -1,4 +1,4 @@
-Planos de aula Modelagem e Projeto de Banco de Dados
+**Planos de aula Modelagem e Projeto de Banco de Dados**
 
 
 - [1. Turma: Modelagem e Projeto de Banco de Dados](#1-turma-modelagem-e-projeto-de-banco-de-dados)
@@ -19,7 +19,12 @@ Planos de aula Modelagem e Projeto de Banco de Dados
 - [10. Como estudar](#10-como-estudar)
 - [11. Grupos no telegram](#11-grupos-no-telegram)
 - [12. Videos recomendados](#12-videos-recomendados)
-- [Outros assuntos](#outros-assuntos)
+- [13. Exemplos de modelos](#13-exemplos-de-modelos)
+  - [13.1. Exemplo de gráfo](#131-exemplo-de-gráfo)
+  - [13.2. Exemplo de modelo estrela](#132-exemplo-de-modelo-estrela)
+- [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
+
+
 
 
 ---
@@ -236,9 +241,9 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## Outros assuntos
+## 13. Exemplos de modelos
 
-Exemplo de gráfo
+### 13.1. Exemplo de gráfo
 
 ```mermaid
 
@@ -261,7 +266,7 @@ graph TD
 
 ```
 
-Exemplo de modelo estrela
+### 13.2. Exemplo de modelo estrela
 
 ```mermaid
 erDiagram
@@ -314,3 +319,13 @@ erDiagram
 
 
 ```
+
+
+---
+## 14. Carga horária de 15hs adicionais (remota/online)
+
+Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
+
+
+
+

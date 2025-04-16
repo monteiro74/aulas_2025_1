@@ -1,4 +1,4 @@
-Plano de ensino de Introdução a Engenharia de Dados
+**Plano de ensino de Introdução a Engenharia de Dados**
 
 - [1. Turma: Introdução a Engenharia de Dados](#1-turma-introdução-a-engenharia-de-dados)
   - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
