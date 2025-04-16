@@ -20,8 +20,8 @@
 - [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
 - [:family\_man\_woman\_girl\_boy:  11. Grupos no telegram](#family_man_woman_girl_boy--11-grupos-no-telegram)
 - [:tv: 12. Videos recomendados (material opcional)](#tv-12-videos-recomendados-material-opcional)
-- [13. Projetos da fundação Apache e suas características](#13-projetos-da-fundação-apache-e-suas-características)
-- [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
+- [:office: 13. Projetos da fundação Apache e suas características](#office-13-projetos-da-fundação-apache-e-suas-características)
+- [:alarm\_clock: 14. Carga horária de 15hs adicionais (remota/online)](#alarm_clock-14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)](#-141-playlist-de-introdução-à-engenharia-de-dados-até-15h)
   - [📺 14.2. Playlist: Fundamentos de Engenharia de Dados (14h)](#-142-playlist-fundamentos-de-engenharia-de-dados-14h)
     - [🎓 14.2.1 Introdução à Engenharia de Dados](#-1421-introdução-à-engenharia-de-dados)
@@ -272,7 +272,7 @@ https://www.youtube.com/watch?v=1y0xBcGZJmk
 
 
 ---
-## 13. Projetos da fundação Apache e suas características
+## :office: 13. Projetos da fundação Apache e suas características
 
 ```mermaid
 
@@ -306,7 +306,7 @@ flowchart TB
 
 
 ---
-## 14. Carga horária de 15hs adicionais (remota/online)
+## :alarm_clock: 14. Carga horária de 15hs adicionais (remota/online)
 
 Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
