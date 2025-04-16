@@ -24,14 +24,14 @@ Plano de ensino de Introdução a Engenharia de Dados
 - [14. Carga horária de 15hs adicionais (remota/online)](#14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)](#-141-playlist-de-introdução-à-engenharia-de-dados-até-15h)
   - [📺 14.2. Playlist: Fundamentos de Engenharia de Dados (14h)](#-142-playlist-fundamentos-de-engenharia-de-dados-14h)
-  - [🎓 Introdução à Engenharia de Dados](#-introdução-à-engenharia-de-dados)
-  - [🧩 Modelagem de Dados](#-modelagem-de-dados)
-  - [🔄 ETL (Extract, Transform, Load)](#-etl-extract-transform-load)
-  - [🏢 Data Warehouse](#-data-warehouse)
-  - [🌊 Data Lake](#-data-lake)
-  - [🧪 Pipelines de Dados](#-pipelines-de-dados)
-  - [🔐 Governança de Dados](#-governança-de-dados)
-  - [📊 Big Data](#-big-data)
+    - [🎓 14.2.1 Introdução à Engenharia de Dados](#-1421-introdução-à-engenharia-de-dados)
+    - [🧩 14.2.2. Modelagem de Dados](#-1422-modelagem-de-dados)
+    - [🔄 14.2.3. ETL (Extract, Transform, Load)](#-1423-etl-extract-transform-load)
+    - [🏢 14.2.4. Data Warehouse](#-1424-data-warehouse)
+    - [🌊 14.2.5. Data Lake](#-1425-data-lake)
+    - [🧪 14.2.6. Pipelines de Dados](#-1426-pipelines-de-dados)
+    - [🔐 14.2.7. Governança de Dados](#-1427-governança-de-dados)
+    - [📊 14.2.8. Big Data](#-1428-big-data)
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
 
 
@@ -337,35 +337,35 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 ### 📺 14.2. Playlist: Fundamentos de Engenharia de Dados (14h)
 
-### 🎓 Introdução à Engenharia de Dados
+#### 🎓 14.2.1 Introdução à Engenharia de Dados
 1. [Introdução ao Curso Fundamentos de Engenharia de Dados (1h00min)](https://www.youtube.com/watch?v=j8U7E9ZmUtA)
 2. [O que é Engenharia de Dados? O que faz um Engenheiro de Dados? (15min)](https://www.youtube.com/watch?v=-_Uzj6tr9wY)
 
-### 🧩 Modelagem de Dados
+#### 🧩 14.2.2. Modelagem de Dados
 3. [Introdução à Modelagem de Dados (20min)](https://www.youtube.com/watch?v=W49AO7f93Jk)
 4. [8 Etapas para Modelagem de Dados (30min)](https://www.youtube.com/watch?v=UZcaZD5VG0g)
 
-### 🔄 ETL (Extract, Transform, Load)
+#### 🔄 14.2.3. ETL (Extract, Transform, Load)
 5. [ETL do Zero: Ferramentas Essenciais (45min)](https://www.youtube.com/watch?v=WG01wI-DG28)
 6. [A MELHOR FERRAMENTA DE ETL PARA ENGENHEIRO DE DADOS (25min)](https://www.youtube.com/watch?v=D-UTE59vQGY)
 
-### 🏢 Data Warehouse
+#### 🏢 14.2.4. Data Warehouse
 7. [What Is a Data Warehouse? (10min)](https://www.youtube.com/watch?v=AHR_7jFCMeY)
 8. [Data Warehouse Tutorial For Beginners (1h00min)](https://www.youtube.com/watch?v=J326LIUrZM8)
 
-### 🌊 Data Lake
+#### 🌊 14.2.5. Data Lake
 9. [What is a Data Lake? Simple Explanation (1min)](https://www.youtube.com/watch?v=J5l-X7I_2Lg)
 10. [Full Data Lake Guide for Beginners (15min)](https://www.youtube.com/watch?v=CqJcZIl8Nj8)
 
-### 🧪 Pipelines de Dados
+#### 🧪 14.2.6. Pipelines de Dados
 11. [O QUE É UMA PIPELINE DE DADOS? (10min)](https://www.youtube.com/watch?v=sTE2SdH2epA)
 12. [Execução de pipelines no Airflow: exemplo prático (30min)](https://www.youtube.com/watch?v=iFzeqFak4tw)
 
-### 🔐 Governança de Dados
+#### 🔐 14.2.7. Governança de Dados
 13. [O que é governança de dados e como implementar? (20min)](https://www.youtube.com/watch?v=Gf_0cqJ4psA)
 14. [Visão estratégica da governança de dados (25min)](https://www.youtube.com/watch?v=NCUvEA8Sfbs)
 
-### 📊 Big Data
+#### 📊 14.2.8. Big Data
 15. [Big Data In 5 Minutes | Simplilearn (5min)](https://www.youtube.com/watch?v=bAyrObl7TYE)
 16. [Big Data Full Course 2022 | Simplilearn (2h00min)](https://www.youtube.com/watch?v=KCEPoPJ8sWw)
 
