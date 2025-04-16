@@ -1,5 +1,6 @@
-Exercícios:
+# Lista de exercícios:
 
+---
 E1. 
 Crie um banco de dados com MySQL ou MariaDB
 Importe os dados de: https://github.com/monteiro74/aulas_2025_1/tree/main/Intro_eng_de_dados/dados_receita_federal
@@ -10,8 +11,7 @@ E1.2. Qual o tamanho total do banco de dados após importação?
 E1.3. Como importar as demais tabelas do conjunto de dados abertos da Receita Federal (https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-03/) para atualizar a tabela empresas ?
 E1.4. Para a tabela estabelecimentos_export.csv, corrija os nomes dos campos usando o dicionário de dados
 
------------------------------------------
-
+---
 E2. 
 Utilize os dataset1.csv e dataset2.csv e a IDE Spyder (esta dentro do Anaconda)
 E2.1. Salve os dataset1.csv e dataset2.csv em uma pasta no seu disco.
@@ -32,8 +32,7 @@ E2.13.1. Informar a hora com minutos e segundos de início de processamento, na 
 E2.13.2. Informar a hora com minutos e segundos de fim de processamento, na tela.
 E2.13.3. Informar a hora com minutos e segundos com o tempo total de processamento, na tela.
 
------------------------------------------
-
+---
 E3.
 Use o mesmo banco de dados utilizado em E1.
 Faça download do Pentaho PDI (https://pentaho.com/pentaho-developer-edition/)
@@ -47,23 +46,20 @@ Observação:
 Se necessário faça download do drivers JDBC para MySQL: https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-9.3.0.tar.gz
 Se necessário faça download do driver ODBC para MySQL: https://dev.mysql.com/get/Downloads/Connector-ODBC/9.3/mysql-connector-odbc-9.3.0-winx64.msi
 
------------------------------------------
-
+---
 E4. 
 Utilize o Orange Data Mining (esta dentro do Anaconda)
 E4.1. baixe o arquivo clientes.csv (https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/clientes.csv)
 E4.2. Execute o pipeline knn_tree_barplot.ows 		(https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/knn_tree_barplot.ows)
 E4.3. Execute o pipeline agrupamento_clusterizacao.ows 	(https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/agrupamento_clusterizacao.ows)
 
------------------------------------------
-
+---
 E5.
 E5.1. Crie um banco de dados preparado para receber dados do transacional
 E5.2. Execute o script script_sql_snowflake.sql
 E5.3. Faça o diagrama ER do novo banco (use o MySQL Wordkbench, DBeaver ou phpMyAdmin)
 
------------------------------------------
-
+---
 E6.
 Crie um prompt com o chatgpt para fazer o seguinte:
 escrever um programa em python
@@ -71,7 +67,7 @@ para ler os dados do dataset clientes.csv
 e apresente na tela um gráfico com idade x renda
 use o streamlit
 
-------------------------------------------
-
+---
 E7. Após a importação dos dados abertos da Receite Federal, crie representações gráficas no Power BI com as tabelas importadas, use o driver ODBC para conectar o PowerBI no MySQL. 
 Exemplo: https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/exercicio_powerbi1.png
+
