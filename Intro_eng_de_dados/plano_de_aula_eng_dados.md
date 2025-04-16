@@ -1,6 +1,6 @@
 **Plano de ensino de Introdução a Engenharia de Dados**
 
-- [1. Turma: Introdução a Engenharia de Dados](#1-turma-introdução-a-engenharia-de-dados)
+- [:game\_die: 1. Turma: Introdução a Engenharia de Dados](#game_die-1-turma-introdução-a-engenharia-de-dados)
   - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
   - [1.2. Horário: 19hs - 22hs](#12-horário-19hs---22hs)
   - [1.3. Ementa](#13-ementa)
@@ -36,7 +36,7 @@
 
 
 ---
-## 1. Turma: Introdução a Engenharia de Dados
+## :game_die: 1. Turma: Introdução a Engenharia de Dados
 
 ### 1.1. Carga Horária Total: 60
 
