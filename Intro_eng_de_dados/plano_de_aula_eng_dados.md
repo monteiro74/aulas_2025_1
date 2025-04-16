@@ -304,23 +304,24 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 ### 🎓 14.1. Playlist de Introdução à Engenharia de Dados (até 15h)
 
-| #  | Tópico                | Título do Vídeo                                                                                         | Duração Estimada | URL                                                                                   |
-|----|-----------------------|---------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------|
-| 1  | Engenharia de Dados   | Introdução ao Curso Fundamentos de Engenharia de Dados                                                  | 1h 00min         | [Link](https://www.youtube.com/watch?v=j8U7E9ZmUtA)                                   |
-| 2  | Engenharia de Dados   | O que é Engenharia de Dados? O que faz um Engenheiro de Dados?                                          | 0h 15min         | [Link](https://www.youtube.com/watch?v=-_Uzj6tr9wY)                                   |
-| 3  | Modelagem de Dados    | Introdução à Modelagem de Dados                                                                         | 0h 20min         | [Link](https://www.youtube.com/watch?v=W49AO7f93Jk)                                   |
-| 4  | Modelagem de Dados    | 8 Etapas para Modelagem de Dados                                                                        | 0h 30min         | [Link](https://www.youtube.com/watch?v=UZcaZD5VG0g)                                   |
-| 5  | ETL                   | ETL do Zero: Ferramentas Essenciais para Engenharia de Dados                                            | 0h 45min         | [Link](https://www.youtube.com/watch?v=WG01wI-DG28)                                   |
-| 6  | ETL                   | A MELHOR FERRAMENTA DE ETL PARA ENGENHEIRO DE DADOS                                                     | 0h 25min         | [Link](https://www.youtube.com/watch?v=D-UTE59vQGY)                                   |
-| 7  | Data Warehouse        | What Is a Data Warehouse?                                                                               | 0h 10min         | [Link](https://www.youtube.com/watch?v=AHR_7jFCMeY)                                   |
-| 8  | Data Warehouse        | Data Warehouse Tutorial For Beginners                                                                   | 1h 00min         | [Link](https://www.youtube.com/watch?v=J326LIUrZM8)                                   |
-| 9  | Data Lake             | What is a Data Lake? Simple Explanation In 1 Minute                                                     | 0h 01min         | [Link](https://www.youtube.com/watch?v=J5l-X7I_2Lg)                                   |
-| 10 | Data Lake             | What is a Data Lake? - Full Data Lake Guide for Beginners!                                              | 0h 15min         | [Link](https://www.youtube.com/watch?v=CqJcZIl8Nj8)                                   |
-| 11 | Pipelines de Dados    | O QUE É UMA PIPELINE DE DADOS?                                                                          | 0h 10min         | [Link](https://www.youtube.com/watch?v=sTE2SdH2epA)                                   |
-| 12 | Pipelines de Dados    | Execução de pipelines de dados no Airflow: um exemplo prático                                           | 0h 30min         | [Link](https://www.youtube.com/watch?v=iFzeqFak4tw)                                   |
-| 13 | Governança de Dados   | O que é governança de dados e como implementar?                                                         | 0h 20min         | [Link](https://www.youtube.com/watch?v=Gf_0cqJ4psA)                                   |
-| 14 | Governança de Dados   | Visão estratégica da governança de dados                                                                | 0h 25min         | [Link](https://www.youtube.com/watch?v=NCUvEA8Sfbs)                                   |
-| 15 | Big Data              | Big Data In 5 Minutes | Big Data Tutorial | Simplilearn                                                | 0h 05min         | [Link](https://www.youtube.com/watch?v=bAyrObl7TYE)                                   |
-| 16 | Big Data              | Big Data Full Course 2022 | Simplilearn                                                               | 2h 00min         | [Link](https://www.youtube.com/watch?v=KCEPoPJ8sWw)                                   |
+| #  | Tópico               | Título do Vídeo                                                 | Duração Estimada | URL      |
+|----|----------------------|-----------------------------------------------------------------|----------|----------|
+| 1  | Engenharia de Dados  | Introdução ao Curso Fundamentos de Engenharia de Dados          | 1h 00min | [Link](https://www.youtube.com/watch?v=j8U7E9ZmUtA) |
+| 2  | Engenharia de Dados  | O que é Engenharia de Dados? O que faz um Engenheiro de Dados?  | 0h 15min | [Link](https://www.youtube.com/watch?v=-_Uzj6tr9wY) |
+| 3  | Modelagem de Dados   | Introdução à Modelagem de Dados                                 | 0h 20min | [Link](https://www.youtube.com/watch?v=W49AO7f93Jk) |
+| 4  | Modelagem de Dados   | 8 Etapas para Modelagem de Dados                                | 0h 30min | [Link](https://www.youtube.com/watch?v=UZcaZD5VG0g) |
+| 5  | ETL                  | ETL do Zero: Ferramentas Essenciais para Engenharia de Dados    | 0h 45min | [Link](https://www.youtube.com/watch?v=WG01wI-DG28) |
+| 6  | ETL                  | A MELHOR FERRAMENTA DE ETL PARA ENGENHEIRO DE DADOS             | 0h 25min | [Link](https://www.youtube.com/watch?v=D-UTE59vQGY) |
+| 7  | Data Warehouse       | What Is a Data Warehouse?                                       | 0h 10min | [Link](https://www.youtube.com/watch?v=AHR_7jFCMeY) |
+| 8  | Data Warehouse       | Data Warehouse Tutorial For Beginners                           | 1h 00min | [Link](https://www.youtube.com/watch?v=J326LIUrZM8) |
+| 9  | Data Lake            | What is a Data Lake? Simple Explanation In 1 Minute             | 0h 01min | [Link](https://www.youtube.com/watch?v=J5l-X7I_2Lg) |
+| 10 | Data Lake            | What is a Data Lake? - Full Data Lake Guide for Beginners!      | 0h 15min | [Link](https://www.youtube.com/watch?v=CqJcZIl8Nj8) |
+| 11 | Pipelines de Dados   | O QUE É UMA PIPELINE DE DADOS?                                  | 0h 10min | [Link](https://www.youtube.com/watch?v=sTE2SdH2epA) |
+| 12 | Pipelines de Dados   | Execução de pipelines de dados no Airflow: um exemplo prático   | 0h 30min | [Link](https://www.youtube.com/watch?v=iFzeqFak4tw) |
+| 13 | Governança de Dados  | O que é governança de dados e como implementar?                 | 0h 20min | [Link](https://www.youtube.com/watch?v=Gf_0cqJ4psA) |
+| 14 | Governança de Dados  | Visão estratégica da governança de dados                        | 0h 25min | [Link](https://www.youtube.com/watch?v=NCUvEA8Sfbs) |
+| 15 | Big Data             | Big Data In 5 Minutes  Big Data Tutorial Simplilearn            | 0h 05min | [Link](https://www.youtube.com/watch?v=bAyrObl7TYE) |
+| 16 | Big Data             | Big Data Full Course 2022 Simplilearn                           | 2h 00min | [Link](https://www.youtube.com/watch?v=KCEPoPJ8sWw) |
 
 **⏱️ Duração Total Estimada:** 14h 01min
+
