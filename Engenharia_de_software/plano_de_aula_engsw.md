@@ -32,6 +32,7 @@ FACET-SNP-308 - ENGENHARIA DE SOFTWARE - T01 (2025.1 - 3N123)
 - [:alarm\_clock: 15. Carga horária de 15hs adicionais (remota/online)](#alarm_clock-15-carga-horária-de-15hs-adicionais-remotaonline)
   - [📚 15.1. Lista de Vídeos sobre Engenharia de Software (até 15h)](#-151-lista-de-vídeos-sobre-engenharia-de-software-até-15h)
   - [📄 15.2. Artigos Científicos Open Access sobre Engenharia de Software](#-152-artigos-científicos-open-access-sobre-engenharia-de-software)
+- [16. Jogo](#16-jogo)
 
 
 ---
@@ -436,3 +437,9 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 | 13 | Qualidade de Software        | State-Of-The-Practice in Quality Assurance in Java-Based Open Source Software Development | [Link](https://arxiv.org/abs/2306.09665)                                  |
 
 **⏱️ Total aproximado para leitura:** 15hs
+
+
+## 16. Jogo
+
+Software Inc. https://store.steampowered.com/app/362620/Software_Inc/
+
