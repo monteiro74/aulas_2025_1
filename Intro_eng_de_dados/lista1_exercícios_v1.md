@@ -103,7 +103,7 @@ Crie um prompt com o chatgpt para fazer o seguinte:
 * Para rodar o Streamlit use o comando: 
 * 
 ```python
-stremlit run script.py
+streamlit run script.py
 ```
 
 ---
