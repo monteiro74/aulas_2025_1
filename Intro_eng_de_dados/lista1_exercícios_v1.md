@@ -90,7 +90,7 @@ E5.1. Crie um banco de dados preparado para receber dados do transacional
 
 E5.2. Execute o script script_sql_snowflake.sql
 
-E5.3. Faça o diagrama ER do novo banco (use o MySQL Wordkbench, DBeaver ou phpMyAdmin)
+E5.3. Faça o diagrama ER do novo banco (use o MySQL Wordkbench, HeidiSQL, DBeaver ou phpMyAdmin)
 
 ---
 ## Exercício E6:
