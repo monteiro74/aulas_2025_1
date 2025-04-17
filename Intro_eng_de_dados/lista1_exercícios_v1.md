@@ -20,7 +20,7 @@ E1.4. Para a tabela estabelecimentos_export.csv, corrija os nomes dos campos usa
 ---
 ## Exercício E2:
 
-Utilize os **dataset1.csv** e **dataset2.csv** e a IDE Spyder (**contindo no Anaconda**)
+Utilize os **dataset1.csv** e **dataset2.csv** e a IDE Spyder (**contido no Anaconda**)
 
 E2.1. Salve os dataset1.csv e dataset2.csv em uma pasta no seu disco.
 
@@ -75,7 +75,7 @@ Observação:
 ---
 ## Exercício E4: 
 
-Utilize o Orange Data Mining (**contindo no Anaconda**)
+Utilize o Orange Data Mining (**contido no Anaconda**)
 
 E4.1. baixe o arquivo clientes.csv (https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/clientes.csv)
 
