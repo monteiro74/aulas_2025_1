@@ -79,18 +79,18 @@ Utilize o Orange Data Mining (**contido no Anaconda**)
 
 E4.1. baixe o arquivo clientes.csv (https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/clientes.csv)
 
-E4.2. Execute o pipeline knn_tree_barplot.ows 		(https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/knn_tree_barplot.ows)
+E4.2. Execute o pipeline knn_tree_barplot.ows (https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/knn_tree_barplot.ows)
 
 E4.3. Execute o pipeline agrupamento_clusterizacao.ows 	(https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/agrupamento_clusterizacao.ows)
 
 ---
 ## Exercício E5:
 
-E5.1. Crie um banco de dados preparado para receber dados do transacional
+E5.1. Crie um banco de dados (dw) preparado para receber dados do transacional (OLTP).
 
 E5.2. Execute o script script_sql_snowflake.sql
 
-E5.3. Faça o diagrama ER do novo banco (use o MySQL Wordkbench, HeidiSQL, DBeaver ou phpMyAdmin)
+E5.3. Faça o diagrama ER do novo banco (use o MySQL Wordkbench, DBeaver ou phpMyAdmin)
 
 ---
 ## Exercício E6:
@@ -100,6 +100,11 @@ Crie um prompt com o chatgpt para fazer o seguinte:
 * ler os dados do dataset clientes.csv
 * Apresente na tela um gráfico com idade x renda
 * Use o streamlit.
+* Para rodar o Streamlit use o comando: 
+* 
+```python
+stremlit run script.py
+```
 
 ---
 ## Exercício E7: 
@@ -108,7 +113,10 @@ Após a importação dos dados abertos da Receite Federal (no exercício E1):
 
 * Crie representações gráficas no Power BI com as tabelas importadas
 * Use o driver ODBC para conectar o PowerBI no MySQL. 
-* Exemplo: https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/exercicio_powerbi1.png
+
+Exemplo: 
+ 
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/exercicio_powerbi1.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/Intro_eng_de_dados/exercicio_powerbi1.png).
 
 ---
 ## Exercício E8:
