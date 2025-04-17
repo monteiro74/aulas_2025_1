@@ -1,6 +1,9 @@
 Disciplinas de 2025.
 
 
+- [Atenção](#atenção)
+- [Projeto de extensão aprovado e iniciando:](#projeto-de-extensão-aprovado-e-iniciando)
+- [Maiores detalhes aqui:](#maiores-detalhes-aqui)
 - [1. Disciplinas, ministradas em 2025/1.](#1-disciplinas-ministradas-em-20251)
 - [2. Mapa do curso](#2-mapa-do-curso)
 - [3. Calendário](#3-calendário)
@@ -8,6 +11,16 @@ Disciplinas de 2025.
 - [5. Normatização acadêmica](#5-normatização-acadêmica)
 - [6. Outros repositórios de apoio no github](#6-outros-repositórios-de-apoio-no-github)
 - [7. Localização das disciplinas no quadro geral do curso](#7-localização-das-disciplinas-no-quadro-geral-do-curso)
+
+
+# Atenção
+
+# Projeto de extensão aprovado e iniciando:
+# Maiores detalhes aqui:
+https://www.pontodeensino.com/projetos/isis
+
+
+
 
 
 ---
