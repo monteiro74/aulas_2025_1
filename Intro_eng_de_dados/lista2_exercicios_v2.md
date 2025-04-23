@@ -55,5 +55,5 @@ Implemente no Orange Data Mining o seguinte fluxo usando o dataset: dataset_para
 --
 ## Exercício E11:
 
-Instalar umas das 4 ferramentas (GPT4All), baixar um modelo (como o deepseek, llama, por exemplo) apontar a ferramenta para uma pasta, solicitar a leitura do diretório (onde deve constar arquivos .csv, como os dataset desta disciplina ), tente iniciar uma conversa com os dataset.
+Instalar umas das 4 ferramentas (GPT4All), baixar um modelo (como o deepseek, llama, por exemplo) apontar a ferramenta para uma pasta, solicitar a leitura do diretório (onde deve constar arquivos .csv, como os dataset desta disciplina ), tente iniciar uma conversa com os dataset. Verifique se o GPT$all pode por exemplo fazer um calculo de média e some e um dos dataset. Se for necessário converta o dataset para .txt.
 
