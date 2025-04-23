@@ -204,33 +204,45 @@ Markdown All in One: Update Table of Contents
 ```
 
 Estrutura do trabalho e situação do que já foi feito até o momento:
-
-- [x] 1. Introdução.
-- [x] 2. Descrição.
-- [x] 2.1. Requisitos. 
-- [x] 2.2. Funcionais e não-funcionais. 
-- [x] 3. Diagramas. 
-- [x] 3.1. Diagrama de classe. 
-- [x] 3.1.1. Digrama de classe versão 1 (feito com WhiteStar).
-- [X] 3.1.2. Diagrama de classe versão 2 (feito com Mermaid).
-- [x] 3.1.2.1. Descrição do Diagrama de classe. 
-- [x] 3.2. Diagrama ER. 
-- [X] 3.3. Diagrama de casos de uso. 
-- [ ] 3.3. Diagrama de atividade. 
-- [ ] 3.4. Diagrama de componentes. 
-- [ ] 3.5. Diagrama de implantação. 
-- [ ] 3.6. Diagramas C4. 
-- [ ] 3.6.1. Diagrama C4 de contexto. 
-- [ ] 3.6.2. Diagrama C4 de contêiner. 
-- [ ] 3.6.3. Diagrama C4 de componente. 
-- [ ] 3.6.4. Diagrama C4 de código. 
-- [ ] 4. Histórias de usuário. 
-- [x]  5. Protótipo de telas. 
-- [ ] 6. Diagrama de navegação de tela. 
-- [ ] 7. Pilha tecnológica.
-- [ ] 8. Anexos
-- [ ] A.1. Script SQL.
-- [ ] A.2. Dados artificiais para testes de banco.
+  
+  
+- [x] 1. Introdução
+- [x] 2. Descrição
+- [x] 2.1. Requisitos.
+- [x] 2.2. Funcionais e não-funcionais
+- [x] 3. Diagramas
+- [x] 3.1. Diagrama de classe
+- [x] 3.1.1. Descrição do Diagrama de classe:
+- [x] 3.2. Diagrama ER
+- [x] 3.3. Diagrama de casos de uso
+- [x] 3.3.1. Exemplo 1
+- [x] 3.3.2. Exemplo 2
+- [x] 3.3. Diagrama de atividade
+- [x] 3.4. Diagrama de componentes
+- [x] 3.5. Diagrama de implantação
+- [x] 3.6. Diagramas C4
+- [x] 3.6.1. Diagrama C4 de contexto.
+- [x] 3.6.2. Diagrama C4 de contêiner
+- [x] 3.6.3. Diagrama C4 de componente
+- [x] 3.6.4. Diagrama C4 de código
+- [x] 4. Histórias de usuário
+- [x] 4.1. Organização de épicos e features
+- [x] 4.1.1. Épico 1: Gestão de Doadores
+- [x] 4.1.2. Épico 2: Gestão de Beneficiários
+- [x] 4.1.3. Épico 3: Operações Internas da Instituição
+- [x] 4.1.4. Épico 4: Gestão Financeira
+- [x] 4.1.5. Épico 5: Transparência e Comunicação
+- [x] 4.2. Jornada do usuário
+- [x] 4.2.1. Jornada do Usuário: Doador
+- [x] 4.2.2. Jornada do Usuário: Beneficiári
+- [x] 5. Protótipo de telas
+- [x] 6. Diagrama de navegação de tela
+- [x] 7. Pilha tecnológica
+- [x] 8. Cronograma, Gráfico de Gantt
+- [x] 9. Estimativa de custos
+- [x] 10. Anexos
+- [x] 10.1. Script SQL
+- [x] 10.2. Dados artificiais para testes de banco
 
 
 
