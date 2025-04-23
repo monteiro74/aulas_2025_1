@@ -45,3 +45,4 @@ Os scripts deverão ainda:
 
 Implemente no Orange Data Mining o seguinte fluxo usando o dataset: dataset_para_classificacao_v2.csv
 
+![https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/classificacao_agrupamento/exercicio_E10.png](https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/classificacao_agrupamento/exercicio_E10.png)
