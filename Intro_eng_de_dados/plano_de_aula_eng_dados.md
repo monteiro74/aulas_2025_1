@@ -33,6 +33,7 @@
     - [🔐 14.2.7. Governança de Dados](#-1427-governança-de-dados)
     - [📊 14.2.8. Big Data](#-1428-big-data)
   - [📄 14.3. Artigos Científicos Open Access sobre Engenharia de Dados](#-143-artigos-científicos-open-access-sobre-engenharia-de-dados)
+  - [15. Exemplos usados em sala de aula](#15-exemplos-usados-em-sala-de-aula)
 
 
 ---
@@ -404,3 +405,27 @@ Algoritmos classificadores, comparação:
 | **KNN**          | Classifica com base nos vizinhos mais próximos (distância)     | Simples; sem fase de treinamento; eficaz em problemas pequenos            | Lento em datasets grandes; sensível a escala e dados ruidosos             | Pequenos datasets; prototipagem rápida                                  |
 | **Naive Bayes**  | Usa Teorema de Bayes com suposição de independência entre atributos | Rápido; eficaz para textos; pouco afetado por dados faltantes             | Suposição de independência pode não ser realista                          | Classificação de texto; spam; análise de sentimentos                     |
 | **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
+
+
+Algoritmo Apriori
+
+```mermaid
+flowchart TD
+    A[Início] --> B[Coletar dados]
+    B --> C[Formatar transações]
+    C --> D[Gerar conjuntos de itens]
+    D --> E[Calcular suporte]
+    E --> F{Suporte suficiente?}
+    F -- Sim --> G[Marcar como frequente]
+    F -- Não --> H[Descartar]
+    G --> I[Gerar regras]
+    I --> J[Calcular confiança e lift]
+    J --> K{Confiança suficiente?}
+    K -- Sim --> L[Guardar regra]
+    K -- Não --> M[Descartar]
+    L --> N[Exibir resultados]
+    M --> N
+
+
+
+```

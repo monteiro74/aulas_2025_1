@@ -1,0 +1,1001 @@
+vendedor;comprador;data_venda;descricao_produto;categoria_produto;valor_unitario;quantidade;valor_total
+Daniela;Henrique;2024-09-17;Suspense;Livros;511.91;4;2047.64
+Ana;Henrique;2023-05-12;Romance;Livros;658.44;5;3292.2
+Daniela;Henrique;2023-08-20;Smartphone;Eletrônicos;713.68;2;1427.36
+Ana;Isabela;2024-12-26;Leite;Alimentos;326.04;3;978.12
+Ana;Gabriela;2024-02-13;Macarrão;Alimentos;337.42;1;337.42
+Bruno;Henrique;2024-05-02;Carrinho;Brinquedos;46.56;1;46.56
+Ana;Henrique;2023-11-21;Biscoito;Alimentos;654.66;5;3273.3
+Daniela;Henrique;2023-04-20;Leite;Alimentos;215.27;4;861.08
+Carlos;Lucas;2024-12-06;Camiseta;Roupas;916.74;4;3666.96
+Bruno;Lucas;2023-12-14;Leite;Alimentos;365.04;5;1825.2
+Daniela;Gabriela;2023-10-16;Boneca;Brinquedos;19.8;2;39.6
+Carlos;Marina;2024-04-02;Ficção Científica;Livros;409.77;2;819.54
+Bruno;Karina;2023-12-04;Bola;Brinquedos;537.73;4;2150.92
+Ana;Isabela;2023-06-26;Calça Jeans;Roupas;149.45;2;298.9
+Eduardo;Felipe;2024-04-16;Leite;Alimentos;102.1;4;408.4
+Eduardo;Isabela;2024-12-20;Carrinho;Brinquedos;947.4;4;3789.6
+Carlos;Isabela;2024-11-02;Camiseta;Roupas;418.76;3;1256.28
+Bruno;Lucas;2023-01-17;Boneca;Brinquedos;145.01;5;725.05
+Daniela;Isabela;2024-05-17;Tênis;Roupas;884.37;4;3537.48
+Bruno;Gabriela;2023-02-01;Fone de Ouvido;Eletrônicos;33.33;4;133.32
+Bruno;Gabriela;2024-03-16;Romance;Livros;44.62;2;89.24
+Carlos;Henrique;2023-05-08;Boneca;Brinquedos;477.71;1;477.71
+Bruno;Henrique;2024-05-03;Vestido;Roupas;878.16;1;878.16
+Ana;João;2024-04-21;Autoajuda;Livros;169.29;4;677.16
+Ana;Marina;2024-11-28;Lego;Brinquedos;990.38;1;990.38
+Carlos;João;2023-02-24;Bola;Brinquedos;441.06;1;441.06
+Bruno;Gabriela;2024-03-04;Fone de Ouvido;Eletrônicos;508.31;3;1524.93
+Ana;Marina;2023-04-22;Leite;Alimentos;987.47;1;987.47
+Carlos;Gabriela;2023-07-26;Leite;Alimentos;132.25;2;264.5
+Ana;Gabriela;2024-02-26;Camiseta;Roupas;472.67;3;1418.01
+Eduardo;Isabela;2024-06-05;Suspense;Livros;104.74;2;209.48
+Eduardo;Lucas;2024-07-10;Leite;Alimentos;870.76;2;1741.52
+Bruno;João;2023-03-24;Ficção Científica;Livros;311.35;4;1245.4
+Carlos;Henrique;2024-01-29;Ficção Científica;Livros;54.82;4;219.28
+Bruno;Henrique;2023-08-22;Carrinho;Brinquedos;429.37;2;858.74
+Eduardo;Isabela;2024-02-03;Bola;Brinquedos;278.51;3;835.53
+Daniela;Henrique;2023-09-10;Biscoito;Alimentos;369.36;4;1477.44
+Daniela;Karina;2023-06-06;Smartphone;Eletrônicos;634.46;4;2537.84
+Carlos;Henrique;2023-06-14;Mouse;Eletrônicos;499.44;2;998.88
+Eduardo;Henrique;2023-12-24;Fone de Ouvido;Eletrônicos;119.55;4;478.2
+Bruno;Marina;2024-11-06;Quebra-Cabeça;Brinquedos;631.56;1;631.56
+Carlos;Felipe;2023-07-03;Carregador;Eletrônicos;435.14;4;1740.56
+Bruno;João;2024-07-15;Calça Jeans;Roupas;156.02;1;156.02
+Bruno;Felipe;2023-11-11;Vestido;Roupas;966.9;3;2900.7
+Bruno;Felipe;2023-10-22;Suspense;Livros;234.61;2;469.22
+Carlos;Isabela;2023-12-27;Notebook;Eletrônicos;948.27;3;2844.81
+Ana;Marina;2023-02-22;História;Livros;58.33;2;116.66
+Eduardo;Karina;2024-04-02;Ficção Científica;Livros;358.27;1;358.27
+Ana;Isabela;2024-09-14;Macarrão;Alimentos;493.56;2;987.12
+Eduardo;Lucas;2023-09-14;Autoajuda;Livros;303.29;3;909.87
+Bruno;Gabriela;2024-01-29;Jaqueta;Roupas;678.87;2;1357.74
+Eduardo;Lucas;2024-04-03;Romance;Livros;805.72;1;805.72
+Ana;Marina;2023-06-20;Romance;Livros;662.09;1;662.09
+Eduardo;Isabela;2023-04-16;Biscoito;Alimentos;783.19;2;1566.38
+Ana;João;2023-05-10;História;Livros;873.47;5;4367.35
+Ana;Karina;2024-04-03;Notebook;Eletrônicos;201.39;1;201.39
+Eduardo;Felipe;2024-10-10;Jaqueta;Roupas;324.69;4;1298.76
+Bruno;Isabela;2024-01-28;Tênis;Roupas;823.87;5;4119.35
+Carlos;João;2023-04-15;Suspense;Livros;666.41;4;2665.64
+Bruno;Gabriela;2023-12-28;Mouse;Eletrônicos;934.84;2;1869.68
+Eduardo;João;2023-03-12;Quebra-Cabeça;Brinquedos;844.3;1;844.3
+Bruno;Lucas;2023-01-23;Vestido;Roupas;773.76;1;773.76
+Daniela;Karina;2024-02-01;Macarrão;Alimentos;183.11;2;366.22
+Eduardo;Karina;2024-02-11;Vestido;Roupas;983.63;1;983.63
+Ana;Isabela;2023-06-28;Notebook;Eletrônicos;755.71;3;2267.13
+Carlos;João;2024-05-18;Arroz;Alimentos;190.83;2;381.66
+Ana;Henrique;2023-01-11;História;Livros;310.76;1;310.76
+Bruno;Henrique;2024-01-09;História;Livros;159.16;5;795.8
+Carlos;Gabriela;2023-07-22;Feijão;Alimentos;949.41;4;3797.64
+Ana;Marina;2024-07-12;História;Livros;54.45;4;217.8
+Daniela;Gabriela;2024-12-08;Carrinho;Brinquedos;315.44;5;1577.2
+Ana;Marina;2024-08-25;Camiseta;Roupas;198.64;1;198.64
+Ana;Henrique;2024-05-09;Vestido;Roupas;163.16;2;326.32
+Daniela;Isabela;2024-09-16;Calça Jeans;Roupas;422.54;4;1690.16
+Carlos;Isabela;2024-10-20;Autoajuda;Livros;412.41;4;1649.64
+Eduardo;Isabela;2024-09-05;Ficção Científica;Livros;408.55;3;1225.65
+Carlos;Henrique;2024-02-11;Autoajuda;Livros;171.12;5;855.6
+Carlos;Felipe;2024-05-05;Camiseta;Roupas;90.75;3;272.25
+Daniela;Henrique;2023-11-07;Jaqueta;Roupas;378.58;3;1135.74
+Bruno;João;2024-12-21;Vestido;Roupas;907.06;1;907.06
+Daniela;Lucas;2024-04-24;Lego;Brinquedos;882.98;5;4414.9
+Carlos;João;2023-05-22;Tênis;Roupas;233.29;3;699.87
+Bruno;Karina;2023-10-22;Autoajuda;Livros;709.18;1;709.18
+Bruno;Isabela;2024-12-27;Vestido;Roupas;41.0;4;164.0
+Bruno;Henrique;2024-11-01;Leite;Alimentos;173.94;2;347.88
+Bruno;Marina;2023-11-25;Jaqueta;Roupas;815.02;5;4075.1
+Ana;Henrique;2023-10-08;Fone de Ouvido;Eletrônicos;776.87;4;3107.48
+Bruno;Henrique;2023-01-04;Lego;Brinquedos;966.32;5;4831.6
+Carlos;Karina;2023-11-28;Arroz;Alimentos;44.96;1;44.96
+Daniela;Lucas;2023-10-09;Autoajuda;Livros;13.22;5;66.1
+Ana;Marina;2023-01-18;Arroz;Alimentos;174.26;1;174.26
+Carlos;Lucas;2023-02-22;Arroz;Alimentos;386.75;5;1933.75
+Ana;Henrique;2023-04-02;Vestido;Roupas;138.67;3;416.01
+Carlos;João;2023-01-26;Ficção Científica;Livros;104.65;2;209.3
+Eduardo;Lucas;2023-10-24;Feijão;Alimentos;573.71;5;2868.55
+Eduardo;Gabriela;2023-04-19;Mouse;Eletrônicos;175.61;5;878.05
+Daniela;Marina;2023-01-07;Suspense;Livros;352.33;4;1409.32
+Bruno;Lucas;2024-01-12;Carregador;Eletrônicos;930.09;4;3720.36
+Bruno;João;2024-03-11;Carregador;Eletrônicos;869.67;4;3478.68
+Ana;Karina;2023-04-10;Macarrão;Alimentos;321.75;3;965.25
+Bruno;Karina;2024-06-13;Lego;Brinquedos;505.71;2;1011.42
+Carlos;João;2024-04-22;Mouse;Eletrônicos;336.34;1;336.34
+Daniela;Lucas;2023-09-21;Arroz;Alimentos;366.83;2;733.66
+Eduardo;Felipe;2024-03-25;Ficção Científica;Livros;628.05;5;3140.25
+Daniela;Marina;2023-03-27;Leite;Alimentos;249.06;2;498.12
+Daniela;Marina;2023-02-21;Lego;Brinquedos;49.5;2;99.0
+Eduardo;Felipe;2024-11-11;Boneca;Brinquedos;331.84;5;1659.2
+Daniela;Isabela;2023-03-05;História;Livros;65.36;3;196.08
+Daniela;Isabela;2023-01-10;Romance;Livros;353.06;1;353.06
+Daniela;Felipe;2024-11-16;Calça Jeans;Roupas;507.56;3;1522.68
+Eduardo;Lucas;2024-11-13;Lego;Brinquedos;95.19;4;380.76
+Carlos;Isabela;2023-05-06;Suspense;Livros;89.12;1;89.12
+Carlos;Henrique;2024-02-08;Romance;Livros;16.8;4;67.2
+Bruno;Lucas;2023-05-01;Camiseta;Roupas;434.69;2;869.38
+Daniela;Karina;2024-07-25;Bola;Brinquedos;560.33;4;2241.32
+Daniela;Henrique;2023-08-02;História;Livros;986.33;5;4931.65
+Carlos;Karina;2023-07-06;Smartphone;Eletrônicos;398.4;4;1593.6
+Eduardo;Marina;2024-04-02;Bola;Brinquedos;65.0;2;130.0
+Ana;Marina;2024-09-14;Fone de Ouvido;Eletrônicos;924.99;5;4624.95
+Eduardo;Henrique;2023-01-15;Tênis;Roupas;499.66;1;499.66
+Carlos;Henrique;2023-06-22;Biscoito;Alimentos;786.99;5;3934.95
+Eduardo;Felipe;2024-05-18;Vestido;Roupas;930.53;5;4652.65
+Daniela;Lucas;2024-06-22;Leite;Alimentos;754.07;1;754.07
+Carlos;João;2023-07-16;Boneca;Brinquedos;974.16;2;1948.32
+Eduardo;Lucas;2024-11-20;Notebook;Eletrônicos;546.33;2;1092.66
+Eduardo;Henrique;2024-12-27;Fone de Ouvido;Eletrônicos;438.42;2;876.84
+Ana;Isabela;2023-01-21;Suspense;Livros;392.34;5;1961.7
+Eduardo;Karina;2023-12-22;Ficção Científica;Livros;774.01;3;2322.03
+Daniela;Lucas;2023-08-07;Suspense;Livros;32.3;1;32.3
+Carlos;Felipe;2023-04-28;Macarrão;Alimentos;402.42;3;1207.26
+Daniela;Gabriela;2023-11-22;Bola;Brinquedos;929.61;4;3718.44
+Carlos;João;2024-06-07;Bola;Brinquedos;930.8;1;930.8
+Ana;Felipe;2024-02-11;Notebook;Eletrônicos;120.13;3;360.39
+Eduardo;João;2024-12-07;Carrinho;Brinquedos;349.44;4;1397.76
+Carlos;Henrique;2023-10-23;Jaqueta;Roupas;823.12;4;3292.48
+Eduardo;Marina;2024-11-06;Notebook;Eletrônicos;267.57;1;267.57
+Daniela;Gabriela;2023-03-30;História;Livros;222.47;4;889.88
+Ana;Lucas;2024-03-20;Notebook;Eletrônicos;363.09;4;1452.36
+Bruno;Henrique;2023-04-21;Jaqueta;Roupas;708.27;2;1416.54
+Carlos;João;2023-08-18;Feijão;Alimentos;474.99;2;949.98
+Daniela;Marina;2024-01-31;Mouse;Eletrônicos;106.09;5;530.45
+Ana;Lucas;2023-06-23;Feijão;Alimentos;813.05;1;813.05
+Carlos;João;2024-12-10;Quebra-Cabeça;Brinquedos;342.76;1;342.76
+Bruno;Gabriela;2023-11-08;Vestido;Roupas;717.83;3;2153.49
+Carlos;Lucas;2023-10-26;Romance;Livros;772.07;4;3088.28
+Eduardo;Isabela;2023-08-10;Biscoito;Alimentos;511.86;4;2047.44
+Bruno;João;2023-06-18;Smartphone;Eletrônicos;949.54;3;2848.62
+Daniela;Lucas;2024-08-27;Bola;Brinquedos;271.16;1;271.16
+Daniela;Isabela;2023-10-10;Jaqueta;Roupas;236.9;5;1184.5
+Daniela;Henrique;2023-08-05;Macarrão;Alimentos;763.73;4;3054.92
+Ana;João;2023-08-18;Carregador;Eletrônicos;778.69;4;3114.76
+Ana;Gabriela;2024-09-23;Notebook;Eletrônicos;544.5;3;1633.5
+Bruno;João;2024-02-23;Vestido;Roupas;769.0;5;3845.0
+Daniela;Lucas;2024-07-29;Boneca;Brinquedos;633.49;4;2533.96
+Bruno;Gabriela;2024-12-03;Carregador;Eletrônicos;847.42;3;2542.26
+Carlos;Lucas;2023-08-30;Macarrão;Alimentos;340.74;3;1022.22
+Daniela;Lucas;2024-05-15;Mouse;Eletrônicos;776.1;2;1552.2
+Bruno;Henrique;2023-07-08;Suspense;Livros;951.85;3;2855.55
+Ana;Felipe;2023-08-02;Macarrão;Alimentos;526.42;3;1579.26
+Bruno;Karina;2024-10-19;Mouse;Eletrônicos;949.16;2;1898.32
+Carlos;Marina;2023-01-10;Feijão;Alimentos;638.87;4;2555.48
+Carlos;Felipe;2024-09-03;Macarrão;Alimentos;493.67;1;493.67
+Carlos;João;2024-08-17;Jaqueta;Roupas;787.61;4;3150.44
+Carlos;Isabela;2024-04-14;Autoajuda;Livros;21.63;4;86.52
+Carlos;João;2024-05-23;Bola;Brinquedos;688.41;2;1376.82
+Daniela;Henrique;2024-03-15;Autoajuda;Livros;584.04;1;584.04
+Bruno;Marina;2024-09-25;Romance;Livros;246.68;1;246.68
+Carlos;João;2023-03-25;Vestido;Roupas;43.29;3;129.87
+Daniela;Karina;2023-06-04;Tênis;Roupas;352.43;4;1409.72
+Ana;Gabriela;2023-09-17;Carrinho;Brinquedos;558.77;3;1676.31
+Ana;Felipe;2023-09-19;Notebook;Eletrônicos;210.57;2;421.14
+Daniela;Felipe;2023-04-08;Romance;Livros;310.0;5;1550.0
+Bruno;Felipe;2023-11-20;Ficção Científica;Livros;176.28;3;528.84
+Carlos;João;2023-07-15;Tênis;Roupas;947.79;1;947.79
+Carlos;Lucas;2023-01-10;Lego;Brinquedos;543.3;4;2173.2
+Carlos;Henrique;2024-01-24;Ficção Científica;Livros;757.02;2;1514.04
+Bruno;Henrique;2024-04-30;Quebra-Cabeça;Brinquedos;566.35;2;1132.7
+Carlos;Lucas;2023-04-07;Leite;Alimentos;392.21;4;1568.84
+Carlos;Henrique;2024-12-17;Macarrão;Alimentos;542.94;1;542.94
+Bruno;Gabriela;2023-11-07;Jaqueta;Roupas;533.1;1;533.1
+Eduardo;Isabela;2024-09-13;Jaqueta;Roupas;719.86;1;719.86
+Bruno;Lucas;2024-12-05;Macarrão;Alimentos;904.89;1;904.89
+Eduardo;Karina;2024-12-04;Tênis;Roupas;669.68;3;2009.04
+Ana;Lucas;2023-10-03;Macarrão;Alimentos;119.38;5;596.9
+Bruno;Henrique;2024-05-08;Mouse;Eletrônicos;251.26;5;1256.3
+Eduardo;Isabela;2024-01-20;Mouse;Eletrônicos;906.79;1;906.79
+Ana;João;2024-05-11;História;Livros;368.9;2;737.8
+Bruno;Marina;2023-10-27;Boneca;Brinquedos;588.8;4;2355.2
+Ana;Karina;2023-04-15;Bola;Brinquedos;313.07;4;1252.28
+Bruno;Karina;2024-12-21;Mouse;Eletrônicos;200.87;2;401.74
+Ana;Lucas;2024-08-17;Ficção Científica;Livros;993.87;3;2981.61
+Bruno;Henrique;2024-06-05;Jaqueta;Roupas;798.99;2;1597.98
+Ana;Felipe;2024-04-17;Biscoito;Alimentos;483.1;4;1932.4
+Eduardo;Henrique;2023-11-30;Vestido;Roupas;320.45;2;640.9
+Bruno;João;2023-09-21;Suspense;Livros;508.29;3;1524.87
+Carlos;Karina;2023-10-24;Romance;Livros;152.0;5;760.0
+Eduardo;Karina;2023-07-16;Boneca;Brinquedos;493.5;3;1480.5
+Bruno;Marina;2023-05-28;Smartphone;Eletrônicos;200.48;1;200.48
+Ana;Karina;2024-07-15;Leite;Alimentos;264.7;5;1323.5
+Eduardo;Felipe;2024-02-20;Notebook;Eletrônicos;340.36;3;1021.08
+Eduardo;João;2023-05-27;Boneca;Brinquedos;300.18;1;300.18
+Carlos;Lucas;2024-12-05;Ficção Científica;Livros;468.6;2;937.2
+Eduardo;Marina;2023-01-05;Romance;Livros;733.78;4;2935.12
+Ana;João;2023-12-28;Tênis;Roupas;457.79;4;1831.16
+Ana;Gabriela;2023-09-23;Macarrão;Alimentos;833.18;3;2499.54
+Eduardo;Henrique;2023-03-09;Mouse;Eletrônicos;705.9;3;2117.7
+Ana;Henrique;2024-05-19;Notebook;Eletrônicos;513.32;2;1026.64
+Bruno;Isabela;2023-10-16;Biscoito;Alimentos;885.86;1;885.86
+Carlos;Isabela;2023-07-22;Leite;Alimentos;929.16;2;1858.32
+Eduardo;Isabela;2023-08-20;Autoajuda;Livros;975.66;1;975.66
+Carlos;Isabela;2023-08-27;Camiseta;Roupas;333.44;5;1667.2
+Daniela;Lucas;2024-06-09;Macarrão;Alimentos;549.3;2;1098.6
+Daniela;Lucas;2024-02-09;Macarrão;Alimentos;460.41;3;1381.23
+Daniela;Henrique;2023-05-21;Feijão;Alimentos;952.05;4;3808.2
+Bruno;Karina;2023-10-17;Feijão;Alimentos;590.39;4;2361.56
+Bruno;João;2024-03-18;Autoajuda;Livros;151.55;1;151.55
+Ana;Karina;2023-12-19;Leite;Alimentos;61.76;4;247.04
+Bruno;Karina;2024-02-25;Fone de Ouvido;Eletrônicos;752.13;2;1504.26
+Carlos;João;2024-05-06;Camiseta;Roupas;642.88;4;2571.52
+Ana;Felipe;2023-08-16;Suspense;Livros;376.19;5;1880.95
+Daniela;Lucas;2024-02-20;Calça Jeans;Roupas;988.78;4;3955.12
+Daniela;Karina;2023-05-31;Macarrão;Alimentos;210.04;4;840.16
+Daniela;Isabela;2023-11-15;Mouse;Eletrônicos;724.97;2;1449.94
+Bruno;Karina;2023-07-17;Camiseta;Roupas;347.69;3;1043.07
+Daniela;João;2024-08-05;Ficção Científica;Livros;626.43;4;2505.72
+Eduardo;Marina;2023-04-05;Calça Jeans;Roupas;929.6;3;2788.8
+Eduardo;Gabriela;2024-07-12;Lego;Brinquedos;318.32;3;954.96
+Ana;Felipe;2024-04-05;História;Livros;903.74;5;4518.7
+Daniela;Henrique;2023-03-05;Jaqueta;Roupas;488.7;5;2443.5
+Daniela;Isabela;2024-11-22;Feijão;Alimentos;202.61;3;607.83
+Daniela;Felipe;2023-09-09;Carrinho;Brinquedos;469.42;1;469.42
+Carlos;Lucas;2023-05-16;Tênis;Roupas;60.18;3;180.54
+Daniela;Gabriela;2024-02-08;Mouse;Eletrônicos;557.36;2;1114.72
+Daniela;Isabela;2023-10-07;Quebra-Cabeça;Brinquedos;972.16;4;3888.64
+Bruno;Marina;2023-04-27;Smartphone;Eletrônicos;559.99;4;2239.96
+Eduardo;Gabriela;2023-09-24;Suspense;Livros;275.81;5;1379.05
+Bruno;Marina;2023-01-09;Ficção Científica;Livros;837.24;5;4186.2
+Carlos;Marina;2024-06-23;Feijão;Alimentos;632.7;5;3163.5
+Ana;Gabriela;2024-09-13;Carregador;Eletrônicos;616.54;1;616.54
+Daniela;Gabriela;2024-08-23;Carregador;Eletrônicos;173.48;1;173.48
+Daniela;João;2023-06-27;Biscoito;Alimentos;967.6;1;967.6
+Eduardo;Gabriela;2023-11-13;Leite;Alimentos;654.36;1;654.36
+Eduardo;Felipe;2024-12-09;Camiseta;Roupas;528.52;3;1585.56
+Carlos;Karina;2023-02-20;Biscoito;Alimentos;638.81;4;2555.24
+Ana;Gabriela;2024-01-01;História;Livros;464.18;4;1856.72
+Carlos;Felipe;2024-05-27;Jaqueta;Roupas;425.22;5;2126.1
+Ana;Felipe;2024-04-16;Suspense;Livros;321.51;1;321.51
+Ana;Isabela;2023-09-19;Ficção Científica;Livros;524.17;2;1048.34
+Ana;Henrique;2024-06-13;Camiseta;Roupas;354.12;2;708.24
+Eduardo;Isabela;2023-04-11;Bola;Brinquedos;248.42;5;1242.1
+Carlos;Marina;2024-08-23;Autoajuda;Livros;825.54;1;825.54
+Carlos;Felipe;2024-02-25;Carrinho;Brinquedos;81.04;2;162.08
+Carlos;Felipe;2024-01-18;Feijão;Alimentos;449.87;2;899.74
+Daniela;Henrique;2023-10-04;Tênis;Roupas;477.26;3;1431.78
+Carlos;Karina;2023-05-10;Bola;Brinquedos;535.3;5;2676.5
+Carlos;João;2024-03-23;Biscoito;Alimentos;22.75;5;113.75
+Ana;Karina;2023-08-25;Romance;Livros;935.03;5;4675.15
+Bruno;Gabriela;2023-03-27;Leite;Alimentos;738.56;4;2954.24
+Bruno;Marina;2023-11-21;Ficção Científica;Livros;581.27;3;1743.81
+Carlos;Isabela;2023-06-15;Vestido;Roupas;512.35;1;512.35
+Eduardo;Felipe;2024-05-01;Arroz;Alimentos;44.08;2;88.16
+Eduardo;Isabela;2023-10-16;Romance;Livros;563.68;3;1691.04
+Daniela;Gabriela;2023-04-13;Camiseta;Roupas;407.93;3;1223.79
+Eduardo;Karina;2023-10-10;Jaqueta;Roupas;761.0;2;1522.0
+Eduardo;Karina;2023-07-26;Tênis;Roupas;925.91;5;4629.55
+Daniela;Lucas;2024-08-12;Quebra-Cabeça;Brinquedos;662.15;1;662.15
+Bruno;João;2023-09-12;Fone de Ouvido;Eletrônicos;510.72;5;2553.6
+Daniela;Gabriela;2023-07-30;Fone de Ouvido;Eletrônicos;554.08;5;2770.4
+Ana;Lucas;2023-03-15;Bola;Brinquedos;480.05;2;960.1
+Ana;João;2023-12-30;História;Livros;74.61;2;149.22
+Bruno;Marina;2024-03-25;Suspense;Livros;422.98;3;1268.94
+Eduardo;Karina;2024-03-28;Romance;Livros;672.63;4;2690.52
+Eduardo;João;2023-10-18;Bola;Brinquedos;309.31;2;618.62
+Bruno;Lucas;2024-04-24;Fone de Ouvido;Eletrônicos;167.38;5;836.9
+Ana;Marina;2024-04-07;Carregador;Eletrônicos;596.63;5;2983.15
+Bruno;Marina;2024-12-24;Ficção Científica;Livros;778.23;3;2334.69
+Carlos;Karina;2023-02-22;Carregador;Eletrônicos;180.03;4;720.12
+Carlos;João;2023-04-08;História;Livros;337.69;5;1688.45
+Daniela;Lucas;2024-08-14;Jaqueta;Roupas;925.09;3;2775.27
+Eduardo;Gabriela;2024-07-25;Calça Jeans;Roupas;115.96;2;231.92
+Eduardo;Marina;2023-01-15;Boneca;Brinquedos;774.11;2;1548.22
+Daniela;Gabriela;2023-01-19;Carrinho;Brinquedos;656.46;2;1312.92
+Eduardo;Karina;2024-06-17;História;Livros;653.77;4;2615.08
+Bruno;Lucas;2023-05-09;Quebra-Cabeça;Brinquedos;896.4;3;2689.2
+Bruno;Felipe;2024-08-24;Jaqueta;Roupas;534.95;4;2139.8
+Bruno;Henrique;2023-10-23;Romance;Livros;938.42;2;1876.84
+Eduardo;João;2024-07-15;Feijão;Alimentos;902.92;1;902.92
+Eduardo;Marina;2023-02-03;Ficção Científica;Livros;28.79;4;115.16
+Ana;Karina;2024-02-24;Biscoito;Alimentos;875.73;3;2627.19
+Daniela;Isabela;2024-06-10;Smartphone;Eletrônicos;635.45;1;635.45
+Daniela;Felipe;2024-10-17;História;Livros;703.88;3;2111.64
+Daniela;Felipe;2024-09-11;Vestido;Roupas;883.68;1;883.68
+Carlos;Felipe;2024-09-29;Mouse;Eletrônicos;441.28;4;1765.12
+Bruno;Henrique;2023-08-25;Tênis;Roupas;630.89;4;2523.56
+Ana;Karina;2023-10-21;História;Livros;576.9;1;576.9
+Carlos;Felipe;2024-11-21;Biscoito;Alimentos;833.35;3;2500.05
+Daniela;Isabela;2024-06-17;Macarrão;Alimentos;941.76;5;4708.8
+Bruno;Henrique;2024-02-18;Macarrão;Alimentos;580.2;4;2320.8
+Eduardo;Gabriela;2023-01-23;Bola;Brinquedos;54.66;2;109.32
+Carlos;Isabela;2023-09-26;História;Livros;360.95;1;360.95
+Bruno;Gabriela;2024-04-14;História;Livros;802.48;1;802.48
+Bruno;Isabela;2024-08-15;Feijão;Alimentos;537.5;4;2150.0
+Eduardo;Karina;2023-12-22;Leite;Alimentos;124.16;3;372.48
+Eduardo;Henrique;2024-01-07;Feijão;Alimentos;765.06;1;765.06
+Ana;João;2023-04-03;Romance;Livros;965.05;1;965.05
+Eduardo;Lucas;2024-08-30;Romance;Livros;460.96;4;1843.84
+Daniela;Marina;2023-02-10;Romance;Livros;761.94;5;3809.7
+Bruno;Marina;2023-12-10;Biscoito;Alimentos;84.36;1;84.36
+Eduardo;Henrique;2023-01-13;Romance;Livros;522.76;4;2091.04
+Carlos;Felipe;2024-05-08;Biscoito;Alimentos;100.02;2;200.04
+Daniela;Gabriela;2024-10-02;História;Livros;340.52;5;1702.6
+Ana;Isabela;2023-04-21;Biscoito;Alimentos;351.24;1;351.24
+Eduardo;Marina;2023-03-09;Carregador;Eletrônicos;514.58;4;2058.32
+Ana;Isabela;2024-01-01;Camiseta;Roupas;469.2;3;1407.6
+Carlos;Marina;2023-05-13;Romance;Livros;507.26;1;507.26
+Daniela;Gabriela;2023-12-07;Lego;Brinquedos;769.82;2;1539.64
+Bruno;João;2024-12-16;Jaqueta;Roupas;666.18;2;1332.36
+Ana;Marina;2023-09-05;Boneca;Brinquedos;591.37;3;1774.11
+Daniela;Marina;2023-10-11;Ficção Científica;Livros;301.72;4;1206.88
+Daniela;Karina;2024-02-18;Boneca;Brinquedos;983.24;5;4916.2
+Carlos;Isabela;2024-11-20;Notebook;Eletrônicos;797.13;3;2391.39
+Ana;Karina;2023-05-15;Autoajuda;Livros;693.7;2;1387.4
+Eduardo;Henrique;2023-08-03;Ficção Científica;Livros;352.67;1;352.67
+Ana;Isabela;2024-01-03;Carrinho;Brinquedos;374.23;3;1122.69
+Eduardo;Felipe;2024-03-16;Tênis;Roupas;188.34;2;376.68
+Eduardo;Isabela;2023-08-13;Ficção Científica;Livros;464.85;1;464.85
+Bruno;Felipe;2023-12-16;Fone de Ouvido;Eletrônicos;76.88;4;307.52
+Bruno;Lucas;2023-02-27;Smartphone;Eletrônicos;795.31;2;1590.62
+Ana;Felipe;2024-08-23;Ficção Científica;Livros;368.47;2;736.94
+Carlos;Gabriela;2024-08-26;Leite;Alimentos;934.34;2;1868.68
+Bruno;Isabela;2024-08-10;Calça Jeans;Roupas;394.69;2;789.38
+Daniela;Lucas;2023-10-27;Arroz;Alimentos;778.8;4;3115.2
+Bruno;Henrique;2023-05-24;História;Livros;84.26;2;168.52
+Daniela;Isabela;2023-05-30;Vestido;Roupas;750.31;2;1500.62
+Eduardo;Karina;2024-11-08;Carrinho;Brinquedos;511.69;1;511.69
+Carlos;Felipe;2023-03-09;Calça Jeans;Roupas;183.87;3;551.61
+Eduardo;Gabriela;2023-09-16;Tênis;Roupas;714.21;3;2142.63
+Eduardo;Isabela;2024-06-19;Romance;Livros;627.1;2;1254.2
+Bruno;Lucas;2024-07-22;Carregador;Eletrônicos;351.87;3;1055.61
+Bruno;João;2024-07-18;Autoajuda;Livros;288.77;3;866.31
+Ana;Lucas;2024-12-15;Carrinho;Brinquedos;955.44;1;955.44
+Bruno;Isabela;2024-06-08;Carregador;Eletrônicos;737.05;5;3685.25
+Ana;Henrique;2023-01-15;Camiseta;Roupas;532.67;4;2130.68
+Carlos;Isabela;2024-04-05;Autoajuda;Livros;370.97;5;1854.85
+Eduardo;João;2024-05-19;Camiseta;Roupas;736.18;1;736.18
+Daniela;Gabriela;2024-07-03;Boneca;Brinquedos;156.1;2;312.2
+Bruno;Felipe;2023-11-17;Carrinho;Brinquedos;473.67;5;2368.35
+Ana;Isabela;2023-12-17;Smartphone;Eletrônicos;687.84;5;3439.2
+Carlos;Marina;2024-06-05;Vestido;Roupas;84.83;1;84.83
+Carlos;Gabriela;2024-09-05;Fone de Ouvido;Eletrônicos;809.34;4;3237.36
+Daniela;Marina;2023-05-08;Tênis;Roupas;746.68;3;2240.04
+Daniela;Lucas;2023-08-09;Tênis;Roupas;987.26;4;3949.04
+Bruno;Isabela;2024-09-21;Calça Jeans;Roupas;314.69;2;629.38
+Carlos;Marina;2024-02-07;Camiseta;Roupas;769.43;5;3847.15
+Ana;João;2024-02-01;Arroz;Alimentos;246.91;5;1234.55
+Ana;Lucas;2024-07-17;Autoajuda;Livros;750.18;4;3000.72
+Daniela;Gabriela;2023-04-18;Carrinho;Brinquedos;754.01;3;2262.03
+Carlos;Lucas;2024-07-23;Fone de Ouvido;Eletrônicos;992.3;3;2976.9
+Eduardo;Marina;2023-05-03;Vestido;Roupas;60.81;4;243.24
+Carlos;Gabriela;2023-05-18;História;Livros;633.06;3;1899.18
+Carlos;João;2024-08-09;História;Livros;983.16;1;983.16
+Eduardo;Karina;2024-05-13;Boneca;Brinquedos;126.66;2;253.32
+Daniela;Lucas;2024-10-13;Romance;Livros;617.84;5;3089.2
+Carlos;Isabela;2024-11-20;História;Livros;540.65;1;540.65
+Carlos;Karina;2023-11-23;Biscoito;Alimentos;321.24;1;321.24
+Ana;Felipe;2023-09-29;Jaqueta;Roupas;480.85;3;1442.55
+Eduardo;João;2024-02-03;Vestido;Roupas;638.95;3;1916.85
+Ana;Isabela;2024-04-05;Fone de Ouvido;Eletrônicos;418.67;4;1674.68
+Daniela;Marina;2024-04-07;Quebra-Cabeça;Brinquedos;371.77;4;1487.08
+Carlos;João;2023-06-26;Fone de Ouvido;Eletrônicos;704.96;1;704.96
+Daniela;Felipe;2023-05-11;Autoajuda;Livros;174.23;2;348.46
+Bruno;Marina;2023-01-23;Leite;Alimentos;776.88;3;2330.64
+Ana;Gabriela;2023-12-10;História;Livros;453.51;4;1814.04
+Eduardo;Karina;2024-12-01;Autoajuda;Livros;815.64;3;2446.92
+Eduardo;Lucas;2023-01-12;Smartphone;Eletrônicos;598.55;1;598.55
+Carlos;Lucas;2024-06-09;Carrinho;Brinquedos;195.91;3;587.73
+Daniela;Henrique;2023-06-30;Arroz;Alimentos;808.56;1;808.56
+Carlos;Karina;2024-11-10;Lego;Brinquedos;86.34;1;86.34
+Ana;Lucas;2023-03-10;Vestido;Roupas;751.59;3;2254.77
+Daniela;Felipe;2023-08-31;Notebook;Eletrônicos;75.72;4;302.88
+Ana;Karina;2024-05-23;Biscoito;Alimentos;207.8;2;415.6
+Eduardo;Henrique;2024-11-08;Arroz;Alimentos;404.64;2;809.28
+Ana;Karina;2023-04-25;Notebook;Eletrônicos;839.19;4;3356.76
+Daniela;Felipe;2024-09-30;Mouse;Eletrônicos;947.73;4;3790.92
+Carlos;João;2024-09-04;História;Livros;244.0;2;488.0
+Ana;Karina;2023-06-26;Arroz;Alimentos;775.25;3;2325.75
+Ana;João;2024-06-09;Feijão;Alimentos;77.35;2;154.7
+Carlos;Lucas;2023-01-23;Ficção Científica;Livros;595.3;5;2976.5
+Ana;Felipe;2023-01-25;Notebook;Eletrônicos;513.22;5;2566.1
+Ana;Karina;2024-11-13;Autoajuda;Livros;158.03;3;474.09
+Carlos;Henrique;2024-01-16;Arroz;Alimentos;357.13;4;1428.52
+Bruno;Felipe;2023-09-28;Lego;Brinquedos;112.64;3;337.92
+Carlos;Lucas;2024-01-15;Leite;Alimentos;249.7;3;749.1
+Bruno;Marina;2024-05-09;Mouse;Eletrônicos;572.33;1;572.33
+Daniela;Felipe;2024-07-04;Tênis;Roupas;44.81;2;89.62
+Carlos;Felipe;2024-12-12;Romance;Livros;556.02;2;1112.04
+Eduardo;Isabela;2024-04-07;Arroz;Alimentos;31.96;5;159.8
+Bruno;Marina;2023-01-09;Arroz;Alimentos;467.95;3;1403.85
+Bruno;Felipe;2023-08-23;Calça Jeans;Roupas;439.27;1;439.27
+Ana;Gabriela;2024-03-04;Boneca;Brinquedos;563.44;3;1690.32
+Bruno;Marina;2024-04-16;Suspense;Livros;272.87;3;818.61
+Eduardo;Karina;2024-06-10;Suspense;Livros;945.68;4;3782.72
+Carlos;Lucas;2024-08-22;Camiseta;Roupas;441.23;4;1764.92
+Eduardo;Karina;2024-12-31;Camiseta;Roupas;591.91;4;2367.64
+Daniela;Lucas;2023-03-21;Feijão;Alimentos;602.02;3;1806.06
+Carlos;Isabela;2024-02-17;Lego;Brinquedos;745.67;3;2237.01
+Bruno;Isabela;2023-12-14;Fone de Ouvido;Eletrônicos;745.43;4;2981.72
+Ana;Marina;2024-04-24;Feijão;Alimentos;618.56;1;618.56
+Carlos;Felipe;2023-10-07;Biscoito;Alimentos;272.39;2;544.78
+Eduardo;João;2024-10-23;Ficção Científica;Livros;327.79;3;983.37
+Bruno;Henrique;2024-01-25;Ficção Científica;Livros;437.45;3;1312.35
+Eduardo;João;2023-12-01;Suspense;Livros;104.06;3;312.18
+Daniela;Felipe;2024-12-21;Boneca;Brinquedos;131.05;1;131.05
+Eduardo;Felipe;2024-08-21;Bola;Brinquedos;404.61;3;1213.83
+Bruno;Marina;2023-08-27;Notebook;Eletrônicos;178.94;3;536.82
+Bruno;Karina;2024-11-02;Carrinho;Brinquedos;509.89;2;1019.78
+Bruno;Marina;2024-06-16;Boneca;Brinquedos;515.23;1;515.23
+Daniela;Marina;2024-07-08;Leite;Alimentos;396.28;5;1981.4
+Carlos;Lucas;2023-03-19;História;Livros;494.06;3;1482.18
+Bruno;Gabriela;2024-02-24;Boneca;Brinquedos;569.75;2;1139.5
+Eduardo;Isabela;2024-07-14;Notebook;Eletrônicos;183.6;3;550.8
+Bruno;Gabriela;2023-01-16;Smartphone;Eletrônicos;351.05;2;702.1
+Carlos;João;2024-12-19;Bola;Brinquedos;634.19;2;1268.38
+Daniela;Marina;2024-02-02;Lego;Brinquedos;852.73;2;1705.46
+Eduardo;Felipe;2024-09-15;Quebra-Cabeça;Brinquedos;921.28;4;3685.12
+Ana;Karina;2023-10-09;Leite;Alimentos;646.31;1;646.31
+Carlos;João;2023-10-06;Arroz;Alimentos;895.59;1;895.59
+Carlos;João;2024-10-05;Suspense;Livros;768.42;3;2305.26
+Carlos;Henrique;2023-11-25;Leite;Alimentos;480.62;1;480.62
+Bruno;Lucas;2024-02-27;Leite;Alimentos;852.64;2;1705.28
+Eduardo;Felipe;2024-02-17;Macarrão;Alimentos;344.45;3;1033.35
+Daniela;Isabela;2023-10-03;Macarrão;Alimentos;500.74;4;2002.96
+Daniela;Karina;2023-02-18;Quebra-Cabeça;Brinquedos;82.61;5;413.05
+Carlos;Felipe;2024-12-05;Romance;Livros;96.69;4;386.76
+Bruno;Felipe;2024-08-22;Carrinho;Brinquedos;139.51;3;418.53
+Daniela;Isabela;2023-03-26;Lego;Brinquedos;430.0;3;1290.0
+Carlos;Henrique;2023-05-22;Biscoito;Alimentos;765.68;4;3062.72
+Daniela;Marina;2023-09-22;Boneca;Brinquedos;172.65;5;863.25
+Daniela;João;2024-05-13;Autoajuda;Livros;810.82;1;810.82
+Bruno;Felipe;2024-09-01;Bola;Brinquedos;342.56;3;1027.68
+Eduardo;Karina;2023-07-02;Fone de Ouvido;Eletrônicos;331.09;1;331.09
+Eduardo;Felipe;2023-09-05;Carrinho;Brinquedos;449.68;5;2248.4
+Ana;Gabriela;2023-05-15;Arroz;Alimentos;892.07;4;3568.28
+Carlos;Karina;2023-03-23;Macarrão;Alimentos;71.81;5;359.05
+Carlos;Marina;2023-06-20;Lego;Brinquedos;75.63;4;302.52
+Eduardo;Felipe;2023-11-23;Calça Jeans;Roupas;461.87;4;1847.48
+Ana;João;2023-09-04;Notebook;Eletrônicos;933.08;3;2799.24
+Daniela;Marina;2023-01-13;Notebook;Eletrônicos;493.21;1;493.21
+Eduardo;Karina;2024-08-08;Autoajuda;Livros;643.87;1;643.87
+Carlos;Isabela;2023-12-26;Romance;Livros;834.06;5;4170.3
+Carlos;Karina;2024-01-06;Vestido;Roupas;14.33;2;28.66
+Ana;Henrique;2023-06-22;Notebook;Eletrônicos;310.85;2;621.7
+Bruno;Karina;2024-11-22;Boneca;Brinquedos;913.22;1;913.22
+Ana;Karina;2023-05-29;Carregador;Eletrônicos;922.43;2;1844.86
+Daniela;Isabela;2023-11-20;Boneca;Brinquedos;124.0;4;496.0
+Daniela;João;2024-11-30;Jaqueta;Roupas;389.41;3;1168.23
+Bruno;Gabriela;2024-07-28;Camiseta;Roupas;478.93;1;478.93
+Carlos;Henrique;2024-08-18;Biscoito;Alimentos;331.32;3;993.96
+Bruno;Isabela;2024-10-04;Boneca;Brinquedos;494.48;3;1483.44
+Carlos;Gabriela;2024-06-12;História;Livros;203.0;3;609.0
+Ana;Isabela;2024-11-14;Biscoito;Alimentos;139.21;5;696.05
+Carlos;Isabela;2023-08-06;Mouse;Eletrônicos;766.13;3;2298.39
+Ana;Karina;2024-09-25;Fone de Ouvido;Eletrônicos;434.12;1;434.12
+Carlos;Marina;2023-07-16;Boneca;Brinquedos;635.14;5;3175.7
+Daniela;Felipe;2023-08-18;Ficção Científica;Livros;242.14;2;484.28
+Bruno;Gabriela;2023-09-01;Carrinho;Brinquedos;474.63;2;949.26
+Daniela;Felipe;2023-01-27;Lego;Brinquedos;37.62;4;150.48
+Daniela;Felipe;2024-11-09;Biscoito;Alimentos;143.59;3;430.77
+Daniela;João;2024-12-10;Notebook;Eletrônicos;497.76;2;995.52
+Eduardo;Lucas;2024-04-13;Leite;Alimentos;175.93;4;703.72
+Daniela;Marina;2024-12-19;Bola;Brinquedos;111.33;1;111.33
+Daniela;Gabriela;2024-06-16;Bola;Brinquedos;824.69;4;3298.76
+Daniela;Felipe;2023-04-15;Suspense;Livros;45.39;2;90.78
+Carlos;Gabriela;2023-04-18;Autoajuda;Livros;748.77;1;748.77
+Daniela;Marina;2023-10-20;Macarrão;Alimentos;12.93;5;64.65
+Bruno;Gabriela;2024-08-30;Mouse;Eletrônicos;384.77;1;384.77
+Eduardo;Henrique;2023-05-28;Suspense;Livros;634.34;2;1268.68
+Carlos;Isabela;2024-11-16;Mouse;Eletrônicos;201.0;1;201.0
+Bruno;Lucas;2024-07-19;Jaqueta;Roupas;219.63;5;1098.15
+Eduardo;João;2024-04-26;História;Livros;498.65;4;1994.6
+Bruno;Lucas;2023-08-09;Mouse;Eletrônicos;94.61;1;94.61
+Carlos;Karina;2023-03-02;Lego;Brinquedos;75.33;3;225.99
+Ana;Marina;2024-05-27;Leite;Alimentos;381.75;2;763.5
+Carlos;Karina;2024-08-27;Suspense;Livros;786.39;5;3931.95
+Ana;Lucas;2024-02-26;Feijão;Alimentos;625.88;1;625.88
+Ana;João;2023-06-20;Smartphone;Eletrônicos;188.17;1;188.17
+Daniela;Gabriela;2024-09-19;História;Livros;106.68;5;533.4
+Daniela;Isabela;2024-01-10;Camiseta;Roupas;526.47;2;1052.94
+Bruno;Henrique;2024-03-30;Vestido;Roupas;595.3;2;1190.6
+Eduardo;João;2023-11-08;Macarrão;Alimentos;912.75;2;1825.5
+Ana;Lucas;2024-03-01;Autoajuda;Livros;354.33;2;708.66
+Eduardo;Henrique;2024-07-31;Lego;Brinquedos;108.24;3;324.72
+Ana;Felipe;2023-10-09;Calça Jeans;Roupas;278.5;1;278.5
+Bruno;Marina;2024-12-01;Camiseta;Roupas;584.14;3;1752.42
+Ana;Gabriela;2023-01-08;Camiseta;Roupas;251.99;3;755.97
+Carlos;Gabriela;2024-11-08;História;Livros;848.16;5;4240.8
+Daniela;João;2024-03-17;Quebra-Cabeça;Brinquedos;542.42;1;542.42
+Ana;Lucas;2024-01-06;Carrinho;Brinquedos;64.77;2;129.54
+Eduardo;Felipe;2024-05-06;Notebook;Eletrônicos;291.88;3;875.64
+Carlos;Isabela;2023-11-15;Carrinho;Brinquedos;399.08;1;399.08
+Eduardo;João;2024-03-18;Leite;Alimentos;247.75;2;495.5
+Daniela;Gabriela;2024-12-14;Bola;Brinquedos;242.03;5;1210.15
+Daniela;Felipe;2024-11-13;Boneca;Brinquedos;518.1;4;2072.4
+Daniela;Marina;2024-09-10;Romance;Livros;821.09;4;3284.36
+Carlos;Lucas;2023-07-08;Bola;Brinquedos;803.1;4;3212.4
+Ana;Gabriela;2023-12-21;Jaqueta;Roupas;527.06;2;1054.12
+Carlos;Henrique;2024-09-07;Suspense;Livros;882.86;2;1765.72
+Daniela;João;2023-11-02;Tênis;Roupas;671.34;4;2685.36
+Ana;Marina;2023-08-04;Ficção Científica;Livros;120.57;2;241.14
+Daniela;João;2023-07-29;Arroz;Alimentos;126.34;5;631.7
+Bruno;Henrique;2023-07-12;Romance;Livros;589.99;4;2359.96
+Bruno;Gabriela;2024-03-15;Bola;Brinquedos;120.26;2;240.52
+Carlos;Marina;2024-01-28;Carrinho;Brinquedos;548.44;4;2193.76
+Ana;Isabela;2023-10-10;Fone de Ouvido;Eletrônicos;205.12;2;410.24
+Carlos;Felipe;2024-11-17;Notebook;Eletrônicos;637.41;4;2549.64
+Daniela;Lucas;2023-06-01;Vestido;Roupas;350.3;5;1751.5
+Bruno;Karina;2024-07-30;Autoajuda;Livros;246.45;2;492.9
+Carlos;João;2023-01-21;Notebook;Eletrônicos;956.36;5;4781.8
+Daniela;João;2024-04-22;Carrinho;Brinquedos;682.39;4;2729.56
+Daniela;Felipe;2023-02-07;Leite;Alimentos;946.04;5;4730.2
+Ana;Lucas;2023-08-06;História;Livros;892.43;5;4462.15
+Eduardo;Gabriela;2024-05-15;Bola;Brinquedos;23.32;1;23.32
+Ana;Lucas;2024-09-18;Romance;Livros;821.18;1;821.18
+Daniela;Karina;2024-05-23;Tênis;Roupas;700.09;4;2800.36
+Bruno;Henrique;2024-05-30;Vestido;Roupas;936.73;4;3746.92
+Eduardo;Karina;2024-01-02;Autoajuda;Livros;981.99;1;981.99
+Eduardo;Henrique;2023-02-03;Notebook;Eletrônicos;364.35;3;1093.05
+Eduardo;Karina;2023-01-14;Autoajuda;Livros;353.7;5;1768.5
+Bruno;Felipe;2024-10-10;Bola;Brinquedos;373.37;2;746.74
+Carlos;Karina;2023-07-06;Macarrão;Alimentos;519.29;4;2077.16
+Ana;Karina;2023-12-29;Suspense;Livros;975.35;4;3901.4
+Carlos;Karina;2023-01-17;Arroz;Alimentos;400.92;2;801.84
+Ana;Isabela;2024-10-01;Lego;Brinquedos;137.15;3;411.45
+Eduardo;Gabriela;2024-04-26;Fone de Ouvido;Eletrônicos;307.93;2;615.86
+Ana;Gabriela;2024-09-24;Smartphone;Eletrônicos;724.75;4;2899.0
+Daniela;Karina;2023-02-13;Mouse;Eletrônicos;237.17;4;948.68
+Daniela;Henrique;2023-09-05;Calça Jeans;Roupas;508.55;1;508.55
+Eduardo;Isabela;2024-11-18;Mouse;Eletrônicos;491.72;3;1475.16
+Daniela;Gabriela;2023-01-16;Notebook;Eletrônicos;213.97;3;641.91
+Bruno;Marina;2023-11-14;Mouse;Eletrônicos;333.47;4;1333.88
+Eduardo;João;2023-02-18;Feijão;Alimentos;831.67;4;3326.68
+Carlos;Karina;2024-01-03;Lego;Brinquedos;714.78;1;714.78
+Ana;Henrique;2023-07-06;Calça Jeans;Roupas;736.15;2;1472.3
+Daniela;Gabriela;2023-01-11;Carrinho;Brinquedos;628.89;2;1257.78
+Carlos;Marina;2024-01-23;Notebook;Eletrônicos;342.85;4;1371.4
+Bruno;Gabriela;2023-11-26;Leite;Alimentos;965.45;4;3861.8
+Bruno;Gabriela;2024-03-13;Carregador;Eletrônicos;816.51;5;4082.55
+Daniela;João;2024-11-22;Calça Jeans;Roupas;680.95;3;2042.85
+Ana;Isabela;2024-04-23;Smartphone;Eletrônicos;448.1;1;448.1
+Bruno;João;2024-03-26;Tênis;Roupas;160.23;5;801.15
+Carlos;Karina;2024-09-11;Notebook;Eletrônicos;406.76;3;1220.28
+Eduardo;Isabela;2024-04-05;Vestido;Roupas;416.74;2;833.48
+Daniela;Lucas;2023-11-05;Bola;Brinquedos;236.35;1;236.35
+Ana;Karina;2024-12-19;Autoajuda;Livros;342.26;4;1369.04
+Carlos;Henrique;2024-04-10;Macarrão;Alimentos;262.35;3;787.05
+Ana;Henrique;2024-05-28;Tênis;Roupas;996.79;1;996.79
+Daniela;Karina;2023-03-19;História;Livros;703.54;3;2110.62
+Bruno;Lucas;2024-11-26;Autoajuda;Livros;503.0;2;1006.0
+Carlos;Henrique;2023-12-02;Vestido;Roupas;534.79;3;1604.37
+Ana;João;2023-06-30;Mouse;Eletrônicos;666.9;1;666.9
+Bruno;Felipe;2024-01-09;Boneca;Brinquedos;155.57;1;155.57
+Carlos;João;2024-11-23;Notebook;Eletrônicos;425.11;5;2125.55
+Ana;Karina;2024-11-27;Autoajuda;Livros;678.58;4;2714.32
+Carlos;Gabriela;2024-03-06;Suspense;Livros;839.79;5;4198.95
+Eduardo;Gabriela;2023-03-21;Carrinho;Brinquedos;608.2;1;608.2
+Bruno;Henrique;2024-04-30;Ficção Científica;Livros;915.93;3;2747.79
+Bruno;Karina;2023-10-02;Smartphone;Eletrônicos;200.09;4;800.36
+Daniela;João;2024-12-26;Feijão;Alimentos;525.24;5;2626.2
+Carlos;Gabriela;2024-09-06;Bola;Brinquedos;402.21;5;2011.05
+Daniela;Marina;2023-09-25;Camiseta;Roupas;184.03;5;920.15
+Eduardo;João;2024-07-27;Lego;Brinquedos;685.73;3;2057.19
+Eduardo;Felipe;2024-12-29;Bola;Brinquedos;305.49;2;610.98
+Bruno;Felipe;2023-12-18;Carregador;Eletrônicos;113.09;1;113.09
+Daniela;Isabela;2024-08-03;Feijão;Alimentos;238.8;4;955.2
+Daniela;Marina;2023-02-01;Ficção Científica;Livros;204.14;3;612.42
+Daniela;Gabriela;2023-04-23;Calça Jeans;Roupas;334.48;5;1672.4
+Daniela;João;2024-09-20;Bola;Brinquedos;556.83;4;2227.32
+Bruno;Isabela;2023-06-08;Bola;Brinquedos;498.13;3;1494.39
+Eduardo;Gabriela;2023-10-03;Autoajuda;Livros;809.57;3;2428.71
+Ana;Isabela;2024-11-16;Mouse;Eletrônicos;326.21;4;1304.84
+Eduardo;Karina;2023-01-27;Quebra-Cabeça;Brinquedos;747.5;1;747.5
+Daniela;Karina;2024-11-05;História;Livros;257.53;5;1287.65
+Bruno;Karina;2024-02-28;Calça Jeans;Roupas;632.89;2;1265.78
+Eduardo;Lucas;2023-06-02;Vestido;Roupas;238.32;5;1191.6
+Ana;Lucas;2024-10-01;Carrinho;Brinquedos;135.89;4;543.56
+Bruno;Henrique;2023-07-02;Carrinho;Brinquedos;720.6;1;720.6
+Bruno;Henrique;2024-05-10;Macarrão;Alimentos;852.46;3;2557.38
+Bruno;Marina;2023-05-04;Macarrão;Alimentos;898.29;5;4491.45
+Daniela;Felipe;2023-08-22;Smartphone;Eletrônicos;980.08;5;4900.4
+Carlos;João;2024-11-24;Suspense;Livros;276.41;4;1105.64
+Carlos;Henrique;2024-06-27;Notebook;Eletrônicos;57.56;2;115.12
+Ana;João;2024-09-25;Suspense;Livros;989.32;4;3957.28
+Daniela;Isabela;2023-03-12;Vestido;Roupas;533.17;5;2665.85
+Daniela;Karina;2023-07-21;Tênis;Roupas;664.8;3;1994.4
+Bruno;João;2023-03-29;Smartphone;Eletrônicos;295.62;3;886.86
+Bruno;Karina;2024-06-29;Smartphone;Eletrônicos;285.82;3;857.46
+Carlos;Isabela;2023-11-28;Carregador;Eletrônicos;217.85;2;435.7
+Carlos;Karina;2024-07-11;Carrinho;Brinquedos;472.0;5;2360.0
+Bruno;Marina;2024-10-30;Vestido;Roupas;922.56;4;3690.24
+Ana;Karina;2024-04-19;Carrinho;Brinquedos;87.05;2;174.1
+Carlos;Lucas;2024-07-23;Camiseta;Roupas;791.06;1;791.06
+Bruno;Henrique;2023-08-18;Biscoito;Alimentos;279.71;4;1118.84
+Eduardo;Henrique;2024-11-26;Vestido;Roupas;668.94;4;2675.76
+Bruno;João;2024-01-21;Calça Jeans;Roupas;315.05;1;315.05
+Bruno;Isabela;2023-08-30;Macarrão;Alimentos;326.94;5;1634.7
+Carlos;Gabriela;2024-11-03;Mouse;Eletrônicos;202.05;2;404.1
+Daniela;João;2023-08-20;Quebra-Cabeça;Brinquedos;456.0;2;912.0
+Carlos;Lucas;2024-10-18;Autoajuda;Livros;745.9;3;2237.7
+Daniela;Karina;2024-02-03;Notebook;Eletrônicos;535.83;5;2679.15
+Carlos;Felipe;2024-01-14;Calça Jeans;Roupas;311.32;1;311.32
+Bruno;Felipe;2024-08-16;Vestido;Roupas;212.09;3;636.27
+Daniela;Henrique;2023-05-05;Feijão;Alimentos;148.32;5;741.6
+Bruno;Henrique;2024-05-09;Macarrão;Alimentos;296.41;1;296.41
+Carlos;Felipe;2023-08-30;Ficção Científica;Livros;444.99;3;1334.97
+Eduardo;Gabriela;2023-10-25;Feijão;Alimentos;300.8;2;601.6
+Ana;Isabela;2023-02-03;Feijão;Alimentos;163.22;4;652.88
+Bruno;João;2024-05-12;Leite;Alimentos;479.0;3;1437.0
+Ana;Karina;2024-05-05;Romance;Livros;568.58;2;1137.16
+Eduardo;Isabela;2024-03-28;Tênis;Roupas;233.39;2;466.78
+Eduardo;Marina;2023-01-29;Smartphone;Eletrônicos;779.35;4;3117.4
+Carlos;Karina;2024-12-14;Calça Jeans;Roupas;544.0;4;2176.0
+Ana;Isabela;2024-03-26;Quebra-Cabeça;Brinquedos;521.28;1;521.28
+Bruno;Marina;2024-01-28;Notebook;Eletrônicos;733.14;1;733.14
+Bruno;Felipe;2024-05-28;Lego;Brinquedos;634.09;3;1902.27
+Eduardo;João;2023-12-22;Leite;Alimentos;607.29;4;2429.16
+Carlos;Karina;2024-05-23;Carrinho;Brinquedos;288.08;1;288.08
+Ana;Isabela;2023-04-20;Mouse;Eletrônicos;213.08;5;1065.4
+Daniela;Lucas;2023-04-22;Fone de Ouvido;Eletrônicos;838.0;3;2514.0
+Bruno;Marina;2024-03-06;Bola;Brinquedos;407.71;5;2038.55
+Eduardo;Lucas;2024-07-27;Autoajuda;Livros;418.28;2;836.56
+Carlos;Isabela;2024-03-10;Calça Jeans;Roupas;840.77;2;1681.54
+Bruno;João;2024-02-12;Ficção Científica;Livros;507.86;2;1015.72
+Daniela;Isabela;2023-12-23;Autoajuda;Livros;107.44;5;537.2
+Carlos;Isabela;2024-02-18;Notebook;Eletrônicos;61.11;5;305.55
+Daniela;Karina;2024-12-28;Fone de Ouvido;Eletrônicos;839.13;1;839.13
+Ana;Henrique;2024-06-26;Ficção Científica;Livros;751.93;1;751.93
+Daniela;Lucas;2023-01-07;Fone de Ouvido;Eletrônicos;627.8;3;1883.4
+Carlos;Gabriela;2023-10-14;Camiseta;Roupas;796.56;4;3186.24
+Bruno;Marina;2024-07-08;Smartphone;Eletrônicos;10.52;3;31.56
+Carlos;João;2024-01-16;Romance;Livros;254.06;4;1016.24
+Bruno;Karina;2024-05-08;Feijão;Alimentos;89.01;4;356.04
+Carlos;Felipe;2024-07-10;Camiseta;Roupas;480.42;5;2402.1
+Daniela;Gabriela;2024-03-07;Calça Jeans;Roupas;858.19;3;2574.57
+Bruno;Lucas;2023-03-29;Carrinho;Brinquedos;193.98;2;387.96
+Carlos;Marina;2023-06-05;Suspense;Livros;365.09;2;730.18
+Daniela;Felipe;2023-02-05;Macarrão;Alimentos;79.4;5;397.0
+Bruno;Henrique;2024-06-19;Leite;Alimentos;642.37;2;1284.74
+Carlos;Gabriela;2024-06-04;Jaqueta;Roupas;828.65;4;3314.6
+Ana;Lucas;2024-01-21;Vestido;Roupas;50.43;4;201.72
+Carlos;Felipe;2024-08-20;Feijão;Alimentos;791.93;5;3959.65
+Ana;Gabriela;2024-08-25;Romance;Livros;658.26;3;1974.78
+Ana;Isabela;2024-04-13;Notebook;Eletrônicos;608.33;1;608.33
+Ana;João;2024-10-05;Arroz;Alimentos;538.41;1;538.41
+Ana;Marina;2023-10-05;Macarrão;Alimentos;62.65;1;62.65
+Bruno;Marina;2023-06-04;Camiseta;Roupas;584.53;4;2338.12
+Ana;Henrique;2023-06-03;Vestido;Roupas;954.64;5;4773.2
+Ana;Gabriela;2023-02-20;Jaqueta;Roupas;974.95;4;3899.8
+Eduardo;Felipe;2024-12-11;Suspense;Livros;663.05;3;1989.15
+Ana;João;2024-01-07;Ficção Científica;Livros;64.0;2;128.0
+Eduardo;João;2023-10-06;Notebook;Eletrônicos;191.53;4;766.12
+Eduardo;Karina;2023-07-21;Feijão;Alimentos;131.42;2;262.84
+Daniela;João;2023-02-20;Camiseta;Roupas;971.25;3;2913.75
+Daniela;Marina;2024-04-09;Bola;Brinquedos;397.92;5;1989.6
+Ana;Marina;2023-11-30;História;Livros;327.15;3;981.45
+Daniela;Lucas;2024-11-03;Calça Jeans;Roupas;528.09;3;1584.27
+Eduardo;Isabela;2023-02-28;Smartphone;Eletrônicos;220.91;3;662.73
+Ana;Henrique;2024-07-20;Mouse;Eletrônicos;623.75;4;2495.0
+Daniela;João;2024-10-14;Bola;Brinquedos;93.59;1;93.59
+Daniela;Henrique;2024-09-23;Romance;Livros;713.45;2;1426.9
+Bruno;Isabela;2024-06-03;Autoajuda;Livros;425.96;5;2129.8
+Carlos;Lucas;2023-04-08;Jaqueta;Roupas;959.32;2;1918.64
+Daniela;Gabriela;2024-02-04;Jaqueta;Roupas;612.42;3;1837.26
+Bruno;Isabela;2024-11-13;Quebra-Cabeça;Brinquedos;314.97;5;1574.85
+Ana;Isabela;2023-08-12;Ficção Científica;Livros;575.93;5;2879.65
+Eduardo;Felipe;2024-06-22;Carregador;Eletrônicos;938.96;3;2816.88
+Daniela;Henrique;2024-02-19;Macarrão;Alimentos;935.54;1;935.54
+Carlos;Henrique;2023-04-15;Fone de Ouvido;Eletrônicos;605.9;1;605.9
+Carlos;Karina;2024-03-16;Mouse;Eletrônicos;606.0;5;3030.0
+Eduardo;João;2024-09-01;Boneca;Brinquedos;683.46;4;2733.84
+Carlos;Gabriela;2024-01-18;Calça Jeans;Roupas;396.47;1;396.47
+Carlos;Lucas;2023-06-27;Tênis;Roupas;999.39;4;3997.56
+Bruno;Isabela;2023-06-22;Boneca;Brinquedos;715.83;2;1431.66
+Daniela;Marina;2023-05-01;Quebra-Cabeça;Brinquedos;358.95;3;1076.85
+Carlos;Karina;2024-03-30;Carregador;Eletrônicos;164.54;2;329.08
+Ana;Isabela;2024-01-02;Ficção Científica;Livros;681.7;5;3408.5
+Daniela;João;2024-08-07;Jaqueta;Roupas;427.84;5;2139.2
+Carlos;Lucas;2023-05-19;Carrinho;Brinquedos;765.91;2;1531.82
+Bruno;Marina;2023-12-27;Arroz;Alimentos;395.05;3;1185.15
+Eduardo;Lucas;2023-11-26;Romance;Livros;521.45;1;521.45
+Ana;Henrique;2023-09-14;Lego;Brinquedos;913.84;3;2741.52
+Ana;Marina;2023-12-26;Biscoito;Alimentos;607.01;1;607.01
+Eduardo;João;2023-03-31;Autoajuda;Livros;601.98;5;3009.9
+Carlos;Felipe;2023-03-02;Fone de Ouvido;Eletrônicos;162.05;5;810.25
+Bruno;Isabela;2023-03-23;Boneca;Brinquedos;413.61;4;1654.44
+Carlos;Karina;2024-03-27;Suspense;Livros;150.82;4;603.28
+Eduardo;Gabriela;2024-04-08;Arroz;Alimentos;350.91;3;1052.73
+Eduardo;Felipe;2024-10-27;Vestido;Roupas;321.94;5;1609.7
+Ana;Felipe;2023-12-14;Notebook;Eletrônicos;785.93;5;3929.65
+Bruno;João;2023-01-07;Romance;Livros;541.19;4;2164.76
+Bruno;Isabela;2024-09-17;Calça Jeans;Roupas;735.07;1;735.07
+Ana;Isabela;2024-07-09;Mouse;Eletrônicos;670.13;4;2680.52
+Bruno;Isabela;2024-06-08;Autoajuda;Livros;904.21;3;2712.63
+Eduardo;Karina;2023-09-04;História;Livros;841.12;4;3364.48
+Ana;Marina;2023-02-08;Ficção Científica;Livros;129.53;1;129.53
+Daniela;Karina;2024-10-08;Autoajuda;Livros;957.75;4;3831.0
+Bruno;Lucas;2024-06-06;Romance;Livros;879.74;5;4398.7
+Carlos;Lucas;2024-06-19;Arroz;Alimentos;657.39;4;2629.56
+Carlos;Lucas;2024-10-14;Biscoito;Alimentos;439.83;2;879.66
+Eduardo;Felipe;2024-08-04;Carregador;Eletrônicos;463.69;1;463.69
+Eduardo;João;2024-07-10;Macarrão;Alimentos;784.79;3;2354.37
+Eduardo;Marina;2023-08-07;Feijão;Alimentos;88.79;4;355.16
+Daniela;Gabriela;2024-10-24;Biscoito;Alimentos;378.66;2;757.32
+Carlos;Lucas;2023-06-02;Camiseta;Roupas;500.69;5;2503.45
+Daniela;Felipe;2023-08-03;Calça Jeans;Roupas;994.11;1;994.11
+Carlos;Marina;2024-10-19;Macarrão;Alimentos;57.87;3;173.61
+Daniela;João;2024-10-25;Romance;Livros;665.56;2;1331.12
+Ana;Lucas;2023-06-27;Lego;Brinquedos;999.28;3;2997.84
+Bruno;Henrique;2023-10-04;Lego;Brinquedos;628.19;1;628.19
+Eduardo;Felipe;2023-08-01;Biscoito;Alimentos;975.94;3;2927.82
+Daniela;Gabriela;2023-06-06;Suspense;Livros;893.88;1;893.88
+Bruno;João;2023-09-25;Calça Jeans;Roupas;941.21;1;941.21
+Daniela;Henrique;2024-06-24;Biscoito;Alimentos;489.98;5;2449.9
+Ana;Isabela;2024-06-23;Carregador;Eletrônicos;379.05;5;1895.25
+Daniela;Karina;2024-05-14;Biscoito;Alimentos;207.71;1;207.71
+Daniela;Lucas;2023-11-05;Carregador;Eletrônicos;596.74;5;2983.7
+Bruno;Isabela;2023-08-16;Calça Jeans;Roupas;812.53;5;4062.65
+Eduardo;Henrique;2023-04-05;Carrinho;Brinquedos;675.71;5;3378.55
+Bruno;Lucas;2024-03-11;Fone de Ouvido;Eletrônicos;281.25;4;1125.0
+Carlos;Marina;2023-06-10;Jaqueta;Roupas;312.63;4;1250.52
+Bruno;Isabela;2024-10-29;Notebook;Eletrônicos;217.97;1;217.97
+Carlos;Gabriela;2024-04-07;Leite;Alimentos;668.85;5;3344.25
+Ana;Henrique;2024-04-23;Lego;Brinquedos;246.34;3;739.02
+Bruno;Lucas;2024-06-05;Mouse;Eletrônicos;775.09;4;3100.36
+Carlos;Gabriela;2023-03-05;Suspense;Livros;11.86;1;11.86
+Ana;João;2023-03-31;História;Livros;692.09;1;692.09
+Eduardo;Henrique;2023-02-01;História;Livros;132.74;4;530.96
+Bruno;Marina;2023-07-22;Autoajuda;Livros;118.4;5;592.0
+Carlos;Isabela;2023-08-29;Tênis;Roupas;983.97;2;1967.94
+Daniela;João;2023-11-13;Lego;Brinquedos;792.23;2;1584.46
+Carlos;Karina;2024-12-06;Carrinho;Brinquedos;563.34;2;1126.68
+Bruno;Isabela;2024-02-20;Quebra-Cabeça;Brinquedos;560.94;4;2243.76
+Eduardo;Henrique;2024-02-08;Bola;Brinquedos;417.75;3;1253.25
+Eduardo;Felipe;2023-11-17;Carregador;Eletrônicos;213.91;4;855.64
+Eduardo;Gabriela;2023-06-04;Calça Jeans;Roupas;874.04;5;4370.2
+Bruno;Isabela;2024-04-13;Biscoito;Alimentos;939.35;2;1878.7
+Ana;Henrique;2024-07-31;Lego;Brinquedos;378.68;1;378.68
+Eduardo;Marina;2023-04-12;Calça Jeans;Roupas;747.01;1;747.01
+Ana;João;2024-04-09;Tênis;Roupas;954.57;4;3818.28
+Carlos;Felipe;2023-08-16;Jaqueta;Roupas;44.51;4;178.04
+Ana;Henrique;2023-05-30;Notebook;Eletrônicos;849.84;2;1699.68
+Daniela;Isabela;2023-06-23;Smartphone;Eletrônicos;772.74;4;3090.96
+Bruno;Felipe;2023-09-08;História;Livros;42.78;4;171.12
+Daniela;Isabela;2023-10-17;Vestido;Roupas;913.4;4;3653.6
+Carlos;Henrique;2023-12-02;História;Livros;139.1;2;278.2
+Ana;Isabela;2023-02-04;Biscoito;Alimentos;454.27;5;2271.35
+Ana;Karina;2024-02-24;Leite;Alimentos;397.88;5;1989.4
+Ana;Felipe;2024-10-09;Tênis;Roupas;529.8;3;1589.4
+Bruno;Henrique;2023-12-19;Ficção Científica;Livros;82.55;1;82.55
+Eduardo;Lucas;2023-01-29;Camiseta;Roupas;860.57;3;2581.71
+Bruno;Felipe;2023-05-30;Carregador;Eletrônicos;865.81;4;3463.24
+Bruno;Isabela;2023-08-29;Ficção Científica;Livros;239.12;2;478.24
+Carlos;Henrique;2023-01-11;Suspense;Livros;951.52;1;951.52
+Ana;Lucas;2023-10-13;Carregador;Eletrônicos;855.94;2;1711.88
+Carlos;Karina;2023-02-20;Ficção Científica;Livros;785.5;1;785.5
+Bruno;Henrique;2024-11-21;Leite;Alimentos;939.38;5;4696.9
+Carlos;Henrique;2023-03-01;Quebra-Cabeça;Brinquedos;53.0;3;159.0
+Daniela;Isabela;2024-09-22;Camiseta;Roupas;775.93;2;1551.86
+Bruno;João;2024-06-24;Macarrão;Alimentos;869.12;3;2607.36
+Daniela;Henrique;2023-04-23;Romance;Livros;215.18;1;215.18
+Ana;Isabela;2024-07-04;Quebra-Cabeça;Brinquedos;513.19;4;2052.76
+Carlos;Gabriela;2024-01-16;Notebook;Eletrônicos;795.11;1;795.11
+Ana;Karina;2024-04-05;Bola;Brinquedos;151.79;5;758.95
+Bruno;Felipe;2024-08-24;Smartphone;Eletrônicos;989.17;4;3956.68
+Bruno;Isabela;2024-09-04;Calça Jeans;Roupas;895.81;4;3583.24
+Carlos;João;2024-01-24;Camiseta;Roupas;923.01;1;923.01
+Bruno;Lucas;2023-11-05;Smartphone;Eletrônicos;752.91;2;1505.82
+Eduardo;Karina;2023-07-20;Camiseta;Roupas;794.14;4;3176.56
+Bruno;João;2024-07-26;Mouse;Eletrônicos;485.86;4;1943.44
+Ana;Henrique;2023-04-05;Quebra-Cabeça;Brinquedos;859.34;5;4296.7
+Carlos;Karina;2023-06-03;Vestido;Roupas;722.47;2;1444.94
+Carlos;Isabela;2024-12-15;Feijão;Alimentos;624.65;2;1249.3
+Ana;Lucas;2023-12-05;Leite;Alimentos;320.77;1;320.77
+Daniela;Isabela;2024-09-13;História;Livros;42.83;1;42.83
+Ana;João;2023-05-01;Macarrão;Alimentos;713.44;4;2853.76
+Daniela;Henrique;2023-03-29;Autoajuda;Livros;616.41;3;1849.23
+Eduardo;Felipe;2023-12-30;Macarrão;Alimentos;166.19;2;332.38
+Daniela;Marina;2023-06-16;Smartphone;Eletrônicos;717.09;1;717.09
+Daniela;João;2024-01-09;Feijão;Alimentos;839.61;2;1679.22
+Carlos;Gabriela;2023-09-28;Camiseta;Roupas;764.61;1;764.61
+Ana;Isabela;2023-10-27;Romance;Livros;925.63;4;3702.52
+Ana;Gabriela;2023-07-28;Leite;Alimentos;867.16;5;4335.8
+Carlos;Isabela;2024-06-07;Bola;Brinquedos;644.29;1;644.29
+Daniela;Karina;2024-11-04;Bola;Brinquedos;145.6;2;291.2
+Bruno;Karina;2023-07-09;Romance;Livros;839.9;1;839.9
+Eduardo;João;2023-10-30;Arroz;Alimentos;254.04;4;1016.16
+Daniela;Karina;2024-10-31;Carregador;Eletrônicos;16.19;2;32.38
+Carlos;Felipe;2024-04-02;Lego;Brinquedos;200.65;4;802.6
+Eduardo;Lucas;2023-10-10;Notebook;Eletrônicos;30.01;1;30.01
+Carlos;Gabriela;2023-07-02;Carrinho;Brinquedos;522.28;2;1044.56
+Carlos;Marina;2023-04-28;Jaqueta;Roupas;759.09;4;3036.36
+Carlos;Karina;2023-03-27;História;Livros;107.78;4;431.12
+Eduardo;Karina;2024-11-14;Leite;Alimentos;107.08;5;535.4
+Carlos;Marina;2023-09-12;Feijão;Alimentos;530.22;3;1590.66
+Bruno;Isabela;2024-08-17;Jaqueta;Roupas;913.41;4;3653.64
+Bruno;João;2023-01-13;Notebook;Eletrônicos;572.93;2;1145.86
+Eduardo;Gabriela;2024-08-16;Vestido;Roupas;996.35;5;4981.75
+Carlos;Karina;2023-05-05;Leite;Alimentos;463.23;4;1852.92
+Carlos;Gabriela;2023-06-29;Ficção Científica;Livros;464.35;1;464.35
+Eduardo;João;2024-06-10;Tênis;Roupas;229.17;2;458.34
+Daniela;Felipe;2023-01-05;Fone de Ouvido;Eletrônicos;832.55;4;3330.2
+Eduardo;Lucas;2023-09-23;Camiseta;Roupas;630.65;5;3153.25
+Daniela;João;2023-01-15;Carregador;Eletrônicos;785.02;2;1570.04
+Eduardo;Felipe;2024-12-21;Ficção Científica;Livros;283.81;2;567.62
+Eduardo;Gabriela;2024-10-06;Notebook;Eletrônicos;133.02;3;399.06
+Carlos;João;2023-03-11;Feijão;Alimentos;787.37;2;1574.74
+Ana;Gabriela;2023-09-29;Romance;Livros;279.58;2;559.16
+Ana;Lucas;2023-01-30;Tênis;Roupas;895.53;3;2686.59
+Ana;Henrique;2024-08-07;Camiseta;Roupas;789.98;4;3159.92
+Carlos;Isabela;2023-11-20;Autoajuda;Livros;741.08;2;1482.16
+Ana;Gabriela;2024-05-22;Jaqueta;Roupas;630.51;5;3152.55
+Carlos;Gabriela;2024-07-29;Bola;Brinquedos;754.02;3;2262.06
+Eduardo;Lucas;2023-04-09;Camiseta;Roupas;941.96;2;1883.92
+Daniela;Henrique;2024-03-20;Macarrão;Alimentos;991.09;1;991.09
+Carlos;Gabriela;2023-06-18;Jaqueta;Roupas;204.49;5;1022.45
+Eduardo;Henrique;2023-09-11;Calça Jeans;Roupas;957.37;5;4786.85
+Eduardo;Lucas;2024-06-23;Leite;Alimentos;833.64;4;3334.56
+Bruno;Gabriela;2023-04-12;Bola;Brinquedos;105.46;2;210.92
+Ana;Marina;2024-02-23;Vestido;Roupas;494.04;4;1976.16
+Carlos;Marina;2024-03-17;Vestido;Roupas;749.44;3;2248.32
+Eduardo;Karina;2023-01-01;Feijão;Alimentos;196.9;3;590.7
+Daniela;João;2023-03-23;Tênis;Roupas;702.55;1;702.55
+Bruno;Gabriela;2024-06-15;Vestido;Roupas;548.9;2;1097.8
+Bruno;Henrique;2024-10-17;Boneca;Brinquedos;951.73;3;2855.19
+Ana;Karina;2024-03-10;Vestido;Roupas;630.3;3;1890.9
+Eduardo;Felipe;2024-01-31;Leite;Alimentos;104.11;2;208.22
+Eduardo;Marina;2023-04-13;Arroz;Alimentos;703.3;4;2813.2
+Ana;Marina;2024-02-26;Camiseta;Roupas;848.43;1;848.43
+Carlos;Lucas;2023-07-10;Biscoito;Alimentos;731.28;1;731.28
+Eduardo;Felipe;2024-03-12;Feijão;Alimentos;565.16;4;2260.64
+Carlos;Lucas;2024-08-23;Notebook;Eletrônicos;676.74;4;2706.96
+Ana;Felipe;2024-02-23;Ficção Científica;Livros;473.43;4;1893.72
+Carlos;Marina;2023-01-01;Macarrão;Alimentos;239.11;3;717.33
+Daniela;Isabela;2024-06-29;Biscoito;Alimentos;996.05;2;1992.1
+Daniela;Henrique;2023-10-25;Jaqueta;Roupas;972.0;4;3888.0
+Ana;João;2024-06-03;Carregador;Eletrônicos;437.85;5;2189.25
+Ana;Marina;2024-12-12;Feijão;Alimentos;472.19;2;944.38
+Carlos;Felipe;2023-06-17;Camiseta;Roupas;673.34;3;2020.02
+Daniela;Lucas;2024-12-07;Macarrão;Alimentos;480.54;5;2402.7
+Carlos;João;2024-12-31;Camiseta;Roupas;126.12;2;252.24
+Bruno;João;2023-01-16;Lego;Brinquedos;698.59;2;1397.18
+Daniela;Lucas;2024-04-18;Smartphone;Eletrônicos;439.0;5;2195.0
+Carlos;Isabela;2024-05-26;Biscoito;Alimentos;107.39;5;536.95
+Bruno;Gabriela;2024-07-30;Tênis;Roupas;954.0;3;2862.0
+Carlos;João;2023-12-18;Arroz;Alimentos;629.72;3;1889.16
+Carlos;João;2023-02-28;Vestido;Roupas;532.49;4;2129.96
+Bruno;Lucas;2024-10-12;Romance;Livros;412.07;1;412.07
+Ana;Marina;2024-01-02;Carregador;Eletrônicos;789.69;2;1579.38
+Eduardo;Gabriela;2024-08-10;Jaqueta;Roupas;328.41;5;1642.05
+Eduardo;Karina;2023-04-23;Fone de Ouvido;Eletrônicos;395.68;4;1582.72
+Carlos;Lucas;2023-10-08;Tênis;Roupas;372.53;4;1490.12
+Eduardo;Lucas;2024-10-06;História;Livros;219.51;1;219.51
+Ana;Felipe;2024-05-07;Notebook;Eletrônicos;445.46;3;1336.38
+Ana;Gabriela;2024-01-25;Calça Jeans;Roupas;14.99;3;44.97
+Eduardo;Henrique;2023-11-15;Notebook;Eletrônicos;600.16;5;3000.8
+Carlos;Gabriela;2024-07-28;Smartphone;Eletrônicos;355.18;3;1065.54
+Carlos;Marina;2023-05-10;Quebra-Cabeça;Brinquedos;522.63;4;2090.52
+Eduardo;Isabela;2023-12-01;Boneca;Brinquedos;329.2;3;987.6
+Bruno;Gabriela;2023-06-13;História;Livros;432.83;1;432.83
+Carlos;João;2023-06-04;Mouse;Eletrônicos;316.28;4;1265.12
+Carlos;Lucas;2023-10-15;Biscoito;Alimentos;992.98;3;2978.94
+Daniela;Gabriela;2024-10-19;Arroz;Alimentos;524.37;3;1573.11
+Bruno;Lucas;2024-01-19;Suspense;Livros;629.0;1;629.0
+Bruno;João;2023-07-08;Tênis;Roupas;937.18;3;2811.54
+Carlos;Marina;2023-04-26;Carrinho;Brinquedos;853.79;2;1707.58
+Eduardo;Felipe;2023-09-14;Tênis;Roupas;560.41;5;2802.05
+Bruno;Henrique;2024-11-23;Boneca;Brinquedos;782.49;2;1564.98
+Carlos;Karina;2024-05-01;Lego;Brinquedos;453.15;5;2265.75
+Bruno;Isabela;2023-04-26;Arroz;Alimentos;21.86;4;87.44
+Ana;Gabriela;2023-03-09;Calça Jeans;Roupas;197.53;2;395.06
+Bruno;João;2024-05-02;Ficção Científica;Livros;831.29;2;1662.58
+Bruno;Marina;2023-10-17;Calça Jeans;Roupas;651.92;3;1955.76
+Ana;Karina;2024-03-13;História;Livros;55.49;2;110.98
+Ana;João;2023-12-23;Quebra-Cabeça;Brinquedos;527.17;2;1054.34
+Eduardo;Felipe;2023-07-20;Calça Jeans;Roupas;226.48;5;1132.4
+Eduardo;Lucas;2023-12-23;Boneca;Brinquedos;466.12;4;1864.48
+Daniela;Felipe;2024-11-19;Boneca;Brinquedos;339.9;2;679.8
+Daniela;João;2024-05-28;Tênis;Roupas;635.59;3;1906.77
+Eduardo;Marina;2024-12-10;Romance;Livros;857.96;3;2573.88
+Bruno;Gabriela;2024-07-15;Suspense;Livros;566.02;5;2830.1
+Eduardo;Gabriela;2023-03-02;Carrinho;Brinquedos;404.9;2;809.8
+Carlos;Karina;2023-07-25;Bola;Brinquedos;772.63;1;772.63
+Daniela;Gabriela;2024-11-07;Macarrão;Alimentos;470.53;1;470.53
+Ana;João;2023-07-18;Autoajuda;Livros;664.67;5;3323.35
+Bruno;Lucas;2024-09-24;Macarrão;Alimentos;576.3;5;2881.5
+Eduardo;Felipe;2023-09-23;Lego;Brinquedos;717.01;2;1434.02
+Ana;Isabela;2024-05-12;Lego;Brinquedos;143.88;3;431.64
+Bruno;Isabela;2023-11-01;Feijão;Alimentos;492.82;5;2464.1
+Carlos;João;2024-08-25;Tênis;Roupas;578.23;2;1156.46
+Bruno;Lucas;2024-12-09;Biscoito;Alimentos;212.03;4;848.12
+Ana;Karina;2024-07-28;Carregador;Eletrônicos;714.93;4;2859.72
+Ana;Henrique;2024-03-24;Camiseta;Roupas;677.55;3;2032.65
+Eduardo;Felipe;2023-04-02;Ficção Científica;Livros;205.4;4;821.6
+Eduardo;Karina;2024-03-07;Lego;Brinquedos;716.47;5;3582.35
+Carlos;Gabriela;2023-11-18;Biscoito;Alimentos;608.82;5;3044.1
+Eduardo;Felipe;2023-07-30;Carregador;Eletrônicos;874.88;4;3499.52
+Ana;Henrique;2024-10-04;Camiseta;Roupas;493.9;1;493.9
+Ana;João;2024-04-27;História;Livros;265.76;4;1063.04
+Carlos;Isabela;2023-12-11;Vestido;Roupas;204.59;1;204.59
+Daniela;Isabela;2023-09-20;Notebook;Eletrônicos;625.58;3;1876.74
+Ana;Marina;2024-02-26;Tênis;Roupas;183.94;2;367.88
+Daniela;João;2024-07-31;Carregador;Eletrônicos;645.03;1;645.03
+Eduardo;Isabela;2024-03-06;Mouse;Eletrônicos;966.14;5;4830.7
+Bruno;João;2024-06-06;Smartphone;Eletrônicos;91.46;4;365.84
+Carlos;Lucas;2023-12-25;Ficção Científica;Livros;26.35;3;79.05
+Eduardo;Felipe;2023-10-30;Ficção Científica;Livros;168.86;1;168.86
+Bruno;Marina;2024-02-04;Feijão;Alimentos;717.39;5;3586.95
+Ana;Isabela;2023-03-25;Autoajuda;Livros;907.01;4;3628.04
+Daniela;Isabela;2024-11-27;Biscoito;Alimentos;132.64;4;530.56
+Eduardo;Karina;2024-04-13;Vestido;Roupas;131.14;3;393.42
+Carlos;Felipe;2024-10-19;Fone de Ouvido;Eletrônicos;829.45;3;2488.35
+Ana;Gabriela;2024-06-20;Boneca;Brinquedos;823.11;3;2469.33
+Eduardo;Henrique;2023-07-26;Romance;Livros;521.39;5;2606.95
+Bruno;Felipe;2023-03-09;Boneca;Brinquedos;634.69;2;1269.38
+Carlos;Isabela;2023-05-03;Camiseta;Roupas;590.24;5;2951.2
+Bruno;Lucas;2024-04-01;Quebra-Cabeça;Brinquedos;101.57;1;101.57
+Bruno;Lucas;2023-08-23;Ficção Científica;Livros;918.92;5;4594.6
+Bruno;Felipe;2024-09-06;Calça Jeans;Roupas;528.66;5;2643.3
+Ana;Felipe;2024-03-22;Notebook;Eletrônicos;668.39;2;1336.78
+Eduardo;Marina;2024-08-21;Ficção Científica;Livros;696.75;3;2090.25
+Ana;Lucas;2023-02-24;Carregador;Eletrônicos;875.91;5;4379.55
+Carlos;Gabriela;2024-06-08;Bola;Brinquedos;564.95;4;2259.8
+Daniela;Felipe;2023-12-08;Boneca;Brinquedos;114.02;4;456.08
+Bruno;Marina;2023-07-29;Smartphone;Eletrônicos;534.45;2;1068.9
+Carlos;Lucas;2023-04-14;Smartphone;Eletrônicos;590.47;3;1771.41
+Eduardo;Karina;2024-05-17;Suspense;Livros;999.14;3;2997.42
+Carlos;Isabela;2023-10-14;Quebra-Cabeça;Brinquedos;690.74;1;690.74
+Daniela;Henrique;2024-12-26;Romance;Livros;997.49;2;1994.98
+Ana;Marina;2023-08-04;Bola;Brinquedos;604.98;4;2419.92
+Bruno;Lucas;2024-08-10;Jaqueta;Roupas;509.57;1;509.57
+Daniela;Henrique;2024-04-11;Arroz;Alimentos;886.6;2;1773.2
+Ana;Karina;2024-08-30;Calça Jeans;Roupas;209.13;4;836.52
+Ana;João;2023-08-09;Notebook;Eletrônicos;740.84;3;2222.52
+Carlos;Gabriela;2023-04-02;Autoajuda;Livros;747.08;2;1494.16
+Daniela;Gabriela;2024-01-05;Leite;Alimentos;861.49;1;861.49
+Eduardo;Henrique;2023-11-23;Lego;Brinquedos;919.98;4;3679.92
+Daniela;Isabela;2024-10-15;Tênis;Roupas;244.02;3;732.06
+Bruno;Marina;2023-01-26;Vestido;Roupas;502.32;5;2511.6
+Ana;Marina;2024-01-25;Quebra-Cabeça;Brinquedos;820.07;1;820.07
+Eduardo;Karina;2024-03-14;Camiseta;Roupas;143.86;3;431.58
+Bruno;João;2023-01-11;Bola;Brinquedos;472.59;1;472.59
+Eduardo;Henrique;2024-04-12;Biscoito;Alimentos;655.34;5;3276.7
+Eduardo;Henrique;2024-11-11;Vestido;Roupas;651.53;3;1954.59
+Carlos;Marina;2024-12-24;Arroz;Alimentos;998.57;5;4992.85
+Ana;Lucas;2023-07-15;Bola;Brinquedos;578.11;2;1156.22
+Carlos;Isabela;2024-07-08;Ficção Científica;Livros;727.75;2;1455.5
+Carlos;João;2023-07-15;Biscoito;Alimentos;45.63;2;91.26
+Daniela;João;2024-10-07;Carrinho;Brinquedos;74.6;3;223.8
+Bruno;Henrique;2024-09-20;Tênis;Roupas;592.69;1;592.69
+Carlos;João;2024-01-24;Macarrão;Alimentos;982.28;4;3929.12
+Daniela;Marina;2023-04-05;Quebra-Cabeça;Brinquedos;146.7;3;440.1
+Carlos;Henrique;2024-03-08;Mouse;Eletrônicos;283.03;5;1415.15
+Carlos;Lucas;2024-01-09;Jaqueta;Roupas;467.58;1;467.58
+Carlos;Gabriela;2023-03-27;Biscoito;Alimentos;402.7;1;402.7
+Bruno;Lucas;2024-11-01;Romance;Livros;728.16;4;2912.64
+Ana;Marina;2024-02-16;Biscoito;Alimentos;903.57;2;1807.14
+Eduardo;Karina;2024-07-04;Quebra-Cabeça;Brinquedos;105.79;4;423.16
+Ana;Isabela;2023-08-04;Fone de Ouvido;Eletrônicos;880.83;3;2642.49
+Bruno;Felipe;2023-05-18;Carrinho;Brinquedos;111.24;4;444.96
+Eduardo;Henrique;2023-10-01;Carregador;Eletrônicos;566.18;1;566.18
+Daniela;Lucas;2024-12-10;Jaqueta;Roupas;524.11;5;2620.55
+Ana;Felipe;2024-07-19;Notebook;Eletrônicos;417.8;5;2089.0
+Ana;Lucas;2024-02-08;Macarrão;Alimentos;826.27;2;1652.54
+Ana;Henrique;2024-09-05;História;Livros;139.44;1;139.44
+Ana;Isabela;2024-01-15;Calça Jeans;Roupas;788.96;4;3155.84
+Daniela;Lucas;2023-05-07;Leite;Alimentos;279.17;5;1395.85
+Ana;Gabriela;2023-12-31;Biscoito;Alimentos;219.05;1;219.05
+Eduardo;Henrique;2023-06-08;Romance;Livros;950.04;4;3800.16
+Ana;Felipe;2024-03-05;Boneca;Brinquedos;839.67;3;2519.01
+Daniela;Felipe;2023-11-21;Mouse;Eletrônicos;980.55;5;4902.75
+Daniela;Marina;2024-06-07;Leite;Alimentos;711.38;3;2134.14
+Daniela;João;2023-09-09;Bola;Brinquedos;773.49;3;2320.47
+Bruno;Marina;2024-12-26;História;Livros;604.84;3;1814.52
+Eduardo;Lucas;2023-06-09;Arroz;Alimentos;110.67;5;553.35
+Carlos;João;2024-03-11;Leite;Alimentos;605.58;5;3027.9
+Ana;Marina;2024-07-07;Boneca;Brinquedos;54.69;5;273.45
+Eduardo;Lucas;2023-03-11;Lego;Brinquedos;568.0;5;2840.0
+Daniela;Marina;2024-10-15;Leite;Alimentos;660.95;1;660.95
+Eduardo;Felipe;2023-04-13;Smartphone;Eletrônicos;431.53;2;863.06
+Daniela;Isabela;2024-11-05;Bola;Brinquedos;909.18;1;909.18
+Eduardo;Marina;2023-03-12;Boneca;Brinquedos;732.84;2;1465.68
+Bruno;Henrique;2024-11-25;Macarrão;Alimentos;144.38;5;721.9
+Eduardo;Lucas;2024-11-18;Jaqueta;Roupas;656.63;5;3283.15
+Daniela;João;2023-10-30;Biscoito;Alimentos;929.77;1;929.77
+Carlos;Gabriela;2024-05-22;Smartphone;Eletrônicos;486.99;1;486.99
+Ana;Lucas;2024-03-06;Leite;Alimentos;803.71;2;1607.42
+Carlos;Karina;2024-06-27;Tênis;Roupas;661.07;3;1983.21
+Ana;Isabela;2023-03-07;Boneca;Brinquedos;254.14;5;1270.7
+Carlos;Henrique;2024-02-22;Carrinho;Brinquedos;79.98;5;399.9
+Bruno;Lucas;2024-10-26;Notebook;Eletrônicos;68.76;3;206.28
+Ana;Felipe;2023-05-05;Macarrão;Alimentos;376.52;4;1506.08
