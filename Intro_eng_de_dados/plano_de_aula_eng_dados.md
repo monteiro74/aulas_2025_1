@@ -406,7 +406,7 @@ Algoritmos classificadores, comparação:
 | **Naive Bayes**  | Usa Teorema de Bayes com suposição de independência entre atributos | Rápido; eficaz para textos; pouco afetado por dados faltantes             | Suposição de independência pode não ser realista                          | Classificação de texto; spam; análise de sentimentos                     |
 | **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
 
-
+---
 Algoritmo Apriori
 
 ```mermaid
@@ -429,3 +429,46 @@ flowchart TD
 
 
 ```
+
+---
+Exemplo de processo NLP
+
+```mermaid
+
+flowchart TD
+    A[Sentence Segmentation] --> B[Word Tokenization]
+    B --> C[Text Lemmatization]
+    C --> D[Stop Words Removal]
+    D --> E[Dependency Parsing]
+    E --> F[Named Entity Recognition - NER]
+    F --> G[Coreference Resolution]
+    G --> H[Aplicacoes em NLP - Resumo - Perguntas e Respostas]
+
+
+```
+
+
+---
+Resumo sobre NLP:
+
+Sentence Segmentation
+➤ Divide o texto em frases distintas, identificando limites com base em pontuação e estrutura linguística.
+
+Word Tokenization
+➤ Quebra cada frase em palavras ou unidades menores chamadas tokens.
+
+Text Lemmatization
+➤ Reduz as palavras à sua forma canônica (ex: "correram", "correndo" → "correr").
+
+Stop Words
+➤ Remove palavras muito frequentes e com pouca carga semântica, como "e", "de", "para".
+
+Dependency Parsing in NLP
+➤ Analisa as relações sintáticas entre palavras, revelando quem depende de quem na estrutura da frase.
+
+Named Entity Recognition (NER)
+➤ Identifica e classifica nomes próprios no texto, como pessoas, locais, organizações e datas.
+
+Coreference Resolution
+➤ Detecta quando diferentes palavras ou pronomes se referem à mesma entidade (ex: "João saiu. Ele...").
+
