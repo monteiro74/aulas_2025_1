@@ -38,3 +38,10 @@ Os scripts deverão ainda:
 3. Informar na tela tempo total de processamento
 4. emitir um resumo do processamento em um arquivo csv, comentado cada etapa do processamento e mostrando seu resultado.
 5. Gerar pelo menos um gráfico das classificações ou associações ou outra atividade que tenham executado, para que o usuário possa ver o resultado de forma gráfica, queremos uma análise visual
+
+
+--
+## Exercício E10:
+
+Implemente no Orange Data Mining o seguinte fluxo usando o dataset: dataset_para_classificacao_v2.csv
+
