@@ -391,3 +391,16 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 **⏱️ Tempo Total de leitura aproximado:** 15hs
 
+
+
+### 15. Exemplos usados em sala de aula 
+
+Algoritmos classificadores, comparação:
+
+| Modelo           | Princípio de Funcionamento                                     | Vantagens                                                                 | Desvantagens                                                              | Ideal para...                                                             |
+|------------------|---------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **SVM**          | Encontra o hiperplano ótimo que separa as classes com maior margem | Funciona bem em espaços de alta dimensão; bom com margens claras          | Sensível a outliers; lento em grandes datasets; exige escolha adequada do kernel | Dados com separabilidade clara; texto; imagens                           |
+| **Decision Tree**| Segmentação recursiva dos dados em decisões binárias           | Fácil de interpretar; não precisa normalizar dados                        | Propenso a overfitting; árvores muito profundas podem ser instáveis       | Quando interpretabilidade é crucial; dados tabulares                     |
+| **KNN**          | Classifica com base nos vizinhos mais próximos (distância)     | Simples; sem fase de treinamento; eficaz em problemas pequenos            | Lento em datasets grandes; sensível a escala e dados ruidosos             | Pequenos datasets; prototipagem rápida                                  |
+| **Naive Bayes**  | Usa Teorema de Bayes com suposição de independência entre atributos | Rápido; eficaz para textos; pouco afetado por dados faltantes             | Suposição de independência pode não ser realista                          | Classificação de texto; spam; análise de sentimentos                     |
+| **Random Forest**| Conjunto de árvores de decisão treinadas em subconjuntos dos dados | Alta acurácia; reduz overfitting; lida com dados desbalanceados           | Mais difícil de interpretar; pode ser computacionalmente custoso          | Situações onde acurácia é prioridade; dados ruidosos ou desbalanceados  |
