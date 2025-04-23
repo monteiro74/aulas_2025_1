@@ -42,10 +42,7 @@ Os scripts deverão ainda:
 ---
 ### Exercício E9.1:
 
-Comparar seus scripts gerados com os scripts disponíveis neste repositório na pasta classificacao_agrupamento (scripts P10 até o P15),
-
-
-
+Comparar seus scripts gerados com os scripts disponíveis neste repositório na pasta classificacao_agrupamento (scripts P10 até o P15).
 
 --
 ## Exercício E10:
@@ -53,3 +50,10 @@ Comparar seus scripts gerados com os scripts disponíveis neste repositório na 
 Implemente no Orange Data Mining o seguinte fluxo usando o dataset: dataset_para_classificacao_v2.csv
 
 ![https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/classificacao_agrupamento/exercicio_E10.png](https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/classificacao_agrupamento/exercicio_E10.png)
+
+
+--
+## Exercício E11:
+
+Instalar umas das 4 ferramentas (GPT4All), baixar um modelo (como o deepseek, llama, por exemplo) apontar a ferramenta para uma pasta, solicitar a leitura do diretório (onde deve constar arquivos .csv, como os dataset desta disciplina ), tente iniciar uma conversa com os dataset.
+
