@@ -109,7 +109,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |  1  | 19/fev | 3hs  | Apresentação da disciplina. Conceitos de engenharia de dados, conceitos de big data, comparações (engenharia de dados x analise de dados x ciência de dados), atribuições dos profissionais, papel do engenheiro de dados, ETL x ELT, comparações (DW e DB), comparações (BD, DW, DM x DL), referências bibliográficas. [Slides da aula 1](https://docs.google.com/presentation/d/1RAJ3lzeAr2zlvto1eosXf0PQuO-T5OvjLM1J24b1n8Q/view) e [referências comentadas](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view). [Dados abertos comentados em sala](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj) e [dicionário de dados para as tabelas da receita federal](https://www.gov.br/receitafederal/dados/cnpj-metadados.pdf). |
 | 2   | 12/mar | 3hs  | Processo KDD (knowledge Discovery in Database), padrão, Processo CRISP DM, dados estruturados x dados não estruturados, ferramentas de ETL, Data Lake, AWS S3, MinIO bucket, Haddop + HDFS. [Slides da aula 2](https://docs.google.com/presentation/d/1V02SQx7QYmeiPNw3Us-7vMsdQMcgEl32m9uor1A9n3M/view), [Dataset1](https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/dataset1.csv), [Dataset2](https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/dataset2.csv), [Programas exemplos](https://github.com/monteiro74/aulas_2025_1/tree/main/Intro_eng_de_dados). |    
 | 3   | 19/mar | 3hs | Limpeza de dados, campos vazios, estatísticas descritiva, movimentação de dados de bancos de produção para dw (data warehouse), [Slides de aula](https://docs.google.com/presentation/d/1nHXNiA37Na_cN0fRIHhEqcLinUNVr6UYrdtdYYRjFaQ/view). [Orange Data Mining](https://docs.google.com/presentation/d/1MaoTrBFGWsO1jvnuSUBOUaP7aK3F3NZRU3PKd9PG3yY/edit?usp=sharing). Os arquivos usado no Orange são o xls de população e o arquivo mini exemplo em .ows (formato do Orange). Scripts em python relacionado ao conteúdo. |
-| 4   | 26/mar | 3hs | [Agrupamento e classificação](https://docs.google.com/presentation/d/1fLb781agd-dv1cQVeWkD5djwKN1K4hywAgz3tYqeHX4/view). [Exemplo de agrupamento e classificação no Orange Data Ming](https://docs.google.com/presentation/d/12BHt5qQTXVsiiCQjAiWEcymjtYMc77ninRLZhCL2_LI/view). [Dados abertos](https://docs.google.com/presentation/d/1IaV2lL4EPUe9ZjjOBaoroFV4KKdCU7ba3nvv2Nas2kg/view). [Apache Hadoop](https://docs.google.com/presentation/d/1abNXJAD5LmwaSbNMn6eEooUzWzDgSVuKFvaBThwEKe8/view). Scripts em python relacionado ao conteúdo. |
+| 4   | 26/mar | 3hs | [Agrupamento e classificação](https://docs.google.com/presentation/d/1fLb781agd-dv1cQVeWkD5djwKN1K4hywAgz3tYqeHX4/view). [Exemplo de agrupamento e classificação no Orange Data Ming](https://docs.google.com/presentation/d/12BHt5qQTXVsiiCQjAiWEcymjtYMc77ninRLZhCL2_LI/view). [Dados abertos](https://docs.google.com/presentation/d/1IaV2lL4EPUe9ZjjOBaoroFV4KKdCU7ba3nvv2Nas2kg/view). [Apache Hadoop](https://docs.google.com/presentation/d/1abNXJAD5LmwaSbNMn6eEooUzWzDgSVuKFvaBThwEKe8/view). Scripts em python relacionado ao conteúdo. [Dados abertos](https://docs.google.com/presentation/d/1IaV2lL4EPUe9ZjjOBaoroFV4KKdCU7ba3nvv2Nas2kg/view). |
 | 5   | 02/abr | 3hs | **Avaliação 1**. |
 | 6   | 09/abr | 3hs | [Normalização (1,2, e 3 forma normal), Modelo Floco de Neve, desnormalização, formatos de troca de dados. Formatos abertos, Os 5 V do big data, Pentaho PDI](https://docs.google.com/presentation/d/1lbPvObsJrVUVaR700LXyLtk_EjSFvLmJGLu1wehkxjo/view). [Fluxo de exportação no Pentaho](https://drive.google.com/file/d/1TUBKLwNtlNoeVJdFzX_sM4Dv4C8OnqZk/view?usp=sharing). [Fluxo de importação no Pentaho](https://drive.google.com/file/d/15PHyw-xb24rjtXZSJ2gv-l1w6Mt41uVY/view). [Script SQL Snow Flake](https://drive.google.com/file/d/1OeAiLNudVTyDzDEdriUN8pJNIqai0Qxm/view).|
 | 7   | 16/abr | 3hs | <!-- Agrupamentos (parte 2), conjuntos frequentes. --> Lista de exercícios 1: https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/lista1_exerc%C3%ADcios_v1.md |
@@ -433,22 +433,23 @@ flowchart TD
 ---
 Exemplo de processo NLP
 
+
+
 ```mermaid
 
 flowchart TD
-    A[Sentence Segmentation] --> B[Word Tokenization]
-    B --> C[Text Lemmatization]
-    C --> D[Stop Words Removal]
-    D --> E[Dependency Parsing]
-    E --> F[Named Entity Recognition - NER]
-    F --> G[Coreference Resolution]
-    G --> H[Aplicacoes em NLP - Resumo - Perguntas e Respostas]
-
+    A[Segmentação de Sentenças] --> B[Tokenização de Palavras]
+    B --> C[Lematização de Texto]
+    C --> D[Remoção de Palavras Vazias]
+    D --> E[Análise de Dependência Sintática]
+    E --> F[Reconhecimento de Entidades Nomeadas - REN]
+    F --> G[Resolução de Correferência]
+    G --> H[Aplicações em PLN - Resumo - Perguntas e Respostas]
 
 ```
 
 
----
+
 Resumo sobre NLP:
 
 Sentence Segmentation
