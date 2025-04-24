@@ -1,0 +1,1001 @@
+﻿Vendedor;Comprador;Data da Venda;Nome do Produto;Mês;Valor Unitário;Valor Total;Quantidade;Loja;Município da Loja;Categoria do Produto
+Sr. Pietro Moraes;Srta. Amanda Pinto;13/11/2024;Areia Higiênica;November;19,79;138,53;7;Super Econômico;Tangará da Serra;Pet
+Bárbara Ribeiro;Bernardo Cardoso;15/03/2025;Petisco;March;16,66;33,32;2;Mercado do Bairro;Várzea Grande;Pet
+Isabel Melo;Ana Sophia Viana;09/09/2024;Óleo;September;29,09;174,54;6;Atacadão Popular;Cuiabá;Alimentos
+Dr. Vitor Gabriel Almeida;Eduardo Peixoto;31/10/2024;Areia Higiênica;October;45,1;360,8;8;Super Econômico;Tangará da Serra;Pet
+Vitória Martins;Bianca Duarte;25/07/2024;Feijão;July;6,12;55,08;9;Atacadão Popular;Cuiabá;Alimentos
+Bárbara Ribeiro;Clarice da Mata;27/05/2024;Água Sanitária;May;14,99;104,93;7;Super Econômico;Cuiabá;Limpeza
+Davi Luiz Silveira;Julia Viana;10/09/2024;Ração para Cães;September;2,62;2,62;1;Mercado do Bairro;Tangará da Serra;Pet
+Juliana Nunes;Evelyn Azevedo;23/06/2024;Macarrão;June;42,79;342,32;8;Atacadão Popular;Rondonópolis;Alimentos
+Ana Clara Barros;Sra. Mariana Nunes;06/04/2025;Água Sanitária;April;15,98;63,92;4;Mercado do Bairro;Cuiabá;Limpeza
+Luna das Neves;Ana Laura Ramos;07/07/2024;Ração para Gatos;July;44,11;176,44;4;Super Econômico;Várzea Grande;Pet
+Milena Pires;Laura Novaes;05/05/2024;Creme Dental;May;30,58;214,06;7;Super Econômico;Tangará da Serra;Higiene
+Ryan Azevedo;Bianca Duarte;23/07/2024;Petisco;July;47,08;235,4;5;Mercado do Bairro;Várzea Grande;Pet
+João Lucas Correia;Nina Costa;14/03/2025;Areia Higiênica;March;5,45;49,05;9;Supermercado Central;Tangará da Serra;Pet
+Sr. Pietro Moraes;Sra. Catarina Almeida;09/07/2024;Feijão;July;35,01;245,07;7;Super Econômico;Várzea Grande;Alimentos
+Elisa Alves;Evelyn Azevedo;08/03/2025;Ração para Gatos;March;16,03;16,03;1;Atacadão Popular;Várzea Grande;Pet
+Vitória Martins;Srta. Mariane Moraes;22/10/2024;Areia Higiênica;October;39,35;78,7;2;Supermercado Central;Tangará da Serra;Pet
+Ana Laura Pereira;Laura Novaes;25/03/2025;Shampoo;March;42,39;254,34;6;Super Econômico;Várzea Grande;Higiene
+Dra. Clara da Paz;Fernanda Aragão;01/11/2024;Água Sanitária;November;48,36;338,52;7;Mercado do Bairro;Cuiabá;Limpeza
+Dra. Clara da Paz;Paulo Martins;18/10/2024;Petisco;October;24,23;242,3;10;Supermercado Central;Cuiabá;Pet
+Milena Pires;Sr. Thomas Porto;27/08/2024;Sabão em Pó;August;4,09;20,45;5;Atacadão Popular;Várzea Grande;Limpeza
+Ryan Azevedo;Raul Correia;11/02/2025;Arroz;February;26,71;213,68;8;Mercado do Bairro;Tangará da Serra;Alimentos
+Giovanna Alves;Theo Rezende;07/04/2025;Macarrão;April;37,84;227,04;6;Atacadão Popular;Sinop;Alimentos
+Giovanna Alves;Luiz Felipe Freitas;03/10/2024;Suco;October;45,99;459,9;10;Super Econômico;Várzea Grande;Bebidas
+Dra. Lívia Gonçalves;Bianca Duarte;26/11/2024;Shampoo Pet;November;12,83;102,64;8;Supermercado Central;Sinop;Pet
+Vitória Martins;Gabrielly Correia;01/05/2024;Óleo;May;9,62;28,86;3;Atacadão Popular;Sinop;Alimentos
+Davi Luiz Silveira;Otávio Nunes;19/05/2024;Açúcar;May;27,96;111,84;4;Atacadão Popular;Tangará da Serra;Alimentos
+Vitória Martins;Manuela Lima;19/07/2024;Creme Dental;July;49,29;492,9;10;Atacadão Popular;Várzea Grande;Higiene
+Rafaela Cunha;Davi Luiz Gonçalves;07/05/2024;Macarrão;May;40,74;325,92;8;Supermercado Central;Tangará da Serra;Alimentos
+Ryan Azevedo;Pedro Henrique Ramos;03/04/2025;Papel Higiênico;April;17,88;125,16;7;Super Econômico;Sinop;Higiene
+Sr. Pietro Moraes;Sr. Gustavo Mendes;01/09/2024;Arroz;September;37,76;302,08;8;Supermercado Central;Tangará da Serra;Alimentos
+Luna das Neves;Enzo Farias;16/08/2024;Suco;August;3,11;12,44;4;Super Econômico;Sinop;Bebidas
+João Vitor Moura;Leonardo Moreira;11/03/2025;Açúcar;March;19,9;59,7;3;Mercado do Bairro;Várzea Grande;Alimentos
+Elisa Alves;Laura Novaes;17/02/2025;Ração para Cães;February;28,14;28,14;1;Atacadão Popular;Tangará da Serra;Pet
+Vitória Martins;João Rocha;14/12/2024;Feijão;December;2,81;11,24;4;Supermercado Central;Rondonópolis;Alimentos
+Ana Clara Barros;Luiza Dias;30/05/2024;Sabão em Pó;May;49,66;347,62;7;Mercado do Bairro;Rondonópolis;Limpeza
+Milena Pires;Rafaela Ramos;14/10/2024;Arroz;October;10,01;100,1;10;Mercado do Bairro;Rondonópolis;Alimentos
+Ana Clara Barros;Paulo Martins;20/04/2025;Vinho;April;20,4;183,6;9;Atacadão Popular;Várzea Grande;Bebidas
+Ana Clara Barros;Pietra da Rocha;02/03/2025;Sabonete;March;32,87;32,87;1;Super Econômico;Rondonópolis;Higiene
+Rafaela Cunha;Evelyn Azevedo;28/03/2025;Sabonete;March;5,03;5,03;1;Super Econômico;Rondonópolis;Higiene
+Bárbara Ribeiro;André Freitas;24/10/2024;Detergente;October;46,8;93,6;2;Mercado do Bairro;Várzea Grande;Limpeza
+Samuel Nascimento;Joana Campos;08/02/2025;Refrigerante;February;25,16;201,28;8;Atacadão Popular;Rondonópolis;Bebidas
+João Vitor Moura;Luiz Gustavo Nascimento;01/12/2024;Ração para Gatos;December;42,43;254,58;6;Mercado do Bairro;Rondonópolis;Pet
+Davi Luiz Silveira;João Rocha;19/03/2025;Esponja;March;13,91;83,46;6;Supermercado Central;Sinop;Limpeza
+Dr. Vitor Gabriel Almeida;Vitor Hugo Barbosa;04/11/2024;Creme Dental;November;4,03;12,09;3;Mercado do Bairro;Sinop;Higiene
+Ana Clara Barros;Felipe Cardoso;16/04/2025;Petisco;April;27,34;136,7;5;Supermercado Central;Rondonópolis;Pet
+Milena Pires;Luiz Felipe Oliveira;29/01/2025;Sabão em Pó;January;6,46;51,68;8;Supermercado Central;Várzea Grande;Limpeza
+João Lucas Correia;Stephany Costela;28/10/2024;Desodorante;October;13,03;117,27;9;Supermercado Central;Rondonópolis;Higiene
+Bárbara Ribeiro;Felipe Cardoso;20/01/2025;Detergente;January;4,19;16,76;4;Super Econômico;Várzea Grande;Limpeza
+Elisa Alves;Dra. Melissa Almeida;16/10/2024;Óleo;October;9,51;19,02;2;Mercado do Bairro;Cuiabá;Alimentos
+Dra. Lívia Gonçalves;Nina Almeida;06/11/2024;Detergente;November;4,89;29,34;6;Atacadão Popular;Rondonópolis;Limpeza
+João Lucas Correia;Igor Gonçalves;18/10/2024;Areia Higiênica;October;33,66;168,3;5;Mercado do Bairro;Várzea Grande;Pet
+Elisa Alves;Fernanda Aragão;22/06/2024;Areia Higiênica;June;21,65;194,85;9;Super Econômico;Sinop;Pet
+Juliana Nunes;Nicolas Cunha;09/03/2025;Vinho;March;2,85;2,85;1;Mercado do Bairro;Rondonópolis;Bebidas
+Luna das Neves;Leonardo Duarte;20/10/2024;Óleo;October;15,52;139,68;9;Super Econômico;Sinop;Alimentos
+Ryan Azevedo;Gabrielly Farias;18/08/2024;Esponja;August;31,56;284,04;9;Super Econômico;Várzea Grande;Limpeza
+Juliana Nunes;Joana Novaes;12/01/2025;Macarrão;January;47,24;425,16;9;Supermercado Central;Tangará da Serra;Alimentos
+Dra. Lívia Gonçalves;Maria Clara da Rosa;13/06/2024;Ração para Gatos;June;11,57;69,42;6;Super Econômico;Várzea Grande;Pet
+Samuel Nascimento;Sra. Agatha Jesus;03/03/2025;Shampoo Pet;March;30,57;183,42;6;Super Econômico;Várzea Grande;Pet
+João Vitor Moura;Felipe Cardoso;09/03/2025;Sabão em Pó;March;21,11;126,66;6;Supermercado Central;Sinop;Limpeza
+João Lucas Correia;Igor Gonçalves;13/05/2024;Água Sanitária;May;7,25;14,5;2;Supermercado Central;Rondonópolis;Limpeza
+Milena Pires;Joana Campos;15/10/2024;Sabonete;October;16,89;16,89;1;Supermercado Central;Rondonópolis;Higiene
+Elisa Alves;Emilly Moura;21/02/2025;Creme Dental;February;23,58;235,8;10;Atacadão Popular;Sinop;Higiene
+Milena Pires;Eloah Gonçalves;06/09/2024;Feijão;September;38,34;153,36;4;Mercado do Bairro;Cuiabá;Alimentos
+Dr. Vitor Gabriel Almeida;Eloah Gonçalves;20/03/2025;Areia Higiênica;March;12,5;37,5;3;Supermercado Central;Várzea Grande;Pet
+Davi Luiz Silveira;Ryan da Rocha;04/03/2025;Sabão em Pó;March;40,37;242,22;6;Mercado do Bairro;Cuiabá;Limpeza
+João Vitor Moura;Emilly Moura;31/12/2024;Areia Higiênica;December;40,96;163,84;4;Supermercado Central;Tangará da Serra;Pet
+Ryan Azevedo;Srta. Emanuella Almeida;20/09/2024;Arroz;September;42,76;128,28;3;Atacadão Popular;Rondonópolis;Alimentos
+Milena Pires;Henrique Azevedo;04/03/2025;Ração para Cães;March;10,15;10,15;1;Super Econômico;Rondonópolis;Pet
+Davi Luiz Silveira;Rafaela Ramos;06/04/2025;Areia Higiênica;April;25,75;103,0;4;Super Econômico;Sinop;Pet
+Milena Pires;Eloah Gonçalves;13/01/2025;Sabão em Pó;January;24,2;242,0;10;Supermercado Central;Cuiabá;Limpeza
+Ana Laura Pereira;Pedro Teixeira;28/01/2025;Arroz;January;11,64;11,64;1;Super Econômico;Sinop;Alimentos
+Dra. Clara da Paz;Beatriz da Rosa;05/03/2025;Arroz;March;40,69;40,69;1;Atacadão Popular;Rondonópolis;Alimentos
+João Vitor Moura;Sophie Nascimento;05/01/2025;Desinfetante;January;7,15;42,9;6;Mercado do Bairro;Várzea Grande;Limpeza
+Juliana Nunes;Luiz Felipe Oliveira;23/08/2024;Shampoo;August;41,0;246,0;6;Mercado do Bairro;Várzea Grande;Higiene
+Juliana Nunes;Sophie Nascimento;18/03/2025;Shampoo;March;15,13;136,17;9;Super Econômico;Sinop;Higiene
+Luna das Neves;Isis Farias;21/06/2024;Refrigerante;June;26,55;185,85;7;Mercado do Bairro;Tangará da Serra;Bebidas
+Elisa Alves;Sra. Agatha Jesus;29/08/2024;Shampoo;August;13,25;66,25;5;Supermercado Central;Rondonópolis;Higiene
+Dra. Clara da Paz;Ana Clara da Cunha;06/03/2025;Detergente;March;21,15;105,75;5;Super Econômico;Várzea Grande;Limpeza
+Ryan Azevedo;Sra. Catarina Almeida;30/03/2025;Areia Higiênica;March;49,95;249,75;5;Atacadão Popular;Sinop;Pet
+João Vitor Moura;Otávio Nunes;24/11/2024;Ração para Gatos;November;45,78;183,12;4;Supermercado Central;Tangará da Serra;Pet
+Sr. Pietro Moraes;Raul Silveira;12/12/2024;Sabonete;December;26,55;238,95;9;Supermercado Central;Várzea Grande;Higiene
+Ryan Azevedo;Srta. Mariane Moraes;18/06/2024;Arroz;June;43,5;43,5;1;Supermercado Central;Várzea Grande;Alimentos
+Isabel Melo;Maria Clara da Rosa;30/08/2024;Água Sanitária;August;13,27;79,62;6;Supermercado Central;Tangará da Serra;Limpeza
+Ana Laura Pereira;Luna Almeida;26/11/2024;Óleo;November;44,53;311,71;7;Supermercado Central;Sinop;Alimentos
+Dra. Clara da Paz;Calebe Mendes;06/04/2025;Ração para Gatos;April;30,64;214,48;7;Super Econômico;Sinop;Pet
+Milena Pires;Julia Viana;23/04/2024;Petisco;April;4,5;13,5;3;Mercado do Bairro;Cuiabá;Pet
+Dra. Lívia Gonçalves;André Freitas;18/10/2024;Sabão em Pó;October;7,64;76,4;10;Atacadão Popular;Rondonópolis;Limpeza
+Ana Laura Pereira;Beatriz Moraes;28/08/2024;Shampoo;August;27,1;81,3;3;Super Econômico;Cuiabá;Higiene
+Isabel Melo;Raul Correia;27/05/2024;Água Sanitária;May;11,89;47,56;4;Supermercado Central;Cuiabá;Limpeza
+Bárbara Ribeiro;Sr. Matheus da Mata;23/10/2024;Sabão em Pó;October;31,07;279,63;9;Supermercado Central;Cuiabá;Limpeza
+João Lucas Correia;Arthur Viana;30/05/2024;Shampoo Pet;May;45,54;409,86;9;Supermercado Central;Rondonópolis;Pet
+Elisa Alves;Lívia Pinto;29/07/2024;Detergente;July;40,79;285,53;7;Super Econômico;Cuiabá;Limpeza
+Dra. Clara da Paz;Enzo Farias;23/09/2024;Esponja;September;14,75;118,0;8;Super Econômico;Cuiabá;Limpeza
+Elisa Alves;Camila Farias;24/06/2024;Sabão em Pó;June;32,55;130,2;4;Atacadão Popular;Várzea Grande;Limpeza
+Ana Laura Pereira;Thomas Teixeira;23/12/2024;Desodorante;December;36,48;255,36;7;Atacadão Popular;Sinop;Higiene
+João Lucas Correia;Sr. Matheus da Mata;06/01/2025;Desodorante;January;7,94;79,4;10;Supermercado Central;Tangará da Serra;Higiene
+Samuel Nascimento;Henrique Peixoto;01/10/2024;Areia Higiênica;October;17,61;70,44;4;Super Econômico;Sinop;Pet
+Ana Laura Pereira;Srta. Amanda Pinto;03/02/2025;Arroz;February;6,51;32,55;5;Super Econômico;Várzea Grande;Alimentos
+Giovanna Alves;Luna Almeida;10/12/2024;Desinfetante;December;11,14;77,98;7;Supermercado Central;Várzea Grande;Limpeza
+Bárbara Ribeiro;Sra. Agatha Jesus;22/01/2025;Cerveja;January;34,83;348,3;10;Supermercado Central;Várzea Grande;Bebidas
+Ana Laura Pereira;Sr. Gustavo Mendes;02/01/2025;Papel Higiênico;January;2,07;2,07;1;Atacadão Popular;Cuiabá;Higiene
+Dra. Clara da Paz;Leonardo Duarte;11/09/2024;Feijão;September;16,07;80,35;5;Supermercado Central;Rondonópolis;Alimentos
+Sr. Pietro Moraes;Julia Viana;23/07/2024;Arroz;July;25,08;100,32;4;Atacadão Popular;Sinop;Alimentos
+Elisa Alves;Isis Farias;07/06/2024;Açúcar;June;18,9;37,8;2;Supermercado Central;Sinop;Alimentos
+Dr. Vitor Gabriel Almeida;Nina Almeida;30/04/2024;Arroz;April;34,84;139,36;4;Mercado do Bairro;Várzea Grande;Alimentos
+Dra. Lívia Gonçalves;Stephany Araújo;27/10/2024;Água Mineral;October;28,42;227,36;8;Atacadão Popular;Rondonópolis;Bebidas
+Juliana Nunes;Srta. Emanuella Almeida;08/07/2024;Desinfetante;July;23,59;235,9;10;Super Econômico;Sinop;Limpeza
+João Vitor Moura;Ryan da Rocha;02/07/2024;Vinho;July;49,05;294,3;6;Super Econômico;Tangará da Serra;Bebidas
+Ana Clara Barros;Ana Sophia Viana;13/04/2025;Refrigerante;April;33,66;235,62;7;Atacadão Popular;Várzea Grande;Bebidas
+João Lucas Correia;Sra. Mariana Nunes;18/07/2024;Papel Higiênico;July;5,78;11,56;2;Mercado do Bairro;Rondonópolis;Higiene
+Rafaela Cunha;Luigi Barbosa;07/12/2024;Sabonete;December;29,87;89,61;3;Mercado do Bairro;Rondonópolis;Higiene
+Ryan Azevedo;Clarice da Conceição;28/01/2025;Ração para Cães;January;28,08;84,24;3;Mercado do Bairro;Rondonópolis;Pet
+João Lucas Correia;Rafaela Ramos;06/05/2024;Sabonete;May;8,35;75,15;9;Super Econômico;Tangará da Serra;Higiene
+João Lucas Correia;Sr. Thomas Porto;30/01/2025;Sabão em Pó;January;6,68;20,04;3;Mercado do Bairro;Rondonópolis;Limpeza
+Ana Laura Pereira;Srta. Emanuella Almeida;16/06/2024;Petisco;June;10,55;73,85;7;Super Econômico;Várzea Grande;Pet
+Giovanna Alves;Joana Novaes;17/07/2024;Desodorante;July;29,86;209,02;7;Supermercado Central;Várzea Grande;Higiene
+Sr. Pietro Moraes;André Freitas;06/11/2024;Petisco;November;43,58;87,16;2;Super Econômico;Cuiabá;Pet
+Luna das Neves;Dra. Melissa Almeida;14/02/2025;Areia Higiênica;February;49,67;248,35;5;Mercado do Bairro;Cuiabá;Pet
+Dra. Clara da Paz;Alana Novaes;25/06/2024;Petisco;June;40,73;81,46;2;Supermercado Central;Tangará da Serra;Pet
+Isabel Melo;Dr. Lorenzo Teixeira;17/12/2024;Água Sanitária;December;10,31;72,17;7;Mercado do Bairro;Tangará da Serra;Limpeza
+Dr. Vitor Gabriel Almeida;Davi Luiz Gonçalves;13/04/2025;Sabão em Pó;April;45,85;458,5;10;Atacadão Popular;Várzea Grande;Limpeza
+Dra. Lívia Gonçalves;Dr. Lorenzo Teixeira;26/01/2025;Óleo;January;3,88;27,16;7;Super Econômico;Cuiabá;Alimentos
+Elisa Alves;Sr. Davi Lucas Castro;12/01/2025;Petisco;January;7,17;35,85;5;Atacadão Popular;Várzea Grande;Pet
+Samuel Nascimento;Sra. Agatha Jesus;23/05/2024;Areia Higiênica;May;26,71;240,39;9;Supermercado Central;Rondonópolis;Pet
+Dra. Lívia Gonçalves;Benício Rodrigues;24/12/2024;Esponja;December;38,38;38,38;1;Atacadão Popular;Cuiabá;Limpeza
+Bárbara Ribeiro;Felipe Cardoso;08/04/2025;Sabão em Pó;April;5,7;5,7;1;Mercado do Bairro;Tangará da Serra;Limpeza
+Vitória Martins;Julia Viana;16/04/2025;Feijão;April;36,06;144,24;4;Mercado do Bairro;Tangará da Serra;Alimentos
+Giovanna Alves;Evelyn Sales;19/01/2025;Água Sanitária;January;40,7;284,9;7;Supermercado Central;Várzea Grande;Limpeza
+Rafaela Cunha;Arthur Viana;12/02/2025;Vinho;February;37,25;37,25;1;Super Econômico;Sinop;Bebidas
+João Lucas Correia;Ana Clara da Cunha;01/05/2024;Shampoo;May;14,71;58,84;4;Super Econômico;Tangará da Serra;Higiene
+Milena Pires;Beatriz da Rosa;25/03/2025;Petisco;March;4,24;38,16;9;Super Econômico;Várzea Grande;Pet
+Vitória Martins;Nicolas Cunha;04/12/2024;Óleo;December;12,93;64,65;5;Mercado do Bairro;Sinop;Alimentos
+Vitória Martins;Calebe Mendes;05/05/2024;Detergente;May;8,94;62,58;7;Mercado do Bairro;Várzea Grande;Limpeza
+Bárbara Ribeiro;Sra. Catarina Almeida;17/09/2024;Desodorante;September;22,57;203,13;9;Supermercado Central;Rondonópolis;Higiene
+Vitória Martins;Nina Almeida;11/03/2025;Shampoo;March;47,43;189,72;4;Mercado do Bairro;Sinop;Higiene
+Giovanna Alves;Maria Sophia Pinto;31/10/2024;Desinfetante;October;22,95;160,65;7;Mercado do Bairro;Rondonópolis;Limpeza
+Dr. Vitor Gabriel Almeida;Luiz Felipe Freitas;31/08/2024;Sabão em Pó;August;47,74;238,7;5;Supermercado Central;Rondonópolis;Limpeza
+Ana Laura Pereira;Calebe Mendes;29/01/2025;Detergente;January;30,97;154,85;5;Mercado do Bairro;Sinop;Limpeza
+Milena Pires;Pedro Henrique Ramos;12/11/2024;Desodorante;November;34,63;173,15;5;Super Econômico;Tangará da Serra;Higiene
+Dra. Lívia Gonçalves;Sr. Gustavo Mendes;04/05/2024;Macarrão;May;28,84;115,36;4;Mercado do Bairro;Sinop;Alimentos
+Sr. Pietro Moraes;Gabrielly Farias;13/01/2025;Shampoo;January;29,11;87,33;3;Super Econômico;Várzea Grande;Higiene
+Bárbara Ribeiro;Enzo Farias;26/05/2024;Esponja;May;43,87;175,48;4;Super Econômico;Sinop;Limpeza
+Samuel Nascimento;Gabrielly Farias;03/10/2024;Sabão em Pó;October;9,91;99,1;10;Supermercado Central;Sinop;Limpeza
+Sr. Pietro Moraes;Sr. Thomas Porto;22/10/2024;Refrigerante;October;25,97;259,7;10;Supermercado Central;Várzea Grande;Bebidas
+Giovanna Alves;Marcos Vinicius Pereira;27/11/2024;Petisco;November;46,8;187,2;4;Atacadão Popular;Cuiabá;Pet
+Dra. Clara da Paz;Paulo Martins;26/07/2024;Areia Higiênica;July;27,64;248,76;9;Super Econômico;Sinop;Pet
+Rafaela Cunha;Luna Almeida;22/08/2024;Ração para Cães;August;4,18;20,9;5;Supermercado Central;Tangará da Serra;Pet
+Ana Clara Barros;Felipe Cardoso;24/06/2024;Macarrão;June;33,8;270,4;8;Supermercado Central;Várzea Grande;Alimentos
+Davi Luiz Silveira;Joana Campos;21/11/2024;Ração para Gatos;November;44,29;132,87;3;Super Econômico;Sinop;Pet
+Dra. Clara da Paz;Sra. Esther Silveira;11/06/2024;Detergente;June;28,08;140,4;5;Supermercado Central;Sinop;Limpeza
+Vitória Martins;Arthur Viana;25/12/2024;Shampoo;December;4,74;14,22;3;Super Econômico;Tangará da Serra;Higiene
+João Lucas Correia;Sr. Otávio Souza;14/11/2024;Água Mineral;November;30,27;30,27;1;Supermercado Central;Tangará da Serra;Bebidas
+Vitória Martins;Ryan da Rocha;16/08/2024;Refrigerante;August;14,08;28,16;2;Mercado do Bairro;Cuiabá;Bebidas
+Ana Clara Barros;Ana Lívia Farias;24/06/2024;Desinfetante;June;38,62;193,1;5;Supermercado Central;Rondonópolis;Limpeza
+Davi Luiz Silveira;Srta. Mariane Moraes;12/12/2024;Feijão;December;22,88;45,76;2;Mercado do Bairro;Cuiabá;Alimentos
+Ana Laura Pereira;Theo Rezende;28/08/2024;Água Mineral;August;17,4;34,8;2;Atacadão Popular;Sinop;Bebidas
+Ryan Azevedo;Emilly Moura;09/02/2025;Feijão;February;46,01;184,04;4;Mercado do Bairro;Sinop;Alimentos
+Elisa Alves;Agatha da Rosa;05/11/2024;Óleo;November;6,47;12,94;2;Atacadão Popular;Cuiabá;Alimentos
+Dr. Vitor Gabriel Almeida;Srta. Emanuella Almeida;08/02/2025;Sabão em Pó;February;47,85;478,5;10;Supermercado Central;Rondonópolis;Limpeza
+Ana Laura Pereira;Daniel Martins;04/02/2025;Refrigerante;February;29,84;149,2;5;Supermercado Central;Tangará da Serra;Bebidas
+Ryan Azevedo;Davi Luiz Gonçalves;23/08/2024;Óleo;August;38,67;348,03;9;Super Econômico;Tangará da Serra;Alimentos
+Ryan Azevedo;Julia Viana;21/02/2025;Óleo;February;37,36;74,72;2;Supermercado Central;Tangará da Serra;Alimentos
+Sr. Pietro Moraes;Luiz Gustavo Nascimento;23/08/2024;Sabão em Pó;August;15,12;136,08;9;Supermercado Central;Sinop;Limpeza
+João Lucas Correia;Beatriz Moraes;24/10/2024;Óleo;October;11,41;45,64;4;Mercado do Bairro;Tangará da Serra;Alimentos
+Bárbara Ribeiro;Dra. Melissa Almeida;25/07/2024;Cerveja;July;9,17;27,51;3;Atacadão Popular;Várzea Grande;Bebidas
+Juliana Nunes;Sra. Catarina Almeida;27/01/2025;Creme Dental;January;18,77;37,54;2;Mercado do Bairro;Sinop;Higiene
+Vitória Martins;Sr. Thomas Porto;19/10/2024;Papel Higiênico;October;3,49;13,96;4;Super Econômico;Rondonópolis;Higiene
+Ana Clara Barros;Nina Costa;13/06/2024;Água Mineral;June;9,89;29,67;3;Atacadão Popular;Sinop;Bebidas
+João Lucas Correia;Dra. Isadora da Luz;08/05/2024;Desinfetante;May;6,21;12,42;2;Mercado do Bairro;Cuiabá;Limpeza
+Ryan Azevedo;Clarice da Conceição;22/03/2025;Shampoo;March;20,97;167,76;8;Super Econômico;Sinop;Higiene
+Isabel Melo;Manuela Lima;08/12/2024;Arroz;December;11,41;11,41;1;Mercado do Bairro;Tangará da Serra;Alimentos
+Milena Pires;Beatriz da Rosa;19/08/2024;Açúcar;August;30,3;151,5;5;Mercado do Bairro;Cuiabá;Alimentos
+Bárbara Ribeiro;Isis Farias;03/02/2025;Suco;February;2,38;19,04;8;Super Econômico;Tangará da Serra;Bebidas
+Ana Laura Pereira;Luiz Felipe Freitas;03/08/2024;Arroz;August;14,38;71,9;5;Super Econômico;Cuiabá;Alimentos
+Isabel Melo;Luigi Barbosa;18/04/2025;Desodorante;April;38,31;153,24;4;Atacadão Popular;Rondonópolis;Higiene
+João Lucas Correia;Evelyn Azevedo;18/04/2025;Desodorante;April;41,34;372,06;9;Supermercado Central;Rondonópolis;Higiene
+Rafaela Cunha;Sr. Davi Lucas Castro;15/09/2024;Sabão em Pó;September;43,54;391,86;9;Super Econômico;Cuiabá;Limpeza
+João Vitor Moura;João Rocha;16/10/2024;Creme Dental;October;16,4;32,8;2;Super Econômico;Sinop;Higiene
+Vitória Martins;Nina Almeida;18/07/2024;Vinho;July;40,63;284,41;7;Mercado do Bairro;Sinop;Bebidas
+Ana Clara Barros;Dr. Davi Duarte;05/05/2024;Areia Higiênica;May;33,65;33,65;1;Super Econômico;Cuiabá;Pet
+Dr. Vitor Gabriel Almeida;Luigi Barbosa;22/05/2024;Ração para Gatos;May;10,0;20,0;2;Super Econômico;Cuiabá;Pet
+Dra. Clara da Paz;João Vitor Rezende;24/09/2024;Óleo;September;17,12;171,2;10;Atacadão Popular;Rondonópolis;Alimentos
+Ryan Azevedo;João Rocha;06/04/2025;Areia Higiênica;April;29,65;118,6;4;Supermercado Central;Várzea Grande;Pet
+Dra. Lívia Gonçalves;Joana Novaes;18/09/2024;Óleo;September;38,19;76,38;2;Super Econômico;Cuiabá;Alimentos
+Bárbara Ribeiro;Marcos Vinicius Pereira;03/06/2024;Ração para Gatos;June;19,96;119,76;6;Super Econômico;Várzea Grande;Pet
+Davi Luiz Silveira;Dra. Isadora da Luz;03/05/2024;Óleo;May;41,04;205,2;5;Mercado do Bairro;Cuiabá;Alimentos
+Ana Clara Barros;Igor Gonçalves;15/05/2024;Suco;May;11,0;11,0;1;Mercado do Bairro;Sinop;Bebidas
+Davi Luiz Silveira;Sr. Matheus da Mata;18/08/2024;Macarrão;August;15,29;91,74;6;Atacadão Popular;Tangará da Serra;Alimentos
+Ana Laura Pereira;Thomas Nunes;03/04/2025;Creme Dental;April;8,45;76,05;9;Atacadão Popular;Várzea Grande;Higiene
+Vitória Martins;Thomas Nunes;30/05/2024;Creme Dental;May;14,72;147,2;10;Super Econômico;Rondonópolis;Higiene
+Isabel Melo;Maria Clara da Rosa;20/09/2024;Cerveja;September;39,61;158,44;4;Mercado do Bairro;Várzea Grande;Bebidas
+Dra. Lívia Gonçalves;Dr. Davi Duarte;31/10/2024;Refrigerante;October;3,78;11,34;3;Atacadão Popular;Rondonópolis;Bebidas
+Bárbara Ribeiro;Marcos Vinicius Pereira;08/05/2024;Feijão;May;2,13;21,3;10;Super Econômico;Sinop;Alimentos
+Rafaela Cunha;Calebe Mendes;01/01/2025;Ração para Cães;January;16,04;32,08;2;Supermercado Central;Sinop;Pet
+Ana Clara Barros;Sr. Otávio Souza;26/07/2024;Feijão;July;10,13;101,3;10;Mercado do Bairro;Várzea Grande;Alimentos
+Isabel Melo;Daniel Martins;21/12/2024;Desinfetante;December;20,05;160,4;8;Mercado do Bairro;Rondonópolis;Limpeza
+Dra. Clara da Paz;Ana Lívia Farias;15/09/2024;Areia Higiênica;September;40,51;202,55;5;Super Econômico;Sinop;Pet
+Giovanna Alves;Davi Luiz Gonçalves;30/05/2024;Feijão;May;32,84;262,72;8;Atacadão Popular;Cuiabá;Alimentos
+Samuel Nascimento;Bernardo Cardoso;06/01/2025;Feijão;January;16,9;50,7;3;Supermercado Central;Várzea Grande;Alimentos
+Milena Pires;Dra. Melissa Almeida;01/08/2024;Óleo;August;4,91;49,1;10;Atacadão Popular;Rondonópolis;Alimentos
+Milena Pires;Sophie Nascimento;18/07/2024;Desinfetante;July;20,9;188,1;9;Atacadão Popular;Cuiabá;Limpeza
+João Lucas Correia;Leonardo Moreira;29/07/2024;Óleo;July;6,03;24,12;4;Super Econômico;Sinop;Alimentos
+Juliana Nunes;Daniel Martins;21/10/2024;Óleo;October;23,79;214,11;9;Atacadão Popular;Sinop;Alimentos
+Davi Luiz Silveira;Ana Carolina Nascimento;08/02/2025;Água Mineral;February;9,98;19,96;2;Atacadão Popular;Rondonópolis;Bebidas
+Luna das Neves;Fernanda Aragão;01/05/2024;Açúcar;May;38,56;77,12;2;Atacadão Popular;Tangará da Serra;Alimentos
+Elisa Alves;Paulo Martins;26/06/2024;Macarrão;June;33,91;237,37;7;Mercado do Bairro;Várzea Grande;Alimentos
+Davi Luiz Silveira;Paulo Monteiro;28/10/2024;Açúcar;October;19,41;135,87;7;Mercado do Bairro;Sinop;Alimentos
+Samuel Nascimento;Srta. Emanuella Almeida;09/06/2024;Macarrão;June;31,0;62,0;2;Supermercado Central;Tangará da Serra;Alimentos
+Dr. Vitor Gabriel Almeida;Gustavo Henrique Lima;12/12/2024;Petisco;December;35,78;35,78;1;Super Econômico;Sinop;Pet
+Samuel Nascimento;Thomas Nunes;04/06/2024;Papel Higiênico;June;11,75;94,0;8;Super Econômico;Várzea Grande;Higiene
+João Vitor Moura;Otávio Nunes;16/01/2025;Ração para Cães;January;7,85;7,85;1;Mercado do Bairro;Sinop;Pet
+Vitória Martins;Joana Novaes;05/10/2024;Desinfetante;October;19,26;38,52;2;Supermercado Central;Tangará da Serra;Limpeza
+Davi Luiz Silveira;Luiza Dias;21/06/2024;Água Sanitária;June;26,9;107,6;4;Mercado do Bairro;Rondonópolis;Limpeza
+Dra. Clara da Paz;Luiz Felipe Oliveira;29/08/2024;Sabonete;August;23,11;184,88;8;Supermercado Central;Rondonópolis;Higiene
+Juliana Nunes;Pedro Teixeira;15/12/2024;Ração para Gatos;December;3,13;9,39;3;Super Econômico;Rondonópolis;Pet
+Elisa Alves;Evelyn Azevedo;18/11/2024;Sabonete;November;2,75;11,0;4;Supermercado Central;Várzea Grande;Higiene
+Ryan Azevedo;Eloah Gonçalves;26/02/2025;Esponja;February;20,1;120,6;6;Mercado do Bairro;Sinop;Limpeza
+Ana Laura Pereira;Felipe Cardoso;26/10/2024;Esponja;October;40,23;402,3;10;Mercado do Bairro;Rondonópolis;Limpeza
+Isabel Melo;Joana Novaes;24/05/2024;Esponja;May;11,88;106,92;9;Super Econômico;Tangará da Serra;Limpeza
+Elisa Alves;Thomas Nunes;05/06/2024;Feijão;June;11,81;23,62;2;Atacadão Popular;Várzea Grande;Alimentos
+Vitória Martins;Isis Farias;03/07/2024;Detergente;July;20,51;41,02;2;Super Econômico;Várzea Grande;Limpeza
+Juliana Nunes;Sra. Esther Silveira;23/12/2024;Creme Dental;December;15,78;94,68;6;Supermercado Central;Sinop;Higiene
+Elisa Alves;Henrique Peixoto;21/05/2024;Desinfetante;May;36,88;258,16;7;Super Econômico;Várzea Grande;Limpeza
+Dra. Clara da Paz;Luiz Gustavo Nascimento;29/11/2024;Óleo;November;6,69;53,52;8;Mercado do Bairro;Cuiabá;Alimentos
+Davi Luiz Silveira;Theo Rezende;25/06/2024;Feijão;June;37,18;223,08;6;Atacadão Popular;Sinop;Alimentos
+Davi Luiz Silveira;Davi Luiz Gonçalves;24/07/2024;Macarrão;July;2,55;7,65;3;Supermercado Central;Cuiabá;Alimentos
+Ryan Azevedo;Srta. Emanuella Almeida;29/01/2025;Feijão;January;46,09;414,81;9;Atacadão Popular;Sinop;Alimentos
+Ryan Azevedo;Calebe Mendes;29/03/2025;Detergente;March;13,68;41,04;3;Super Econômico;Várzea Grande;Limpeza
+Samuel Nascimento;Maria Sophia Pinto;08/08/2024;Feijão;August;33,06;198,36;6;Supermercado Central;Sinop;Alimentos
+Elisa Alves;Luna Almeida;13/05/2024;Desinfetante;May;35,07;245,49;7;Atacadão Popular;Várzea Grande;Limpeza
+João Lucas Correia;Ana Carolina Nascimento;11/01/2025;Suco;January;20,0;60,0;3;Atacadão Popular;Rondonópolis;Bebidas
+Milena Pires;Evelyn Azevedo;26/02/2025;Papel Higiênico;February;23,62;47,24;2;Mercado do Bairro;Várzea Grande;Higiene
+Isabel Melo;Luiz Otávio Peixoto;01/07/2024;Desinfetante;July;34,54;138,16;4;Atacadão Popular;Cuiabá;Limpeza
+Ana Laura Pereira;Dra. Melissa Almeida;02/11/2024;Sabão em Pó;November;8,12;48,72;6;Mercado do Bairro;Tangará da Serra;Limpeza
+Juliana Nunes;Theo Rezende;09/01/2025;Papel Higiênico;January;17,14;68,56;4;Supermercado Central;Sinop;Higiene
+Luna das Neves;Pedro Henrique Ramos;27/10/2024;Arroz;October;36,84;73,68;2;Mercado do Bairro;Várzea Grande;Alimentos
+Juliana Nunes;Isis Farias;03/03/2025;Água Mineral;March;14,56;145,6;10;Super Econômico;Várzea Grande;Bebidas
+Davi Luiz Silveira;Beatriz Moraes;22/11/2024;Detergente;November;30,66;61,32;2;Super Econômico;Cuiabá;Limpeza
+Milena Pires;Pedro Henrique Ramos;19/09/2024;Shampoo;September;44,71;447,1;10;Mercado do Bairro;Tangará da Serra;Higiene
+Milena Pires;Luna Almeida;08/03/2025;Papel Higiênico;March;16,21;16,21;1;Supermercado Central;Rondonópolis;Higiene
+Luna das Neves;Raul Correia;12/03/2025;Ração para Cães;March;14,69;73,45;5;Mercado do Bairro;Várzea Grande;Pet
+Giovanna Alves;Maria Clara da Rosa;30/03/2025;Desinfetante;March;5,58;44,64;8;Mercado do Bairro;Tangará da Serra;Limpeza
+João Lucas Correia;Srta. Emanuella Almeida;11/10/2024;Detergente;October;22,83;136,98;6;Supermercado Central;Rondonópolis;Limpeza
+Giovanna Alves;Ana Sophia Viana;18/10/2024;Água Sanitária;October;44,99;179,96;4;Supermercado Central;Tangará da Serra;Limpeza
+Dra. Clara da Paz;Sr. Thomas Porto;07/06/2024;Petisco;June;20,61;20,61;1;Mercado do Bairro;Cuiabá;Pet
+Samuel Nascimento;Ana Clara da Cunha;07/11/2024;Shampoo;November;10,29;41,16;4;Mercado do Bairro;Rondonópolis;Higiene
+Davi Luiz Silveira;Manuela Lima;06/07/2024;Óleo;July;30,84;92,52;3;Atacadão Popular;Várzea Grande;Alimentos
+Giovanna Alves;Sra. Agatha Jesus;27/06/2024;Macarrão;June;21,38;106,9;5;Supermercado Central;Rondonópolis;Alimentos
+Luna das Neves;Nina Almeida;04/09/2024;Areia Higiênica;September;22,59;225,9;10;Supermercado Central;Sinop;Pet
+Vitória Martins;Beatriz da Rosa;29/09/2024;Ração para Cães;September;38,92;77,84;2;Super Econômico;Tangará da Serra;Pet
+Milena Pires;Stephany Costela;21/07/2024;Feijão;July;43,49;173,96;4;Mercado do Bairro;Rondonópolis;Alimentos
+Ryan Azevedo;Ryan da Rocha;14/12/2024;Açúcar;December;20,29;40,58;2;Mercado do Bairro;Rondonópolis;Alimentos
+Isabel Melo;Clarice da Conceição;06/09/2024;Desodorante;September;23,09;46,18;2;Super Econômico;Rondonópolis;Higiene
+João Lucas Correia;Luiz Felipe Freitas;14/06/2024;Detergente;June;16,39;98,34;6;Super Econômico;Cuiabá;Limpeza
+Ryan Azevedo;Beatriz da Rosa;23/08/2024;Água Sanitária;August;31,15;249,2;8;Atacadão Popular;Cuiabá;Limpeza
+Rafaela Cunha;Henrique Peixoto;29/05/2024;Shampoo Pet;May;22,24;22,24;1;Atacadão Popular;Rondonópolis;Pet
+Samuel Nascimento;Joana Campos;13/12/2024;Sabão em Pó;December;31,94;223,58;7;Supermercado Central;Rondonópolis;Limpeza
+Isabel Melo;Luiza Dias;25/07/2024;Sabão em Pó;July;29,04;116,16;4;Mercado do Bairro;Sinop;Limpeza
+Bárbara Ribeiro;João Rocha;03/04/2025;Açúcar;April;25,2;100,8;4;Mercado do Bairro;Várzea Grande;Alimentos
+Dr. Vitor Gabriel Almeida;Julia Viana;28/05/2024;Desinfetante;May;49,68;496,8;10;Atacadão Popular;Sinop;Limpeza
+Juliana Nunes;Thomas Nunes;08/01/2025;Óleo;January;23,83;71,49;3;Atacadão Popular;Cuiabá;Alimentos
+Vitória Martins;Bernardo Cardoso;27/12/2024;Refrigerante;December;10,02;90,18;9;Mercado do Bairro;Tangará da Serra;Bebidas
+Vitória Martins;Maria Clara da Rosa;04/05/2024;Suco;May;40,6;324,8;8;Atacadão Popular;Tangará da Serra;Bebidas
+Dr. Vitor Gabriel Almeida;Bernardo Cardoso;28/12/2024;Areia Higiênica;December;45,83;91,66;2;Supermercado Central;Rondonópolis;Pet
+Ana Clara Barros;Sra. Agatha Jesus;20/11/2024;Creme Dental;November;37,21;111,63;3;Super Econômico;Sinop;Higiene
+Giovanna Alves;Pedro Henrique Ramos;30/06/2024;Papel Higiênico;June;33,88;169,4;5;Super Econômico;Rondonópolis;Higiene
+Ana Laura Pereira;Evelyn Sales;02/01/2025;Refrigerante;January;49,93;349,51;7;Mercado do Bairro;Tangará da Serra;Bebidas
+Vitória Martins;Bernardo Cardoso;06/02/2025;Ração para Gatos;February;29,76;297,6;10;Supermercado Central;Sinop;Pet
+Ana Clara Barros;Rafaela Ramos;14/09/2024;Arroz;September;44,36;88,72;2;Mercado do Bairro;Sinop;Alimentos
+Dr. Vitor Gabriel Almeida;João Vitor Rezende;05/06/2024;Água Sanitária;June;15,64;140,76;9;Super Econômico;Sinop;Limpeza
+Dr. Vitor Gabriel Almeida;Dr. Lorenzo Teixeira;26/10/2024;Sabonete;October;24,32;218,88;9;Super Econômico;Várzea Grande;Higiene
+Rafaela Cunha;Raul Silveira;11/06/2024;Cerveja;June;2,07;16,56;8;Supermercado Central;Rondonópolis;Bebidas
+Isabel Melo;André Freitas;31/07/2024;Papel Higiênico;July;12,69;50,76;4;Super Econômico;Várzea Grande;Higiene
+Ana Clara Barros;Eduardo Mendes;07/07/2024;Óleo;July;49,42;148,26;3;Mercado do Bairro;Tangará da Serra;Alimentos
+Ana Laura Pereira;Ana Sophia Viana;13/11/2024;Esponja;November;31,84;222,88;7;Atacadão Popular;Sinop;Limpeza
+Davi Luiz Silveira;Sr. Thomas Porto;05/03/2025;Creme Dental;March;6,27;50,16;8;Super Econômico;Sinop;Higiene
+João Vitor Moura;Clarice da Conceição;30/09/2024;Macarrão;September;4,2;21,0;5;Super Econômico;Rondonópolis;Alimentos
+Vitória Martins;Sabrina Pires;21/09/2024;Detergente;September;19,87;178,83;9;Mercado do Bairro;Tangará da Serra;Limpeza
+Dra. Lívia Gonçalves;Rafaela Ramos;08/12/2024;Suco;December;22,45;134,7;6;Mercado do Bairro;Rondonópolis;Bebidas
+Rafaela Cunha;Sr. Otávio Souza;10/09/2024;Sabonete;September;24,97;224,73;9;Super Econômico;Rondonópolis;Higiene
+Juliana Nunes;Sra. Catarina Almeida;20/12/2024;Arroz;December;46,79;233,95;5;Super Econômico;Sinop;Alimentos
+Dr. Vitor Gabriel Almeida;Ana Laura Ramos;31/12/2024;Suco;December;3,9;3,9;1;Mercado do Bairro;Rondonópolis;Bebidas
+Luna das Neves;Calebe Mendes;27/07/2024;Esponja;July;38,52;77,04;2;Super Econômico;Várzea Grande;Limpeza
+Vitória Martins;Dra. Melissa Almeida;18/08/2024;Suco;August;31,71;285,39;9;Atacadão Popular;Cuiabá;Bebidas
+Vitória Martins;Luiz Gustavo Nascimento;04/02/2025;Papel Higiênico;February;34,06;34,06;1;Supermercado Central;Sinop;Higiene
+João Vitor Moura;Srta. Emanuella Almeida;11/10/2024;Macarrão;October;6,66;46,62;7;Mercado do Bairro;Sinop;Alimentos
+Bárbara Ribeiro;Dra. Melissa Almeida;09/11/2024;Suco;November;29,84;89,52;3;Supermercado Central;Várzea Grande;Bebidas
+Vitória Martins;Luiza Dias;20/01/2025;Cerveja;January;29,45;29,45;1;Atacadão Popular;Cuiabá;Bebidas
+Rafaela Cunha;Srta. Emanuella Almeida;09/09/2024;Desinfetante;September;17,83;106,98;6;Super Econômico;Tangará da Serra;Limpeza
+Dr. Vitor Gabriel Almeida;Rafaela Ramos;16/06/2024;Detergente;June;18,02;144,16;8;Mercado do Bairro;Rondonópolis;Limpeza
+Ana Clara Barros;Julia Viana;20/04/2025;Ração para Gatos;April;21,1;21,1;1;Super Econômico;Sinop;Pet
+Ana Clara Barros;Luna Almeida;12/05/2024;Óleo;May;18,03;162,27;9;Atacadão Popular;Cuiabá;Alimentos
+Elisa Alves;Sra. Agatha Jesus;07/09/2024;Suco;September;45,15;225,75;5;Super Econômico;Cuiabá;Bebidas
+João Vitor Moura;Ana Clara da Cunha;03/12/2024;Açúcar;December;15,23;91,38;6;Super Econômico;Várzea Grande;Alimentos
+Ana Clara Barros;Lívia Pinto;07/06/2024;Areia Higiênica;June;7,23;28,92;4;Mercado do Bairro;Sinop;Pet
+Sr. Pietro Moraes;Stephany Costela;21/05/2024;Papel Higiênico;May;41,4;207,0;5;Atacadão Popular;Tangará da Serra;Higiene
+Giovanna Alves;Otávio Nunes;16/07/2024;Cerveja;July;38,86;194,3;5;Mercado do Bairro;Várzea Grande;Bebidas
+Ana Clara Barros;Evelyn Azevedo;03/06/2024;Desodorante;June;38,65;309,2;8;Supermercado Central;Cuiabá;Higiene
+João Lucas Correia;Clarice da Conceição;29/12/2024;Desinfetante;December;45,43;408,87;9;Supermercado Central;Cuiabá;Limpeza
+Sr. Pietro Moraes;Clarice da Conceição;26/11/2024;Areia Higiênica;November;41,38;82,76;2;Super Econômico;Várzea Grande;Pet
+Milena Pires;Lara Gonçalves;25/09/2024;Óleo;September;48,49;145,47;3;Mercado do Bairro;Tangará da Serra;Alimentos
+Vitória Martins;Gustavo Henrique Lima;13/12/2024;Shampoo;December;29,1;58,2;2;Atacadão Popular;Cuiabá;Higiene
+Sr. Pietro Moraes;Paulo Cardoso;30/08/2024;Papel Higiênico;August;14,03;112,24;8;Mercado do Bairro;Rondonópolis;Higiene
+Juliana Nunes;Ana Lívia Farias;26/03/2025;Areia Higiênica;March;39,07;351,63;9;Super Econômico;Sinop;Pet
+Dr. Vitor Gabriel Almeida;Laura Novaes;21/05/2024;Arroz;May;40,59;284,13;7;Supermercado Central;Várzea Grande;Alimentos
+Ana Clara Barros;Dr. Davi Duarte;16/02/2025;Cerveja;February;10,39;41,56;4;Mercado do Bairro;Sinop;Bebidas
+Dra. Lívia Gonçalves;Ana Clara da Cunha;03/12/2024;Óleo;December;13,41;26,82;2;Atacadão Popular;Rondonópolis;Alimentos
+Ana Laura Pereira;Gabrielly Farias;14/05/2024;Ração para Gatos;May;34,92;139,68;4;Supermercado Central;Rondonópolis;Pet
+João Vitor Moura;Manuela Lima;18/12/2024;Detergente;December;11,39;91,12;8;Supermercado Central;Várzea Grande;Limpeza
+Dr. Vitor Gabriel Almeida;Paulo Monteiro;26/06/2024;Refrigerante;June;31,03;310,3;10;Super Econômico;Cuiabá;Bebidas
+Isabel Melo;Dra. Melissa Almeida;27/04/2024;Macarrão;April;27,8;166,8;6;Super Econômico;Várzea Grande;Alimentos
+Ana Clara Barros;Dra. Melissa Almeida;21/11/2024;Refrigerante;November;23,38;116,9;5;Supermercado Central;Tangará da Serra;Bebidas
+Juliana Nunes;Luiz Felipe Oliveira;26/06/2024;Papel Higiênico;June;46,2;184,8;4;Mercado do Bairro;Rondonópolis;Higiene
+Dr. Vitor Gabriel Almeida;Ryan da Rocha;23/06/2024;Açúcar;June;32,97;263,76;8;Supermercado Central;Rondonópolis;Alimentos
+Milena Pires;Srta. Amanda Pinto;01/07/2024;Shampoo Pet;July;28,6;143,0;5;Supermercado Central;Cuiabá;Pet
+Ana Laura Pereira;Isabelly Porto;10/05/2024;Cerveja;May;12,7;114,3;9;Super Econômico;Cuiabá;Bebidas
+Ana Clara Barros;Luiz Felipe Freitas;12/09/2024;Suco;September;38,91;77,82;2;Super Econômico;Cuiabá;Bebidas
+Davi Luiz Silveira;Alana Novaes;25/06/2024;Desinfetante;June;3,76;37,6;10;Atacadão Popular;Tangará da Serra;Limpeza
+Elisa Alves;Luiz Felipe Freitas;31/05/2024;Papel Higiênico;May;37,57;112,71;3;Mercado do Bairro;Rondonópolis;Higiene
+Elisa Alves;Henrique Peixoto;25/11/2024;Petisco;November;17,38;34,76;2;Super Econômico;Tangará da Serra;Pet
+Milena Pires;Leonardo Moreira;29/06/2024;Areia Higiênica;June;45,79;274,74;6;Mercado do Bairro;Sinop;Pet
+Elisa Alves;Calebe Mendes;25/06/2024;Refrigerante;June;47,91;431,19;9;Atacadão Popular;Sinop;Bebidas
+João Lucas Correia;Nina Almeida;11/07/2024;Desodorante;July;29,74;237,92;8;Super Econômico;Rondonópolis;Higiene
+Ana Laura Pereira;Dra. Isadora da Luz;19/02/2025;Cerveja;February;21,6;194,4;9;Supermercado Central;Rondonópolis;Bebidas
+Juliana Nunes;Joana Campos;11/04/2025;Desodorante;April;17,95;143,6;8;Mercado do Bairro;Cuiabá;Higiene
+João Vitor Moura;Vitor Hugo Barbosa;20/12/2024;Areia Higiênica;December;20,62;82,48;4;Super Econômico;Várzea Grande;Pet
+Dra. Lívia Gonçalves;João Vitor Rezende;20/10/2024;Vinho;October;42,62;298,34;7;Super Econômico;Várzea Grande;Bebidas
+Isabel Melo;Sr. Gustavo Mendes;18/09/2024;Desodorante;September;27,87;139,35;5;Atacadão Popular;Rondonópolis;Higiene
+João Vitor Moura;Manuela Lima;06/03/2025;Sabonete;March;13,39;107,12;8;Supermercado Central;Tangará da Serra;Higiene
+Giovanna Alves;Sra. Esther Silveira;20/01/2025;Água Sanitária;January;38,75;232,5;6;Mercado do Bairro;Rondonópolis;Limpeza
+Isabel Melo;Thomas Nunes;30/07/2024;Sabão em Pó;July;22,12;66,36;3;Supermercado Central;Tangará da Serra;Limpeza
+Samuel Nascimento;Lívia Pinto;22/11/2024;Água Sanitária;November;41,35;289,45;7;Atacadão Popular;Sinop;Limpeza
+Isabel Melo;Pedro Teixeira;29/11/2024;Suco;November;2,92;23,36;8;Mercado do Bairro;Rondonópolis;Bebidas
+Milena Pires;Pedro Teixeira;08/05/2024;Cerveja;May;44,41;177,64;4;Super Econômico;Cuiabá;Bebidas
+Samuel Nascimento;Joana Novaes;16/11/2024;Ração para Cães;November;8,11;56,77;7;Super Econômico;Cuiabá;Pet
+Elisa Alves;Nina Almeida;29/05/2024;Sabão em Pó;May;10,54;94,86;9;Mercado do Bairro;Sinop;Limpeza
+Juliana Nunes;Pedro Henrique Ramos;02/08/2024;Água Sanitária;August;26,97;242,73;9;Atacadão Popular;Sinop;Limpeza
+Dra. Lívia Gonçalves;Luiz Felipe Oliveira;19/12/2024;Açúcar;December;43,64;130,92;3;Super Econômico;Tangará da Serra;Alimentos
+Ana Laura Pereira;Thomas Nunes;03/07/2024;Areia Higiênica;July;18,68;74,72;4;Supermercado Central;Cuiabá;Pet
+Luna das Neves;Enzo Gabriel Fogaça;20/02/2025;Shampoo;February;48,54;48,54;1;Mercado do Bairro;Rondonópolis;Higiene
+Giovanna Alves;Bianca Duarte;09/04/2025;Ração para Cães;April;11,87;83,09;7;Mercado do Bairro;Várzea Grande;Pet
+Isabel Melo;Benício Rodrigues;01/12/2024;Detergente;December;26,05;260,5;10;Super Econômico;Rondonópolis;Limpeza
+Dr. Vitor Gabriel Almeida;Isis Farias;07/01/2025;Cerveja;January;26,03;52,06;2;Super Econômico;Rondonópolis;Bebidas
+Samuel Nascimento;Daniel Martins;07/12/2024;Areia Higiênica;December;18,33;36,66;2;Mercado do Bairro;Cuiabá;Pet
+Luna das Neves;Vitor Hugo Barbosa;20/09/2024;Petisco;September;33,73;337,3;10;Super Econômico;Tangará da Serra;Pet
+Ryan Azevedo;Alana Novaes;08/01/2025;Creme Dental;January;49,83;298,98;6;Atacadão Popular;Sinop;Higiene
+Dr. Vitor Gabriel Almeida;Pietra da Rocha;03/06/2024;Shampoo Pet;June;42,02;294,14;7;Atacadão Popular;Sinop;Pet
+Ana Clara Barros;Ana Lívia Farias;17/06/2024;Suco;June;48,74;243,7;5;Super Econômico;Rondonópolis;Bebidas
+Isabel Melo;Henrique Peixoto;20/10/2024;Ração para Gatos;October;17,03;17,03;1;Atacadão Popular;Sinop;Pet
+Ana Clara Barros;Clarice da Mata;15/05/2024;Refrigerante;May;16,81;100,86;6;Supermercado Central;Várzea Grande;Bebidas
+Vitória Martins;Pietra da Rocha;15/05/2024;Refrigerante;May;38,15;76,3;2;Supermercado Central;Tangará da Serra;Bebidas
+Rafaela Cunha;Rafaela Ramos;16/01/2025;Cerveja;January;32,03;320,3;10;Supermercado Central;Sinop;Bebidas
+Samuel Nascimento;Sr. Thomas Porto;05/05/2024;Macarrão;May;29,32;117,28;4;Atacadão Popular;Cuiabá;Alimentos
+Rafaela Cunha;Bianca Duarte;16/08/2024;Óleo;August;23,99;95,96;4;Supermercado Central;Cuiabá;Alimentos
+Giovanna Alves;Nina Costa;18/04/2025;Vinho;April;26,32;263,2;10;Atacadão Popular;Rondonópolis;Bebidas
+Bárbara Ribeiro;Rafaela Ramos;18/10/2024;Óleo;October;18,17;181,7;10;Mercado do Bairro;Tangará da Serra;Alimentos
+Dra. Clara da Paz;Gabrielly Correia;05/01/2025;Ração para Cães;January;20,19;80,76;4;Super Econômico;Sinop;Pet
+Vitória Martins;Sra. Esther Silveira;25/03/2025;Ração para Gatos;March;34,97;139,88;4;Atacadão Popular;Rondonópolis;Pet
+Milena Pires;Clarice da Mata;17/07/2024;Petisco;July;35,29;211,74;6;Atacadão Popular;Cuiabá;Pet
+Ryan Azevedo;Gustavo Henrique Lima;02/07/2024;Sabonete;July;42,41;381,69;9;Supermercado Central;Cuiabá;Higiene
+Vitória Martins;Srta. Mariane Moraes;22/05/2024;Feijão;May;3,76;26,32;7;Atacadão Popular;Rondonópolis;Alimentos
+Dra. Clara da Paz;Sra. Agatha Jesus;11/08/2024;Suco;August;7,97;79,7;10;Super Econômico;Tangará da Serra;Bebidas
+Elisa Alves;Fernanda Aragão;28/09/2024;Feijão;September;46,19;184,76;4;Mercado do Bairro;Cuiabá;Alimentos
+Milena Pires;Theo Rezende;02/11/2024;Suco;November;36,27;290,16;8;Super Econômico;Rondonópolis;Bebidas
+Ryan Azevedo;Alana Novaes;15/06/2024;Sabão em Pó;June;18,97;151,76;8;Atacadão Popular;Tangará da Serra;Limpeza
+Giovanna Alves;Paulo Cardoso;14/06/2024;Arroz;June;37,36;298,88;8;Super Econômico;Rondonópolis;Alimentos
+Ryan Azevedo;Luiz Gustavo Nascimento;04/02/2025;Detergente;February;29,17;175,02;6;Mercado do Bairro;Sinop;Limpeza
+João Lucas Correia;Marina da Conceição;11/07/2024;Água Mineral;July;49,03;490,3;10;Supermercado Central;Várzea Grande;Bebidas
+Dra. Lívia Gonçalves;Eloah Gonçalves;04/04/2025;Açúcar;April;49,53;247,65;5;Mercado do Bairro;Tangará da Serra;Alimentos
+Ryan Azevedo;Otávio Nunes;27/04/2024;Sabonete;April;18,27;91,35;5;Mercado do Bairro;Várzea Grande;Higiene
+Ana Laura Pereira;Paulo Monteiro;14/05/2024;Suco;May;13,66;95,62;7;Atacadão Popular;Sinop;Bebidas
+Davi Luiz Silveira;Lara Gonçalves;06/11/2024;Shampoo Pet;November;45,55;227,75;5;Super Econômico;Cuiabá;Pet
+Ryan Azevedo;Beatriz da Rosa;09/12/2024;Água Sanitária;December;26,15;52,3;2;Mercado do Bairro;Rondonópolis;Limpeza
+Giovanna Alves;Nicolas Cunha;06/09/2024;Ração para Cães;September;32,15;321,5;10;Supermercado Central;Sinop;Pet
+Giovanna Alves;Nina Costa;25/11/2024;Ração para Cães;November;25,2;75,6;3;Supermercado Central;Sinop;Pet
+Davi Luiz Silveira;Thomas Teixeira;20/01/2025;Esponja;January;11,75;94,0;8;Mercado do Bairro;Cuiabá;Limpeza
+Vitória Martins;Raul Silveira;23/04/2024;Esponja;April;47,27;283,62;6;Atacadão Popular;Sinop;Limpeza
+Sr. Pietro Moraes;Lívia Pinto;29/11/2024;Refrigerante;November;5,45;21,8;4;Mercado do Bairro;Várzea Grande;Bebidas
+Dra. Clara da Paz;Joana Campos;06/08/2024;Desodorante;August;33,35;66,7;2;Supermercado Central;Cuiabá;Higiene
+Sr. Pietro Moraes;Julia Viana;24/06/2024;Detergente;June;4,02;8,04;2;Atacadão Popular;Cuiabá;Limpeza
+Sr. Pietro Moraes;Arthur Viana;26/09/2024;Açúcar;September;33,4;167,0;5;Super Econômico;Várzea Grande;Alimentos
+Ana Laura Pereira;Srta. Amanda Pinto;10/04/2025;Arroz;April;42,41;127,23;3;Super Econômico;Rondonópolis;Alimentos
+Vitória Martins;Emilly Moura;30/03/2025;Água Sanitária;March;25,39;152,34;6;Super Econômico;Cuiabá;Limpeza
+João Vitor Moura;Luna Almeida;04/05/2024;Macarrão;May;46,88;328,16;7;Supermercado Central;Rondonópolis;Alimentos
+Juliana Nunes;Marina da Conceição;08/01/2025;Shampoo;January;48,12;240,6;5;Supermercado Central;Tangará da Serra;Higiene
+Luna das Neves;Paulo Monteiro;09/01/2025;Óleo;January;43,65;392,85;9;Mercado do Bairro;Várzea Grande;Alimentos
+Dra. Clara da Paz;Pedro Teixeira;16/03/2025;Creme Dental;March;16,52;82,6;5;Mercado do Bairro;Várzea Grande;Higiene
+Vitória Martins;Isabelly Porto;23/03/2025;Shampoo;March;37,17;297,36;8;Atacadão Popular;Tangará da Serra;Higiene
+Dra. Clara da Paz;Stephany Costela;05/01/2025;Açúcar;January;40,21;361,89;9;Mercado do Bairro;Várzea Grande;Alimentos
+Ana Laura Pereira;Enzo Gabriel Fogaça;28/02/2025;Ração para Cães;February;31,58;221,06;7;Super Econômico;Várzea Grande;Pet
+Giovanna Alves;Henrique Peixoto;25/04/2024;Sabão em Pó;April;29,5;29,5;1;Super Econômico;Rondonópolis;Limpeza
+Dra. Lívia Gonçalves;Sr. Otávio Souza;20/04/2025;Ração para Gatos;April;28,43;284,3;10;Mercado do Bairro;Várzea Grande;Pet
+Vitória Martins;Daniel Martins;06/10/2024;Refrigerante;October;9,25;9,25;1;Super Econômico;Sinop;Bebidas
+Dra. Clara da Paz;Igor Gonçalves;22/01/2025;Açúcar;January;31,66;189,96;6;Supermercado Central;Tangará da Serra;Alimentos
+Ryan Azevedo;Lara Gonçalves;26/01/2025;Água Sanitária;January;43,1;258,6;6;Mercado do Bairro;Tangará da Serra;Limpeza
+Dra. Clara da Paz;Fernanda Aragão;02/08/2024;Ração para Gatos;August;40,12;40,12;1;Super Econômico;Cuiabá;Pet
+Vitória Martins;Vitor Hugo Barbosa;27/10/2024;Papel Higiênico;October;18,52;111,12;6;Super Econômico;Tangará da Serra;Higiene
+Sr. Pietro Moraes;Eduardo Peixoto;27/08/2024;Desodorante;August;47,76;286,56;6;Mercado do Bairro;Cuiabá;Higiene
+Sr. Pietro Moraes;Henrique Azevedo;13/07/2024;Desinfetante;July;30,67;214,69;7;Super Econômico;Tangará da Serra;Limpeza
+Ana Clara Barros;Ana Lívia Farias;03/02/2025;Arroz;February;47,19;330,33;7;Supermercado Central;Várzea Grande;Alimentos
+Bárbara Ribeiro;Paulo Cardoso;03/04/2025;Ração para Cães;April;39,52;158,08;4;Supermercado Central;Várzea Grande;Pet
+Elisa Alves;Beatriz da Rosa;08/03/2025;Creme Dental;March;35,86;251,02;7;Super Econômico;Sinop;Higiene
+Dra. Clara da Paz;Beatriz Moraes;09/05/2024;Desinfetante;May;2,58;25,8;10;Super Econômico;Cuiabá;Limpeza
+Samuel Nascimento;Calebe Mendes;19/10/2024;Papel Higiênico;October;37,55;75,1;2;Supermercado Central;Rondonópolis;Higiene
+Davi Luiz Silveira;Sophie Nascimento;22/09/2024;Areia Higiênica;September;11,79;11,79;1;Atacadão Popular;Várzea Grande;Pet
+Juliana Nunes;Maria Sophia Pinto;23/01/2025;Óleo;January;38,84;38,84;1;Atacadão Popular;Cuiabá;Alimentos
+Dra. Lívia Gonçalves;Paulo Monteiro;16/11/2024;Refrigerante;November;2,75;2,75;1;Supermercado Central;Rondonópolis;Bebidas
+Bárbara Ribeiro;Beatriz Moraes;28/07/2024;Ração para Gatos;July;29,49;147,45;5;Atacadão Popular;Rondonópolis;Pet
+Ana Clara Barros;Raul Correia;02/12/2024;Esponja;December;20,85;62,55;3;Super Econômico;Cuiabá;Limpeza
+Ryan Azevedo;Maria Cecília Cunha;20/02/2025;Sabonete;February;32,76;65,52;2;Supermercado Central;Várzea Grande;Higiene
+Bárbara Ribeiro;Camila Farias;28/05/2024;Macarrão;May;22,31;111,55;5;Mercado do Bairro;Tangará da Serra;Alimentos
+Samuel Nascimento;Joana Novaes;26/07/2024;Ração para Gatos;July;35,96;179,8;5;Mercado do Bairro;Rondonópolis;Pet
+Ana Clara Barros;Beatriz da Rosa;28/02/2025;Sabão em Pó;February;24,84;173,88;7;Supermercado Central;Sinop;Limpeza
+Vitória Martins;Henrique Azevedo;28/03/2025;Esponja;March;48,25;144,75;3;Super Econômico;Cuiabá;Limpeza
+João Vitor Moura;Evelyn Sales;09/07/2024;Desinfetante;July;45,17;180,68;4;Super Econômico;Rondonópolis;Limpeza
+Davi Luiz Silveira;Otávio Nunes;09/02/2025;Refrigerante;February;6,42;6,42;1;Atacadão Popular;Tangará da Serra;Bebidas
+Juliana Nunes;Manuela Lima;22/09/2024;Ração para Cães;September;33,6;168,0;5;Super Econômico;Rondonópolis;Pet
+João Vitor Moura;Igor Gonçalves;26/10/2024;Macarrão;October;6,65;19,95;3;Atacadão Popular;Rondonópolis;Alimentos
+Ryan Azevedo;Raul Silveira;02/12/2024;Refrigerante;December;28,67;28,67;1;Supermercado Central;Sinop;Bebidas
+Dra. Lívia Gonçalves;Pedro Henrique Ramos;27/09/2024;Ração para Cães;September;37,66;112,98;3;Super Econômico;Várzea Grande;Pet
+Dra. Clara da Paz;Manuela Lima;21/09/2024;Ração para Cães;September;20,5;184,5;9;Mercado do Bairro;Rondonópolis;Pet
+João Lucas Correia;Julia Viana;24/08/2024;Desodorante;August;45,96;45,96;1;Super Econômico;Várzea Grande;Higiene
+Juliana Nunes;Luiz Gustavo Nascimento;13/01/2025;Ração para Cães;January;9,58;57,48;6;Supermercado Central;Rondonópolis;Pet
+Dra. Clara da Paz;Srta. Emanuella Almeida;13/10/2024;Refrigerante;October;8,05;64,4;8;Supermercado Central;Rondonópolis;Bebidas
+Davi Luiz Silveira;Paulo Martins;03/07/2024;Água Mineral;July;28,53;228,24;8;Super Econômico;Cuiabá;Bebidas
+João Vitor Moura;Lívia Pinto;19/08/2024;Feijão;August;14,05;140,5;10;Atacadão Popular;Várzea Grande;Alimentos
+Juliana Nunes;Enzo Farias;22/10/2024;Shampoo Pet;October;20,01;20,01;1;Mercado do Bairro;Várzea Grande;Pet
+Dr. Vitor Gabriel Almeida;Paulo Cardoso;15/08/2024;Sabonete;August;8,83;35,32;4;Supermercado Central;Tangará da Serra;Higiene
+Davi Luiz Silveira;Enzo Farias;15/03/2025;Shampoo Pet;March;32,24;96,72;3;Mercado do Bairro;Cuiabá;Pet
+Milena Pires;Rafaela Ramos;11/04/2025;Areia Higiênica;April;3,83;11,49;3;Mercado do Bairro;Cuiabá;Pet
+Dra. Clara da Paz;Luiz Gustavo Nascimento;11/11/2024;Feijão;November;10,58;105,8;10;Supermercado Central;Cuiabá;Alimentos
+Juliana Nunes;Eduardo Mendes;09/01/2025;Papel Higiênico;January;19,34;19,34;1;Super Econômico;Cuiabá;Higiene
+Giovanna Alves;Sophie Nascimento;10/10/2024;Sabão em Pó;October;32,79;32,79;1;Supermercado Central;Cuiabá;Limpeza
+Isabel Melo;Joana Novaes;17/08/2024;Shampoo;August;33,85;67,7;2;Atacadão Popular;Rondonópolis;Higiene
+João Vitor Moura;Isabelly Porto;16/11/2024;Água Sanitária;November;14,6;29,2;2;Super Econômico;Rondonópolis;Limpeza
+Sr. Pietro Moraes;Joana Novaes;25/11/2024;Ração para Gatos;November;45,11;225,55;5;Atacadão Popular;Sinop;Pet
+Milena Pires;Joana Campos;02/01/2025;Vinho;January;31,25;31,25;1;Atacadão Popular;Sinop;Bebidas
+Dra. Clara da Paz;Sabrina Pires;26/02/2025;Água Sanitária;February;16,1;48,3;3;Mercado do Bairro;Cuiabá;Limpeza
+Dra. Lívia Gonçalves;Luiza Dias;28/12/2024;Cerveja;December;31,4;282,6;9;Supermercado Central;Várzea Grande;Bebidas
+Dr. Vitor Gabriel Almeida;Agatha da Rosa;05/03/2025;Refrigerante;March;43,37;260,22;6;Atacadão Popular;Cuiabá;Bebidas
+Juliana Nunes;Ana Lívia Farias;13/12/2024;Detergente;December;18,63;18,63;1;Mercado do Bairro;Várzea Grande;Limpeza
+Luna das Neves;Raul Silveira;08/02/2025;Shampoo;February;2,13;21,3;10;Supermercado Central;Várzea Grande;Higiene
+Luna das Neves;Pedro Teixeira;17/12/2024;Petisco;December;6,42;57,78;9;Mercado do Bairro;Várzea Grande;Pet
+Dra. Clara da Paz;Bianca Duarte;28/03/2025;Papel Higiênico;March;31,55;31,55;1;Super Econômico;Cuiabá;Higiene
+Juliana Nunes;Lívia Pinto;27/12/2024;Areia Higiênica;December;47,4;284,4;6;Super Econômico;Tangará da Serra;Pet
+Dra. Clara da Paz;Felipe Cardoso;17/09/2024;Areia Higiênica;September;24,44;244,4;10;Mercado do Bairro;Sinop;Pet
+Sr. Pietro Moraes;Srta. Mariane Moraes;15/05/2024;Suco;May;4,49;31,43;7;Supermercado Central;Rondonópolis;Bebidas
+Davi Luiz Silveira;Paulo Monteiro;12/11/2024;Óleo;November;18,56;111,36;6;Supermercado Central;Sinop;Alimentos
+João Lucas Correia;Raul Correia;17/10/2024;Desodorante;October;15,77;126,16;8;Super Econômico;Cuiabá;Higiene
+João Lucas Correia;Paulo Martins;23/02/2025;Ração para Cães;February;21,91;153,37;7;Super Econômico;Sinop;Pet
+Ryan Azevedo;Nicolas Cunha;22/06/2024;Refrigerante;June;8,97;80,73;9;Supermercado Central;Cuiabá;Bebidas
+Juliana Nunes;Sophie Nascimento;04/02/2025;Macarrão;February;42,33;296,31;7;Atacadão Popular;Sinop;Alimentos
+Dra. Clara da Paz;Marina da Conceição;16/10/2024;Açúcar;October;14,29;28,58;2;Mercado do Bairro;Várzea Grande;Alimentos
+Dra. Clara da Paz;Lara Gonçalves;10/07/2024;Água Mineral;July;18,16;90,8;5;Mercado do Bairro;Cuiabá;Bebidas
+Isabel Melo;Joana Campos;20/02/2025;Esponja;February;15,51;77,55;5;Supermercado Central;Várzea Grande;Limpeza
+Samuel Nascimento;Daniel Martins;06/01/2025;Arroz;January;13,63;68,15;5;Mercado do Bairro;Sinop;Alimentos
+Milena Pires;Gabrielly Correia;03/12/2024;Arroz;December;30,18;301,8;10;Supermercado Central;Cuiabá;Alimentos
+Elisa Alves;Agatha da Rosa;19/12/2024;Areia Higiênica;December;46,47;185,88;4;Atacadão Popular;Cuiabá;Pet
+Samuel Nascimento;Alana Novaes;09/11/2024;Areia Higiênica;November;10,69;74,83;7;Super Econômico;Cuiabá;Pet
+Elisa Alves;Clarice da Mata;11/11/2024;Esponja;November;10,41;20,82;2;Supermercado Central;Sinop;Limpeza
+Samuel Nascimento;Lara Gonçalves;12/08/2024;Ração para Cães;August;5,3;42,4;8;Mercado do Bairro;Rondonópolis;Pet
+Dra. Clara da Paz;Maria Cecília Cunha;08/04/2025;Desodorante;April;2,4;21,6;9;Super Econômico;Rondonópolis;Higiene
+Dra. Lívia Gonçalves;Luiz Otávio Peixoto;25/04/2024;Desinfetante;April;35,8;179,0;5;Super Econômico;Sinop;Limpeza
+Juliana Nunes;Gabrielly Correia;04/02/2025;Shampoo;February;32,84;197,04;6;Mercado do Bairro;Tangará da Serra;Higiene
+Dra. Lívia Gonçalves;Sra. Mariana Nunes;29/12/2024;Cerveja;December;28,45;28,45;1;Super Econômico;Rondonópolis;Bebidas
+Isabel Melo;Luna Almeida;13/04/2025;Creme Dental;April;16,98;118,86;7;Super Econômico;Cuiabá;Higiene
+João Lucas Correia;Luiza Dias;21/06/2024;Ração para Cães;June;38,01;76,02;2;Supermercado Central;Sinop;Pet
+Luna das Neves;Dr. Davi Duarte;09/11/2024;Sabão em Pó;November;42,13;84,26;2;Supermercado Central;Várzea Grande;Limpeza
+Vitória Martins;Vitor Hugo Barbosa;23/08/2024;Papel Higiênico;August;3,11;3,11;1;Supermercado Central;Sinop;Higiene
+Elisa Alves;Gustavo Henrique Lima;24/02/2025;Arroz;February;31,13;155,65;5;Mercado do Bairro;Sinop;Alimentos
+Luna das Neves;Dra. Isadora da Luz;19/07/2024;Açúcar;July;9,64;77,12;8;Mercado do Bairro;Tangará da Serra;Alimentos
+João Lucas Correia;Dr. Davi Duarte;28/04/2024;Macarrão;April;8,81;88,1;10;Mercado do Bairro;Rondonópolis;Alimentos
+Elisa Alves;Srta. Amanda Pinto;21/01/2025;Desinfetante;January;3,53;3,53;1;Mercado do Bairro;Sinop;Limpeza
+Dr. Vitor Gabriel Almeida;Beatriz Moraes;18/03/2025;Esponja;March;2,41;24,1;10;Supermercado Central;Tangará da Serra;Limpeza
+Elisa Alves;Lara Gonçalves;22/09/2024;Papel Higiênico;September;28,78;57,56;2;Atacadão Popular;Sinop;Higiene
+João Lucas Correia;Sra. Agatha Jesus;01/07/2024;Feijão;July;17,12;102,72;6;Mercado do Bairro;Cuiabá;Alimentos
+Dr. Vitor Gabriel Almeida;Arthur Viana;10/06/2024;Refrigerante;June;10,07;70,49;7;Supermercado Central;Tangará da Serra;Bebidas
+Vitória Martins;Bernardo Cardoso;23/11/2024;Feijão;November;34,14;136,56;4;Atacadão Popular;Tangará da Serra;Alimentos
+Juliana Nunes;Luiz Otávio Peixoto;24/01/2025;Areia Higiênica;January;2,23;20,07;9;Supermercado Central;Várzea Grande;Pet
+Sr. Pietro Moraes;Beatriz Moraes;26/10/2024;Areia Higiênica;October;16,39;147,51;9;Supermercado Central;Várzea Grande;Pet
+João Vitor Moura;Sra. Agatha Jesus;11/10/2024;Arroz;October;2,27;11,35;5;Mercado do Bairro;Tangará da Serra;Alimentos
+Samuel Nascimento;Beatriz Moraes;09/07/2024;Ração para Cães;July;44,3;177,2;4;Mercado do Bairro;Tangará da Serra;Pet
+Elisa Alves;Ana Lívia Farias;30/12/2024;Macarrão;December;2,08;8,32;4;Super Econômico;Rondonópolis;Alimentos
+João Vitor Moura;Otávio Nunes;24/05/2024;Esponja;May;42,05;420,5;10;Supermercado Central;Rondonópolis;Limpeza
+Ryan Azevedo;Clarice da Conceição;15/03/2025;Ração para Gatos;March;13,0;78,0;6;Supermercado Central;Tangará da Serra;Pet
+Rafaela Cunha;Lívia Pinto;10/12/2024;Ração para Gatos;December;10,56;21,12;2;Mercado do Bairro;Várzea Grande;Pet
+Dr. Vitor Gabriel Almeida;Rafaela Ramos;27/12/2024;Água Sanitária;December;40,76;285,32;7;Super Econômico;Tangará da Serra;Limpeza
+Isabel Melo;Julia Viana;11/06/2024;Papel Higiênico;June;13,78;13,78;1;Supermercado Central;Rondonópolis;Higiene
+Luna das Neves;João Rocha;21/11/2024;Cerveja;November;45,34;226,7;5;Super Econômico;Cuiabá;Bebidas
+Giovanna Alves;Luiza Dias;17/11/2024;Açúcar;November;10,38;93,42;9;Atacadão Popular;Tangará da Serra;Alimentos
+Juliana Nunes;Nicolas Cunha;13/07/2024;Creme Dental;July;40,87;204,35;5;Supermercado Central;Cuiabá;Higiene
+Giovanna Alves;Dr. Davi Duarte;20/10/2024;Creme Dental;October;33,84;304,56;9;Mercado do Bairro;Cuiabá;Higiene
+Giovanna Alves;Igor Gonçalves;03/02/2025;Macarrão;February;11,84;94,72;8;Super Econômico;Rondonópolis;Alimentos
+Dr. Vitor Gabriel Almeida;Luiz Felipe Freitas;27/10/2024;Vinho;October;34,31;205,86;6;Atacadão Popular;Rondonópolis;Bebidas
+Milena Pires;Sr. Matheus da Mata;21/10/2024;Água Sanitária;October;13,28;66,4;5;Atacadão Popular;Várzea Grande;Limpeza
+Davi Luiz Silveira;Nina Costa;15/09/2024;Desodorante;September;44,3;88,6;2;Atacadão Popular;Sinop;Higiene
+Sr. Pietro Moraes;Sr. Gustavo Mendes;04/08/2024;Desodorante;August;7,35;51,45;7;Supermercado Central;Sinop;Higiene
+Sr. Pietro Moraes;Ana Clara da Cunha;06/07/2024;Refrigerante;July;44,03;88,06;2;Super Econômico;Rondonópolis;Bebidas
+Juliana Nunes;Lívia Pinto;22/06/2024;Ração para Cães;June;45,83;91,66;2;Mercado do Bairro;Sinop;Pet
+Isabel Melo;Sra. Mariana Nunes;12/05/2024;Suco;May;15,73;78,65;5;Mercado do Bairro;Várzea Grande;Bebidas
+Milena Pires;Alana Novaes;18/11/2024;Água Mineral;November;25,06;50,12;2;Supermercado Central;Tangará da Serra;Bebidas
+João Lucas Correia;Eloah Gonçalves;13/02/2025;Arroz;February;22,95;229,5;10;Mercado do Bairro;Cuiabá;Alimentos
+Luna das Neves;Emilly Moura;07/01/2025;Desinfetante;January;28,0;196,0;7;Supermercado Central;Sinop;Limpeza
+Milena Pires;Isabelly Porto;07/11/2024;Óleo;November;39,36;393,6;10;Atacadão Popular;Tangará da Serra;Alimentos
+Giovanna Alves;Lara Gonçalves;28/05/2024;Shampoo Pet;May;32,18;160,9;5;Atacadão Popular;Sinop;Pet
+Rafaela Cunha;Davi Luiz Gonçalves;19/07/2024;Areia Higiênica;July;7,89;63,12;8;Super Econômico;Sinop;Pet
+Luna das Neves;Sra. Agatha Jesus;23/03/2025;Ração para Cães;March;4,76;19,04;4;Super Econômico;Tangará da Serra;Pet
+Ana Clara Barros;Srta. Mariane Moraes;24/08/2024;Ração para Cães;August;3,26;6,52;2;Mercado do Bairro;Tangará da Serra;Pet
+João Vitor Moura;Paulo Cardoso;24/08/2024;Ração para Gatos;August;47,52;95,04;2;Mercado do Bairro;Várzea Grande;Pet
+Ana Laura Pereira;Pedro Henrique Ramos;12/10/2024;Shampoo;October;18,57;55,71;3;Atacadão Popular;Tangará da Serra;Higiene
+Ana Clara Barros;Bernardo Cardoso;10/06/2024;Refrigerante;June;17,68;141,44;8;Mercado do Bairro;Tangará da Serra;Bebidas
+Giovanna Alves;Felipe Cardoso;08/02/2025;Água Mineral;February;14,72;44,16;3;Supermercado Central;Sinop;Bebidas
+Sr. Pietro Moraes;Srta. Mariane Moraes;07/10/2024;Shampoo;October;28,49;56,98;2;Atacadão Popular;Rondonópolis;Higiene
+Bárbara Ribeiro;Leonardo Duarte;17/03/2025;Cerveja;March;17,08;153,72;9;Super Econômico;Sinop;Bebidas
+Dra. Lívia Gonçalves;Ana Lívia Farias;23/09/2024;Água Mineral;September;4,4;30,8;7;Supermercado Central;Várzea Grande;Bebidas
+Rafaela Cunha;Benício Rodrigues;17/01/2025;Macarrão;January;2,43;12,15;5;Supermercado Central;Várzea Grande;Alimentos
+Dra. Clara da Paz;Daniel Martins;20/04/2025;Cerveja;April;29,72;178,32;6;Mercado do Bairro;Rondonópolis;Bebidas
+Rafaela Cunha;Daniel Martins;17/05/2024;Água Sanitária;May;46,55;465,5;10;Mercado do Bairro;Várzea Grande;Limpeza
+Vitória Martins;Daniel Martins;26/02/2025;Feijão;February;17,79;35,58;2;Super Econômico;Rondonópolis;Alimentos
+Dra. Lívia Gonçalves;Gabrielly Farias;01/06/2024;Água Sanitária;June;43,01;172,04;4;Atacadão Popular;Tangará da Serra;Limpeza
+Samuel Nascimento;João Rocha;24/06/2024;Petisco;June;47,73;143,19;3;Atacadão Popular;Sinop;Pet
+Milena Pires;Bernardo Cardoso;30/11/2024;Macarrão;November;19,15;76,6;4;Supermercado Central;Tangará da Serra;Alimentos
+Sr. Pietro Moraes;Igor Gonçalves;11/05/2024;Shampoo Pet;May;47,82;95,64;2;Supermercado Central;Rondonópolis;Pet
+Rafaela Cunha;Marina da Conceição;16/06/2024;Açúcar;June;35,92;179,6;5;Atacadão Popular;Sinop;Alimentos
+Juliana Nunes;Clarice da Mata;31/07/2024;Vinho;July;31,74;317,4;10;Super Econômico;Tangará da Serra;Bebidas
+Milena Pires;Dr. Marcos Vinicius Vieira;15/05/2024;Suco;May;36,09;144,36;4;Supermercado Central;Tangará da Serra;Bebidas
+Juliana Nunes;Pedro Henrique Ramos;25/02/2025;Refrigerante;February;13,27;119,43;9;Super Econômico;Sinop;Bebidas
+Juliana Nunes;Dr. Marcos Vinicius Vieira;15/07/2024;Desinfetante;July;30,01;90,03;3;Super Econômico;Cuiabá;Limpeza
+Bárbara Ribeiro;Manuela Lima;05/10/2024;Arroz;October;22,37;178,96;8;Supermercado Central;Tangará da Serra;Alimentos
+Ryan Azevedo;Lívia Pinto;06/08/2024;Papel Higiênico;August;47,92;287,52;6;Atacadão Popular;Sinop;Higiene
+Ryan Azevedo;João Vitor Rezende;30/09/2024;Desodorante;September;41,45;414,5;10;Atacadão Popular;Rondonópolis;Higiene
+João Vitor Moura;Leonardo Duarte;14/11/2024;Cerveja;November;14,38;115,04;8;Supermercado Central;Cuiabá;Bebidas
+Ryan Azevedo;João Vitor Rezende;02/02/2025;Papel Higiênico;February;12,72;127,2;10;Super Econômico;Várzea Grande;Higiene
+Vitória Martins;Sr. Thomas Porto;04/05/2024;Ração para Gatos;May;5,48;10,96;2;Atacadão Popular;Tangará da Serra;Pet
+Isabel Melo;Otávio Nunes;13/03/2025;Arroz;March;3,17;9,51;3;Atacadão Popular;Rondonópolis;Alimentos
+João Vitor Moura;Alana Novaes;06/11/2024;Desodorante;November;8,01;40,05;5;Super Econômico;Cuiabá;Higiene
+Luna das Neves;Dra. Isadora da Luz;11/07/2024;Óleo;July;8,22;82,2;10;Super Econômico;Cuiabá;Alimentos
+Dra. Lívia Gonçalves;Sra. Mariana Nunes;19/03/2025;Desinfetante;March;31,17;218,19;7;Super Econômico;Tangará da Serra;Limpeza
+Bárbara Ribeiro;Agatha da Rosa;13/08/2024;Açúcar;August;44,76;89,52;2;Supermercado Central;Tangará da Serra;Alimentos
+Luna das Neves;Srta. Mariane Moraes;11/10/2024;Desinfetante;October;48,03;96,06;2;Super Econômico;Tangará da Serra;Limpeza
+Luna das Neves;Pedro Henrique Ramos;01/01/2025;Suco;January;44,17;309,19;7;Mercado do Bairro;Cuiabá;Bebidas
+Ryan Azevedo;Leonardo Duarte;09/12/2024;Desinfetante;December;18,27;36,54;2;Supermercado Central;Várzea Grande;Limpeza
+Juliana Nunes;Thomas Nunes;19/09/2024;Desodorante;September;27,51;275,1;10;Atacadão Popular;Sinop;Higiene
+João Vitor Moura;Benício Rodrigues;12/04/2025;Creme Dental;April;45,52;91,04;2;Atacadão Popular;Rondonópolis;Higiene
+Rafaela Cunha;Evelyn Sales;02/02/2025;Shampoo;February;31,25;187,5;6;Mercado do Bairro;Rondonópolis;Higiene
+João Vitor Moura;Gabrielly Farias;23/04/2024;Creme Dental;April;26,21;209,68;8;Mercado do Bairro;Rondonópolis;Higiene
+Dr. Vitor Gabriel Almeida;Henrique Peixoto;06/12/2024;Papel Higiênico;December;42,38;211,9;5;Mercado do Bairro;Tangará da Serra;Higiene
+Juliana Nunes;Maria Cecília Cunha;28/03/2025;Vinho;March;11,88;59,4;5;Supermercado Central;Rondonópolis;Bebidas
+Ana Clara Barros;Sr. Thomas Porto;24/02/2025;Feijão;February;41,37;206,85;5;Mercado do Bairro;Várzea Grande;Alimentos
+Rafaela Cunha;Gustavo Henrique Lima;23/03/2025;Água Mineral;March;25,53;153,18;6;Mercado do Bairro;Tangará da Serra;Bebidas
+Ana Clara Barros;Emilly Moura;18/11/2024;Macarrão;November;41,88;125,64;3;Atacadão Popular;Sinop;Alimentos
+Dra. Clara da Paz;André Freitas;05/02/2025;Esponja;February;40,22;40,22;1;Atacadão Popular;Cuiabá;Limpeza
+João Vitor Moura;Eduardo Peixoto;03/06/2024;Desinfetante;June;20,4;81,6;4;Atacadão Popular;Cuiabá;Limpeza
+Ana Clara Barros;Luiz Felipe Oliveira;15/12/2024;Ração para Gatos;December;13,51;13,51;1;Supermercado Central;Cuiabá;Pet
+Samuel Nascimento;Fernanda Aragão;02/02/2025;Vinho;February;25,86;206,88;8;Supermercado Central;Várzea Grande;Bebidas
+Rafaela Cunha;Calebe Mendes;29/05/2024;Açúcar;May;47,44;284,64;6;Atacadão Popular;Cuiabá;Alimentos
+Luna das Neves;Sra. Mariana Nunes;12/07/2024;Papel Higiênico;July;36,31;72,62;2;Supermercado Central;Cuiabá;Higiene
+Isabel Melo;Pedro Teixeira;08/04/2025;Creme Dental;April;13,23;92,61;7;Mercado do Bairro;Rondonópolis;Higiene
+Milena Pires;Sr. Matheus da Mata;28/04/2024;Feijão;April;34,86;244,02;7;Atacadão Popular;Várzea Grande;Alimentos
+Rafaela Cunha;Arthur Viana;12/04/2025;Shampoo Pet;April;41,62;249,72;6;Atacadão Popular;Rondonópolis;Pet
+Dra. Clara da Paz;Joana Novaes;05/09/2024;Açúcar;September;19,9;139,3;7;Super Econômico;Cuiabá;Alimentos
+Elisa Alves;Leonardo Moreira;30/05/2024;Água Sanitária;May;38,92;116,76;3;Super Econômico;Sinop;Limpeza
+Ryan Azevedo;Enzo Farias;13/08/2024;Macarrão;August;43,6;348,8;8;Supermercado Central;Rondonópolis;Alimentos
+Juliana Nunes;Gustavo Henrique Lima;06/04/2025;Shampoo Pet;April;36,18;36,18;1;Super Econômico;Sinop;Pet
+Juliana Nunes;Bianca Duarte;08/05/2024;Desinfetante;May;40,04;200,2;5;Supermercado Central;Rondonópolis;Limpeza
+Milena Pires;Gabrielly Correia;15/10/2024;Ração para Cães;October;49,42;345,94;7;Mercado do Bairro;Tangará da Serra;Pet
+João Lucas Correia;Bianca Duarte;13/07/2024;Shampoo Pet;July;32,1;321,0;10;Mercado do Bairro;Sinop;Pet
+Ryan Azevedo;Gabrielly Correia;30/01/2025;Papel Higiênico;January;38,62;270,34;7;Atacadão Popular;Sinop;Higiene
+João Lucas Correia;Isabelly Porto;27/11/2024;Desodorante;November;28,57;85,71;3;Mercado do Bairro;Várzea Grande;Higiene
+Luna das Neves;Julia Viana;07/07/2024;Macarrão;July;45,98;91,96;2;Mercado do Bairro;Rondonópolis;Alimentos
+Luna das Neves;André Freitas;25/02/2025;Sabão em Pó;February;48,6;145,8;3;Mercado do Bairro;Sinop;Limpeza
+Dra. Clara da Paz;Clarice da Conceição;04/12/2024;Açúcar;December;47,85;143,55;3;Supermercado Central;Rondonópolis;Alimentos
+Giovanna Alves;Rafaela Ramos;08/04/2025;Shampoo;April;45,13;180,52;4;Supermercado Central;Cuiabá;Higiene
+Rafaela Cunha;Stephany Costela;24/02/2025;Água Mineral;February;15,86;47,58;3;Super Econômico;Cuiabá;Bebidas
+Milena Pires;Henrique Azevedo;13/04/2025;Macarrão;April;6,14;24,56;4;Supermercado Central;Sinop;Alimentos
+João Vitor Moura;Joana Novaes;19/06/2024;Feijão;June;7,65;45,9;6;Super Econômico;Tangará da Serra;Alimentos
+Dra. Lívia Gonçalves;Daniel Martins;07/09/2024;Cerveja;September;21,34;149,38;7;Super Econômico;Sinop;Bebidas
+Milena Pires;Agatha da Rosa;02/04/2025;Creme Dental;April;34,03;34,03;1;Supermercado Central;Sinop;Higiene
+Isabel Melo;Enzo Farias;14/12/2024;Petisco;December;9,13;63,91;7;Atacadão Popular;Tangará da Serra;Pet
+Isabel Melo;Evelyn Azevedo;15/03/2025;Shampoo;March;47,76;429,84;9;Supermercado Central;Tangará da Serra;Higiene
+Ana Laura Pereira;Gustavo Henrique Lima;12/08/2024;Vinho;August;29,53;29,53;1;Atacadão Popular;Tangará da Serra;Bebidas
+Davi Luiz Silveira;Beatriz da Rosa;19/08/2024;Suco;August;23,99;239,9;10;Atacadão Popular;Várzea Grande;Bebidas
+Elisa Alves;Henrique Azevedo;10/07/2024;Esponja;July;16,81;134,48;8;Atacadão Popular;Várzea Grande;Limpeza
+Ana Laura Pereira;Dra. Melissa Almeida;20/10/2024;Areia Higiênica;October;48,99;293,94;6;Atacadão Popular;Cuiabá;Pet
+Bárbara Ribeiro;Maria Cecília Cunha;19/09/2024;Água Mineral;September;7,52;52,64;7;Mercado do Bairro;Tangará da Serra;Bebidas
+Sr. Pietro Moraes;Calebe Mendes;09/05/2024;Água Sanitária;May;43,45;304,15;7;Atacadão Popular;Tangará da Serra;Limpeza
+Dra. Lívia Gonçalves;Gustavo Henrique Lima;06/05/2024;Esponja;May;6,86;34,3;5;Supermercado Central;Rondonópolis;Limpeza
+Dr. Vitor Gabriel Almeida;Ryan da Rocha;09/03/2025;Feijão;March;19,49;19,49;1;Super Econômico;Tangará da Serra;Alimentos
+Giovanna Alves;Agatha da Rosa;18/01/2025;Detergente;January;31,4;157,0;5;Mercado do Bairro;Várzea Grande;Limpeza
+Dra. Clara da Paz;Eduardo Mendes;25/08/2024;Suco;August;17,15;171,5;10;Supermercado Central;Várzea Grande;Bebidas
+Milena Pires;Evelyn Azevedo;26/07/2024;Feijão;July;48,92;195,68;4;Mercado do Bairro;Cuiabá;Alimentos
+Rafaela Cunha;Beatriz da Rosa;05/11/2024;Água Sanitária;November;46,92;93,84;2;Atacadão Popular;Sinop;Limpeza
+Isabel Melo;Fernanda Aragão;24/05/2024;Arroz;May;15,36;76,8;5;Supermercado Central;Tangará da Serra;Alimentos
+Ana Laura Pereira;Isabelly Porto;12/01/2025;Arroz;January;30,8;154,0;5;Atacadão Popular;Várzea Grande;Alimentos
+Dra. Lívia Gonçalves;Sr. Matheus da Mata;09/07/2024;Macarrão;July;4,32;38,88;9;Supermercado Central;Cuiabá;Alimentos
+Bárbara Ribeiro;Gabrielly Correia;03/10/2024;Macarrão;October;47,06;235,3;5;Mercado do Bairro;Várzea Grande;Alimentos
+Elisa Alves;Sr. Thomas Porto;12/08/2024;Petisco;August;25,61;25,61;1;Super Econômico;Tangará da Serra;Pet
+Samuel Nascimento;Beatriz Moraes;03/08/2024;Feijão;August;38,61;115,83;3;Super Econômico;Tangará da Serra;Alimentos
+Elisa Alves;Dr. Marcos Vinicius Vieira;11/04/2025;Água Sanitária;April;4,45;40,05;9;Mercado do Bairro;Rondonópolis;Limpeza
+João Vitor Moura;Clarice da Mata;31/01/2025;Óleo;January;14,3;14,3;1;Super Econômico;Tangará da Serra;Alimentos
+Dra. Lívia Gonçalves;Sr. Matheus da Mata;20/04/2025;Cerveja;April;48,65;97,3;2;Supermercado Central;Várzea Grande;Bebidas
+Giovanna Alves;Pietra da Rocha;14/10/2024;Desinfetante;October;44,69;89,38;2;Mercado do Bairro;Cuiabá;Limpeza
+Vitória Martins;Beatriz Moraes;05/11/2024;Cerveja;November;40,91;81,82;2;Super Econômico;Sinop;Bebidas
+Isabel Melo;Pedro Henrique Ramos;10/06/2024;Petisco;June;46,86;468,6;10;Mercado do Bairro;Cuiabá;Pet
+Giovanna Alves;Agatha da Rosa;26/12/2024;Macarrão;December;24,65;49,3;2;Super Econômico;Cuiabá;Alimentos
+Dr. Vitor Gabriel Almeida;Calebe Mendes;14/01/2025;Desodorante;January;10,97;109,7;10;Mercado do Bairro;Sinop;Higiene
+Luna das Neves;Camila Farias;09/04/2025;Arroz;April;15,11;45,33;3;Supermercado Central;Cuiabá;Alimentos
+Vitória Martins;Enzo Farias;09/11/2024;Desodorante;November;26,08;130,4;5;Mercado do Bairro;Sinop;Higiene
+João Vitor Moura;Dra. Melissa Almeida;17/07/2024;Água Mineral;July;28,61;85,83;3;Supermercado Central;Sinop;Bebidas
+Ana Laura Pereira;Raul Silveira;14/05/2024;Ração para Gatos;May;29,43;88,29;3;Supermercado Central;Várzea Grande;Pet
+Giovanna Alves;Clarice da Mata;27/03/2025;Água Mineral;March;24,73;49,46;2;Mercado do Bairro;Tangará da Serra;Bebidas
+Ana Clara Barros;Maria Sophia Pinto;06/01/2025;Papel Higiênico;January;44,12;352,96;8;Supermercado Central;Tangará da Serra;Higiene
+Juliana Nunes;Alana Novaes;04/02/2025;Vinho;February;27,83;250,47;9;Mercado do Bairro;Várzea Grande;Bebidas
+Ana Laura Pereira;Otávio Nunes;13/03/2025;Sabonete;March;5,94;29,7;5;Supermercado Central;Cuiabá;Higiene
+Ana Clara Barros;Srta. Mariane Moraes;16/08/2024;Desinfetante;August;25,78;51,56;2;Atacadão Popular;Tangará da Serra;Limpeza
+Ryan Azevedo;Raul Correia;23/04/2025;Petisco;April;19,07;190,7;10;Atacadão Popular;Várzea Grande;Pet
+Dra. Clara da Paz;Eloah Gonçalves;23/08/2024;Cerveja;August;23,82;47,64;2;Super Econômico;Sinop;Bebidas
+Davi Luiz Silveira;Stephany Araújo;02/08/2024;Vinho;August;14,56;29,12;2;Atacadão Popular;Sinop;Bebidas
+João Lucas Correia;Otávio Nunes;20/11/2024;Água Sanitária;November;33,43;234,01;7;Mercado do Bairro;Tangará da Serra;Limpeza
+João Vitor Moura;Fernanda Aragão;22/06/2024;Sabão em Pó;June;30,35;121,4;4;Mercado do Bairro;Rondonópolis;Limpeza
+Ana Clara Barros;Fernanda Aragão;26/09/2024;Suco;September;22,72;136,32;6;Atacadão Popular;Cuiabá;Bebidas
+Isabel Melo;Ana Laura Ramos;13/11/2024;Óleo;November;48,2;192,8;4;Super Econômico;Tangará da Serra;Alimentos
+Juliana Nunes;Srta. Mariane Moraes;21/04/2025;Esponja;April;14,32;14,32;1;Supermercado Central;Cuiabá;Limpeza
+Elisa Alves;Sophie Nascimento;07/11/2024;Sabão em Pó;November;22,86;68,58;3;Atacadão Popular;Sinop;Limpeza
+Rafaela Cunha;Paulo Monteiro;11/07/2024;Ração para Gatos;July;31,19;187,14;6;Atacadão Popular;Tangará da Serra;Pet
+Elisa Alves;Pietra da Rocha;15/09/2024;Macarrão;September;11,89;118,9;10;Atacadão Popular;Tangará da Serra;Alimentos
+Dra. Lívia Gonçalves;Ana Carolina Nascimento;08/10/2024;Esponja;October;18,01;18,01;1;Super Econômico;Tangará da Serra;Limpeza
+Ryan Azevedo;Clarice da Conceição;17/04/2025;Água Sanitária;April;15,03;45,09;3;Atacadão Popular;Rondonópolis;Limpeza
+Sr. Pietro Moraes;Igor Gonçalves;19/02/2025;Creme Dental;February;35,23;70,46;2;Super Econômico;Tangará da Serra;Higiene
+Ryan Azevedo;Stephany Costela;19/03/2025;Cerveja;March;28,63;57,26;2;Mercado do Bairro;Várzea Grande;Bebidas
+Dra. Clara da Paz;Beatriz Moraes;01/12/2024;Shampoo;December;4,03;4,03;1;Mercado do Bairro;Tangará da Serra;Higiene
+Luna das Neves;André Freitas;02/10/2024;Sabão em Pó;October;11,36;11,36;1;Mercado do Bairro;Tangará da Serra;Limpeza
+Ana Laura Pereira;Dra. Melissa Almeida;25/03/2025;Feijão;March;22,3;178,4;8;Atacadão Popular;Tangará da Serra;Alimentos
+Isabel Melo;Marina da Conceição;05/12/2024;Shampoo Pet;December;25,93;155,58;6;Super Econômico;Várzea Grande;Pet
+Dra. Clara da Paz;Sophie Nascimento;23/08/2024;Vinho;August;36,21;325,89;9;Super Econômico;Várzea Grande;Bebidas
+João Vitor Moura;Sr. Otávio Souza;16/07/2024;Ração para Gatos;July;11,64;23,28;2;Mercado do Bairro;Tangará da Serra;Pet
+Ryan Azevedo;Nina Costa;14/10/2024;Arroz;October;48,61;97,22;2;Supermercado Central;Tangará da Serra;Alimentos
+Samuel Nascimento;Lívia Pinto;20/03/2025;Óleo;March;8,92;8,92;1;Super Econômico;Várzea Grande;Alimentos
+Elisa Alves;Sr. Otávio Souza;21/07/2024;Papel Higiênico;July;27,62;138,1;5;Super Econômico;Tangará da Serra;Higiene
+Bárbara Ribeiro;Gabrielly Correia;30/06/2024;Shampoo Pet;June;28,33;84,99;3;Atacadão Popular;Várzea Grande;Pet
+Samuel Nascimento;Dr. Marcos Vinicius Vieira;04/07/2024;Sabão em Pó;July;21,21;63,63;3;Super Econômico;Várzea Grande;Limpeza
+Dr. Vitor Gabriel Almeida;Gabrielly Correia;07/07/2024;Óleo;July;45,41;363,28;8;Super Econômico;Tangará da Serra;Alimentos
+João Vitor Moura;Bernardo Cardoso;21/01/2025;Desodorante;January;27,77;111,08;4;Mercado do Bairro;Várzea Grande;Higiene
+Luna das Neves;Luiz Gustavo Nascimento;19/09/2024;Óleo;September;12,98;103,84;8;Mercado do Bairro;Cuiabá;Alimentos
+Sr. Pietro Moraes;Thomas Nunes;06/09/2024;Ração para Cães;September;22,37;134,22;6;Super Econômico;Várzea Grande;Pet
+Sr. Pietro Moraes;Agatha da Rosa;28/12/2024;Água Mineral;December;37,06;333,54;9;Supermercado Central;Cuiabá;Bebidas
+Ana Clara Barros;Raul Correia;29/08/2024;Papel Higiênico;August;35,01;105,03;3;Mercado do Bairro;Várzea Grande;Higiene
+João Vitor Moura;Theo Rezende;12/03/2025;Detergente;March;27,91;279,1;10;Super Econômico;Sinop;Limpeza
+Dra. Lívia Gonçalves;Maria Cecília Cunha;29/06/2024;Vinho;June;5,94;59,4;10;Atacadão Popular;Várzea Grande;Bebidas
+Vitória Martins;Luiz Felipe Oliveira;13/09/2024;Suco;September;7,49;67,41;9;Super Econômico;Cuiabá;Bebidas
+Juliana Nunes;Joana Novaes;10/01/2025;Macarrão;January;9,05;27,15;3;Mercado do Bairro;Sinop;Alimentos
+Ana Clara Barros;Sophie Nascimento;30/12/2024;Óleo;December;14,0;84,0;6;Mercado do Bairro;Várzea Grande;Alimentos
+Vitória Martins;Bernardo Cardoso;11/03/2025;Creme Dental;March;9,23;18,46;2;Atacadão Popular;Cuiabá;Higiene
+Milena Pires;Leonardo Moreira;03/11/2024;Refrigerante;November;40,94;327,52;8;Supermercado Central;Várzea Grande;Bebidas
+Sr. Pietro Moraes;Calebe Mendes;14/12/2024;Creme Dental;December;13,61;136,1;10;Super Econômico;Sinop;Higiene
+Elisa Alves;Clarice da Conceição;26/10/2024;Óleo;October;8,99;71,92;8;Atacadão Popular;Rondonópolis;Alimentos
+Sr. Pietro Moraes;Beatriz da Rosa;04/06/2024;Esponja;June;21,98;87,92;4;Atacadão Popular;Cuiabá;Limpeza
+Vitória Martins;Ana Lívia Farias;02/09/2024;Suco;September;2,08;2,08;1;Atacadão Popular;Cuiabá;Bebidas
+Dr. Vitor Gabriel Almeida;João Rocha;28/04/2024;Esponja;April;17,87;53,61;3;Supermercado Central;Sinop;Limpeza
+Isabel Melo;Luiz Felipe Freitas;11/02/2025;Desodorante;February;16,9;152,1;9;Atacadão Popular;Várzea Grande;Higiene
+Samuel Nascimento;Dr. Lorenzo Teixeira;26/09/2024;Ração para Cães;September;36,93;36,93;1;Super Econômico;Cuiabá;Pet
+Vitória Martins;Luiza Dias;30/05/2024;Sabão em Pó;May;44,45;133,35;3;Super Econômico;Sinop;Limpeza
+Elisa Alves;Henrique Azevedo;25/03/2025;Água Mineral;March;10,23;30,69;3;Mercado do Bairro;Sinop;Bebidas
+Sr. Pietro Moraes;Bianca Duarte;03/07/2024;Suco;July;21,44;214,4;10;Atacadão Popular;Várzea Grande;Bebidas
+Samuel Nascimento;Srta. Amanda Pinto;23/08/2024;Vinho;August;49,69;248,45;5;Super Econômico;Várzea Grande;Bebidas
+Bárbara Ribeiro;Ana Sophia Viana;16/11/2024;Shampoo;November;21,51;215,1;10;Mercado do Bairro;Sinop;Higiene
+Milena Pires;Marcos Vinicius Pereira;24/09/2024;Detergente;September;47,17;471,7;10;Mercado do Bairro;Várzea Grande;Limpeza
+Ryan Azevedo;Stephany Araújo;06/06/2024;Esponja;June;13,53;40,59;3;Mercado do Bairro;Sinop;Limpeza
+Samuel Nascimento;Agatha da Rosa;16/02/2025;Feijão;February;27,88;55,76;2;Atacadão Popular;Sinop;Alimentos
+Dra. Lívia Gonçalves;Luiz Otávio Peixoto;25/04/2024;Vinho;April;17,47;69,88;4;Supermercado Central;Cuiabá;Bebidas
+Samuel Nascimento;Thomas Teixeira;01/12/2024;Água Mineral;December;14,43;43,29;3;Supermercado Central;Tangará da Serra;Bebidas
+Vitória Martins;Benício Rodrigues;16/04/2025;Ração para Cães;April;30,35;151,75;5;Mercado do Bairro;Várzea Grande;Pet
+João Vitor Moura;Joana Novaes;14/07/2024;Sabão em Pó;July;3,6;36,0;10;Supermercado Central;Várzea Grande;Limpeza
+Davi Luiz Silveira;Calebe Mendes;28/02/2025;Shampoo Pet;February;41,74;166,96;4;Atacadão Popular;Sinop;Pet
+Luna das Neves;Sr. Matheus da Mata;08/09/2024;Shampoo Pet;September;13,25;53,0;4;Atacadão Popular;Rondonópolis;Pet
+Rafaela Cunha;Gustavo Henrique Lima;27/07/2024;Desodorante;July;23,01;23,01;1;Mercado do Bairro;Rondonópolis;Higiene
+Ryan Azevedo;Agatha da Rosa;03/10/2024;Sabão em Pó;October;48,96;195,84;4;Atacadão Popular;Várzea Grande;Limpeza
+João Vitor Moura;Otávio Nunes;20/05/2024;Esponja;May;23,15;46,3;2;Super Econômico;Tangará da Serra;Limpeza
+João Vitor Moura;Lara Gonçalves;21/01/2025;Creme Dental;January;33,41;200,46;6;Super Econômico;Sinop;Higiene
+Isabel Melo;Maria Cecília Cunha;26/02/2025;Cerveja;February;44,81;403,29;9;Atacadão Popular;Rondonópolis;Bebidas
+Ana Laura Pereira;Sr. Thomas Porto;20/11/2024;Ração para Gatos;November;4,21;33,68;8;Supermercado Central;Várzea Grande;Pet
+Dra. Clara da Paz;Raul Correia;25/02/2025;Sabonete;February;29,96;239,68;8;Mercado do Bairro;Rondonópolis;Higiene
+Giovanna Alves;Luna Almeida;24/10/2024;Vinho;October;32,9;164,5;5;Mercado do Bairro;Tangará da Serra;Bebidas
+Rafaela Cunha;Srta. Amanda Pinto;04/08/2024;Feijão;August;11,69;58,45;5;Supermercado Central;Rondonópolis;Alimentos
+Juliana Nunes;Maria Cecília Cunha;16/01/2025;Macarrão;January;45,78;91,56;2;Atacadão Popular;Rondonópolis;Alimentos
+Bárbara Ribeiro;Bernardo Cardoso;02/05/2024;Petisco;May;19,9;179,1;9;Supermercado Central;Várzea Grande;Pet
+Elisa Alves;Marina da Conceição;17/11/2024;Cerveja;November;46,52;279,12;6;Super Econômico;Rondonópolis;Bebidas
+Elisa Alves;Maria Clara da Rosa;22/02/2025;Sabão em Pó;February;4,77;28,62;6;Atacadão Popular;Cuiabá;Limpeza
+Bárbara Ribeiro;Sabrina Pires;12/03/2025;Açúcar;March;9,4;75,2;8;Atacadão Popular;Tangará da Serra;Alimentos
+Samuel Nascimento;Lívia Pinto;10/01/2025;Desinfetante;January;30,39;303,9;10;Supermercado Central;Tangará da Serra;Limpeza
+Davi Luiz Silveira;Agatha da Rosa;08/10/2024;Refrigerante;October;29,72;59,44;2;Supermercado Central;Tangará da Serra;Bebidas
+Isabel Melo;Igor Gonçalves;21/01/2025;Água Sanitária;January;45,58;364,64;8;Atacadão Popular;Tangará da Serra;Limpeza
+Davi Luiz Silveira;Benício Rodrigues;11/08/2024;Shampoo Pet;August;30,36;30,36;1;Supermercado Central;Cuiabá;Pet
+Juliana Nunes;Eduardo Mendes;24/01/2025;Areia Higiênica;January;35,69;71,38;2;Super Econômico;Tangará da Serra;Pet
+Milena Pires;Dr. Marcos Vinicius Vieira;23/06/2024;Ração para Cães;June;17,5;175,0;10;Mercado do Bairro;Tangará da Serra;Pet
+Bárbara Ribeiro;Eloah Gonçalves;10/05/2024;Petisco;May;49,45;395,6;8;Mercado do Bairro;Várzea Grande;Pet
+Ryan Azevedo;Ana Laura Ramos;15/09/2024;Feijão;September;34,83;313,47;9;Super Econômico;Tangará da Serra;Alimentos
+Dr. Vitor Gabriel Almeida;Gustavo Henrique Lima;28/08/2024;Petisco;August;49,5;247,5;5;Atacadão Popular;Tangará da Serra;Pet
+Milena Pires;Manuela Lima;21/07/2024;Sabão em Pó;July;38,61;38,61;1;Supermercado Central;Sinop;Limpeza
+João Vitor Moura;Ryan da Rocha;31/07/2024;Creme Dental;July;3,39;27,12;8;Mercado do Bairro;Rondonópolis;Higiene
+Rafaela Cunha;Sr. Gustavo Mendes;04/08/2024;Vinho;August;17,87;35,74;2;Atacadão Popular;Tangará da Serra;Bebidas
+Sr. Pietro Moraes;Enzo Gabriel Fogaça;29/03/2025;Suco;March;8,98;35,92;4;Super Econômico;Cuiabá;Bebidas
+Ana Laura Pereira;Sabrina Pires;18/06/2024;Desinfetante;June;21,67;195,03;9;Mercado do Bairro;Cuiabá;Limpeza
+Dra. Clara da Paz;Rafaela Ramos;07/08/2024;Ração para Cães;August;3,26;32,6;10;Supermercado Central;Sinop;Pet
+Dr. Vitor Gabriel Almeida;Ana Laura Ramos;24/11/2024;Óleo;November;22,69;226,9;10;Mercado do Bairro;Tangará da Serra;Alimentos
+Davi Luiz Silveira;Leonardo Duarte;07/05/2024;Refrigerante;May;4,84;9,68;2;Supermercado Central;Várzea Grande;Bebidas
+Davi Luiz Silveira;Felipe Cardoso;23/11/2024;Suco;November;45,95;45,95;1;Supermercado Central;Rondonópolis;Bebidas
+Luna das Neves;Sra. Agatha Jesus;19/03/2025;Ração para Gatos;March;5,79;11,58;2;Supermercado Central;Tangará da Serra;Pet
+Vitória Martins;Sophie Nascimento;11/09/2024;Detergente;September;48,37;96,74;2;Mercado do Bairro;Tangará da Serra;Limpeza
+Juliana Nunes;Clarice da Conceição;08/01/2025;Macarrão;January;29,31;205,17;7;Mercado do Bairro;Sinop;Alimentos
+Sr. Pietro Moraes;Srta. Emanuella Almeida;03/02/2025;Shampoo;February;28,42;142,1;5;Super Econômico;Rondonópolis;Higiene
+Luna das Neves;Sr. Thomas Porto;03/09/2024;Suco;September;45,93;413,37;9;Supermercado Central;Sinop;Bebidas
+Isabel Melo;Srta. Emanuella Almeida;01/05/2024;Feijão;May;49,09;98,18;2;Supermercado Central;Tangará da Serra;Alimentos
+Isabel Melo;Sophie Nascimento;25/06/2024;Petisco;June;14,0;84,0;6;Atacadão Popular;Sinop;Pet
+Dra. Clara da Paz;Arthur Viana;03/07/2024;Água Mineral;July;18,71;130,97;7;Atacadão Popular;Tangará da Serra;Bebidas
+Elisa Alves;Maria Cecília Cunha;23/11/2024;Cerveja;November;18,76;37,52;2;Atacadão Popular;Rondonópolis;Bebidas
+Bárbara Ribeiro;Raul Correia;02/06/2024;Detergente;June;27,08;108,32;4;Supermercado Central;Cuiabá;Limpeza
+Elisa Alves;Agatha da Rosa;11/09/2024;Ração para Gatos;September;15,22;30,44;2;Super Econômico;Tangará da Serra;Pet
+Luna das Neves;Maria Cecília Cunha;28/05/2024;Creme Dental;May;16,96;135,68;8;Atacadão Popular;Sinop;Higiene
+Isabel Melo;Ana Sophia Viana;21/07/2024;Óleo;July;34,07;68,14;2;Atacadão Popular;Rondonópolis;Alimentos
+Sr. Pietro Moraes;Beatriz da Rosa;04/09/2024;Ração para Cães;September;29,5;295,0;10;Super Econômico;Rondonópolis;Pet
+Luna das Neves;Davi Luiz Gonçalves;12/08/2024;Desodorante;August;15,61;109,27;7;Atacadão Popular;Tangará da Serra;Higiene
+Sr. Pietro Moraes;Luigi Barbosa;11/09/2024;Petisco;September;10,33;92,97;9;Supermercado Central;Sinop;Pet
+Luna das Neves;Ana Clara da Cunha;20/09/2024;Cerveja;September;26,83;268,3;10;Mercado do Bairro;Tangará da Serra;Bebidas
+Elisa Alves;João Vitor Rezende;19/06/2024;Óleo;June;41,44;165,76;4;Supermercado Central;Tangará da Serra;Alimentos
+Davi Luiz Silveira;Eduardo Mendes;17/08/2024;Desinfetante;August;13,91;55,64;4;Mercado do Bairro;Tangará da Serra;Limpeza
+Bárbara Ribeiro;Henrique Azevedo;14/11/2024;Desinfetante;November;45,99;229,95;5;Mercado do Bairro;Tangará da Serra;Limpeza
+João Lucas Correia;Stephany Costela;14/05/2024;Açúcar;May;45,69;91,38;2;Mercado do Bairro;Sinop;Alimentos
+Ana Clara Barros;Sr. Gustavo Mendes;22/05/2024;Creme Dental;May;41,17;411,7;10;Mercado do Bairro;Rondonópolis;Higiene
+Sr. Pietro Moraes;Luiz Gustavo Nascimento;09/10/2024;Areia Higiênica;October;34,96;314,64;9;Super Econômico;Cuiabá;Pet
+Dr. Vitor Gabriel Almeida;Dra. Melissa Almeida;07/10/2024;Creme Dental;October;28,11;84,33;3;Atacadão Popular;Várzea Grande;Higiene
+Samuel Nascimento;Beatriz da Rosa;18/12/2024;Sabonete;December;36,45;328,05;9;Mercado do Bairro;Tangará da Serra;Higiene
+Dra. Lívia Gonçalves;Evelyn Sales;20/02/2025;Refrigerante;February;5,09;10,18;2;Atacadão Popular;Cuiabá;Bebidas
+Dr. Vitor Gabriel Almeida;Luiz Gustavo Nascimento;15/05/2024;Macarrão;May;10,85;75,95;7;Supermercado Central;Cuiabá;Alimentos
+Samuel Nascimento;Beatriz da Rosa;30/08/2024;Ração para Gatos;August;46,4;92,8;2;Supermercado Central;Rondonópolis;Pet
+Juliana Nunes;Luna Almeida;14/01/2025;Petisco;January;2,71;18,97;7;Atacadão Popular;Várzea Grande;Pet
+Bárbara Ribeiro;Nina Almeida;11/10/2024;Óleo;October;7,46;22,38;3;Mercado do Bairro;Rondonópolis;Alimentos
+Vitória Martins;Dra. Isadora da Luz;04/12/2024;Cerveja;December;13,13;65,65;5;Super Econômico;Várzea Grande;Bebidas
+Vitória Martins;Sra. Agatha Jesus;31/08/2024;Macarrão;August;22,06;110,3;5;Mercado do Bairro;Rondonópolis;Alimentos
+Elisa Alves;Pedro Teixeira;10/04/2025;Macarrão;April;32,22;64,44;2;Super Econômico;Rondonópolis;Alimentos
+João Vitor Moura;Srta. Mariane Moraes;09/07/2024;Cerveja;July;7,57;75,7;10;Super Econômico;Tangará da Serra;Bebidas
+João Lucas Correia;Srta. Mariane Moraes;15/07/2024;Açúcar;July;42,35;84,7;2;Super Econômico;Sinop;Alimentos
+João Lucas Correia;Manuela Lima;29/12/2024;Desinfetante;December;42,75;384,75;9;Supermercado Central;Várzea Grande;Limpeza
+Ryan Azevedo;Maria Cecília Cunha;30/11/2024;Feijão;November;9,88;59,28;6;Supermercado Central;Sinop;Alimentos
+Ana Clara Barros;Alana Novaes;12/09/2024;Creme Dental;September;21,36;170,88;8;Atacadão Popular;Várzea Grande;Higiene
+Juliana Nunes;Lívia Pinto;11/08/2024;Esponja;August;5,15;51,5;10;Supermercado Central;Várzea Grande;Limpeza
+Elisa Alves;Lara Gonçalves;15/05/2024;Ração para Gatos;May;17,72;124,04;7;Super Econômico;Cuiabá;Pet
+Dra. Clara da Paz;Felipe Cardoso;12/04/2025;Shampoo;April;37,1;333,9;9;Mercado do Bairro;Sinop;Higiene
+Dra. Lívia Gonçalves;Emilly Moura;12/06/2024;Açúcar;June;36,51;328,59;9;Super Econômico;Tangará da Serra;Alimentos
+Bárbara Ribeiro;Manuela Lima;29/11/2024;Refrigerante;November;12,43;74,58;6;Mercado do Bairro;Sinop;Bebidas
+Luna das Neves;Pedro Henrique Ramos;29/04/2024;Shampoo Pet;April;30,84;308,4;10;Supermercado Central;Rondonópolis;Pet
+Samuel Nascimento;Paulo Martins;07/04/2025;Suco;April;46,52;372,16;8;Atacadão Popular;Tangará da Serra;Bebidas
+Giovanna Alves;Ana Lívia Farias;03/08/2024;Vinho;August;5,86;17,58;3;Atacadão Popular;Sinop;Bebidas
+Bárbara Ribeiro;Nicolas Cunha;27/11/2024;Desodorante;November;38,62;386,2;10;Supermercado Central;Sinop;Higiene
+Davi Luiz Silveira;Maria Cecília Cunha;20/03/2025;Detergente;March;2,11;12,66;6;Supermercado Central;Cuiabá;Limpeza
+Ana Laura Pereira;Ryan da Rocha;17/03/2025;Shampoo Pet;March;35,16;140,64;4;Super Econômico;Tangará da Serra;Pet
+Elisa Alves;Dr. Davi Duarte;13/06/2024;Papel Higiênico;June;11,04;33,12;3;Mercado do Bairro;Várzea Grande;Higiene
+Bárbara Ribeiro;Pedro Teixeira;09/01/2025;Açúcar;January;14,81;74,05;5;Super Econômico;Tangará da Serra;Alimentos
+Isabel Melo;Ana Clara da Cunha;25/05/2024;Cerveja;May;24,22;96,88;4;Mercado do Bairro;Várzea Grande;Bebidas
+Dr. Vitor Gabriel Almeida;Vitor Hugo Barbosa;15/11/2024;Cerveja;November;30,45;121,8;4;Atacadão Popular;Sinop;Bebidas
+Milena Pires;Paulo Cardoso;27/05/2024;Shampoo;May;10,8;75,6;7;Supermercado Central;Várzea Grande;Higiene
+Ana Clara Barros;Clarice da Mata;31/03/2025;Cerveja;March;43,56;217,8;5;Mercado do Bairro;Sinop;Bebidas
+Isabel Melo;Srta. Amanda Pinto;18/05/2024;Macarrão;May;28,81;28,81;1;Atacadão Popular;Rondonópolis;Alimentos
+Davi Luiz Silveira;Henrique Azevedo;18/08/2024;Papel Higiênico;August;13,33;133,3;10;Mercado do Bairro;Sinop;Higiene
+João Lucas Correia;Luiz Felipe Oliveira;10/04/2025;Macarrão;April;12,62;12,62;1;Supermercado Central;Várzea Grande;Alimentos
+Milena Pires;Dr. Davi Duarte;25/12/2024;Refrigerante;December;9,72;68,04;7;Super Econômico;Rondonópolis;Bebidas
+Ana Clara Barros;Luna Almeida;07/10/2024;Arroz;October;19,16;191,6;10;Supermercado Central;Tangará da Serra;Alimentos
+Ryan Azevedo;Thomas Teixeira;03/10/2024;Água Mineral;October;5,85;52,65;9;Super Econômico;Tangará da Serra;Bebidas
+Sr. Pietro Moraes;Agatha da Rosa;27/05/2024;Óleo;May;41,15;370,35;9;Super Econômico;Várzea Grande;Alimentos
+Vitória Martins;Dra. Isadora da Luz;07/02/2025;Detergente;February;10,54;42,16;4;Atacadão Popular;Sinop;Limpeza
+Ana Laura Pereira;Sabrina Pires;27/06/2024;Creme Dental;June;6,18;37,08;6;Mercado do Bairro;Cuiabá;Higiene
+Luna das Neves;Lara Gonçalves;17/05/2024;Shampoo;May;9,03;18,06;2;Super Econômico;Rondonópolis;Higiene
+João Lucas Correia;Luiz Otávio Peixoto;08/04/2025;Óleo;April;23,25;232,5;10;Super Econômico;Várzea Grande;Alimentos
+Luna das Neves;Evelyn Azevedo;05/03/2025;Areia Higiênica;March;43,52;391,68;9;Super Econômico;Cuiabá;Pet
+Ana Laura Pereira;Sra. Esther Silveira;06/03/2025;Sabonete;March;43,18;345,44;8;Super Econômico;Rondonópolis;Higiene
+Isabel Melo;Fernanda Aragão;08/05/2024;Óleo;May;26,91;215,28;8;Mercado do Bairro;Várzea Grande;Alimentos
+Sr. Pietro Moraes;Laura Novaes;08/12/2024;Esponja;December;2,35;23,5;10;Atacadão Popular;Rondonópolis;Limpeza
+João Lucas Correia;Otávio Nunes;11/01/2025;Shampoo Pet;January;24,9;174,3;7;Supermercado Central;Rondonópolis;Pet
+João Vitor Moura;Paulo Monteiro;20/05/2024;Petisco;May;29,14;87,42;3;Mercado do Bairro;Tangará da Serra;Pet
+Sr. Pietro Moraes;Marcos Vinicius Pereira;08/05/2024;Papel Higiênico;May;24,92;124,6;5;Mercado do Bairro;Tangará da Serra;Higiene
+Isabel Melo;Otávio Nunes;06/07/2024;Shampoo Pet;July;18,38;36,76;2;Super Econômico;Rondonópolis;Pet
+Vitória Martins;Ana Laura Ramos;29/09/2024;Detergente;September;15,91;63,64;4;Super Econômico;Sinop;Limpeza
+Dra. Lívia Gonçalves;Maria Cecília Cunha;20/07/2024;Água Sanitária;July;37,14;74,28;2;Atacadão Popular;Várzea Grande;Limpeza
+Elisa Alves;Stephany Araújo;03/10/2024;Petisco;October;3,62;21,72;6;Mercado do Bairro;Cuiabá;Pet
+João Vitor Moura;Ana Laura Ramos;16/05/2024;Shampoo;May;35,8;107,4;3;Atacadão Popular;Tangará da Serra;Higiene
+Davi Luiz Silveira;Alana Novaes;25/12/2024;Água Sanitária;December;36,46;328,14;9;Mercado do Bairro;Rondonópolis;Limpeza
+Juliana Nunes;Ryan da Rocha;08/12/2024;Esponja;December;45,57;410,13;9;Supermercado Central;Cuiabá;Limpeza
+Ryan Azevedo;Clarice da Conceição;27/02/2025;Desinfetante;February;4,97;39,76;8;Atacadão Popular;Várzea Grande;Limpeza
+Vitória Martins;Luiz Gustavo Nascimento;29/05/2024;Areia Higiênica;May;48,84;48,84;1;Super Econômico;Sinop;Pet
+Bárbara Ribeiro;Marcos Vinicius Pereira;30/10/2024;Petisco;October;44,12;264,72;6;Mercado do Bairro;Rondonópolis;Pet
+Milena Pires;Maria Sophia Pinto;15/10/2024;Refrigerante;October;44,29;44,29;1;Supermercado Central;Sinop;Bebidas
+João Vitor Moura;Arthur Viana;03/11/2024;Óleo;November;3,06;24,48;8;Super Econômico;Cuiabá;Alimentos
+Elisa Alves;Sr. Thomas Porto;21/08/2024;Detergente;August;45,95;367,6;8;Supermercado Central;Rondonópolis;Limpeza
+Dra. Clara da Paz;Beatriz Moraes;16/01/2025;Shampoo;January;33,84;203,04;6;Atacadão Popular;Tangará da Serra;Higiene
+Dr. Vitor Gabriel Almeida;Eloah Gonçalves;17/08/2024;Arroz;August;47,37;426,33;9;Mercado do Bairro;Sinop;Alimentos
+Samuel Nascimento;Isabelly Porto;10/04/2025;Creme Dental;April;21,6;108,0;5;Supermercado Central;Cuiabá;Higiene
+Luna das Neves;Sra. Mariana Nunes;17/09/2024;Refrigerante;September;49,69;99,38;2;Mercado do Bairro;Cuiabá;Bebidas
+Sr. Pietro Moraes;Stephany Costela;23/04/2024;Ração para Gatos;April;37,02;74,04;2;Mercado do Bairro;Cuiabá;Pet
+Vitória Martins;Srta. Mariane Moraes;17/10/2024;Sabonete;October;3,77;26,39;7;Super Econômico;Várzea Grande;Higiene
+Ryan Azevedo;Srta. Emanuella Almeida;09/04/2025;Macarrão;April;10,95;32,85;3;Supermercado Central;Cuiabá;Alimentos
+Davi Luiz Silveira;Nina Almeida;28/09/2024;Esponja;September;3,35;20,1;6;Atacadão Popular;Sinop;Limpeza
+Vitória Martins;Arthur Viana;25/02/2025;Ração para Gatos;February;13,9;97,3;7;Mercado do Bairro;Tangará da Serra;Pet
+Dr. Vitor Gabriel Almeida;Luiz Felipe Oliveira;06/09/2024;Ração para Cães;September;39,34;39,34;1;Mercado do Bairro;Tangará da Serra;Pet
+Isabel Melo;Alana Novaes;01/01/2025;Vinho;January;28,13;196,91;7;Mercado do Bairro;Cuiabá;Bebidas
+João Vitor Moura;Calebe Mendes;04/01/2025;Vinho;January;40,0;280,0;7;Super Econômico;Tangará da Serra;Bebidas
+Ana Laura Pereira;Dr. Marcos Vinicius Vieira;03/03/2025;Suco;March;21,55;172,4;8;Supermercado Central;Tangará da Serra;Bebidas
+Ryan Azevedo;Thomas Nunes;08/12/2024;Desinfetante;December;47,16;282,96;6;Mercado do Bairro;Várzea Grande;Limpeza
+Elisa Alves;João Rocha;04/12/2024;Água Mineral;December;25,49;50,98;2;Super Econômico;Rondonópolis;Bebidas
+Davi Luiz Silveira;Benício Rodrigues;28/03/2025;Feijão;March;22,4;22,4;1;Supermercado Central;Rondonópolis;Alimentos
+Luna das Neves;Ryan da Rocha;26/06/2024;Vinho;June;24,14;24,14;1;Atacadão Popular;Cuiabá;Bebidas
+Samuel Nascimento;Paulo Martins;01/01/2025;Esponja;January;41,13;41,13;1;Supermercado Central;Tangará da Serra;Limpeza
+Milena Pires;Manuela Lima;14/05/2024;Óleo;May;3,53;3,53;1;Super Econômico;Rondonópolis;Alimentos
+João Lucas Correia;Dr. Lorenzo Teixeira;31/05/2024;Desinfetante;May;13,43;94,01;7;Mercado do Bairro;Várzea Grande;Limpeza
+Rafaela Cunha;Ana Laura Ramos;13/02/2025;Desinfetante;February;11,53;80,71;7;Super Econômico;Sinop;Limpeza
+Bárbara Ribeiro;Luigi Barbosa;26/10/2024;Refrigerante;October;19,41;116,46;6;Mercado do Bairro;Tangará da Serra;Bebidas
+Sr. Pietro Moraes;Eduardo Peixoto;23/06/2024;Sabonete;June;11,07;110,7;10;Atacadão Popular;Rondonópolis;Higiene
+Ana Laura Pereira;Sabrina Pires;20/04/2025;Sabão em Pó;April;5,94;23,76;4;Mercado do Bairro;Rondonópolis;Limpeza
+Ana Clara Barros;Benício Rodrigues;12/02/2025;Feijão;February;18,67;18,67;1;Super Econômico;Cuiabá;Alimentos
+Samuel Nascimento;Ryan da Rocha;12/05/2024;Desodorante;May;17,87;142,96;8;Super Econômico;Sinop;Higiene
+João Lucas Correia;Otávio Nunes;26/09/2024;Areia Higiênica;September;24,07;168,49;7;Mercado do Bairro;Rondonópolis;Pet
+Dra. Clara da Paz;Sra. Catarina Almeida;25/01/2025;Petisco;January;47,34;378,72;8;Atacadão Popular;Sinop;Pet
+Rafaela Cunha;Dra. Isadora da Luz;22/06/2024;Shampoo Pet;June;28,77;86,31;3;Mercado do Bairro;Tangará da Serra;Pet
+Isabel Melo;Pietra da Rocha;14/04/2025;Refrigerante;April;47,78;382,24;8;Atacadão Popular;Sinop;Bebidas
+Ana Clara Barros;Sra. Catarina Almeida;08/01/2025;Desodorante;January;26,74;53,48;2;Mercado do Bairro;Sinop;Higiene
+Vitória Martins;Maria Cecília Cunha;17/04/2025;Sabão em Pó;April;21,62;129,72;6;Super Econômico;Tangará da Serra;Limpeza
+Ana Laura Pereira;Luiz Felipe Oliveira;31/08/2024;Óleo;August;34,22;34,22;1;Supermercado Central;Tangará da Serra;Alimentos
+Ana Laura Pereira;Joana Campos;06/04/2025;Esponja;April;30,63;245,04;8;Mercado do Bairro;Cuiabá;Limpeza
+Elisa Alves;Luiz Otávio Peixoto;28/07/2024;Ração para Cães;July;40,36;80,72;2;Atacadão Popular;Várzea Grande;Pet
+Milena Pires;Joana Novaes;11/02/2025;Macarrão;February;44,56;44,56;1;Super Econômico;Várzea Grande;Alimentos
+Luna das Neves;Leonardo Moreira;04/04/2025;Vinho;April;4,51;22,55;5;Supermercado Central;Tangará da Serra;Bebidas
+Vitória Martins;Sra. Agatha Jesus;28/04/2024;Água Mineral;April;23,98;191,84;8;Atacadão Popular;Rondonópolis;Bebidas
+Bárbara Ribeiro;Eduardo Peixoto;13/01/2025;Açúcar;January;31,46;283,14;9;Supermercado Central;Rondonópolis;Alimentos
+Juliana Nunes;Srta. Emanuella Almeida;26/02/2025;Detergente;February;23,27;69,81;3;Super Econômico;Cuiabá;Limpeza
+Milena Pires;Luiz Gustavo Nascimento;02/06/2024;Ração para Cães;June;16,28;113,96;7;Atacadão Popular;Sinop;Pet
+Ana Laura Pereira;Nicolas Cunha;14/11/2024;Óleo;November;45,4;363,2;8;Mercado do Bairro;Sinop;Alimentos
+Elisa Alves;Henrique Peixoto;14/06/2024;Desodorante;June;49,14;245,7;5;Mercado do Bairro;Tangará da Serra;Higiene
+Giovanna Alves;Isis Farias;03/04/2025;Cerveja;April;7,22;14,44;2;Supermercado Central;Várzea Grande;Bebidas
+Samuel Nascimento;Agatha da Rosa;14/08/2024;Ração para Cães;August;12,7;50,8;4;Atacadão Popular;Sinop;Pet
+João Lucas Correia;Bianca Duarte;29/11/2024;Macarrão;November;36,12;180,6;5;Atacadão Popular;Cuiabá;Alimentos
+Milena Pires;Paulo Monteiro;09/05/2024;Creme Dental;May;12,16;72,96;6;Mercado do Bairro;Cuiabá;Higiene
+Samuel Nascimento;Evelyn Azevedo;26/10/2024;Desinfetante;October;40,34;282,38;7;Super Econômico;Cuiabá;Limpeza
+Davi Luiz Silveira;André Freitas;26/09/2024;Água Mineral;September;20,27;182,43;9;Mercado do Bairro;Sinop;Bebidas
+Vitória Martins;Otávio Nunes;05/04/2025;Cerveja;April;39,3;117,9;3;Mercado do Bairro;Cuiabá;Bebidas
+João Lucas Correia;Sra. Catarina Almeida;21/11/2024;Petisco;November;6,6;52,8;8;Mercado do Bairro;Tangará da Serra;Pet
+Bárbara Ribeiro;Sr. Gustavo Mendes;22/01/2025;Petisco;January;23,18;69,54;3;Supermercado Central;Rondonópolis;Pet
+Luna das Neves;Camila Farias;16/11/2024;Macarrão;November;49,17;147,51;3;Mercado do Bairro;Rondonópolis;Alimentos
+Samuel Nascimento;Dr. Lorenzo Teixeira;24/12/2024;Papel Higiênico;December;36,29;145,16;4;Supermercado Central;Rondonópolis;Higiene
+João Lucas Correia;Fernanda Aragão;26/10/2024;Feijão;October;22,92;183,36;8;Super Econômico;Rondonópolis;Alimentos
+Vitória Martins;Marina da Conceição;12/08/2024;Petisco;August;28,47;170,82;6;Super Econômico;Várzea Grande;Pet
+Bárbara Ribeiro;Maria Cecília Cunha;31/08/2024;Vinho;August;49,89;299,34;6;Supermercado Central;Rondonópolis;Bebidas
+Dra. Lívia Gonçalves;Bianca Duarte;24/09/2024;Shampoo Pet;September;42,71;298,97;7;Mercado do Bairro;Tangará da Serra;Pet
+Vitória Martins;Raul Correia;11/11/2024;Petisco;November;41,74;83,48;2;Super Econômico;Tangará da Serra;Pet
+Milena Pires;Sr. Matheus da Mata;31/10/2024;Macarrão;October;32,95;131,8;4;Atacadão Popular;Cuiabá;Alimentos
+Samuel Nascimento;Pedro Teixeira;23/01/2025;Ração para Cães;January;17,75;124,25;7;Mercado do Bairro;Tangará da Serra;Pet
+Ana Clara Barros;Eduardo Peixoto;08/06/2024;Água Sanitária;June;23,32;209,88;9;Super Econômico;Sinop;Limpeza
+João Lucas Correia;Ana Clara da Cunha;31/08/2024;Detergente;August;7,1;56,8;8;Supermercado Central;Rondonópolis;Limpeza
+Isabel Melo;Bianca Duarte;04/01/2025;Açúcar;January;30,28;60,56;2;Atacadão Popular;Tangará da Serra;Alimentos
+Dra. Lívia Gonçalves;Sra. Agatha Jesus;30/04/2024;Desinfetante;April;18,45;166,05;9;Supermercado Central;Cuiabá;Limpeza
+Ana Clara Barros;Sr. Davi Lucas Castro;12/12/2024;Shampoo;December;25,16;125,8;5;Super Econômico;Várzea Grande;Higiene
+João Vitor Moura;Julia Viana;05/06/2024;Sabonete;June;19,49;194,9;10;Atacadão Popular;Várzea Grande;Higiene
+Dr. Vitor Gabriel Almeida;Alana Novaes;21/10/2024;Sabão em Pó;October;47,29;189,16;4;Super Econômico;Cuiabá;Limpeza
+Sr. Pietro Moraes;Nina Costa;21/12/2024;Desodorante;December;29,44;206,08;7;Supermercado Central;Rondonópolis;Higiene
+João Vitor Moura;Gustavo Henrique Lima;23/08/2024;Refrigerante;August;8,62;34,48;4;Super Econômico;Tangará da Serra;Bebidas
+Ryan Azevedo;Igor Gonçalves;20/12/2024;Desodorante;December;5,01;45,09;9;Super Econômico;Tangará da Serra;Higiene
+Davi Luiz Silveira;Calebe Mendes;23/07/2024;Creme Dental;July;38,79;232,74;6;Mercado do Bairro;Tangará da Serra;Higiene
+Dra. Clara da Paz;Isis Farias;19/08/2024;Desodorante;August;49,82;49,82;1;Super Econômico;Sinop;Higiene
+João Vitor Moura;Sophie Nascimento;31/07/2024;Detergente;July;31,31;187,86;6;Super Econômico;Várzea Grande;Limpeza
+Ana Laura Pereira;Srta. Mariane Moraes;29/05/2024;Desodorante;May;38,78;155,12;4;Atacadão Popular;Rondonópolis;Higiene
+Rafaela Cunha;Nina Almeida;07/12/2024;Creme Dental;December;5,0;50,0;10;Atacadão Popular;Rondonópolis;Higiene
+Juliana Nunes;Sra. Esther Silveira;04/10/2024;Creme Dental;October;41,9;41,9;1;Super Econômico;Várzea Grande;Higiene
+Bárbara Ribeiro;Sophie Nascimento;26/06/2024;Sabão em Pó;June;29,08;232,64;8;Supermercado Central;Tangará da Serra;Limpeza
+Vitória Martins;Paulo Cardoso;17/05/2024;Feijão;May;19,47;19,47;1;Mercado do Bairro;Sinop;Alimentos
+Samuel Nascimento;Gabrielly Farias;08/10/2024;Creme Dental;October;25,98;181,86;7;Atacadão Popular;Rondonópolis;Higiene
+Juliana Nunes;Luna Almeida;13/08/2024;Cerveja;August;36,51;328,59;9;Atacadão Popular;Cuiabá;Bebidas
+Samuel Nascimento;Sra. Esther Silveira;10/06/2024;Sabão em Pó;June;25,33;227,97;9;Atacadão Popular;Várzea Grande;Limpeza
+Dra. Clara da Paz;Dr. Davi Duarte;02/05/2024;Areia Higiênica;May;13,92;55,68;4;Super Econômico;Rondonópolis;Pet
+Samuel Nascimento;Joana Novaes;14/03/2025;Shampoo Pet;March;22,19;133,14;6;Supermercado Central;Tangará da Serra;Pet
+Juliana Nunes;Vitor Hugo Barbosa;08/06/2024;Ração para Cães;June;2,59;18,13;7;Super Econômico;Sinop;Pet
+Bárbara Ribeiro;Stephany Costela;03/10/2024;Ração para Cães;October;23,44;234,4;10;Super Econômico;Rondonópolis;Pet
+Davi Luiz Silveira;Stephany Costela;01/08/2024;Ração para Cães;August;33,06;66,12;2;Mercado do Bairro;Rondonópolis;Pet
+Bárbara Ribeiro;Srta. Emanuella Almeida;05/12/2024;Água Sanitária;December;36,37;181,85;5;Supermercado Central;Tangará da Serra;Limpeza
+Samuel Nascimento;Henrique Azevedo;23/02/2025;Desodorante;February;14,42;86,52;6;Mercado do Bairro;Tangará da Serra;Higiene
+Dr. Vitor Gabriel Almeida;Stephany Araújo;05/07/2024;Esponja;July;9,56;66,92;7;Mercado do Bairro;Tangará da Serra;Limpeza
+João Lucas Correia;Marcos Vinicius Pereira;13/05/2024;Cerveja;May;39,8;159,2;4;Supermercado Central;Rondonópolis;Bebidas
+Juliana Nunes;Sr. Gustavo Mendes;10/08/2024;Refrigerante;August;23,35;70,05;3;Mercado do Bairro;Tangará da Serra;Bebidas
+Juliana Nunes;Arthur Viana;15/07/2024;Refrigerante;July;5,36;16,08;3;Supermercado Central;Tangará da Serra;Bebidas
+Samuel Nascimento;Leonardo Duarte;20/12/2024;Ração para Gatos;December;21,86;174,88;8;Supermercado Central;Cuiabá;Pet
+Giovanna Alves;Sra. Mariana Nunes;18/07/2024;Esponja;July;3,65;3,65;1;Atacadão Popular;Rondonópolis;Limpeza
+Milena Pires;Rafaela Ramos;26/04/2024;Desinfetante;April;41,05;82,1;2;Supermercado Central;Rondonópolis;Limpeza
+Vitória Martins;Dr. Lorenzo Teixeira;17/05/2024;Ração para Cães;May;4,53;18,12;4;Super Econômico;Cuiabá;Pet
+Dr. Vitor Gabriel Almeida;Henrique Peixoto;30/10/2024;Detergente;October;27,59;165,54;6;Supermercado Central;Cuiabá;Limpeza
+João Vitor Moura;Clarice da Conceição;11/08/2024;Óleo;August;25,48;50,96;2;Super Econômico;Sinop;Alimentos
+Vitória Martins;Pietra da Rocha;24/04/2024;Petisco;April;5,57;22,28;4;Atacadão Popular;Rondonópolis;Pet
+Isabel Melo;Clarice da Conceição;21/10/2024;Ração para Cães;October;12,15;85,05;7;Supermercado Central;Rondonópolis;Pet
+João Vitor Moura;Gabrielly Farias;05/03/2025;Água Mineral;March;32,61;195,66;6;Supermercado Central;Cuiabá;Bebidas
+Bárbara Ribeiro;Marina da Conceição;05/11/2024;Cerveja;November;42,25;42,25;1;Mercado do Bairro;Cuiabá;Bebidas
+Giovanna Alves;Leonardo Moreira;06/08/2024;Desinfetante;August;17,75;177,5;10;Atacadão Popular;Cuiabá;Limpeza
+Dra. Clara da Paz;Isabelly Porto;27/08/2024;Açúcar;August;18,34;36,68;2;Mercado do Bairro;Sinop;Alimentos
+Milena Pires;Henrique Azevedo;13/09/2024;Areia Higiênica;September;35,87;322,83;9;Mercado do Bairro;Rondonópolis;Pet
+Sr. Pietro Moraes;João Rocha;11/07/2024;Petisco;July;32,34;226,38;7;Super Econômico;Sinop;Pet
+Davi Luiz Silveira;Joana Novaes;01/06/2024;Esponja;June;46,16;276,96;6;Supermercado Central;Tangará da Serra;Limpeza
+João Vitor Moura;Enzo Farias;14/10/2024;Detergente;October;39,37;236,22;6;Mercado do Bairro;Várzea Grande;Limpeza
+Rafaela Cunha;Enzo Gabriel Fogaça;26/05/2024;Desinfetante;May;11,38;102,42;9;Super Econômico;Rondonópolis;Limpeza
+Davi Luiz Silveira;Arthur Viana;19/05/2024;Creme Dental;May;10,65;63,9;6;Super Econômico;Tangará da Serra;Higiene
+Giovanna Alves;Nicolas Cunha;10/12/2024;Suco;December;2,83;5,66;2;Mercado do Bairro;Tangará da Serra;Bebidas
+Giovanna Alves;Luiz Gustavo Nascimento;06/10/2024;Shampoo;October;42,42;254,52;6;Atacadão Popular;Sinop;Higiene
+Luna das Neves;Sr. Thomas Porto;25/08/2024;Açúcar;August;19,34;19,34;1;Atacadão Popular;Cuiabá;Alimentos
+Giovanna Alves;Lara Gonçalves;25/03/2025;Desinfetante;March;9,33;83,97;9;Supermercado Central;Cuiabá;Limpeza
+Dra. Clara da Paz;Emilly Moura;09/09/2024;Sabonete;September;37,5;187,5;5;Mercado do Bairro;Tangará da Serra;Higiene
+Ana Clara Barros;Henrique Azevedo;02/11/2024;Detergente;November;49,49;247,45;5;Mercado do Bairro;Tangará da Serra;Limpeza
+Giovanna Alves;Evelyn Azevedo;13/04/2025;Feijão;April;24,7;74,1;3;Atacadão Popular;Rondonópolis;Alimentos
+Ana Clara Barros;Eloah Gonçalves;01/08/2024;Sabonete;August;46,4;185,6;4;Super Econômico;Rondonópolis;Higiene
+Juliana Nunes;Clarice da Conceição;20/03/2025;Shampoo;March;45,89;45,89;1;Super Econômico;Várzea Grande;Higiene
+Luna das Neves;Beatriz da Rosa;22/07/2024;Suco;July;11,17;22,34;2;Super Econômico;Tangará da Serra;Bebidas
+Davi Luiz Silveira;Sophie Nascimento;30/01/2025;Óleo;January;5,1;51,0;10;Supermercado Central;Várzea Grande;Alimentos
+Giovanna Alves;Luiz Gustavo Nascimento;28/04/2024;Ração para Cães;April;39,73;79,46;2;Atacadão Popular;Cuiabá;Pet
+Juliana Nunes;Gustavo Henrique Lima;16/10/2024;Sabonete;October;7,58;45,48;6;Atacadão Popular;Várzea Grande;Higiene
+Giovanna Alves;Ana Clara da Cunha;24/06/2024;Vinho;June;15,81;15,81;1;Mercado do Bairro;Sinop;Bebidas
+Ana Laura Pereira;Eduardo Mendes;12/10/2024;Shampoo Pet;October;17,2;51,6;3;Super Econômico;Várzea Grande;Pet
+Sr. Pietro Moraes;Luiz Otávio Peixoto;06/12/2024;Esponja;December;19,87;139,09;7;Atacadão Popular;Várzea Grande;Limpeza
+Bárbara Ribeiro;Henrique Azevedo;04/05/2024;Esponja;May;4,0;32,0;8;Atacadão Popular;Sinop;Limpeza
+Dr. Vitor Gabriel Almeida;João Rocha;22/06/2024;Desinfetante;June;4,74;42,66;9;Super Econômico;Rondonópolis;Limpeza
+Sr. Pietro Moraes;Pietra da Rocha;19/04/2025;Sabão em Pó;April;20,66;185,94;9;Atacadão Popular;Cuiabá;Limpeza
+João Vitor Moura;Dra. Isadora da Luz;27/03/2025;Suco;March;29,01;87,03;3;Mercado do Bairro;Várzea Grande;Bebidas
+Vitória Martins;Enzo Farias;31/01/2025;Óleo;January;15,92;127,36;8;Atacadão Popular;Tangará da Serra;Alimentos
+Davi Luiz Silveira;Ana Lívia Farias;19/05/2024;Shampoo Pet;May;33,52;268,16;8;Atacadão Popular;Cuiabá;Pet
+Dr. Vitor Gabriel Almeida;Leonardo Moreira;10/09/2024;Desodorante;September;34,84;313,56;9;Super Econômico;Tangará da Serra;Higiene
+Dra. Clara da Paz;Sr. Thomas Porto;18/03/2025;Vinho;March;41,45;331,6;8;Supermercado Central;Várzea Grande;Bebidas
+Ana Laura Pereira;Raul Correia;22/03/2025;Refrigerante;March;28,6;171,6;6;Super Econômico;Várzea Grande;Bebidas
+Isabel Melo;Camila Farias;21/06/2024;Sabão em Pó;June;10,33;20,66;2;Mercado do Bairro;Tangará da Serra;Limpeza
+Dr. Vitor Gabriel Almeida;Ana Carolina Nascimento;21/08/2024;Ração para Gatos;August;45,74;182,96;4;Super Econômico;Sinop;Pet
+Ana Clara Barros;Alana Novaes;19/05/2024;Shampoo;May;18,76;168,84;9;Atacadão Popular;Cuiabá;Higiene
+Dr. Vitor Gabriel Almeida;Fernanda Aragão;20/07/2024;Creme Dental;July;47,61;190,44;4;Mercado do Bairro;Várzea Grande;Higiene
+João Lucas Correia;Dra. Melissa Almeida;23/12/2024;Esponja;December;6,49;64,9;10;Supermercado Central;Sinop;Limpeza
+Ryan Azevedo;Lívia Pinto;02/11/2024;Shampoo Pet;November;7,28;21,84;3;Mercado do Bairro;Sinop;Pet
+João Lucas Correia;Luiz Felipe Oliveira;08/05/2024;Esponja;May;14,08;112,64;8;Super Econômico;Tangará da Serra;Limpeza
+Dr. Vitor Gabriel Almeida;Eduardo Mendes;18/04/2025;Esponja;April;18,0;54,0;3;Atacadão Popular;Várzea Grande;Limpeza
+Isabel Melo;Lívia Pinto;17/05/2024;Areia Higiênica;May;17,08;153,72;9;Atacadão Popular;Tangará da Serra;Pet
+Ryan Azevedo;Felipe Cardoso;22/05/2024;Desinfetante;May;39,49;197,45;5;Mercado do Bairro;Rondonópolis;Limpeza
+Milena Pires;Paulo Cardoso;13/07/2024;Desinfetante;July;8,81;8,81;1;Atacadão Popular;Várzea Grande;Limpeza
+Ana Clara Barros;Joana Novaes;20/09/2024;Shampoo;September;22,88;183,04;8;Atacadão Popular;Várzea Grande;Higiene
+Davi Luiz Silveira;Eloah Gonçalves;27/10/2024;Ração para Cães;October;23,53;94,12;4;Supermercado Central;Várzea Grande;Pet
+Rafaela Cunha;Ana Lívia Farias;08/06/2024;Água Mineral;June;42,0;252,0;6;Super Econômico;Rondonópolis;Bebidas
+Milena Pires;Emilly Moura;01/05/2024;Esponja;May;18,9;56,7;3;Mercado do Bairro;Sinop;Limpeza
+Isabel Melo;Eduardo Mendes;08/07/2024;Papel Higiênico;July;9,47;85,23;9;Atacadão Popular;Sinop;Higiene
+Juliana Nunes;Davi Luiz Gonçalves;21/10/2024;Água Mineral;October;25,17;125,85;5;Mercado do Bairro;Rondonópolis;Bebidas
+Juliana Nunes;Marina da Conceição;27/06/2024;Água Sanitária;June;23,77;142,62;6;Supermercado Central;Rondonópolis;Limpeza
+Sr. Pietro Moraes;Rafaela Ramos;25/05/2024;Arroz;May;14,67;132,03;9;Supermercado Central;Rondonópolis;Alimentos
+Sr. Pietro Moraes;Sra. Mariana Nunes;04/03/2025;Arroz;March;17,08;170,8;10;Mercado do Bairro;Várzea Grande;Alimentos
+Elisa Alves;Srta. Mariane Moraes;26/02/2025;Macarrão;February;37,1;222,6;6;Super Econômico;Cuiabá;Alimentos
+Dr. Vitor Gabriel Almeida;Clarice da Conceição;30/05/2024;Sabonete;May;37,45;299,6;8;Super Econômico;Sinop;Higiene
+Dr. Vitor Gabriel Almeida;Felipe Cardoso;27/03/2025;Desinfetante;March;43,58;43,58;1;Supermercado Central;Sinop;Limpeza
+Dra. Lívia Gonçalves;João Vitor Rezende;11/11/2024;Detergente;November;13,47;53,88;4;Super Econômico;Sinop;Limpeza
+Isabel Melo;Thomas Nunes;24/11/2024;Refrigerante;November;15,95;159,5;10;Super Econômico;Sinop;Bebidas
+Elisa Alves;Dra. Isadora da Luz;13/06/2024;Areia Higiênica;June;38,38;383,8;10;Mercado do Bairro;Tangará da Serra;Pet
+Elisa Alves;Ana Sophia Viana;23/06/2024;Shampoo Pet;June;37,83;151,32;4;Super Econômico;Cuiabá;Pet
+Dra. Lívia Gonçalves;Nina Almeida;18/03/2025;Sabão em Pó;March;37,83;226,98;6;Supermercado Central;Sinop;Limpeza
+Dr. Vitor Gabriel Almeida;Sr. Matheus da Mata;27/04/2024;Detergente;April;6,31;44,17;7;Super Econômico;Rondonópolis;Limpeza
+Davi Luiz Silveira;Dr. Davi Duarte;19/11/2024;Água Mineral;November;21,07;147,49;7;Atacadão Popular;Tangará da Serra;Bebidas
+Ryan Azevedo;Agatha da Rosa;30/12/2024;Água Sanitária;December;49,69;347,83;7;Atacadão Popular;Várzea Grande;Limpeza
+Luna das Neves;Evelyn Sales;20/08/2024;Macarrão;August;14,49;28,98;2;Mercado do Bairro;Cuiabá;Alimentos
+Vitória Martins;Ana Sophia Viana;13/08/2024;Macarrão;August;11,86;35,58;3;Supermercado Central;Várzea Grande;Alimentos
+Juliana Nunes;Raul Silveira;02/04/2025;Desodorante;April;14,03;70,15;5;Supermercado Central;Cuiabá;Higiene
+Luna das Neves;Maria Clara da Rosa;18/10/2024;Areia Higiênica;October;26,99;80,97;3;Mercado do Bairro;Várzea Grande;Pet
+Ana Clara Barros;João Vitor Rezende;27/10/2024;Vinho;October;6,53;32,65;5;Atacadão Popular;Rondonópolis;Bebidas
+Samuel Nascimento;Felipe Cardoso;19/08/2024;Água Mineral;August;41,71;291,97;7;Atacadão Popular;Tangará da Serra;Bebidas
+Bárbara Ribeiro;Fernanda Aragão;27/08/2024;Sabão em Pó;August;13,83;96,81;7;Mercado do Bairro;Rondonópolis;Limpeza
+Dra. Clara da Paz;Theo Rezende;01/05/2024;Desodorante;May;20,87;208,7;10;Mercado do Bairro;Várzea Grande;Higiene
+Ana Laura Pereira;Dr. Davi Duarte;25/12/2024;Detergente;December;3,3;6,6;2;Supermercado Central;Cuiabá;Limpeza
+Dra. Lívia Gonçalves;Sabrina Pires;15/08/2024;Ração para Cães;August;35,61;213,66;6;Mercado do Bairro;Várzea Grande;Pet
+Dra. Lívia Gonçalves;Paulo Martins;04/11/2024;Ração para Gatos;November;27,06;216,48;8;Mercado do Bairro;Várzea Grande;Pet
+Elisa Alves;Clarice da Mata;18/03/2025;Água Mineral;March;45,69;91,38;2;Atacadão Popular;Cuiabá;Bebidas
+Rafaela Cunha;Dr. Marcos Vinicius Vieira;02/05/2024;Shampoo;May;24,46;122,3;5;Atacadão Popular;Rondonópolis;Higiene
+Ryan Azevedo;Fernanda Aragão;10/11/2024;Shampoo Pet;November;31,22;62,44;2;Super Econômico;Sinop;Pet
+Isabel Melo;Igor Gonçalves;24/03/2025;Água Mineral;March;42,44;169,76;4;Mercado do Bairro;Rondonópolis;Bebidas
+Ryan Azevedo;Benício Rodrigues;06/11/2024;Feijão;November;21,85;218,5;10;Super Econômico;Rondonópolis;Alimentos
+Sr. Pietro Moraes;Gustavo Henrique Lima;07/03/2025;Ração para Cães;March;3,56;28,48;8;Supermercado Central;Rondonópolis;Pet
+Davi Luiz Silveira;Nina Almeida;28/01/2025;Suco;January;6,55;45,85;7;Supermercado Central;Rondonópolis;Bebidas
+Davi Luiz Silveira;Maria Cecília Cunha;15/09/2024;Ração para Cães;September;18,97;113,82;6;Atacadão Popular;Cuiabá;Pet
+Davi Luiz Silveira;Pedro Henrique Ramos;31/10/2024;Arroz;October;23,61;70,83;3;Super Econômico;Cuiabá;Alimentos
+Bárbara Ribeiro;Igor Gonçalves;18/06/2024;Esponja;June;44,87;134,61;3;Supermercado Central;Várzea Grande;Limpeza
+João Lucas Correia;Marcos Vinicius Pereira;29/08/2024;Arroz;August;46,18;323,26;7;Supermercado Central;Sinop;Alimentos
+Bárbara Ribeiro;Agatha da Rosa;23/09/2024;Esponja;September;29,29;29,29;1;Super Econômico;Tangará da Serra;Limpeza
+Bárbara Ribeiro;Agatha da Rosa;31/10/2024;Água Mineral;October;37,11;371,1;10;Mercado do Bairro;Cuiabá;Bebidas
+Milena Pires;Stephany Costela;12/08/2024;Feijão;August;42,12;42,12;1;Super Econômico;Tangará da Serra;Alimentos
+Elisa Alves;Fernanda Aragão;18/12/2024;Desodorante;December;31,23;312,3;10;Atacadão Popular;Tangará da Serra;Higiene
+Juliana Nunes;Evelyn Azevedo;19/09/2024;Refrigerante;September;28,75;143,75;5;Super Econômico;Cuiabá;Bebidas
+Elisa Alves;Sr. Gustavo Mendes;30/01/2025;Feijão;January;8,09;48,54;6;Supermercado Central;Várzea Grande;Alimentos
+Ana Clara Barros;Paulo Monteiro;03/11/2024;Água Sanitária;November;24,4;122,0;5;Super Econômico;Sinop;Limpeza
+Dra. Clara da Paz;Beatriz Moraes;10/06/2024;Sabonete;June;47,96;431,64;9;Atacadão Popular;Rondonópolis;Higiene
+Dra. Clara da Paz;Sra. Catarina Almeida;03/05/2024;Creme Dental;May;7,76;77,6;10;Supermercado Central;Tangará da Serra;Higiene
+Bárbara Ribeiro;João Rocha;20/04/2025;Ração para Gatos;April;20,53;205,3;10;Super Econômico;Várzea Grande;Pet
+Dra. Clara da Paz;Leonardo Duarte;27/07/2024;Creme Dental;July;41,48;373,32;9;Atacadão Popular;Cuiabá;Higiene
+Dra. Clara da Paz;Ana Clara da Cunha;13/12/2024;Sabonete;December;26,53;159,18;6;Supermercado Central;Várzea Grande;Higiene
+Ana Laura Pereira;Maria Clara da Rosa;05/02/2025;Sabonete;February;12,68;88,76;7;Mercado do Bairro;Várzea Grande;Higiene
+João Vitor Moura;Arthur Viana;11/04/2025;Ração para Gatos;April;21,72;65,16;3;Supermercado Central;Tangará da Serra;Pet
+Rafaela Cunha;Ana Laura Ramos;03/07/2024;Petisco;July;30,59;30,59;1;Mercado do Bairro;Várzea Grande;Pet
+Milena Pires;Srta. Mariane Moraes;29/11/2024;Feijão;November;4,24;42,4;10;Super Econômico;Cuiabá;Alimentos
+João Vitor Moura;Vitor Hugo Barbosa;05/01/2025;Sabonete;January;13,3;26,6;2;Supermercado Central;Rondonópolis;Higiene
+Bárbara Ribeiro;Pedro Henrique Ramos;19/08/2024;Cerveja;August;44,14;308,98;7;Supermercado Central;Várzea Grande;Bebidas
