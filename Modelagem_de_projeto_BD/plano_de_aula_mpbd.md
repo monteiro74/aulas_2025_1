@@ -14,6 +14,7 @@
 - [:date: 5. Unidades de avaliações](#date-5-unidades-de-avaliações)
 - [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
 - [:newspaper: 7. Artigos](#newspaper-7-artigos)
+- [:newspaper: 7.1. Artigos do professor](#newspaper-71-artigos-do-professor)
 - [:books: 8. Livros](#books-8-livros)
 - [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
 - [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
@@ -157,6 +158,15 @@ https://www.scielo.br/j/gp/a/ydtVGxxBtD65zcx4VmJDJGw/?format=pdf
 
 Os desafios da administração pública na disponibilização de dados sensíveis
 https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
+
+ 
+## :newspaper: 7.1. Artigos do professor
+
+[Combining Natural Language Processing and Blockchain for Smart Contract Generation in the Accounting and Legal Field]()
+
+[Ontology for pervasive traceability of agrochemicals](https://journals.ssau.ru/ontology/article/view/26995#)
+
+[Machine learning algorithms in agriculture: a literature review on climate and price prediction, pest and disease detection, and production monitoring](https://recima21.com.br/index.php/recima21/article/view/6211)
 
 ---
 ## :books: 8. Livros
