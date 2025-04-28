@@ -160,15 +160,7 @@ Os desafios da administração pública na disponibilização de dados sensívei
 https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
 
  
-## :newspaper: 7.1. Artigos do professor
 
-[Combining Natural Language Processing and Blockchain for Smart Contract Generation in the Accounting and Legal Field]()
-
-[Ontology for pervasive traceability of agrochemicals](https://journals.ssau.ru/ontology/article/view/26995#)
-
-[Machine learning algorithms in agriculture: a literature review on climate and price prediction, pest and disease detection, and production monitoring](https://recima21.com.br/index.php/recima21/article/view/6211)
-
-teste
 
 ---
 ## :books: 8. Livros

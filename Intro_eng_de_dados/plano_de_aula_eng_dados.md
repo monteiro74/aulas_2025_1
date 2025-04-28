@@ -207,6 +207,17 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 
 * ZAKI, J.M.; MEIRA JR, W. Data mining and analysis: fundamental concepts and algorithms. England: Cambridge University Press, 2014. Disponível em: <https://dataminingbook.info/book_html/>. Acesso em: 02 out. 2020.
 
+
+
+[Combining Natural Language Processing and Blockchain for Smart Contract Generation in the Accounting and Legal Field]()
+
+[Ontology for pervasive traceability of agrochemicals](https://journals.ssau.ru/ontology/article/view/26995#)
+
+[Machine learning algorithms in agriculture: a literature review on climate and price prediction, pest and disease detection, and production monitoring](https://recima21.com.br/index.php/recima21/article/view/6211)
+
+
+
+
 --- 
 ## :notebook: 9. Cursos gratuítos (opcionais)
 
