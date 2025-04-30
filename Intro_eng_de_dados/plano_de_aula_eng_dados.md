@@ -1,5 +1,7 @@
 **Plano de ensino de Introdução a Engenharia de Dados**
 
+
+
 - [:game\_die: 1. Turma: Introdução a Engenharia de Dados](#game_die-1-turma-introdução-a-engenharia-de-dados)
   - [:watch: 1.1. Carga Horária Total: 60](#watch-11-carga-horária-total-60)
   - [:hourglass\_flowing\_sand: 1.2. Horário: 19hs - 22hs](#hourglass_flowing_sand-12-horário-19hs---22hs)
@@ -54,6 +56,8 @@
 * Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos.
 * Aulas com comentários de casos de interesse correlatos e comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. 
 * Aulas complementares, faltantes ou remotas(EaD), serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
+
+[Retornar ao Sumário](#sumário)
 
 ### :page_with_curl: 1.5. Procedimentos de avaliação de aprendizagem
 
