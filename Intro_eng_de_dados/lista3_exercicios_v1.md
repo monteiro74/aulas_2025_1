@@ -27,3 +27,4 @@ Executar coma conexão com o MySQL via Pentaho
 Executar uma exportação de dados do MySQL via Orange Data Mining.
 
 
+[Material sobre Pentaho](https://docs.google.com/presentation/d/1y13cbB5pT_49MuAWM5p26fz7-le1tafOTklA8Q1GvLs/view)
