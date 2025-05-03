@@ -14,7 +14,6 @@
 - [:date: 5. Unidades de avaliações](#date-5-unidades-de-avaliações)
 - [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
   - [:newspaper: 7. Artigos](#newspaper-7-artigos)
-- [:newspaper: 7.1. Artigos do professor](#newspaper-71-artigos-do-professor)
 - [:books: 8. Livros](#books-8-livros)
 - [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
 - [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
@@ -110,7 +109,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 6   | 10/abr | 3hs | <!-- Normalização. Revisão de modelo ER. Revisão do modelo ER. Normalização. SQL Joins.. Objetos do banco. Conexão ODBC. Conexão do Excel com SQL Server. Conectando LibreOffice via ODBC: ctrl + shift + F4. Conceitos de ODBC. Detalhes ODBC. --> Normalização. Revisão de modelo ER. Conceitos de ODBC. Conexão ODBC com Power BI e Excel. [ODBC](https://docs.google.com/presentation/d/1fRHFyps9MnBF_eIAlIEKk73S-bTrAPlImunOi68BAkE/view). [DW, BI](https://docs.google.com/presentation/d/1gvXrmCMsLwHKwgSqhFKVFs4niW3XlRg6cK1ebdLtqZE/view). [Importação de dados do Excel p/ SQL Server](https://docs.google.com/presentation/d/1OhPqv-H0wK5WUS2gcWWVrlc4jrs4R0HfnvvmBnWMle4/view). [Objetos do banco SQL Server](https://docs.google.com/presentation/d/1OhPqv-H0wK5WUS2gcWWVrlc4jrs4R0HfnvvmBnWMle4/view).|
 |   | 17/abr |  | <!-- Criação de conta de usuário. Importação dados (uma tabela do Excel) e flat file (texto puro em csv). Resultado do exercício PowerBI. Arquivo do exercício com PowerBI. Tutorial de Power BI. Tutorial de importação de flat file. Importação de planilha Excel. --> Não haverá aula, feriado.|
 | 7   | 24/abr | 4hs | <!-- Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).  +1h reprogramada referênte ao dia 27/02. -->  |
-| 8  | 08/mai | 3hs | <!-- **Avaliação 2** -->.  |
+| 8  | 08/mai | 3hs | <!-- **Avaliação 2** -->. Modelagem de dados, exercícios com diagrama ER.  |
 | 9  | 15/mai | 3hs | **Avaliação 2**. <!-- Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. --><!-- Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. --> |
 | 10  | 22/mai | 4hs | <!-- Blockchain, camada 2, sidechain, BSN.   +1h reprogramada referênte ao dia 27/02. --> |
 | 11  | 29/mai | 4hs | <!-- AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server.  +1h reprogramada referênte ao dia 27/02. --> |
