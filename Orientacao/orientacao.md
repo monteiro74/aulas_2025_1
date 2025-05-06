@@ -4,6 +4,7 @@
   - [1.2. Conteúdo desta página](#12-conteúdo-desta-página)
   - [1.3. Orientandos](#13-orientandos)
   - [1.4. Página do projeto de extensão](#14-página-do-projeto-de-extensão)
+    - [1.4.1. Para se inscrever no projeto de extensão use os link a seguir:](#141-para-se-inscrever-no-projeto-de-extensão-use-os-link-a-seguir)
 - [2. Datas de reunião e conteúdo para orientação](#2-datas-de-reunião-e-conteúdo-para-orientação)
   - [2.1. Para o TCC1](#21-para-o-tcc1)
   - [2.2. Para Mestrado (Marcos)](#22-para-mestrado-marcos)
@@ -43,7 +44,17 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 
 ## 1.4. Página do projeto de extensão
 
-https://www.pontodeensino.com/projetos/isis
+[Detalhamento do projeto](https://www.pontodeensino.com/projetos/isis)
+
+
+### 1.4.1. Para se inscrever no projeto de extensão use os link a seguir:
+
+Após preencher o plano de trabalho, use este formulário para enviá-lo:
+https://forms.gle/oU3bq3LQ9qNCzP4o9
+
+Quando você termina uma fase, envie a documentação por este formulário:
+https://forms.gle/7ZLmmALLLAfSxcHj7
+
 
 ---
 # 2. Datas de reunião e conteúdo para orientação 
