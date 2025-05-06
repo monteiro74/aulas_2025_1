@@ -2,8 +2,6 @@ Disciplinas de 2025.
 
 
 - [Atenção](#atenção)
-- [Projeto de extensão aprovado e iniciando:](#projeto-de-extensão-aprovado-e-iniciando)
-- [Maiores detalhes aqui:](#maiores-detalhes-aqui)
 - [1. Disciplinas, ministradas em 2025/1.](#1-disciplinas-ministradas-em-20251)
 - [2. Mapa do curso](#2-mapa-do-curso)
 - [3. Calendário](#3-calendário)
@@ -15,11 +13,7 @@ Disciplinas de 2025.
 
 # Atenção
 
-# Projeto de extensão aprovado e iniciando:
-# Maiores detalhes aqui:
-https://www.pontodeensino.com/projetos/isis
-
-
+Projeto de extensão aprovado, maiores detalhes [aqui](https://www.pontodeensino.com/projetos/isis).
 
 
 
@@ -29,7 +23,7 @@ https://www.pontodeensino.com/projetos/isis
 * Engenharia de software - 4ª fase
 * Modelagem e projeto de banco de dados - 4ª fase
 * Introdução à engenharia de dados - 5ª fase
-
+* Orientação de TCC1, orientação de extensão e estágio de mestrado
 
 
 ---
