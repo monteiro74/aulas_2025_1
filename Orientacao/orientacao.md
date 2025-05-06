@@ -1,10 +1,9 @@
 
 - [1. Turma: Orientação](#1-turma-orientação)
   - [1.1. Datas](#11-datas)
-  - [1.2. Conteúdo desta página](#12-conteúdo-desta-página)
-  - [1.3. Orientandos](#13-orientandos)
-  - [1.4. Página do projeto de extensão](#14-página-do-projeto-de-extensão)
-    - [1.4.1. Para se inscrever no projeto de extensão use os link a seguir:](#141-para-se-inscrever-no-projeto-de-extensão-use-os-link-a-seguir)
+  - [1.2. Orientandos](#12-orientandos)
+  - [1.3. Página do projeto de extensão](#13-página-do-projeto-de-extensão)
+    - [1.3.1. Para se inscrever no projeto de extensão use os link a seguir:](#131-para-se-inscrever-no-projeto-de-extensão-use-os-link-a-seguir)
 - [2. Datas de reunião e conteúdo para orientação](#2-datas-de-reunião-e-conteúdo-para-orientação)
   - [2.1. Para o TCC1](#21-para-o-tcc1)
   - [2.2. Para Mestrado (Marcos)](#22-para-mestrado-marcos)
@@ -27,12 +26,7 @@ Orientações diversas são registradas aqui. Datas das reuniões, conteúdo, li
 Terças e quartas: preferencialmente presencial.<br>
 Sábado, às 15hs, on-line (conforme previamente acordado).
 
-## 1.2. Conteúdo desta página
-
-* Elaboração do pré-projeto de TCC1.
-* Elaboração de artigo para o TCC2.
-
-## 1.3. Orientandos
+## 1.2. Orientandos
 
 | Aluno             | Nível     | Tipo                |
 |-------------------|-----------|---------------------|
@@ -42,12 +36,14 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 | Matheus Leandro   | Graduação | TCC 1               |
 
 
-## 1.4. Página do projeto de extensão
+## 1.3. Página do projeto de extensão
+
+Este link é para alunos em projetos de extensão:
 
 [Detalhamento do projeto](https://www.pontodeensino.com/projetos/isis)
 
 
-### 1.4.1. Para se inscrever no projeto de extensão use os link a seguir:
+### 1.3.1. Para se inscrever no projeto de extensão use os link a seguir:
 
 Após preencher o plano de trabalho, use este formulário para enviá-lo:
 https://forms.gle/oU3bq3LQ9qNCzP4o9
