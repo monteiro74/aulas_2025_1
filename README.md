@@ -1,7 +1,8 @@
 Disciplinas de 2025.
 
 
-- [Atenção](#atenção)
+- [Atenção 1](#atenção-1)
+- [Atenção 2](#atenção-2)
 - [1. Disciplinas, ministradas em 2025/1.](#1-disciplinas-ministradas-em-20251)
 - [2. Mapa do curso](#2-mapa-do-curso)
 - [3. Calendário](#3-calendário)
@@ -11,9 +12,16 @@ Disciplinas de 2025.
 - [7. Localização das disciplinas no quadro geral do curso](#7-localização-das-disciplinas-no-quadro-geral-do-curso)
 
 
-# Atenção
+# Atenção 1
 
 Projeto de extensão aprovado, maiores detalhes [aqui](https://www.pontodeensino.com/projetos/isis).
+
+
+# Atenção 2
+
+Em maio teremos:
+19-24 semana extensão
+20-21 feira de profissões
 
 
 
