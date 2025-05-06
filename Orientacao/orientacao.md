@@ -1,8 +1,24 @@
-Orientações em andamento
+
+- [1. Turma: Orientação](#1-turma-orientação)
+  - [1.1. Datas](#11-datas)
+  - [1.2. Conteúdo desta página](#12-conteúdo-desta-página)
+  - [1.3. Orientandos](#13-orientandos)
+  - [1.4. Página do projeto de extensão](#14-página-do-projeto-de-extensão)
+- [2. Datas de reunião e conteúdo para orientação](#2-datas-de-reunião-e-conteúdo-para-orientação)
+  - [2.1. Para o TCC1](#21-para-o-tcc1)
+  - [2.2. Para Mestrado (Marcos)](#22-para-mestrado-marcos)
+- [3. Referências de normas](#3-referências-de-normas)
+- [4. Resumo](#4-resumo)
+- [5. Referências bibliográficas](#5-referências-bibliográficas)
+- [6. Dicas para a escrita do TCC](#6-dicas-para-a-escrita-do-tcc)
+- [7. Ferramentas](#7-ferramentas)
+
+
 
 ---
 # 1. Turma: Orientação
 
+Orientações diversas são registradas aqui. Datas das reuniões, conteúdo, link para normas, alunos, etc.
 
 
 ## 1.1. Datas
@@ -25,6 +41,9 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 | Matheus Leandro   | Graduação | TCC 1               |
 
 
+## 1.4. Página do projeto de extensão
+
+https://www.pontodeensino.com/projetos/isis
 
 ---
 # 2. Datas de reunião e conteúdo para orientação 
