@@ -3,6 +3,8 @@ Orientações em andamento
 ---
 # 1. Turma: Orientação
 
+
+
 ## 1.1. Datas
 
 Terças e quartas: preferencialmente presencial.<br>
@@ -12,6 +14,16 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 
 * Elaboração do pré-projeto de TCC1.
 * Elaboração de artigo para o TCC2.
+
+## 1.3. Orientandos
+
+| Aluno             | Nível     | Tipo                |
+|-------------------|-----------|---------------------|
+| Camila Weber      | Graduação | Projeto de Extensão |
+| Leonardi Vinicius | Graduação | TCC 1               |
+| Marcos Alves      | Mestrado  | Estágio Prático     |
+| Matheus LEANDRO   | Graduação | TCC 1               |
+
 
 
 ---
