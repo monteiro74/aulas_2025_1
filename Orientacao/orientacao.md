@@ -22,7 +22,7 @@ Sábado, às 15hs, on-line (conforme previamente acordado).
 | Camila Weber      | Graduação | Projeto de Extensão |
 | Leonardi Vinicius | Graduação | TCC 1               |
 | Marcos Alves      | Mestrado  | Estágio Prático     |
-| Matheus LEANDRO   | Graduação | TCC 1               |
+| Matheus Leandro   | Graduação | TCC 1               |
 
 
 
