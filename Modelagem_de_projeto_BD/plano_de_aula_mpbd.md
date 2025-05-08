@@ -112,11 +112,11 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 8  | 08/mai | 3hs | <!-- **Avaliação 2** --> Modelagem de dados, exercícios com diagrama ER.  |
 | 9  | 15/mai | 3hs | <!-- Introdução aos bancos NoSQL: CouchDB e MongoDB. Revisão para prova. Arquivos em json estão disponíveis nesta página. Criptografia no SQL Server. Exercício de modelagem (mineradora). Migration Assistant. NoSQL. --><!-- Blockchain. Diagrama ER no DBeaver. SQL Server ledger table. Script SQL Server ledger table. Hyperledger no projeto DREX. Repositório sugerido sobre blockchain. Exemplo com Multichain blockchain. Artigo sobre ontologia. --> **Avaliação 2**. |
 | 10  | 22/mai | 4hs | <!-- Blockchain, camada 2, sidechain, BSN.   +1h reprogramada referênte ao dia 27/02. -->  **Semana de extensão.**|
-| 11  | 29/mai | 4hs | <!-- AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server.  +1h reprogramada referênte ao dia 27/02. --> |
-| 12  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler. --> |
-| 13  | 12/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
-| 14  | 19/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
-| 15  | 26/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
+| 11  | 29/mai | 3hs | <!-- AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server.  +1h reprogramada referênte ao dia 27/02. --> |
+| 12  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler.                --> |
+| 13  | 12/jun | 3hs | <!-- **Avaliação 3**, entrega de notas, revisão para PF. --> |
+| 14  | 19/jun | 3hs | <!-- **Avaliação 3**, entrega de notas, revisão para PF. --> |
+| 15  | 26/jun | 3hs | <!-- **Avaliação 3**, entrega de notas, revisão para PF. --> |
 
 
 ## :date: 5. Unidades de avaliações
