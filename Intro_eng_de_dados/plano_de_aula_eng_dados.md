@@ -120,8 +120,8 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 8   | 23/abr | 4hs | <!-- Regressão.  +1h reprogramada referênte ao dia 27/02. --> [Ferramentas para chat local](https://docs.google.com/presentation/d/1T6KcBeAqPFoZ_NuAFryww_KBNdy6-LgUOwxAAu8B2IU/view). [classificação de text ou análise de sentimentos](https://docs.google.com/presentation/d/1amCpzLh8u-zbm6d2iRWLGu1XCGiAYpLzN1ycAV18HHA/view). Novos dataset e scripts de exemplos nesta pasta: https://github.com/monteiro74/aulas_2025_1/tree/main/Intro_eng_de_dados/classificacao_agrupamento Lista de exercícios 2: https://github.com/monteiro74/aulas_2025_1/blob/main/Intro_eng_de_dados/lista2_exercicios_v2.md|
 | 9   | 30/abr | 4hs | <!-- Descoberta de tópicos em texto.  +1h reprogramada referênte ao dia 26/02. --> [Intro. Regressão linear e Pentaho](https://docs.google.com/presentation/d/1y13cbB5pT_49MuAWM5p26fz7-le1tafOTklA8Q1GvLs/view). |
 | 10  | 07/mai | 3hs | **Avaliação 2**. |
-| 11  | 14/mai | 4hs | <!-- Ferramentas de chats local.  +1h reprogramada referênte ao dia 26/02. --> **Provável semana de extensão.** |
-| 12  | 21/mai | 3hs | <!-- Data Warehouse. --> |
+| 11  | 14/mai | 4hs | <!-- Ferramentas de chats local.  +1h reprogramada referênte ao dia 26/02. -->  |
+| 12  | 21/mai | 3hs | <!-- Data Warehouse. --> **Semana de extensão.**|
 | 13  | 28/mai | 3hs | <!-- Big Data x Data Lake. --> |
 | 14  | 04/jun |  | <!-- Virtualização de dados.--> **Provavelmene não teremos aula, à confirmar.** |
 | 15  | 11/jun | 3hs | **Avaliação 3**, entrega de notas, revisão para PF. |
