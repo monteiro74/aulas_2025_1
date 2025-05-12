@@ -124,7 +124,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 12  | 21/mai | 3hs | <!-- Data Warehouse. --> **Semana de extensão.**|
 | 13  | 28/mai | 3hs | <!-- Big Data x Data Lake. --> |
 | 14  | 04/jun | 3hs    | <!-- Virtualização de dados.--> **Avaliação 3**, entrega de notas, revisão para PF. |
-| 15  | 11/jun |    | <!-- Virtualização de dados.--> **Avaliação 3**, entrega de notas, revisão para PF. |
+| 15  | 11/jun |    | <!-- Virtualização de dados.--> **Avaliação 3**, conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares) entrega de notas, revisão para PF. |
 
 
 ## :date: 5. Datas de avaliações

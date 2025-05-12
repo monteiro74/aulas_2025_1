@@ -114,9 +114,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 10  | 22/mai | 4hs | <!-- Blockchain, camada 2, sidechain, BSN.   +1h reprogramada referênte ao dia 27/02. -->  **Semana de extensão.**|
 | 11  | 29/mai | 3hs | <!-- AdventureWorksLT (Lightweight) full database backups. Bancos de dados distribuídos, replicação de BD, Python com SQL Server.  +1h reprogramada referênte ao dia 27/02. --> |
 | 12  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler.                --> |
-| 13  | 12/jun | 3hs | <!-- **Avaliação 3**, entrega de notas, revisão para PF. --> |
-| 14  | 19/jun | 3hs | <!-- **Avaliação 3**, entrega de notas, revisão para PF. --> |
-| 15  | 26/jun | 3hs | <!-- **Avaliação 3**, entrega de notas, revisão para PF. --> |
+| 13  | 12/jun | 3hs | <!-- **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares), entrega de notas, revisão para PF. --> |
 
 
 ## :date: 5. Unidades de avaliações
