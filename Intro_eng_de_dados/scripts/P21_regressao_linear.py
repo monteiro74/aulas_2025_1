@@ -1,50 +1,33 @@
 # -----------------------------------------------------------
-# Script: regressao_preco_casa_grafico.py
+# Script: regressao_salario.py
 # Autor: ChatGPT - Especialista em Python e Ciência de Dados
-# Descrição: Regressão linear simples para prever o preço
-#            de casas com base no tamanho. Mostra gráfico
-#            com pontos e reta de regressão. Salva gráfico em .PNG.
-# Dependências: pandas, matplotlib, scikit-learn
-# Execução: python regressao_preco_casa_grafico.py
+# Descrição: Exemplo de regressão linear usando scikit-learn
+#            para prever salário com base em anos de experiência
+#            e escolaridade (0 = Médio, 1 = Superior).
+# Dependências: pandas, scikit-learn
+# Execução: python regressao_salario.py
 # -----------------------------------------------------------
 
-import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
-import numpy as np
+import pandas as pd
 
 # Dados simulados
 dados = pd.DataFrame({
-    'tamanho': [70, 100, 120],
-    'preco': [250000, 400000, 500000]
+    'experiencia': [1, 3, 5, 7, 10],
+    'escolaridade': [0, 0, 1, 1, 1],  # 0 = Médio, 1 = Superior
+    'salario': [1500, 2000, 3500, 4500, 6000]
 })
 
-# X e y
-X = dados[['tamanho']]
-y = dados['preco']
+# Variáveis independentes (X) e dependente (y)
+X = dados[['experiencia', 'escolaridade']]
+y = dados['salario']
 
-# Treinamento
+# Treinando o modelo de regressão linear
 modelo = LinearRegression()
 modelo.fit(X, y)
 
-# Geração de pontos para reta
-tamanhos_novos = np.linspace(X.min(), X.max(), 100)
-precos_previstos = modelo.predict(tamanhos_novos)
-
-# Previsão específica
-entrada = pd.DataFrame([[90]], columns=['tamanho'])
+# Previsão para uma pessoa com 6 anos de experiência e ensino superior
+entrada = pd.DataFrame([[6, 1]], columns=['experiencia', 'escolaridade'])
 previsao = modelo.predict(entrada)
 
-# Gráfico
-plt.figure(figsize=(8, 5))
-plt.scatter(X, y, color='blue', label='Dados reais')
-plt.plot(tamanhos_novos, precos_previstos, color='red', label='Reta de regressão')
-plt.scatter(90, previsao, color='green', label=f'Previsão p/ 90m²: R$ {previsao[0]:,.0f}')
-plt.title('Regressão Linear - Preço da Casa vs Tamanho')
-plt.xlabel('Tamanho (m²)')
-plt.ylabel('Preço (R$)')
-plt.legend()
-plt.grid(True)
-plt.tight_layout()
-plt.savefig("grafico_preco_casa.png")
-plt.show()
+print(f"Salário previsto para 6 anos de experiência e superior: R$ {previsao[0]:,.2f}")

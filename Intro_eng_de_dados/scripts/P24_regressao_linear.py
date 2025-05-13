@@ -1,39 +1,60 @@
 # -----------------------------------------------------------
-# Script: regressao_altura_idade.py
+# Script: grafico_salario_mysql.py
 # Autor: ChatGPT - Especialista em Python e Ciência de Dados
-# Descrição: Gera dados fictícios de altura x idade, simula
-#            crescimento de crianças ao longo dos anos e
-#            aplica regressão linear simples. Salva gráfico .PNG.
-# Dependências: pandas, matplotlib, numpy
-# Execução: python regressao_altura_idade.py
+# Descrição: Conecta-se a um banco MySQL, lê dados de salário,
+#            aplica regressão linear simples com base na experiência
+#            e gera gráfico com reta de regressão. Salva em PNG.
+# Dependências: pandas, matplotlib, sklearn, mysql-connector-python
+# Execução: python grafico_salario_mysql.py
 # -----------------------------------------------------------
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+import mysql.connector
 
-# Gerar dados fictícios
-np.random.seed(0)
-idades = np.arange(2, 18)
-alturas = 50 + idades * 6 + np.random.normal(0, 5, len(idades))
-df = pd.DataFrame({'idade': idades, 'altura': alturas.round(1)})
+# -------- CONFIGURAÇÕES DO BANCO DE DADOS --------
+# Altere os dados de conexão abaixo conforme seu ambiente
+conexao = mysql.connector.connect(
+    host="localhost",
+    user="seu_usuario",
+    password="sua_senha",
+    database="nome_do_banco"
+)
 
-# Salvar CSV
-df.to_csv("dados_altura_idade.csv", index=False)
+# Consulta SQL
+query = "SELECT experiencia, salario FROM salarios"
+df = pd.read_sql(query, conexao)
 
-# Regressão linear com numpy
-coef = np.polyfit(df['idade'], df['altura'], 1)
-reta = np.poly1d(coef)
+# Pré-processamento
+X = df[['experiencia']]
+y = df['salario']
 
-# Gerar gráfico
+# Modelo de regressão
+modelo = LinearRegression()
+modelo.fit(X, y)
+
+# Geração da reta de regressão
+experiencias = np.linspace(X.min(), X.max(), 100)
+salarios = modelo.predict(experiencias)
+
+# Previsão específica (exemplo para 6 anos de experiência)
+entrada = pd.DataFrame([[6]], columns=['experiencia'])
+previsao = modelo.predict(entrada)
+
+# Gráfico
 plt.figure(figsize=(8, 5))
-plt.scatter(df['idade'], df['altura'], label='Dados reais', color='blue')
-plt.plot(df['idade'], reta(df['idade']), color='red', label='Reta de regressão')
-plt.title('Altura x Idade (crianças)')
-plt.xlabel('Idade (anos)')
-plt.ylabel('Altura (cm)')
+plt.scatter(X, y, color='blue', label='Dados reais')
+plt.plot(experiencias, salarios, color='red', label='Reta de regressão')
+plt.scatter(6, previsao, color='green', label=f'Previsão p/ 6 anos: R$ {previsao[0]:,.0f}')
+plt.title('Salário vs Experiência (Regressão Linear)')
+plt.xlabel('Experiência (anos)')
+plt.ylabel('Salário (R$)')
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
-plt.savefig("grafico_altura_idade.png")
+plt.savefig("grafico_salario_mysql.png")
 plt.show()
+
+conexao.close()
