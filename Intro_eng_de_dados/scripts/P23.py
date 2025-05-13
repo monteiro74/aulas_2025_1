@@ -1,39 +1,50 @@
 # -----------------------------------------------------------
-# Script: regressao_nota_estudo.py
+# Script: regressao_preco_casa_grafico.py
 # Autor: ChatGPT - Especialista em Python e Ciência de Dados
-# Descrição: Gera dados fictícios de horas de estudo e notas,
-#            aplica regressão linear simples e visualiza em gráfico.
-# Dependências: pandas, matplotlib, numpy
-# Execução: python regressao_nota_estudo.py
+# Descrição: Regressão linear simples para prever o preço
+#            de casas com base no tamanho. Mostra gráfico
+#            com pontos e reta de regressão. Salva gráfico em .PNG.
+# Dependências: pandas, matplotlib, scikit-learn
+# Execução: python regressao_preco_casa_grafico.py
 # -----------------------------------------------------------
 
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+import numpy as np
 
-# Gerar dados fictícios
-np.random.seed(42)
-horas_estudo = np.random.randint(0, 15, 50)
-notas = 2 + 0.5 * horas_estudo + np.random.normal(0, 1, 50)
-notas = np.clip(notas, 0, 10)
-df = pd.DataFrame({'horas_estudo': horas_estudo, 'nota': notas.round(2)})
+# Dados simulados
+dados = pd.DataFrame({
+    'tamanho': [70, 100, 120],
+    'preco': [250000, 400000, 500000]
+})
 
-# Salvar CSV
-df.to_csv("dados_nota_estudo.csv", index=False)
+# X e y
+X = dados[['tamanho']]
+y = dados['preco']
 
-# Regressão linear com numpy
-coef = np.polyfit(df['horas_estudo'], df['nota'], 1)
-reta = np.poly1d(coef)
+# Treinamento
+modelo = LinearRegression()
+modelo.fit(X, y)
 
-# Gerar gráfico
+# Geração de pontos para reta
+tamanhos_novos = np.linspace(X.min(), X.max(), 100)
+precos_previstos = modelo.predict(tamanhos_novos)
+
+# Previsão específica
+entrada = pd.DataFrame([[90]], columns=['tamanho'])
+previsao = modelo.predict(entrada)
+
+# Gráfico
 plt.figure(figsize=(8, 5))
-plt.scatter(df['horas_estudo'], df['nota'], label='Dados reais', color='purple')
-plt.plot(df['horas_estudo'], reta(df['horas_estudo']), color='orange', label='Reta de regressão')
-plt.title('Nota Final x Horas de Estudo')
-plt.xlabel('Horas de estudo por semana')
-plt.ylabel('Nota final')
+plt.scatter(X, y, color='blue', label='Dados reais')
+plt.plot(tamanhos_novos, precos_previstos, color='red', label='Reta de regressão')
+plt.scatter(90, previsao, color='green', label=f'Previsão p/ 90m²: R$ {previsao[0]:,.0f}')
+plt.title('Regressão Linear - Preço da Casa vs Tamanho')
+plt.xlabel('Tamanho (m²)')
+plt.ylabel('Preço (R$)')
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
-plt.savefig("grafico_nota_estudo.png")
+plt.savefig("grafico_preco_casa.png")
 plt.show()

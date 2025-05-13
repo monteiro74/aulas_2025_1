@@ -1,39 +1,33 @@
 # -----------------------------------------------------------
-# Script: regressao_altura_idade.py
+# Script: regressao_salario.py
 # Autor: ChatGPT - Especialista em Python e Ciência de Dados
-# Descrição: Gera dados fictícios de altura x idade, simula
-#            crescimento de crianças ao longo dos anos e
-#            aplica regressão linear simples. Salva gráfico .PNG.
-# Dependências: pandas, matplotlib, numpy
-# Execução: python regressao_altura_idade.py
+# Descrição: Exemplo de regressão linear usando scikit-learn
+#            para prever salário com base em anos de experiência
+#            e escolaridade (0 = Médio, 1 = Superior).
+# Dependências: pandas, scikit-learn
+# Execução: python regressao_salario.py
 # -----------------------------------------------------------
 
+from sklearn.linear_model import LinearRegression
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 
-# Gerar dados fictícios
-np.random.seed(0)
-idades = np.arange(2, 18)
-alturas = 50 + idades * 6 + np.random.normal(0, 5, len(idades))
-df = pd.DataFrame({'idade': idades, 'altura': alturas.round(1)})
+# Dados simulados
+dados = pd.DataFrame({
+    'experiencia': [1, 3, 5, 7, 10],
+    'escolaridade': [0, 0, 1, 1, 1],  # 0 = Médio, 1 = Superior
+    'salario': [1500, 2000, 3500, 4500, 6000]
+})
 
-# Salvar CSV
-df.to_csv("dados_altura_idade.csv", index=False)
+# Variáveis independentes (X) e dependente (y)
+X = dados[['experiencia', 'escolaridade']]
+y = dados['salario']
 
-# Regressão linear com numpy
-coef = np.polyfit(df['idade'], df['altura'], 1)
-reta = np.poly1d(coef)
+# Treinando o modelo de regressão linear
+modelo = LinearRegression()
+modelo.fit(X, y)
 
-# Gerar gráfico
-plt.figure(figsize=(8, 5))
-plt.scatter(df['idade'], df['altura'], label='Dados reais', color='blue')
-plt.plot(df['idade'], reta(df['idade']), color='red', label='Reta de regressão')
-plt.title('Altura x Idade (crianças)')
-plt.xlabel('Idade (anos)')
-plt.ylabel('Altura (cm)')
-plt.legend()
-plt.grid(True)
-plt.tight_layout()
-plt.savefig("grafico_altura_idade.png")
-plt.show()
+# Previsão para uma pessoa com 6 anos de experiência e ensino superior
+entrada = pd.DataFrame([[6, 1]], columns=['experiencia', 'escolaridade'])
+previsao = modelo.predict(entrada)
+
+print(f"Salário previsto para 6 anos de experiência e superior: R$ {previsao[0]:,.2f}")

@@ -1,62 +1,60 @@
 # -----------------------------------------------------------
-# Script: segmentacao_kmeans.py
+# Script: grafico_salario_mysql.py
 # Autor: ChatGPT - Especialista em Python e Ciência de Dados
-# Descrição: Gera dados fictícios sobre experiência, escolaridade
-#            e salário de profissionais. Aplica o algoritmo
-#            não supervisionado K-Means para identificar grupos
-#            de perfis semelhantes (segmentação de mercado).
-#            Salva o gráfico em formato PNG.
-# Dependências: pandas, numpy, sklearn, matplotlib
-# Execução: python segmentacao_kmeans.py
+# Descrição: Conecta-se a um banco MySQL, lê dados de salário,
+#            aplica regressão linear simples com base na experiência
+#            e gera gráfico com reta de regressão. Salva em PNG.
+# Dependências: pandas, matplotlib, sklearn, mysql-connector-python
+# Execução: python grafico_salario_mysql.py
 # -----------------------------------------------------------
 
 import pandas as pd
 import numpy as np
-from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+import mysql.connector
 
-# --------- Gerar dados fictícios (simulação de uma base real) ---------
-np.random.seed(42)  # Garantir repetibilidade
-experiencia = np.random.randint(0, 30, 100)  # anos de experiência (0 a 29)
-escolaridade = np.random.choice([0, 1, 2], 100)  # 0 = Fund., 1 = Médio, 2 = Superior
-salario = experiencia * 400 + escolaridade * 2000 + np.random.normal(3000, 1500, 100)
+# -------- CONFIGURAÇÕES DO BANCO DE DADOS --------
+# Altere os dados de conexão abaixo conforme seu ambiente
+conexao = mysql.connector.connect(
+    host="localhost",
+    user="seu_usuario",
+    password="sua_senha",
+    database="nome_do_banco"
+)
 
-# Criar DataFrame com os dados simulados
-df = pd.DataFrame({
-    'experiencia': experiencia,
-    'escolaridade': escolaridade,
-    'salario': salario.astype(int)
-})
+# Consulta SQL
+query = "SELECT experiencia, salario FROM salarios"
+df = pd.read_sql(query, conexao)
 
-# --------- Aplicar o algoritmo K-Means ---------
-# Defina abaixo o número de clusters desejado (valor de K)
-# O aluno pode alterar o valor de K para explorar diferentes segmentações
-k = 3  # <--- TROCAR AQUI: experimente usar k=2, k=4, k=5 e comparar os grupos
-kmeans = KMeans(n_clusters=k, n_init=10, random_state=42)
+# Pré-processamento
+X = df[['experiencia']]
+y = df['salario']
 
-# Aplicar o modelo de agrupamento aos dados
-df['grupo'] = kmeans.fit_predict(df[['experiencia', 'escolaridade', 'salario']])
+# Modelo de regressão
+modelo = LinearRegression()
+modelo.fit(X, y)
 
-# --------- Gerar gráfico de dispersão ---------
-# Mostra a relação entre experiência e salário, colorindo por grupo
-plt.figure(figsize=(8, 6))
-cores = ['red', 'blue', 'green', 'purple', 'orange', 'cyan', 'gray']
+# Geração da reta de regressão
+experiencias = np.linspace(X.min(), X.max(), 100)
+salarios = modelo.predict(experiencias)
 
-for grupo in df['grupo'].unique():
-    grupo_df = df[df['grupo'] == grupo]
-    plt.scatter(grupo_df['experiencia'], grupo_df['salario'],
-                color=cores[grupo % len(cores)],
-                label=f'Grupo {grupo}', alpha=0.7)
+# Previsão específica (exemplo para 6 anos de experiência)
+entrada = pd.DataFrame([[6]], columns=['experiencia'])
+previsao = modelo.predict(entrada)
 
-plt.xlabel("Experiência (anos)")
-plt.ylabel("Salário (R$)")
-plt.title(f"Segmentação de Mercado com K-Means (k = {k})")
+# Gráfico
+plt.figure(figsize=(8, 5))
+plt.scatter(X, y, color='blue', label='Dados reais')
+plt.plot(experiencias, salarios, color='red', label='Reta de regressão')
+plt.scatter(6, previsao, color='green', label=f'Previsão p/ 6 anos: R$ {previsao[0]:,.0f}')
+plt.title('Salário vs Experiência (Regressão Linear)')
+plt.xlabel('Experiência (anos)')
+plt.ylabel('Salário (R$)')
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
-plt.savefig("segmentacao_kmeans.png")
+plt.savefig("grafico_salario_mysql.png")
 plt.show()
 
-# --------- Salvar os dados com rótulo de grupo ---------
-df.to_csv("dados_segmentacao_kmeans.csv", index=False)
-
+conexao.close()
