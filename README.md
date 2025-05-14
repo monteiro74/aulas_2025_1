@@ -5,6 +5,7 @@ Disciplinas de 2025.
 - [Atenção 2](#atenção-2)
 - [1. Disciplinas, ministradas em 2025/1.](#1-disciplinas-ministradas-em-20251)
 - [2. Mapa do curso](#2-mapa-do-curso)
+  - [2.1. Link tree](#21-link-tree)
 - [3. Calendário](#3-calendário)
 - [4. Horários](#4-horários)
 - [5. Normatização acadêmica](#5-normatização-acadêmica)
@@ -40,6 +41,10 @@ Em maio teremos:
 Mapa do curso
 https://github.com/monteiro74/aulas_2025_1/blob/main/Mapa%20do%20Curso%20-%20Sistemas.pdf
 
+
+## 2.1. Link tree
+
+https://linktr.ee/si.unemat
 
 ---
 # 3. Calendário
