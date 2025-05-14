@@ -83,6 +83,16 @@ https://forms.gle/7ZLmmALLLAfSxcHj7
 | 23/06/2025 |            | Morgan --> **Avaliação 2**, TCC final com Ata de defesa. | 
 
 
+2/6 termo de autorizaçõara para banca, submissão do relatório de acompanhamento do orientador e pré-projeto.
+
+3 a 6/junho enviar para banca
+
+9 a 27/junho sugerido para bancas
+
+até 4/julho projeto corrigido + ATA defesa
+
+
+
 O que é a atividade "questão a ser respondida com sua pesquisa" 19/05 ?????
 
 Perguntar para o morgam o que é e como vai ser a "AVALIAÇÃO 1 Termo de autorização para banca" ?
