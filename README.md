@@ -1,13 +1,13 @@
 Disciplinas de 2025.
 
 
-- [Atenção 1](#atenção-1)
-- [Atenção 2](#atenção-2)
-- [1. Disciplinas, ministradas em 2025/1.](#1-disciplinas-ministradas-em-20251)
+- [Atenção (ISIS)](#atenção-isis)
+- [1. Disciplinas para 2025/1.](#1-disciplinas-para-20251)
 - [2. Mapa do curso](#2-mapa-do-curso)
 - [3. Link tree](#3-link-tree)
 - [4. Calendário](#4-calendário)
-  - [4.1. Calendário 2025/1](#41-calendário-20251)
+  - [4.1. Geral da universidade](#41-geral-da-universidade)
+  - [4.2. Calendário do curso 2025/1](#42-calendário-do-curso-20251)
 - [5. Horários](#5-horários)
   - [5.1. Distribuição de carga horária:](#51-distribuição-de-carga-horária)
 - [6. Normatização acadêmica](#6-normatização-acadêmica)
@@ -15,27 +15,18 @@ Disciplinas de 2025.
 - [8. Localização das disciplinas no quadro geral do curso](#8-localização-das-disciplinas-no-quadro-geral-do-curso)
 
 
-# Atenção 1
+# Atenção (ISIS)
 
 Projeto de extensão aprovado, maiores detalhes [aqui](https://www.pontodeensino.com/projetos/isis).
 
 
-# Atenção 2
-
-Em maio teremos:
-19-24 semana extensão
-20-21 feira de profissões
-
-
-
 ---
-# 1. Disciplinas, ministradas em 2025/1.
+# 1. Disciplinas para 2025/1.
 
 * Engenharia de software - 4ª fase
 * Modelagem e projeto de banco de dados - 4ª fase
 * Introdução à engenharia de dados - 5ª fase
-* Orientação de TCC1, orientação de extensão e estágio de mestrado
-
+* Orientação de: TCC1, extensão e estágio de mestrado
 
 ---
 # 2. Mapa do curso
@@ -49,12 +40,14 @@ https://github.com/monteiro74/aulas_2025_1/blob/main/Mapa%20do%20Curso%20-%20Sis
 https://linktr.ee/si.unemat
 
 ---
-# 4. Calendário
+# 4. Calendário 
+
+## 4.1. Geral da universidade
 
 Calendário de aulas (previstas no calendário) p/ 2025/1: Consulte o calendário oficial do curso e da universidade. No site ponto de ensino e no site da disciplina temos material adiconal ou info sobre o calendário com os dias de aula de cada disciplina.
 https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/cY0yA4T6cQm9fuCwKaMDMPZbn3saE2YJ8phNsHfM.pdf
 
-## 4.1. Calendário 2025/1
+## 4.2. Calendário do curso 2025/1
 
 https://docs.google.com/spreadsheets/d/1U4Naem9pWYuhsldxvcZpwIVLA7PNvkIZi5urKVEYc38/edit?gid=312431323#gid=312431323
 
