@@ -75,8 +75,8 @@ https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz
 |[RESOLUÇÃO Nº 038/2021 – CONEPE](https://www.unemat.br/resolucoes/resolucoes/conepe/4536_res_conepe_38_2021.pdf) | Dispõe sobre a Política de Extensão da Universidade do Estado de Mato Grosso.|
 |[RESOLUÇÃO Nº 011/2020 – AD REFERENDUM DO CONEPE](https://portal.unemat.br/media/files/Resolu%C3%A7%C3%A3o%20de%20Credita%C3%A7%C3%A3o%20011_2020.pdf) | Dispõe e regulamenta sobre a obrigatoriedade da inclusão da creditação da Extensão nos Cursos de Graduação da Universidade do Estado de Mato Grosso.|
 |[RESOLUÇÃO Nº 038/2022 – CONEPE](https://cms.unemat.br/download/documentos/bloco-documento-arquivo/Z7V40ETDcn8Cqz3NvXE48T1LMV2uuD0M1FuxRsb7/Ppc-de-Sistemas-de-Informacao-Resolucao-no-0382022-Conepe.pdf) | Aprova a adequação do Projeto Pedagógico do Curso de Bacharelado em Sistemas de Informação do Câmpus Universitário de Sinop.|
-|RESOLUÇÃO Nº 028/2012/CONEPE|Dispõe sobre o Estágio Curricular Supervisionado dos cursos de graduação de Bacharelado nas diferentes modalidades de ensino oferecidos pela Universidade do Estado de Mato Grosso – UNEMAT.|
-|RESOLUÇÃO Nº 030/2012 – CONEPE | Dispõe sobre o Trabalho de Conclusão de Curso – TCC dos cursos de Graduação da Universidade do Estado de Mato Grosso – UNEMAT.|
+|[RESOLUÇÃO Nº 028/2012/CONEPE](https://portal.unemat.br/media/oldfiles/proeg/docs/resolucoes/resolucao_028-2012-conepe_estagio_curricular_bacharelado.pdf)|Dispõe sobre o Estágio Curricular Supervisionado dos cursos de graduação de Bacharelado nas diferentes modalidades de ensino oferecidos pela Universidade do Estado de Mato Grosso – UNEMAT.|
+|[RESOLUÇÃO Nº 030/2012 – CONEPE](https://www.unemat.br/proeg/docs/resolucoes/resolucao_030_2012_conepe_tcc.pdf) | Dispõe sobre o Trabalho de Conclusão de Curso – TCC dos cursos de Graduação da Universidade do Estado de Mato Grosso – UNEMAT.|
 
 
 ---
