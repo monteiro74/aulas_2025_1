@@ -455,3 +455,4 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 Software Inc. https://store.steampowered.com/app/362620/Software_Inc/
 
+Startup https://store.steampowered.com/app/606800/Startup_Company/
