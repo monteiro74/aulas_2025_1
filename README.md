@@ -7,7 +7,9 @@ Disciplinas de 2025.
 - [2. Mapa do curso](#2-mapa-do-curso)
   - [3. Link tree](#3-link-tree)
 - [4. Calendário](#4-calendário)
+  - [4.1. Calendário 2025/1](#41-calendário-20251)
 - [5. Horários](#5-horários)
+  - [5.1. Distribuição de carga horária:](#51-distribuição-de-carga-horária)
 - [6. Normatização acadêmica](#6-normatização-acadêmica)
 - [7. Outros repositórios de apoio no github](#7-outros-repositórios-de-apoio-no-github)
 - [8. Localização das disciplinas no quadro geral do curso](#8-localização-das-disciplinas-no-quadro-geral-do-curso)
@@ -52,7 +54,8 @@ https://linktr.ee/si.unemat
 Calendário de aulas (previstas no calendário) p/ 2025/1: Consulte o calendário oficial do curso e da universidade. No site ponto de ensino e no site da disciplina temos material adiconal ou info sobre o calendário com os dias de aula de cada disciplina.
 https://cms.unemat.br/storage/documentos/bloco-documento-arquivo/cY0yA4T6cQm9fuCwKaMDMPZbn3saE2YJ8phNsHfM.pdf
 
-Veja o calendário 2025/1 do curso:
+## 4.1. Calendário 2025/1
+
 https://docs.google.com/spreadsheets/d/1U4Naem9pWYuhsldxvcZpwIVLA7PNvkIZi5urKVEYc38/edit?gid=312431323#gid=312431323
 
 
@@ -61,8 +64,9 @@ https://docs.google.com/spreadsheets/d/1U4Naem9pWYuhsldxvcZpwIVLA7PNvkIZi5urKVEY
 
 ![https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true](https://github.com/monteiro74/aulas_2025_1/blob/main/horarios_2025.drawio.png?raw=true)
 
+## 5.1. Distribuição de carga horária:
 
-[Distribuição de carga horária](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/carga_horaria.png)
+![https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/carga_horaria.png](https://raw.githubusercontent.com/monteiro74/aulas_2025_1/refs/heads/main/carga_horaria.png)
 
 ---
 # 6. Normatização acadêmica
