@@ -136,9 +136,10 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 6. [Github Desktop](https://desktop.github.com/download/)
 7. [DBeaver Community](https://dbeaver.io/download/)
 8. [CouchDB](https://couchdb.apache.org/)
-9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
-10. [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
-11. [Postgresql](https://www.postgresql.org/download/windows/     )
+9.  [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+10. [Postgresql](https://www.postgresql.org/download/windows/)
+11. [SQL Server Migration Assistant (SSMA) for MySQL](https://www.microsoft.com/en-us/download/details.aspx?id=54257)
+12. [PowerBI](https://www.microsoft.com/pt-br/download/details.aspx?id=58494)
 
 MongoDB:
 
