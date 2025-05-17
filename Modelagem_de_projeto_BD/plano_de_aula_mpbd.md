@@ -137,9 +137,21 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 7. [DBeaver Community](https://dbeaver.io/download/)
 8. [CouchDB](https://couchdb.apache.org/)
 9. [MongoDB](https://www.mongodb.com/products/self-managed/community-edition)
+10. [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+11. [Postgresql](https://www.postgresql.org/download/windows/     )
+
+MongoDB:
+
+* [MongoDB Community Server](https://www.mongodb.com/try/download/community)<br>
+* [MongoDB Compass](https://www.mongodb.com/try/download/compass)<br>
+* [MongoDB Relational Migrator Download](https://www.mongodb.com/try/download/relational-migrator)<br>
+* [Studio 3T Free for MongoDB](https://studio3t.com/free/)<br>
 
 
-* Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
+
+Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
+
+
 
 ---
 ### :newspaper: 7. Artigos
