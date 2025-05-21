@@ -14,8 +14,8 @@
 - [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
 - [:date: 5. Datas de avaliações](#date-5-datas-de-avaliações)
 - [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
-- [:newspaper: 7. Artigos (referências bibliográficas complementares)](#newspaper-7-artigos-referências-bibliográficas-complementares)
-- [:books: 8. Livros (básicos)](#books-8-livros-básicos)
+- [:books: 7. Livros (básicos)](#books-7-livros-básicos)
+- [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
   - [:books: 8.1. Outras referências complementares](#books-81-outras-referências-complementares)
 - [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
   - [:notebook:  9.1. Cursos sobre BI com Scriptcase](#notebook--91-cursos-sobre-bi-com-scriptcase)
@@ -156,22 +156,11 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
----
-## :newspaper: 7. Artigos (referências bibliográficas complementares)
 
-Artigo 1: [Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado](https://sol.sbc.org.br/index.php/sbbd/article/view/25556).
-
-Artigo 2: [Engenharia de dados para extração de conhecimento na avaliação do aprendizado em equipes de desenvolvimento de software](https://www.researchgate.net/publication/336275133_Engenharia_de_dados_para_extracao_de_conhecimento_na_avaliacao_do_aprendizado_em_equipes_de_desenvolvimento_de_software).
-
-Artigo 3: [A Importância da Análise de Dados na Engenharia de Produção](https://www.abepro.org.br/biblioteca/TN_STO_359_1852_42030.pdf).
-
-Artigo 4: [Ciência da informação e ciência de dados: convergência interdisciplinares](https://www.scielo.br/j/eb/a/rLCJY3rCQsTHC9cnmtMGsmb/?format=pdf&lang=pt).
-
-Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplicações na engenharia.](https://lcv.fee.unicamp.br/images/BTSym-19/Papers/166.pdf).
 
 
 ---
-## :books: 8. Livros (básicos)
+## :books: 7. Livros (básicos)
 
 * Ferrari, Leandro Nunes de Castro, Daniel G. Introdução à Mineração de Dados: Conceitos Básicos, Algoritmos e Aplicações. Editora Saraiva, 03/2016.
 
@@ -186,6 +175,20 @@ Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplica
 * MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760.
 
 [Referências bibliográficas nas bibliotecas virtuais](https://docs.google.com/presentation/d/1mKl1KTREAIjZhxWLcdsbQxzeVbAWtvCqdxAxfi3oeBc/view).
+
+
+---
+## :newspaper: 8. Artigos (referências bibliográficas complementares)
+
+Artigo 1: [Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado](https://sol.sbc.org.br/index.php/sbbd/article/view/25556).
+
+Artigo 2: [Engenharia de dados para extração de conhecimento na avaliação do aprendizado em equipes de desenvolvimento de software](https://www.researchgate.net/publication/336275133_Engenharia_de_dados_para_extracao_de_conhecimento_na_avaliacao_do_aprendizado_em_equipes_de_desenvolvimento_de_software).
+
+Artigo 3: [A Importância da Análise de Dados na Engenharia de Produção](https://www.abepro.org.br/biblioteca/TN_STO_359_1852_42030.pdf).
+
+Artigo 4: [Ciência da informação e ciência de dados: convergência interdisciplinares](https://www.scielo.br/j/eb/a/rLCJY3rCQsTHC9cnmtMGsmb/?format=pdf&lang=pt).
+
+Artigo 5: [Um paranorama de 20 anos do Big Data: Definição, conceitos e aplicações na engenharia.](https://lcv.fee.unicamp.br/images/BTSym-19/Papers/166.pdf).
 
 
 ---

@@ -154,26 +154,11 @@ Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
 
 
 
----
-### :newspaper: 7. Artigos
-
-Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
-https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
-
-O uso da abordagem sistêmica na modelagem de banco de dados
-https://www.aedb.br/seget/arquivos/artigos12/65416864.pdf
-
-Uma proposta de aplicação de business intelligence no chão-de-fábrica
-https://www.scielo.br/j/gp/a/ydtVGxxBtD65zcx4VmJDJGw/?format=pdf
-
-Os desafios da administração pública na disponibilização de dados sensíveis
-https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
-
- 
 
 
----
-## :books: 8. Livros
+
+
+## :books: 7. Livros
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.
 
@@ -192,6 +177,34 @@ Este livro esta disponível na biblioteca online da Unemat em: https://integrada
 
 Referências na biblioteca virtual:
 [referências bibliográficas](https://docs.google.com/presentation/d/1StFHjTjcc9mpTTDoWmMHJibmx2n17o8FLwxMhHskXZo/view).
+
+
+
+
+
+
+
+
+---
+### :newspaper: 8. Artigos (referências bibliográficas complementares)
+
+Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software
+https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575
+
+O uso da abordagem sistêmica na modelagem de banco de dados
+https://www.aedb.br/seget/arquivos/artigos12/65416864.pdf
+
+Uma proposta de aplicação de business intelligence no chão-de-fábrica
+https://www.scielo.br/j/gp/a/ydtVGxxBtD65zcx4VmJDJGw/?format=pdf
+
+Os desafios da administração pública na disponibilização de dados sensíveis
+https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
+
+ 
+
+
+---
+
 
 ---
 ## :notebook: 9. Cursos gratuítos (opcionais)
