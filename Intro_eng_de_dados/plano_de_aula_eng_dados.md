@@ -124,7 +124,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 |     | 21/mai |     | **Semana de extensão.** |
 | 12  | 28/mai | 3hs |  |
 | 13  | 04/jun | 3hs |  |
-| 14  | 11/jun |     | **Avaliação 3**, conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares) entrega de notas, revisão para PF. |
+| 14  | 11/jun | 3hs | **Avaliação 3**, conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares) entrega de notas, revisão para PF. |
 
 
 ## :date: 5. Datas de avaliações
