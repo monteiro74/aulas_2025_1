@@ -13,8 +13,8 @@
 - [:date: 4. Datas de aulas e conteúdo](#date-4-datas-de-aulas-e-conteúdo)
 - [:date: 5. Unidades de avaliações](#date-5-unidades-de-avaliações)
 - [:hammer\_and\_wrench: 6. Links para download de ferramentas](#hammer_and_wrench-6-links-para-download-de-ferramentas)
-  - [:newspaper: 7. Artigos](#newspaper-7-artigos)
-- [:books: 8. Livros](#books-8-livros)
+- [:books: 7. Livros](#books-7-livros)
+  - [:newspaper: 8. Artigos (referências bibliográficas complementares)](#newspaper-8-artigos-referências-bibliográficas-complementares)
 - [:notebook: 9. Cursos gratuítos (opcionais)](#notebook-9-cursos-gratuítos-opcionais)
 - [:green\_book: 10. Como estudar (dicas)](#green_book-10-como-estudar-dicas)
 - [:family\_man\_woman\_girl\_boy: 11. Grupos no telegram](#family_man_woman_girl_boy-11-grupos-no-telegram)
@@ -209,7 +209,7 @@ https://www.scielo.br/j/rdgv/a/GCMwrvnHzP4mJD3xZKNsnTq/?format=pdf
 ---
 ## :notebook: 9. Cursos gratuítos (opcionais)
 
-* [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
+* [Projeto Real DER (conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Série DBA SQL Server - Preparação, instalação e configuração](https://www.udemy.com/course/sqlserver-instalacao-e-configuracao/)
 
