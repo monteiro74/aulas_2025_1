@@ -119,9 +119,9 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 10 | 06/mai | 3hs | **Avaliação 2**. |
 | 11 | 13/mai | 4hs | [Jogo the Work In Progress(WIP) game](https://analytics.actionableagile.com/twig/index.html). [Slides de aula](https://docs.google.com/presentation/d/1HbyynlHZWmOYb7Le1UD9WAOm8WYLPH6mYXSAlMsyonY/view) Clean code, solid, sourceforge, rpa, mpsbr, clean room, swebok, ergonomia x ergonometria, acessibilidade, tipping point. |
 |    | 20/mai | 3hs | **Semana de extensão.** |
-| 12 | 27/mai | 3hs |  |
+| 12 | 27/mai | 3hs |   |
 | 13 | 3/jun  | 3hs |   |
-| 14 | 10/jun | 3hs    | **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 8. (referências bibliográficas complementares), Entrega de notas, revisão para PF. |
+| 14 | 10/jun | 3hs | **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 8. (referências bibliográficas complementares), Entrega de notas, revisão para PF. |
 
 
 

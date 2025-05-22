@@ -121,10 +121,10 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 9   | 30/abr | 4hs | <!-- Descoberta de tópicos em texto.  +1h reprogramada referênte ao dia 26/02. --> [Intro. Regressão linear e Pentaho](https://docs.google.com/presentation/d/1y13cbB5pT_49MuAWM5p26fz7-le1tafOTklA8Q1GvLs/view). |
 | 10  | 07/mai | 3hs | **Avaliação 2**. |
 | 11  | 14/mai | 4hs | Vozviewer download [Link1](https://www-vosviewer-com.translate.goog/downloads/VOSviewer_1.6.20_exe.zip?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc). <br> Vozviewer download [Link2](https://drive.google.com/file/d/1sZED1_hTHXAamjpu221HlAz0SAkLKzOh/view). <br> [Arquivos ris](https://docs.google.com/presentation/d/1ON0sWyQ2JrzuWpec7BhVmTxLnczK_W5I7jQX8GPUvHU/view). <br> [openRefine](https://docs.google.com/presentation/d/1YlWZYtd4eMzxaIuIq9xDfHJSSinzb1S6P8mifvAJ3Zk/view). <br> [Qualidade de dados](https://docs.google.com/presentation/d/1Q5oXIOpB5gqav3tSHbwlCV53DiOJRsuMbXuZ5KjBPO0/view). <br> [Redes de dados bibliométricos](https://docs.google.com/presentation/d/11sX_AA0b7I1eiH3FfrwvZwG2qBQk9zPFHLRubAo22vE/view). <br> [Ferramentas para bibliometria](https://www.pontodeensino.com/publicacoes/bibliometria). <br> |
-| 12  | 21/mai |  | <!-- Data Warehouse. --> **Semana de extensão.**|
-| 13  | 28/mai | 3hs | <!-- Big Data x Data Lake. --> |
-| 14  | 04/jun | 3hs    | <!-- Virtualização de dados.--> **Avaliação 3**, entrega de notas, revisão para PF. |
-| 15  | 11/jun |    | <!-- Virtualização de dados.--> **Avaliação 3**, conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares) entrega de notas, revisão para PF. |
+|     | 21/mai |     | **Semana de extensão.** |
+| 12  | 28/mai | 3hs |  |
+| 13  | 04/jun | 3hs |  |
+| 14  | 11/jun |     | **Avaliação 3**, conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares) entrega de notas, revisão para PF. |
 
 
 ## :date: 5. Datas de avaliações
