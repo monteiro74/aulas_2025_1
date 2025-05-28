@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-28">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="tipo" type="string" />
+      <attribute id="1" title="peso" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Ana" label="Ana" />
+      <node id="Bruno" label="Bruno" />
+      <node id="Carlos" label="Carlos" />
+      <node id="Diana" label="Diana" />
+      <node id="NewsBot" label="NewsBot" />
+    </nodes>
+    <edges>
+      <edge source="Ana" target="Bruno" id="0">
+        <attvalues>
+          <attvalue for="0" value="menção" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ana" target="Carlos" id="1">
+        <attvalues>
+          <attvalue for="0" value="curtida" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bruno" target="Carlos" id="2">
+        <attvalues>
+          <attvalue for="0" value="retweet" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos" target="Diana" id="3">
+        <attvalues>
+          <attvalue for="0" value="curtida" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Diana" target="Ana" id="4">
+        <attvalues>
+          <attvalue for="0" value="menção" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="NewsBot" target="Ana" id="5">
+        <attvalues>
+          <attvalue for="0" value="retweet" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="NewsBot" target="Bruno" id="6">
+        <attvalues>
+          <attvalue for="0" value="menção" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

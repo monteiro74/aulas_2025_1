@@ -1,0 +1,29 @@
+digraph tree {
+    "João (M)" [label="João (M)\nGeração 0", style=filled, fillcolor="#d0f0c0"];
+    "Carlos (M)" [label="Carlos (M)\nGeração 1", style=filled, fillcolor="#add8e6"];
+    "Tiago (M)" [label="Tiago (M)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Camila (F)" [label="Camila (F)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Vitor (M)" [label="Vitor (M)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Beatriz (F)" [label="Beatriz (F)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Henrique (M)" [label="Henrique (M)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Lucia (F)" [label="Lucia (F)\nGeração 1", style=filled, fillcolor="#add8e6"];
+    "Paulo (M)" [label="Paulo (M)\nGeração 1", style=filled, fillcolor="#add8e6"];
+    "Felipe (M)" [label="Felipe (M)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Juliana (F)" [label="Juliana (F)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Natália (F)" [label="Natália (F)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Otávio (M)" [label="Otávio (M)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "Pedro (M)" [label="Pedro (M)\nGeração 2", style=filled, fillcolor="#ffcccb"];
+    "João (M)" -> "Carlos (M)";
+    "João (M)" -> "Lucia (F)";
+    "João (M)" -> "Paulo (M)";
+    "Carlos (M)" -> "Tiago (M)";
+    "Carlos (M)" -> "Camila (F)";
+    "Carlos (M)" -> "Vitor (M)";
+    "Carlos (M)" -> "Beatriz (F)";
+    "Carlos (M)" -> "Henrique (M)";
+    "Paulo (M)" -> "Felipe (M)";
+    "Paulo (M)" -> "Juliana (F)";
+    "Paulo (M)" -> "Natália (F)";
+    "Paulo (M)" -> "Otávio (M)";
+    "Paulo (M)" -> "Pedro (M)";
+}
