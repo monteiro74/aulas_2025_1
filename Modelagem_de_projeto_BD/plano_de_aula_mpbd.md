@@ -117,12 +117,12 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 13  | 12/jun | 3hs | <!-- **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares), entrega de notas, revisão para PF. --> |
 | 14  | 26/jun | 3hs | **Avaliação 3** |
 
+
 ## :date: 5. Unidades de avaliações
 
 * Avaliação 1: 03/04/2025
 * Avaliação 2: 15/05/2025
 * Avaliação 3: 12/06/2025
-
 
 
 ---
