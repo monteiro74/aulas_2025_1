@@ -111,7 +111,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 7   | 24/abr | 3hs | <!-- Dataware house, BI, modelo estrela e floco de neve, slides de aula. Orange Data Mining. Backup e Restore no SQL Server. Tabela dinânica (pivot table).  +1h reprogramada referênte ao dia 27/02. -->  [Exercício mineradora](https://docs.google.com/presentation/d/1NHSY2LNHHY9ITMlO56JYuLnkAsSkETv1Vre5O6Ur6A8/view), [Conexões ODBC](https://docs.google.com/presentation/d/1We7-yJVxtQoRtPk2Lyy8UqwgEA7mYZHuH0sSWYSOZlE/view), [SQL Server criptografia](https://docs.google.com/presentation/d/1rcYGif4Nb1B9wK-32KVm5tho36u6hcAdkbmO3BUJlaE/view), [SQL Server Migration Assistante](https://docs.google.com/presentation/d/1lYyq8emcwasYhNjsmyxq0pUNUvMjNPllayOmScSZ89I/view), [Intro. blockchain](https://docs.google.com/presentation/d/1hs-bvkG2r99NErw3_0_OOuP0OMg4quwuHwy5ri8iNow/view). |
 | 8  | 08/mai | 3hs | Modelagem de dados, exercícios com diagrama ER.  |
 | 9  | 15/mai | 3hs | **Avaliação 2**. |
-| 10  | 22/mai | 3hs | |
+| 10  | 22/mai | 3hs | Revisão de modelagem de dados, finalização de [Blockchain](https://docs.google.com/presentation/d/1hs-bvkG2r99NErw3_0_OOuP0OMg4quwuHwy5ri8iNow/view). |
 | 11  | 29/mai | 3hs | <!-- +1h reprogramada referênte ao dia 27/02. --> |
 | 12  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler.     --> |
 | 13  | 12/jun | 3hs | <!-- **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares), entrega de notas, revisão para PF. --> |
