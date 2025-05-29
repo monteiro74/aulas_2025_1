@@ -152,6 +152,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 13. Spider IDE (já esta contido dentro do Anaconda)
 14. [Pentaho Developer Edition](https://pentaho.com/pentaho-developer-edition/)
 15. [Knime](https://www.knime.com/downloads)
+16. [Socnetv](https://socnetv.org/)
 
 
 * Ferramenta para pesquisa:  https://github.com/langchain-ai/local-deep-researcher
