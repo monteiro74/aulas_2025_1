@@ -25,6 +25,7 @@
 - [:alarm\_clock: 14. Carga horária de 15hs adicionais (remota/online)](#alarm_clock-14-carga-horária-de-15hs-adicionais-remotaonline)
   - [🎓 14.1. Playlist de Banco de Dados (15h)](#-141-playlist-de-banco-de-dados-15h)
   - [📄 14.2. Artigos Científicos Open Access sobre Banco de Dados](#-142-artigos-científicos-open-access-sobre-banco-de-dados)
+- [15. Bancos de dados da fundação Apache](#15-bancos-de-dados-da-fundação-apache)
 
 
 
@@ -398,5 +399,23 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 | A Survey on Transactional Stream Processing | Processamento de Transações, ACID e Concorrência  | 1h 30min  | [Link](https://arxiv.org/pdf/2208.09827) |
 
 **⏱️ Duração Total Estimada de Leitura:** 15h 00min
+
+
+## 15. Bancos de dados da fundação Apache
+
+| Banco de Dados | Descrição                                                                                                             |
+| -------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Cassandra**  | Banco NoSQL distribuído, orientado a colunas, altamente escalável, ideal para grandes volumes e alta disponibilidade. |
+| **HBase**      | Banco NoSQL distribuído baseado no Bigtable, roda sobre Hadoop/HDFS, focado em armazenamento de dados massivos.       |
+| **Derby**      | Banco de dados relacional leve e embutido, 100% Java, ótimo para aplicações embarcadas.                               |
+| **Hive**       | Data warehouse sobre Hadoop, permite consultas SQL-like em grandes conjuntos de dados distribuídos.                   |
+| **CouchDB**    | Banco NoSQL orientado a documentos, com interface REST, replicação fácil e arquitetura tolerante a falhas.            |
+| **Ignite**     | Banco de dados em memória (IMDG) distribuído, suporta SQL, alta performance e transações ACID.                        |
+| **Accumulo**   | Banco NoSQL distribuído, baseado em Bigtable, com segurança em nível de célula e alta escalabilidade.                 |
+| **Druid**      | Banco analítico distribuído, otimizado para OLAP e consultas rápidas em grandes volumes de dados.                     |
+| **Solr**       | Motor de busca baseado no Lucene, pode ser usado como banco para consultas textuais complexas.                        |
+| **Kudu**       | Banco colunar distribuído para análises em tempo real, integrado ao ecossistema Hadoop.                               |
+| **Geode**      | Banco de dados em memória distribuído, baixa latência e processamento de dados em tempo real.                         |
+| **Jackrabbit** | Repositório de conteúdo (JCR), utilizado para armazenamento estruturado e hierárquico de documentos.                  |
 
 
