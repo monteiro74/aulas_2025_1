@@ -403,6 +403,8 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 ## 15. Bancos de dados da fundação Apache
 
+
+
 | Banco de Dados | Descrição                                                                                                             |
 | -------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Cassandra**  | Banco NoSQL distribuído, orientado a colunas, altamente escalável, ideal para grandes volumes e alta disponibilidade. |
