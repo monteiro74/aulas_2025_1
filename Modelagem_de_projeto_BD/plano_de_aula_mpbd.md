@@ -113,7 +113,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 8  | 08/mai | 3hs | Modelagem de dados, exercícios com diagrama ER.  |
 | 9  | 15/mai | 3hs | **Avaliação 2**. |
 | 10  | 22/mai | 3hs | Revisão de modelagem de dados, finalização de [Blockchain](https://docs.google.com/presentation/d/1hs-bvkG2r99NErw3_0_OOuP0OMg4quwuHwy5ri8iNow/view). |
-| 11  | 29/mai | 3hs | <!-- +1h reprogramada referênte ao dia 27/02. --> |
+| 11  | 29/mai | 3hs | <!-- +1h reprogramada referênte ao dia 27/02. --> [Multichain blockchain](https://docs.google.com/presentation/d/1FAnn5t2rphlXewBBUFbNuVSfp4y2B1wKYFmwBdOz6VY/view), [Exemplo de exercício com Multichain Blockchain](https://docs.google.com/presentation/d/1r5Ny9dH8XKeleMUWNuWjzPNlbVwuBQKjjkjITa_jqPY/view), [Bancos NoSQL](https://docs.google.com/presentation/d/19YZpn8Y07P2op-goaFZTeFUgn1WZ4wFGcaQ_393Dxl4/view), [Bancos distribuídos](https://docs.google.com/presentation/d/1kr5VIgCDO30gtL6sGo8M1Hme2cs9S1VrWCu7vGvbRfk/view). Extra... [Tutorial para uso da Multichain](https://www.multichain.com/getting-started/). |
 | 12  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler.     --> |
 | 13  | 12/jun | 3hs | <!-- **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares), entrega de notas, revisão para PF. --> |
 | 14  | 26/jun | 3hs | **Avaliação 3** |
