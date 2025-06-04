@@ -120,7 +120,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 11 | 13/mai | 4hs | [Jogo the Work In Progress(WIP) game](https://analytics.actionableagile.com/twig/index.html). [Slides de aula](https://docs.google.com/presentation/d/1HbyynlHZWmOYb7Le1UD9WAOm8WYLPH6mYXSAlMsyonY/view) Clean code, solid, sourceforge, rpa, mpsbr, clean room, [swebok](https://www.computer.org/education/bodies-of-knowledge/software-engineering), ergonomia x ergonometria, acessibilidade, tipping point. |
 |    | 20/mai | 3hs | **Semana de extensão.** |
 | 12 | 27/mai | 3hs | [Script SQL na fase de projeto, metodologias Jelinski Moranda, Warnier-Orr e Jackson; cursos de Engenharia de Software em diversas universidades](https://docs.google.com/presentation/d/1MSZO-_HX5VCOEA0zgcv_g4yuh2HbSaUSS0bCGFDzcqg/view). [Testes de software, testes unitários, tdd e bdd](https://docs.google.com/presentation/d/1GBSbH87yCr2X9ODzQVkh0gsneE_lLMT9UFpS1hFwWdk/view). [Selenium](https://www.selenium.dev/). [Doxygen](https://www.doxygen.nl/index.html). [Gherkin](https://cucumber.io/docs/gherkin/).  |
-| 13 | 3/jun  | 3hs | Finalização do projeto: <br> 1. Montagem do banco de dados. <br> 2. Desenvolvimento de telas. <br> 3. Verificação da documentação completa. <br> |
+| 13 | 3/jun  | 3hs | Finalização do projeto: <br> 1. Montagem do banco de dados. <br> 2. Desenvolvimento de telas. <br> 3. Verificação da documentação completa. <br> 4. Apresentação de projetos dos alunos.<br>|
 | 14 | 10/jun | 3hs | **Avaliação 3**, Projeto + conteúdo das últimas aulas + artigos da seção 8. (referências bibliográficas complementares), Entrega de notas, revisão para PF. |
 
 
