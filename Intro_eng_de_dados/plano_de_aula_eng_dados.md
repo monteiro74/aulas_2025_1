@@ -123,7 +123,7 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 11  | 14/mai | 4hs | Vozviewer download [Link1](https://www-vosviewer-com.translate.goog/downloads/VOSviewer_1.6.20_exe.zip?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc). Vozviewer download [Link2](https://drive.google.com/file/d/1sZED1_hTHXAamjpu221HlAz0SAkLKzOh/view).  [Arquivos ris](https://docs.google.com/presentation/d/1ON0sWyQ2JrzuWpec7BhVmTxLnczK_W5I7jQX8GPUvHU/view). [openRefine](https://docs.google.com/presentation/d/1YlWZYtd4eMzxaIuIq9xDfHJSSinzb1S6P8mifvAJ3Zk/view).  [Qualidade de dados](https://docs.google.com/presentation/d/1Q5oXIOpB5gqav3tSHbwlCV53DiOJRsuMbXuZ5KjBPO0/view).  [Redes de dados bibliométricos](https://docs.google.com/presentation/d/11sX_AA0b7I1eiH3FfrwvZwG2qBQk9zPFHLRubAo22vE/view). [Ferramentas para bibliometria](https://www.pontodeensino.com/publicacoes/bibliometria).  |
 |   | 21/mai |  | **Semana de extensão.** |
 | 12  | 28/mai | 3hs | [Virtualização de dados](https://docs.google.com/presentation/d/1WIQbQIg2z5sSzL3W58aW6ZEgrbo5qUOkj7vMxnZDvPo/view), [Enriquecimento e análise de redes sociais](https://docs.google.com/presentation/d/1eZOFtQsumPVT1COoUQj4x7FMzDsCN3YtHYssijwPQqc/view), [Caso de ETL](https://docs.google.com/presentation/d/1KaU9kWDR8tZ2RAZ1KL8yt3_2gdcAOPgEYe5zCeMnhic/view). |
-| 13  | 04/jun | 3hs |  |
+| 13  | 04/jun | 3hs | [Streming de dados, Kafka, Spark, Atlas, Amundsen, Dark Data, Streamlit, LakeFS, Governança](https://docs.google.com/presentation/d/10rADGXsnawzny2KkGxVnggf0WUAsFUMhf8rvYM-PXzY/view). |
 | 14  | 11/jun | 3hs | **Avaliação 3**, conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares) entrega de notas, revisão para PF. |
 
 
