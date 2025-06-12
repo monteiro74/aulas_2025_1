@@ -26,6 +26,8 @@
   - [🎓 14.1. Playlist de Banco de Dados (15h)](#-141-playlist-de-banco-de-dados-15h)
   - [📄 14.2. Artigos Científicos Open Access sobre Banco de Dados](#-142-artigos-científicos-open-access-sobre-banco-de-dados)
 - [15. Bancos de dados da fundação Apache](#15-bancos-de-dados-da-fundação-apache)
+- [16. OLTP --\> OLAP](#16-oltp----olap)
+  - [16.1. Banco OLTP](#161-banco-oltp)
 
 
 
@@ -420,4 +422,172 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 | **Geode**      | Banco de dados em memória distribuído, baixa latência e processamento de dados em tempo real.                         |
 | **Jackrabbit** | Repositório de conteúdo (JCR), utilizado para armazenamento estruturado e hierárquico de documentos.                  |
 
+
+## 16. OLTP --> OLAP
+
+### 16.1. Banco OLTP
+
+```SQL
+
+---
+
+## 2. Comandos SQL `CREATE TABLE` para MySQL
+
+```sql
+CREATE TABLE cidades (
+    id_cidade INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    estado VARCHAR(2) NOT NULL
+);
+
+CREATE TABLE lojas (
+    id_loja INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    id_cidade INT NOT NULL,
+    FOREIGN KEY (id_cidade) REFERENCES cidades(id_cidade)
+);
+
+CREATE TABLE clientes (
+    id_cliente INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(100),
+    id_cidade INT NOT NULL,
+    FOREIGN KEY (id_cidade) REFERENCES cidades(id_cidade)
+);
+
+CREATE TABLE fornecedores (
+    id_fornecedor INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    id_cidade INT NOT NULL,
+    FOREIGN KEY (id_cidade) REFERENCES cidades(id_cidade)
+);
+
+CREATE TABLE categorias (
+    id_categoria INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE produtos (
+    id_produto INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    id_categoria INT NOT NULL,
+    id_fornecedor INT NOT NULL,
+    preco DECIMAL(10,2) NOT NULL,
+    estoque INT NOT NULL DEFAULT 0,
+    FOREIGN KEY (id_categoria) REFERENCES categorias(id_categoria),
+    FOREIGN KEY (id_fornecedor) REFERENCES fornecedores(id_fornecedor)
+);
+
+CREATE TABLE vendedores (
+    id_vendedor INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    id_loja INT NOT NULL,
+    FOREIGN KEY (id_loja) REFERENCES lojas(id_loja)
+);
+
+CREATE TABLE vendas (
+    id_venda INT PRIMARY KEY AUTO_INCREMENT,
+    data DATE NOT NULL,
+    valor_total DECIMAL(12,2) NOT NULL,
+    id_loja INT NOT NULL,
+    id_cliente INT NOT NULL,
+    id_vendedor INT NOT NULL,
+    FOREIGN KEY (id_loja) REFERENCES lojas(id_loja),
+    FOREIGN KEY (id_cliente) REFERENCES clientes(id_cliente),
+    FOREIGN KEY (id_vendedor) REFERENCES vendedores(id_vendedor)
+);
+
+CREATE TABLE itens_venda (
+    id_item INT PRIMARY KEY AUTO_INCREMENT,
+    id_venda INT NOT NULL,
+    id_produto INT NOT NULL,
+    quantidade INT NOT NULL,
+    preco_unitario DECIMAL(10,2) NOT NULL,
+    preco_total DECIMAL(12,2) NOT NULL,
+    FOREIGN KEY (id_venda) REFERENCES vendas(id_venda),
+    FOREIGN KEY (id_produto) REFERENCES produtos(id_produto)
+);
+
+```
+
+```mermaid
+erDiagram
+
+  VENDAS ||--|{ ITENS_VENDA : contém
+  VENDAS }|--|| LOJAS : ocorre_em
+  VENDAS }|--|| CLIENTES : realizado_por
+  VENDAS }|--|| VENDEDORES : atendido_por
+
+  ITENS_VENDA }|--|| PRODUTOS : refere_a
+  PRODUTOS }|--|| CATEGORIAS : pertence_a
+  PRODUTOS }|--|| FORNECEDORES : fornecido_por
+
+  LOJAS }|--|| CIDADES : localizada_em
+  CLIENTES }|--|| CIDADES : reside_em
+  FORNECEDORES }|--|| CIDADES : localizado_em
+
+  VENDAS {
+    int id_venda PK
+    date data
+    decimal valor_total
+    int id_loja FK
+    int id_cliente FK
+    int id_vendedor FK
+  }
+
+  ITENS_VENDA {
+    int id_item PK
+    int id_venda FK
+    int id_produto FK
+    int quantidade
+    decimal preco_unitario
+    decimal preco_total
+  }
+
+  PRODUTOS {
+    int id_produto PK
+    varchar nome
+    int id_categoria FK
+    int id_fornecedor FK
+    decimal preco
+    int estoque
+  }
+
+  CATEGORIAS {
+    int id_categoria PK
+    varchar nome
+  }
+
+  LOJAS {
+    int id_loja PK
+    varchar nome
+    int id_cidade FK
+  }
+
+  VENDEDORES {
+    int id_vendedor PK
+    varchar nome
+    int id_loja FK
+  }
+
+  CLIENTES {
+    int id_cliente PK
+    varchar nome
+    varchar email
+    int id_cidade FK
+  }
+
+  FORNECEDORES {
+    int id_fornecedor PK
+    varchar nome
+    int id_cidade FK
+  }
+
+  CIDADES {
+    int id_cidade PK
+    varchar nome
+    varchar estado
+  }
+
+```
 
