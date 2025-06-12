@@ -1,7 +1,5 @@
 
----
-
-## 2. Comandos SQL `CREATE TABLE` para MySQL
+--- Comandos SQL `CREATE TABLE` para MySQL
 
 ```sql
 CREATE TABLE cidades (
@@ -78,6 +76,8 @@ CREATE TABLE itens_venda (
     FOREIGN KEY (id_produto) REFERENCES produtos(id_produto)
 );
 
+
+--- Comandos SQL `INSERT` para popular tabelas
 
 INSERT INTO cidades (nome, estado) VALUES
 ('São Paulo', 'SP'),
