@@ -122,16 +122,15 @@ No dias de aula da disciplina. 30 minutos antes da aula (via agendamento prévio
 | 10  | 22/mai | 3hs | Revisão de modelagem de dados, finalização de [Blockchain](https://docs.google.com/presentation/d/1hs-bvkG2r99NErw3_0_OOuP0OMg4quwuHwy5ri8iNow/view). |
 | 11  | 29/mai | 3hs | <!-- +1h reprogramada referênte ao dia 27/02. --> [Multichain blockchain](https://docs.google.com/presentation/d/1FAnn5t2rphlXewBBUFbNuVSfp4y2B1wKYFmwBdOz6VY/view), [Exemplo de exercício com Multichain Blockchain](https://docs.google.com/presentation/d/1r5Ny9dH8XKeleMUWNuWjzPNlbVwuBQKjjkjITa_jqPY/view), [Bancos NoSQL](https://docs.google.com/presentation/d/19YZpn8Y07P2op-goaFZTeFUgn1WZ4wFGcaQ_393Dxl4/view), [Bancos distribuídos](https://docs.google.com/presentation/d/1kr5VIgCDO30gtL6sGo8M1Hme2cs9S1VrWCu7vGvbRfk/view). Extra... [Tutorial para uso da Multichain](https://www.multichain.com/getting-started/). |
 | 12  | 05/jun | 3hs | <!-- Banco vetorial, SQL Server Profiler.     --> [Side chain, private blockchain x public blockchain, SQL Server Ledger Table, Oracle Table, SQL Server Profiler](https://docs.google.com/presentation/d/1Lc1_R2P19VCIaXcVBvByyqNlneOCyteMgEqB8bxF1F0/view). |
-| 13  | 12/jun | 3hs | <!-- **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares), entrega de notas, revisão para PF. --> |
+| 13  | 12/jun | 3hs | <!-- **Avaliação 3**, Conteúdo das últimas aulas + artigos da seção 7. (referências bibliográficas complementares), entrega de notas, revisão para PF. --> Migração de um banco OLTP para OLAP. |
 | 14  | 26/jun | 3hs | **Avaliação 3** |
 
 
 ## :date: 5. Unidades de avaliações
 
-* Avaliação 1: 03/04/2025
-* Avaliação 2: 15/05/2025
-* Avaliação 3: 26/06/2025
-
+* Avaliação 1: 03/04/2025.
+* Avaliação 2: 15/05/2025.
+* Avaliação 3: 26/06/2025.
 
 ---
 ## :hammer_and_wrench: 6. Links para download de ferramentas
