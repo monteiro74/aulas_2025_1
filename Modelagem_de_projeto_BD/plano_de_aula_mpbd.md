@@ -28,6 +28,11 @@
 - [15. Bancos de dados da fundação Apache](#15-bancos-de-dados-da-fundação-apache)
 - [16. OLTP --\> OLAP](#16-oltp----olap)
   - [16.1. Banco OLTP](#161-banco-oltp)
+    - [16.1.1. Comandos SQL p/ OLTP](#1611-comandos-sql-p-oltp)
+    - [16.1.2. Diagrama ER OLTP](#1612-diagrama-er-oltp)
+  - [16.2. Banco OLAP --\> DW](#162-banco-olap----dw)
+  - [16.2.1. Diagram ER OLAP DW](#1621-diagram-er-olap-dw)
+  - [16.2.2. Fatos resumidas](#1622-fatos-resumidas)
 
 
 
@@ -427,11 +432,11 @@ Este curso tem 45 horas presenciais + 15 horas remotas, totalizando **60hs**.
 
 ### 16.1. Banco OLTP
 
+#### 16.1.1. Comandos SQL p/ OLTP
+
 ```SQL
 
----
-
-## 2. Comandos SQL `CREATE TABLE` para MySQL
+## Comandos SQL `CREATE TABLE` para MySQL
 
 ```sql
 CREATE TABLE cidades (
@@ -509,6 +514,8 @@ CREATE TABLE itens_venda (
 );
 
 ```
+
+#### 16.1.2. Diagrama ER OLTP
 
 ```mermaid
 erDiagram
@@ -588,6 +595,150 @@ erDiagram
     varchar nome
     varchar estado
   }
+
+```
+
+
+### 16.2. Banco OLAP --> DW
+
+### 16.2.1. Diagram ER OLAP DW
+
+```mermaid
+erDiagram
+
+    dw_dim_tempo ||--o{ dw_fato_vendas : "tempo"
+    dw_dim_cliente ||--o{ dw_fato_vendas : "cliente"
+    dw_dim_produto ||--o{ dw_fato_vendas : "produto"
+    dw_dim_categoria ||--o{ dw_fato_vendas : "categoria"
+    dw_dim_fornecedor ||--o{ dw_fato_vendas : "fornecedor"
+    dw_dim_loja ||--o{ dw_fato_vendas : "loja"
+    dw_dim_vendedor ||--o{ dw_fato_vendas : "vendedor"
+    dw_dim_cidade ||--o{ dw_fato_vendas : "cidade_loja"
+    dw_dim_cidade ||--o{ dw_fato_vendas : "cidade_cliente"
+    dw_dim_cidade ||--o{ dw_fato_vendas : "cidade_fornecedor"
+
+    dw_fato_vendas {
+        int id_fato PK
+        int id_tempo FK
+        int id_cliente FK
+        int id_produto FK
+        int id_categoria FK
+        int id_fornecedor FK
+        int id_loja FK
+        int id_vendedor FK
+        int id_cidade_loja FK
+        int id_cidade_cliente FK
+        int id_cidade_fornecedor FK
+        int quantidade
+        decimal preco_unitario
+        decimal preco_total
+    }
+
+    dw_dim_tempo {
+        int id_tempo PK
+        date data
+        int ano
+        int trimestre
+        int mes
+        int dia
+        varchar dia_semana
+    }
+
+    dw_dim_cliente {
+        int id_cliente PK
+        varchar nome
+        varchar email
+        int id_cidade
+    }
+
+    dw_dim_produto {
+        int id_produto PK
+        varchar nome
+        int id_categoria
+        int id_fornecedor
+        decimal preco
+    }
+
+    dw_dim_categoria {
+        int id_categoria PK
+        varchar nome
+    }
+
+    dw_dim_fornecedor {
+        int id_fornecedor PK
+        varchar nome
+        int id_cidade
+    }
+
+    dw_dim_loja {
+        int id_loja PK
+        varchar nome
+        int id_cidade
+    }
+
+    dw_dim_vendedor {
+        int id_vendedor PK
+        varchar nome
+        int id_loja
+    }
+
+    dw_dim_cidade {
+        int id_cidade PK
+        varchar nome
+        varchar estado
+    }
+
+```
+
+### 16.2.2. Fatos resumidas
+
+```mermaid
+erDiagram
+
+    dw_dim_tempo      ||--o{ dw_fato_vendas    : ""
+    dw_dim_cliente    ||--o{ dw_fato_vendas    : ""
+    dw_dim_produto    ||--o{ dw_fato_vendas    : ""
+    dw_dim_categoria  ||--o{ dw_fato_vendas    : ""
+    dw_dim_fornecedor ||--o{ dw_fato_vendas    : ""
+    dw_dim_loja       ||--o{ dw_fato_vendas    : ""
+    dw_dim_vendedor   ||--o{ dw_fato_vendas    : ""
+    dw_dim_cidade     ||--o{ dw_fato_vendas    : ""
+
+    dw_dim_tempo      ||--o{ dw_fato_venda_resumida    : ""
+    dw_dim_cliente    ||--o{ dw_fato_venda_resumida    : ""
+    dw_dim_loja       ||--o{ dw_fato_venda_resumida    : ""
+    dw_dim_vendedor   ||--o{ dw_fato_venda_resumida    : ""
+    dw_dim_cidade     ||--o{ dw_fato_venda_resumida    : ""
+
+    dw_fato_vendas {
+    }
+
+    dw_fato_venda_resumida {
+    }
+
+    dw_dim_tempo {
+    }
+
+    dw_dim_cliente {
+    }
+
+    dw_dim_produto {
+    }
+
+    dw_dim_categoria {
+    }
+
+    dw_dim_fornecedor {
+    }
+
+    dw_dim_loja {
+    }
+
+    dw_dim_vendedor {
+    }
+
+    dw_dim_cidade {
+    }
 
 ```
 
